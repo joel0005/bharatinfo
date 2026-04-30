@@ -1,0 +1,1868 @@
+{
+  "date": "2026-04-30",
+  "date_nice": "April 30, 2026",
+  "categories": [
+    {
+      "id": "ai",
+      "label": "World AI",
+      "emoji": "🤖",
+      "subs": [
+        {
+          "id": "ai_company",
+          "label": "Company News",
+          "emoji": "🏢",
+          "articles": [
+            {
+              "title": "On the stand, Elon Musk can’t escape his own tweets",
+              "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+              "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:36 +0000"
+            },
+            {
+              "title": "Meta is still burning money on AR/VR",
+              "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+              "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:26 +0000"
+            },
+            {
+              "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+              "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+              "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:55:23 +0000"
+            },
+            {
+              "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+              "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+              "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:02:23 +0000"
+            },
+            {
+              "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
+              "description": "Amazon Web Services on Tuesday launched one of the most consequential enterprise AI plays in the company&#x27;s 20-year history, simultaneously bringing OpenAI&#x27;s most powerful models to its Bedrock platform, unveili",
+              "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 21:14:06 GMT"
+            },
+            {
+              "title": "The retrieval rebuild: Why hybrid retrieval intent tripled as enterprise RAG programs hit the scale wall",
+              "description": "Something shifted in enterprise RAG in Q1 2026. VB Pulse data spanning January through March tells a consistent story: the market stopped adding retrieval layers and started fixing the ones it already has. Call it the re",
+              "url": "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/ybwxisfHBHUHs6laRHkAz/58a5c9b8a8f24f8a1f32340d6f29d9d8/RAG-rebuild-smk1.jpg?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 20:06:21 GMT"
+            },
+            {
+              "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
+              "description": "Bringing AI agents into the enterprise software development lifecycle is fast becoming the norm. As developers experiment with new platforms, organizations are exposed to potential security and orchestration failures. Sy",
+              "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2hnW8yXhIy2PrKn4j7xAho/678d5cc2eaf24d7e2ed66bfef2b3c823/crimedy7_illustration_of_a_robot_figuring_out_a_hiking_path_w_713cbac6-fb4f-4f40-bfec-d5f3e27ffaff_0.png?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 18:37:08 GMT"
+            },
+            {
+              "title": "AWS Quick's personal knowledge graph is making orchestration decisions most control planes can't see",
+              "description": "Enterprise AI teams running centralized orchestration stacks now have a new variable to account for: AWS Quick, which expanded this week to a desktop-native agent that builds a persistent personal knowledge graph and exe",
+              "url": "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3ot6lp8aTVJz5b5v6zugXe/33d45063cd6cee0ae4ce6d082be5c80b/crimedy7_illustration_of_ai_orchestration_abstract_--ar_169_-_cb6c24fb-7c3b-414f-a8d4-7733592d8d94_1.png?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 18:23:14 GMT"
+            },
+            {
+              "title": "FOMO is why enterprises pay for GPUs they don't use — and why prices keep climbing",
+              "description": "Enterprises can&#x27;t fix their GPU waste problem because the fix makes the problem worse. Releasing idle capacity would improve utilization, but the same shortage driving GPU prices up is exactly why no team will give",
+              "url": "https://venturebeat.com/infrastructure/fomo-is-why-enterprises-pay-for-gpus-they-dont-use-and-why-prices-keep-climbing",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1P9Mc1lz16h2p5BVDVY2uG/e940fde728e3853f20dde5ff7241c289/Will-Sovereign-AI-remake-data-centers_.jpg?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 15:12:50 GMT"
+            },
+            {
+              "title": "Definity embeds agents inside Spark pipelines to catch failures before they reach agentic AI systems",
+              "description": "For most data engineering teams, managing pipeline reliability often means waiting for an alert, manually tracing failures across distributed jobs and clusters, and fixing problems after they&#x27;ve already hit the busi",
+              "url": "https://venturebeat.com/data/definity-embeds-agents-inside-spark-pipelines-to-catch-failures-before-they-reach-agentic-ai-systems",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7K6f3zpy9RcYdWAM5fkQCr/83dab2430b2c38a0093e06fd0acd5173/data-pipeline-ai-SMK1.jpg?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 13:00:00 GMT"
+            }
+          ]
+        },
+        {
+          "id": "ai_tools",
+          "label": "Tools & Platforms",
+          "emoji": "🛠️",
+          "articles": [
+            {
+              "title": "On the stand, Elon Musk can’t escape his own tweets",
+              "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+              "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:36 +0000"
+            },
+            {
+              "title": "Meta is still burning money on AR/VR",
+              "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+              "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:26 +0000"
+            },
+            {
+              "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+              "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+              "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:55:23 +0000"
+            },
+            {
+              "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+              "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+              "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:02:23 +0000"
+            },
+            {
+              "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
+              "description": "Amazon Web Services on Tuesday launched one of the most consequential enterprise AI plays in the company&#x27;s 20-year history, simultaneously bringing OpenAI&#x27;s most powerful models to its Bedrock platform, unveili",
+              "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies",
+              "source": "feeds.feedburner.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 21:14:06 GMT"
+            },
+            {
+              "title": "The retrieval rebuild: Why hybrid retrieval intent tripled as enterprise RAG programs hit the scale wall",
+              "description": "Something shifted in enterprise RAG in Q1 2026. VB Pulse data spanning January through March tells a consistent story: the market stopped adding retrieval layers and started fixing the ones it already has. Call it the re",
+              "url": "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall",
+              "source": "feeds.feedburner.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/ybwxisfHBHUHs6laRHkAz/58a5c9b8a8f24f8a1f32340d6f29d9d8/RAG-rebuild-smk1.jpg?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 20:06:21 GMT"
+            },
+            {
+              "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
+              "description": "Bringing AI agents into the enterprise software development lifecycle is fast becoming the norm. As developers experiment with new platforms, organizations are exposed to potential security and orchestration failures. Sy",
+              "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
+              "source": "feeds.feedburner.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2hnW8yXhIy2PrKn4j7xAho/678d5cc2eaf24d7e2ed66bfef2b3c823/crimedy7_illustration_of_a_robot_figuring_out_a_hiking_path_w_713cbac6-fb4f-4f40-bfec-d5f3e27ffaff_0.png?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 18:37:08 GMT"
+            },
+            {
+              "title": "AWS Quick's personal knowledge graph is making orchestration decisions most control planes can't see",
+              "description": "Enterprise AI teams running centralized orchestration stacks now have a new variable to account for: AWS Quick, which expanded this week to a desktop-native agent that builds a persistent personal knowledge graph and exe",
+              "url": "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see",
+              "source": "feeds.feedburner.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3ot6lp8aTVJz5b5v6zugXe/33d45063cd6cee0ae4ce6d082be5c80b/crimedy7_illustration_of_ai_orchestration_abstract_--ar_169_-_cb6c24fb-7c3b-414f-a8d4-7733592d8d94_1.png?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 18:23:14 GMT"
+            },
+            {
+              "title": "FOMO is why enterprises pay for GPUs they don't use — and why prices keep climbing",
+              "description": "Enterprises can&#x27;t fix their GPU waste problem because the fix makes the problem worse. Releasing idle capacity would improve utilization, but the same shortage driving GPU prices up is exactly why no team will give",
+              "url": "https://venturebeat.com/infrastructure/fomo-is-why-enterprises-pay-for-gpus-they-dont-use-and-why-prices-keep-climbing",
+              "source": "feeds.feedburner.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1P9Mc1lz16h2p5BVDVY2uG/e940fde728e3853f20dde5ff7241c289/Will-Sovereign-AI-remake-data-centers_.jpg?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 15:12:50 GMT"
+            },
+            {
+              "title": "Definity embeds agents inside Spark pipelines to catch failures before they reach agentic AI systems",
+              "description": "For most data engineering teams, managing pipeline reliability often means waiting for an alert, manually tracing failures across distributed jobs and clusters, and fixing problems after they&#x27;ve already hit the busi",
+              "url": "https://venturebeat.com/data/definity-embeds-agents-inside-spark-pipelines-to-catch-failures-before-they-reach-agentic-ai-systems",
+              "source": "feeds.feedburner.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7K6f3zpy9RcYdWAM5fkQCr/83dab2430b2c38a0093e06fd0acd5173/data-pipeline-ai-SMK1.jpg?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 13:00:00 GMT"
+            }
+          ]
+        },
+        {
+          "id": "ai_models",
+          "label": "Models",
+          "emoji": "🧠",
+          "articles": [
+            {
+              "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+              "description": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+              "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:41:51 +0000"
+            },
+            {
+              "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
+              "description": "Amazon Web Services on Tuesday launched one of the most consequential enterprise AI plays in the company&#x27;s 20-year history, simultaneously bringing OpenAI&#x27;s most powerful models to its Bedrock platform, unveili",
+              "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 21:14:06 GMT"
+            },
+            {
+              "title": "Emergency First Responders Say Waymos Are Getting Worse",
+              "description": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
+              "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:45:37 +0000"
+            },
+            {
+              "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+              "description": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+              "url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:36:53 +0000"
+            },
+            {
+              "title": "The retrieval rebuild: Why hybrid retrieval intent tripled as enterprise RAG programs hit the scale wall",
+              "description": "Something shifted in enterprise RAG in Q1 2026. VB Pulse data spanning January through March tells a consistent story: the market stopped adding retrieval layers and started fixing the ones it already has. Call it the re",
+              "url": "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/ybwxisfHBHUHs6laRHkAz/58a5c9b8a8f24f8a1f32340d6f29d9d8/RAG-rebuild-smk1.jpg?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 20:06:21 GMT"
+            },
+            {
+              "title": "Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery",
+              "description": "Aleksandra Mendoza, aka Alorah Ziva, alleges that the 20-year-old influencer injected her with drugs on a livestream and had nonconsensual sex with her while she was underage.",
+              "url": "https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 19:20:24 +0000"
+            },
+            {
+              "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
+              "description": "Bringing AI agents into the enterprise software development lifecycle is fast becoming the norm. As developers experiment with new platforms, organizations are exposed to potential security and orchestration failures. Sy",
+              "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2hnW8yXhIy2PrKn4j7xAho/678d5cc2eaf24d7e2ed66bfef2b3c823/crimedy7_illustration_of_a_robot_figuring_out_a_hiking_path_w_713cbac6-fb4f-4f40-bfec-d5f3e27ffaff_0.png?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 18:37:08 GMT"
+            },
+            {
+              "title": "AWS Quick's personal knowledge graph is making orchestration decisions most control planes can't see",
+              "description": "Enterprise AI teams running centralized orchestration stacks now have a new variable to account for: AWS Quick, which expanded this week to a desktop-native agent that builds a persistent personal knowledge graph and exe",
+              "url": "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3ot6lp8aTVJz5b5v6zugXe/33d45063cd6cee0ae4ce6d082be5c80b/crimedy7_illustration_of_ai_orchestration_abstract_--ar_169_-_cb6c24fb-7c3b-414f-a8d4-7733592d8d94_1.png?w=300&q=30",
+              "publishedAt": "Wed, 29 Apr 2026 18:23:14 GMT"
+            },
+            {
+              "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+              "description": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
+              "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 17:23:52 +0000"
+            },
+            {
+              "title": "Motorola’s New Razr Folding Phones Command a Higher Price With Few Upgrades",
+              "description": "Say hello (Moto) to price hikes on all three of Motorola’s latest Razr flip phones.",
+              "url": "https://www.wired.com/story/motorola-razr-2026-folding-phones/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 16:00:00 +0000"
+            }
+          ]
+        },
+        {
+          "id": "ai_research",
+          "label": "Research",
+          "emoji": "🔬",
+          "articles": [
+            {
+              "title": "On the stand, Elon Musk can’t escape his own tweets",
+              "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+              "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:36 +0000"
+            },
+            {
+              "title": "Meta is still burning money on AR/VR",
+              "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+              "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:26 +0000"
+            },
+            {
+              "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+              "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+              "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:55:23 +0000"
+            },
+            {
+              "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+              "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+              "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:02:23 +0000"
+            },
+            {
+              "title": "The Download: storing nuclear waste and orchestrating agents",
+              "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoy",
+              "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+              "source": "technologyreview.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 12:10:00 +0000"
+            },
+            {
+              "title": "It’s time to make a plan for nuclear waste",
+              "description": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money an",
+              "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+              "source": "technologyreview.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 08:00:00 +0000"
+            },
+            {
+              "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+              "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon",
+              "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+              "source": "technologyreview.com",
+              "image": "",
+              "publishedAt": "Tue, 28 Apr 2026 12:10:00 +0000"
+            },
+            {
+              "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+              "description": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+              "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 03:58:22 +0000"
+            },
+            {
+              "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+              "description": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions.",
+              "url": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 01:00:00 +0000"
+            },
+            {
+              "title": "Amazon’s cloud business is surging — and so is its capital spending",
+              "description": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+              "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 00:14:23 +0000"
+            }
+          ]
+        },
+        {
+          "id": "ai_policy",
+          "label": "Policy & Ethics",
+          "emoji": "⚖️",
+          "articles": [
+            {
+              "title": "On the stand, Elon Musk can’t escape his own tweets",
+              "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+              "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:36 +0000"
+            },
+            {
+              "title": "Meta is still burning money on AR/VR",
+              "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+              "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:26 +0000"
+            },
+            {
+              "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+              "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+              "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:55:23 +0000"
+            },
+            {
+              "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+              "description": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+              "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:41:51 +0000"
+            },
+            {
+              "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+              "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+              "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:02:23 +0000"
+            },
+            {
+              "title": "Emergency First Responders Say Waymos Are Getting Worse",
+              "description": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
+              "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:45:37 +0000"
+            },
+            {
+              "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+              "description": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+              "url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:36:53 +0000"
+            },
+            {
+              "title": "Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery",
+              "description": "Aleksandra Mendoza, aka Alorah Ziva, alleges that the 20-year-old influencer injected her with drugs on a livestream and had nonconsensual sex with her while she was underage.",
+              "url": "https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 19:20:24 +0000"
+            },
+            {
+              "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+              "description": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
+              "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 17:23:52 +0000"
+            },
+            {
+              "title": "Motorola’s New Razr Folding Phones Command a Higher Price With Few Upgrades",
+              "description": "Say hello (Moto) to price hikes on all three of Motorola’s latest Razr flip phones.",
+              "url": "https://www.wired.com/story/motorola-razr-2026-folding-phones/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 16:00:00 +0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "corporate",
+      "label": "Corporate Business",
+      "emoji": "💼",
+      "subs": [
+        {
+          "id": "corp_india",
+          "label": "India Business",
+          "emoji": "🇮🇳",
+          "articles": [
+            {
+              "title": "The kelp producer who wants to get Americans eating seaweed",
+              "description": "Marine farmer Suzie Flores also hopes the crop can revitalise the US's small fishing towns.",
+              "url": "https://www.bbc.com/news/articles/cx21n6zzpqwo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:07 GMT"
+            },
+            {
+              "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+              "description": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
+              "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:04 GMT"
+            },
+            {
+              "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+              "description": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence.",
+              "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:01:26 GMT"
+            },
+            {
+              "title": "Markets overlooking macro stress, says Kunal Vora amid oil and currency shock",
+              "description": "Despite a calm surface, Indian equity markets face mounting macroeconomic pressures from rising crude oil prices and a weakening rupee. Experts warn that current market behavior suggests complacency, with potential earni",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-overlooking-macro-stress-says-kunal-vora-amid-oil-and-currency-shock/articleshow/130628326.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:10:25 +0530"
+            },
+            {
+              "title": "Infosys to scale up Vizag ops, to set up 7K-seater campus on 20 acre campus",
+              "description": "The state government on Thursday said that land has already been allotted for the project",
+              "url": "https://www.business-standard.com/companies/news/infosys-to-scale-up-vizag-ops-to-set-up-7k-seater-campus-on-20-acre-campus-126043000587_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 13:44:25 +0530"
+            },
+            {
+              "title": "Sebi approves change of control at RBL Bank in Emirates NBD stake deal",
+              "description": "Emirates NBD's proposal to buy a 60 per cent stake in RBL for $3 billion was announced in October 2025",
+              "url": "https://www.business-standard.com/companies/news/sebi-approves-change-of-control-at-rbl-bank-in-emirates-nbd-stake-deal-126043000541_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 13:31:52 +0530"
+            },
+            {
+              "title": "Spot crude premiums decline, cushioning OMC losses amid Brent rally",
+              "description": "Sharp decline in spot crude premiums offsets surge in Brent prices, offering partial relief to Indian oil marketing companies as global supply disruptions reshape pricing dynamics",
+              "url": "https://www.business-standard.com/industry/news/spot-crude-premiums-decline-cushioning-omc-losses-amid-brent-rally-126043000567_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 13:31:25 +0530"
+            },
+            {
+              "title": "Federal Bank to buy part of StanChart India's credit card portfolio",
+              "description": "UK-headquartered Standard Chartered Bank, as part of its retail business strategy, had earlier said it would not push standalone credit cards in India",
+              "url": "https://www.business-standard.com/companies/news/federal-bank-to-buy-stanchart-india-s-select-retail-credit-card-portfolio-126043000478_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 13:14:44 +0530"
+            },
+            {
+              "title": "Waaree Energies Q4FY26 result: Net profit jumps 75% to ₹1,126 crore",
+              "description": "The company had reported a net profit of ₹644.47 crore in the year ago period, the company said in an exchange filing on Wednesday",
+              "url": "https://www.business-standard.com/companies/quarterly-results/waaree-energies-q4fy26-result-net-profit-jumps-75-to-1-126-crore-126043000516_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 13:12:00 +0530"
+            },
+            {
+              "title": "Infosys to set up 20-acre campus in Vizag, capacity for 7,000 staff",
+              "description": "Over the last two years, Infosys' growth in the city has scaled in the port city from 250 employees to 1,900, with an additional 750 seats set to become operational in the near-term",
+              "url": "https://www.business-standard.com/companies/news/infosys-to-set-up-20-acre-campus-in-vizag-capacity-for-7-000-staff-126043000476_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 12:47:09 +0530"
+            }
+          ]
+        },
+        {
+          "id": "corp_global",
+          "label": "Global Business",
+          "emoji": "🌍",
+          "articles": [
+            {
+              "title": "The kelp producer who wants to get Americans eating seaweed",
+              "description": "Marine farmer Suzie Flores also hopes the crop can revitalise the US's small fishing towns.",
+              "url": "https://www.bbc.com/news/articles/cx21n6zzpqwo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:07 GMT"
+            },
+            {
+              "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+              "description": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
+              "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:04 GMT"
+            },
+            {
+              "title": "Google told staff it is ‘proud’ of Pentagon AI contract after internal backlash",
+              "description": "The tech giant signed an artificial intelligence deal with the defence department on Monday",
+              "url": "https://www.ft.com/content/e2f5f0a7-fa24-430f-b7f8-27b78041ea8a",
+              "source": "ft.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:21:09 GMT"
+            },
+            {
+              "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+              "description": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence.",
+              "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:01:26 GMT"
+            },
+            {
+              "title": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere",
+              "description": "Swedish startup Legora has raised more than $800 million in the past 12 months, and the latest deal values it at $5.6 billion.",
+              "url": "https://www.cnbc.com/2026/04/30/nvidia-backs-ai-legal-tech-legora.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 08:59:35 GMT"
+            },
+            {
+              "title": "Brent pares gains after hitting 4-year highs as report stokes worries of U.S. military action against Iran",
+              "description": "Brent crude surged to its highest levels since early 2022, before paring gains, as the Middle East conflict chokes supplies.",
+              "url": "https://www.cnbc.com/2026/04/30/oil-prices-today-brent-wti-us-iran-war-trump.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 08:45:44 GMT"
+            },
+            {
+              "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+              "description": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+              "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 08:44:09 GMT"
+            },
+            {
+              "title": "Oil surges past $125 as fears of prolonged supply disruption grow",
+              "description": "Brent crude sets new conflict high as blockade of Strait of Hormuz continues",
+              "url": "https://www.ft.com/content/ce575380-eccc-447c-a64e-493957d9b037",
+              "source": "ft.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 08:39:56 GMT"
+            },
+            {
+              "title": "Shares of Jeep maker Stellantis fall as much as 10% after first-quarter results",
+              "description": "The multinational conglomerate posted first-quarter adjusted operating income of 960 million euros ($1.12 billion), comfortably beating analyst expectations.",
+              "url": "https://www.cnbc.com/2026/04/30/stellantis-q1-earnings-jeep-autos.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 08:34:26 GMT"
+            },
+            {
+              "title": "Premier Inn owner to cut 3,800 jobs in savings plan",
+              "description": "Whitbread says it will also remodel its 197 hotel restaurants as part of a five-year savings plan.",
+              "url": "https://www.bbc.com/news/articles/c5ye5g9m7mpo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 08:34:24 GMT"
+            }
+          ]
+        },
+        {
+          "id": "corp_startup",
+          "label": "Startups & Funding",
+          "emoji": "🚀",
+          "articles": [
+            {
+              "title": "On the stand, Elon Musk can’t escape his own tweets",
+              "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+              "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:36 +0000"
+            },
+            {
+              "title": "Meta is still burning money on AR/VR",
+              "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+              "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:58:26 +0000"
+            },
+            {
+              "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+              "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+              "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:55:23 +0000"
+            },
+            {
+              "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+              "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+              "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:02:23 +0000"
+            },
+            {
+              "title": "IPO-Bound Kissht Nets ₹278 Cr From Anchor Investors",
+              "description": "Ahead of the commencement of the bidding for its public issue on April 30, lending tech startup Kissht’s parent OnEMI&#8230;",
+              "url": "https://inc42.com/buzz/ipo-bound-kissht-nets-%e2%82%b9278-cr-from-anchor-investors/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 15:45:02 +0000"
+            },
+            {
+              "title": "Novio raises Rs 100 Cr in Series A led by Cornerstone Ventures",
+              "description": "Fintech startup Novio will use this funding to scale its distribution network, product development and enhance AI capabilities.",
+              "url": "https://yourstory.com/2026/04/funding-novio-rs-100-crore-series-a-led-by-cornerstone-ventures",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 13:07:11 GMT"
+            },
+            {
+              "title": "Optimized Electrotech: India’s AI electro-optical systems",
+              "description": "Optimized Electrotech builds AI-powered electro-optical systems for defence, backed by Rs 100 crore and deployed with Indian forces.",
+              "url": "https://yourstory.com/2026/04/optimized-electrotech-ai-surveillance",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 12:27:56 GMT"
+            },
+            {
+              "title": "Startup news and updates: Daily roundup (April 29, 2026)",
+              "description": "YourStory presents the daily news roundup for Wednesday, April 29, 2026.",
+              "url": "https://yourstory.com/2026/04/startup-news-updates-daily-roundup-april-29-2026",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 12:12:49 GMT"
+            },
+            {
+              "title": "Building Bharat’s commerce backbone: The team behind Shiprocket’s rise",
+              "description": "From a broken logistics system to a full-stack commerce platform, how three founders and a leadership team are building the infrastructure that powers Bharat's ecommerce future.",
+              "url": "https://yourstory.com/2026/04/building-bharats-commerce-backbone-leadership-team-shiprocket",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 10:53:13 GMT"
+            },
+            {
+              "title": "From understanding AI to leading with it",
+              "description": "Most boardrooms have stopped debating whether AI matters. The harder question, and the one quietly stalling transformation across Indian enterprises, is what to actually do about it on Monday morning.",
+              "url": "https://yourstory.com/2026/04/understanding-ai-to-leading-with-it",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 07:21:32 GMT"
+            }
+          ]
+        },
+        {
+          "id": "corp_market",
+          "label": "Markets & Economy",
+          "emoji": "📈",
+          "articles": [
+            {
+              "title": "Defence, energy, data centres to lead India’s $800 billion capex wave: Morgan Stanley",
+              "description": "Morgan Stanley has raised its investment rate forecast to 37.5% of GDP by FY2030, up from 36.5% earlier. This translates into incremental cumulative investments of about $800 billion over the next five years, with nearly",
+              "url": "https://www.livemint.com/market/stock-market-news/defence-energy-data-centres-to-lead-india-s-800-billion-capex-wave-morgan-stanley-11777537445654.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/tanding-front-stock-market-chart_1774423248578_1774423248799_1777539287167.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:27:04 +0530"
+            },
+            {
+              "title": "Markets overlooking macro stress, says Kunal Vora amid oil and currency shock",
+              "description": "Despite a calm surface, Indian equity markets face mounting macroeconomic pressures from rising crude oil prices and a weakening rupee. Experts warn that current market behavior suggests complacency, with potential earni",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-overlooking-macro-stress-says-kunal-vora-amid-oil-and-currency-shock/articleshow/130628326.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628326,imgsize-29178.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:10:25 +0530"
+            },
+            {
+              "title": "Indiabulls share price hits 10% upper circuit despite stock market crash. Here's why",
+              "description": "Indiabulls shares surged 10% to  ₹19.70 after strong Q4FY26 results, reflecting investor confidence in its transition to a real estate-focused model. The company reported a 46.4% rise in profitability, with a PAT of  ₹19",
+              "url": "https://www.livemint.com/market/stock-market-news/indiabulls-share-price-hits-10-upper-circuit-despite-stock-market-crash-after-q4-results-2026-heres-why-11777536135853.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/indiabulls_share_1777536241562_1777536241672.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:02:29 +0530"
+            },
+            {
+              "title": "Adani Ports Q4 Results: Net profit grows 10% YoY to Rs 3,329 crore; revenue jumps 26%",
+              "description": "Adani Ports Q4 Results: The company reported a 10% increase in consolidated net profit to Rs 3,329 crore for the March-ended quarter, with revenue growing 26% year-on-year to Rs 10,737 crore. The company surpassed its FY",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q4-results-net-profit-grows-10-yoy-to-rs-3329-crore-revenue-surges-26/articleshow/130628125.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628125,imgsize-2106408.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:00:51 +0530"
+            },
+            {
+              "title": "IDBI Bank Q4 Results: Net profit falls 5.3% to  ₹1,943 crore; NII rises 17% YoY",
+              "description": "IDBI Bank Q4 Results: Net interest income (NII) in Q4FY26 increased 17% to  ₹3,851.5 crore from  ₹3,290 crore, year-on-year (YoY).",
+              "url": "https://www.livemint.com/market/stock-market-news/idbi-bank-q4-results-net-profit-falls-5-3-to-rs-1-943-crore-nii-rises-17-yoy-11777537697037.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/2-0-556409729-idbi3-0_1680275229111_1777538118170.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 13:59:48 +0530"
+            },
+            {
+              "title": "Omaxe to invest Rs 250 cr on new housing project in Lucknow",
+              "description": "Realty firm Omaxe Group will invest Rs 250 crore to develop a housing project in Lucknow, as part of its expansion plan.",
+              "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/omaxe-to-invest-rs-250-cr-on-new-housing-project-in-lucknow/articleshow/130627898.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627898,imgsize-18210.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:48:29 +0530"
+            },
+            {
+              "title": "Vedanta demerger done. Should investors buy or sell the stock now?",
+              "description": "Vedanta shares adjusted sharply post demerger, reflecting exclusion of four business units. While strong Q4 earnings and broker targets indicate upside, analysts remain divided. Some recommend waiting for price discovery",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-done-should-investors-buy-or-sell-the-stock-now/articleshow/130627872.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627872,imgsize-32914.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:46:16 +0530"
+            },
+            {
+              "title": "L&amp;T share price falls 2% after divesting 100% stake in L&amp;T Metro Rail (Hyderabad). Do you own?",
+              "description": "L&amp;amp;T share price has remained volatile in the near-term amid weak market sentiments. Here's all the divestment details, along with share price trend.",
+              "url": "https://www.livemint.com/market/stock-market-news/lt-share-price-falls-2-after-divesting-100-stake-in-l-t-metro-rail-hyderabad-do-you-own-11777533955963.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/LT_1777536537131_1777536537506.JPG",
+              "publishedAt": "Thu, 30 Apr 2026 13:43:58 +0530"
+            },
+            {
+              "title": "Kissht operator OnEMI Tech mobilises  ₹278 cr from anchor investors; IPO to open on April 30",
+              "description": "OnEMI Technology Solutions Ltd has raised  ₹278 crore from anchor investors for its IPO, set to open on April 30. Details here.",
+              "url": "https://www.livemint.com/market/ipo/kissht-operator-onemi-tech-mobilises-278-cr-from-anchor-investors-ipo-to-open-on-apr-30-11777536198643.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/3-0-109501714-iStock-510565657-0_1679846147174_1777536318340.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 13:36:36 +0530"
+            },
+            {
+              "title": "Crude at $120 poses multi-channel risk, but demand still resilient: Aurodeep Nandi",
+              "description": "Rising Brent crude prices and a weakening rupee are raising concerns for India's economy. Policy interventions, including controlled fuel prices and tax reductions, are currently buffering the immediate inflationary impa",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/crude-at-120-poses-multi-channel-risk-but-demand-still-resilient-aurodeep-nandi/articleshow/130627441.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627441,imgsize-25256.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:25:48 +0530"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "label": "Indian Politics",
+      "emoji": "🏛️",
+      "subs": [
+        {
+          "id": "pol_central",
+          "label": "Central Govt",
+          "emoji": "🏟️",
+          "articles": [
+            {
+              "title": "Supreme Court asks Allahabad HC panel to take action against bar leaders in Noida court for abstaining from work",
+              "description": "The apex court noted with concern that the Gautam Buddha Nagar Bar Association has continued to pass resolutions for abstaining from work, despite its judgment explicitly restraining district bar associations from doing",
+              "url": "https://www.thehindu.com/news/national/supreme-court-asks-allahabad-hc-panel-to-take-action-against-bar-leaders-in-noida-court-for-abstaining-from-work/article70923901.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/gh41gj/article70923929.ece/alternates/LANDSCAPE_1200/district_and_sessions_court_gautam_budh_nagar_cover.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:25:52 +0530"
+            },
+            {
+              "title": "Assembly election 2026 LIVE: 'Exit polls not important, LDF will return to power in Kerala,' says Minister Riyas",
+              "description": "Several exit polls have predicted UDF ahead in Kerala, NDA victory in Assam and Puducherry",
+              "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-30-2026/article70923124.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:25:20 +0530"
+            },
+            {
+              "title": "Women quota bill: SP MLAs stage protest against BJP in Uttar Pradesh Assembly premises",
+              "description": "The protest came ahead of the special one-day session of the Assembly during which the government is expected to move a censure motion against Opposition parties, holding them responsible for the failure to pass the Wome",
+              "url": "https://www.thehindu.com/news/national/uttar-pradesh/women-quota-bill-sp-mlas-stage-protest-against-bjp-in-uttar-pradesh-assembly-premises/article70923501.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/v37fa4/article70923559.ece/alternates/LANDSCAPE_1200/6607_30_4_2026_12_11_2_1_IMG_20260430_120247.JPG",
+              "publishedAt": "Thu, 30 Apr 2026 14:24:50 +0530"
+            },
+            {
+              "title": "Minor's pregnancy: Amend law on pregnancy termination of rape survivors, says Supreme Court",
+              "description": "The court said in its impassioned observations that this is a case of child rape and the survivor will have a lifelong scar and trauma, if termination is not allowed",
+              "url": "https://www.thehindu.com/news/national/minors-pregnancy-amend-law-on-pregnancy-termination-of-rape-survivors-says-supreme-court/article70923828.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/31a8k/article70923840.ece/alternates/LANDSCAPE_1200/SBI-moves-SupreG8RFSOCE9.4.jpg.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:21:57 +0530"
+            },
+            {
+              "title": "Bengaluru weather LIVE: Heavy rains and hailstorms throw life out of gear in city",
+              "description": "9 killed in city; seven dead in Bowring Hospital wall collapse, two people electrocuted in separate incidents",
+              "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-bangalore-rains-live-updates-april-30-2026-thursday/article70923159.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:18:24 +0530"
+            },
+            {
+              "title": "PM Modi wants to delay caste census; details of exercise still awaited: Congress",
+              "description": "“A full year has passed. The details of how this caste enumeration will be done are still awaited. There has been no dialogue with Opposition parties and state governments, let alone with experts in this subject,” Congre",
+              "url": "https://www.thehindu.com/news/national/pm-modi-wants-to-delay-caste-census-details-of-exercise-still-awaited-congress/article70923873.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/o12tkx/article70923900.ece/alternates/LANDSCAPE_1200/13_Jairam_Ramesh_03_04_Delhi.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:16:38 +0530"
+            },
+            {
+              "title": "Supreme Court reserves for verdict Pawan Khera’s plea for pre-arrest bail in Assam case",
+              "description": "The Telangana High Court had earlier granted Mr. Khera a seven-day transit anticipatory bail, but Assam Police moved the Supreme Court against it",
+              "url": "https://www.thehindu.com/news/national/supreme-court-reserves-order-on-congress-leader-pawan-kheras-plea-for-anticipatory-bail/article70923864.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/5ls0xz/article70683462.ece/alternates/LANDSCAPE_1200/PTI02_25_2026_000157B.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:15:44 +0530"
+            },
+            {
+              "title": "Bengaluru rains: Homes flooded in Jai Bheem Nagar, residents report repeated losses",
+              "description": "Residents, many of whom have been living in the area for over 45 years, said they face the same problem every time it rains.",
+              "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-rains-homes-flooded-in-jai-bheem-nagar-residents-report-repeated-losses/article70923754.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/karnataka/jw8x84/article70923898.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-30%20at%2011.58.55.jpeg",
+              "publishedAt": "Thu, 30 Apr 2026 14:14:39 +0530"
+            },
+            {
+              "title": "Himanta Sarma Like \"Constitutional Cowboy\": Pawan Khera's Bail Hearing",
+              "description": "",
+              "url": "https://www.ndtv.com/india-news/supreme-court-setback-again-for-pawan-khera-in-defamation-case-bail-plea-11429949#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/qasf955o_pawan-khera-on-x_625x300_24_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 13:32:26 +0530"
+            },
+            {
+              "title": "ICSE, ISC Result 2026 (OUT) LIVE: 99.18% Students Pass Class 10, 99.13% Pass Class 12, Check Scores Here",
+              "description": "ICSE, ISC Result 2026 LIVE Updates: CISCE Class 10, 12 Result out today, 11 am at cisce.org. Check direct link to download  your scorecard here.",
+              "url": "https://www.ndtv.com/education/icse-isc-result-2026-live-updates-cisce-class-10-12-result-at-cisce-org-download-scorecard-marksheet-direct-link-digilocker-direct-link-11428724#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/tvksc7t4_sd_625x300_19_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 13:28:58 +0530"
+            }
+          ]
+        },
+        {
+          "id": "pol_state",
+          "label": "State Politics",
+          "emoji": "🗺️",
+          "articles": [
+            {
+              "title": "Himanta Sarma Like \"Constitutional Cowboy\": Pawan Khera's Bail Hearing",
+              "description": "",
+              "url": "https://www.ndtv.com/india-news/supreme-court-setback-again-for-pawan-khera-in-defamation-case-bail-plea-11429949#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/qasf955o_pawan-khera-on-x_625x300_24_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 13:32:26 +0530"
+            },
+            {
+              "title": "ICSE, ISC Result 2026 (OUT) LIVE: 99.18% Students Pass Class 10, 99.13% Pass Class 12, Check Scores Here",
+              "description": "ICSE, ISC Result 2026 LIVE Updates: CISCE Class 10, 12 Result out today, 11 am at cisce.org. Check direct link to download  your scorecard here.",
+              "url": "https://www.ndtv.com/education/icse-isc-result-2026-live-updates-cisce-class-10-12-result-at-cisce-org-download-scorecard-marksheet-direct-link-digilocker-direct-link-11428724#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/tvksc7t4_sd_625x300_19_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 13:28:58 +0530"
+            },
+            {
+              "title": "India Stopped Op Sindoor On Its Term, Was Ready For Long War: Rajnath Singh",
+              "description": "Rajnath Singh said that India did not fall for the \"bluff\" of a nuclear attack.",
+              "url": "https://www.ndtv.com/india-news/india-stopped-operation-sindoor-on-its-term-was-ready-for-long-war-rajnath-singh-11429973#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/co8tfsmo_rajnath-singh_625x300_30_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 13:28:45 +0530"
+            },
+            {
+              "title": "Security Alert In Nagpur After Radioactive Threat At RSS Headquarters",
+              "description": "Nagpur, April 30 (IANS) A high-security alert has been sounded in Nagpur, Maharashtra, after an anonymous letter was sent to the Police Commissioner claiming that radioactive material has been dispersed at the Rashtriya",
+              "url": "https://www.ndtv.com/india-news/security-alert-in-nagpur-after-radioactive-threat-at-rss-headquarters-11428917#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/a6m9s9t4_rss-office-_625x300_30_April_26.jpeg",
+              "publishedAt": "Thu, 30 Apr 2026 13:25:56 +0530"
+            },
+            {
+              "title": "Opinion: Opinion | Can Saudi Arabia, Now Alone At The Top, Manage To Keep Oil Stable?",
+              "description": "With the UAE's exit, Saudi Arabia will remain the only swing producer with sufficient spare capacity to exert market influence and respond to supply shocks. This will constrain the grouping's leveraging power.",
+              "url": "https://www.ndtv.com/opinion/us-israel-iran-uae-opec-will-uaes-exit-trigger-more-walkouts-11429803#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2019-06/tfq4l00o_mohammed-bin-salman-reuters_625x300_20_June_19.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 12:52:38 +0530"
+            },
+            {
+              "title": "Ghaziabad High-Rise Fire: Who Pays After The Smoke Clears",
+              "description": "Ghaziabad Apartment Fire: Good insurance and clear understanding of responsibilities can save families from long-term hardship.",
+              "url": "https://www.ndtv.com/india-news/ghaziabad-apartment-fire-damage-coverage-safety-general-insurance-builder-government-relief-rwa-11429187#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/qls7sltg_ghaziabad-apartment-fire_625x300_30_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 12:46:23 +0530"
+            },
+            {
+              "title": "UGC NET June 2026 Notification OUT: Registration Begins From April 29, Check Direct Link Here",
+              "description": "UGC NET June 2026 notification released by NTA; registrations begin from April 29. Check important dates, application process, and exam schedule details here.",
+              "url": "https://www.ndtv.com/education/ugc-net-june-2026-notification-out-registration-begins-from-april-29-check-direct-link-here-11429750#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/u8ppqg78_ugc-net-notification-2026-out_625x300_30_April_26.jpeg",
+              "publishedAt": "Thu, 30 Apr 2026 12:43:39 +0530"
+            },
+            {
+              "title": "\"Change Your Law\": Supreme Court To Centre Over Teen Pregnancy Termination",
+              "description": "\"We respect individual choices, so should you\" Justice Joymalya Bagchi said, reprimanding the government for pressing a curative petition challenging the court's decision to allow a 15-year-old rape surivovr to terminate",
+              "url": "https://www.ndtv.com/india-news/respect-citizens-choice-supreme-court-raps-centre-over-termination-of-teens-pregnancy-11429439#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/jobam9h8_supreme-court-sabarimala-temple-hearing-religion-cannot-be-hollowed-out-for-reform_625x300_29_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 12:39:56 +0530"
+            },
+            {
+              "title": "Mob vandalises prayer hall over burial dispute in Bastar",
+              "description": "Clashes in Kanker village follow opposition to Christian burial rites; police personnel among those injured in mob fury",
+              "url": "https://www.thehindu.com/news/national/chhattisgarh/mob-vandalises-prayer-hall-over-burial-dispute-in-bastar/article70412766.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/im4icd/article70412944.ece/alternates/LANDSCAPE_1200/03_Bastar_Story.jpg",
+              "publishedAt": "Thu, 18 Dec 2025 22:34:48 +0530"
+            },
+            {
+              "title": "Headline numbers mask AGP’s steady slide despite 10 years in power",
+              "description": "BJP’s junior ally in Assam gets the same number of seats to contest as last time, but a granular analysis reveals slipping ground",
+              "url": "https://www.thehindu.com/elections/assam-assembly/headline-numbers-mask-agps-steady-slide-despite-10-years-in-power/article70777121.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/utn8oa/article70777115.ece/alternates/LANDSCAPE_1200/20260323550L.jpg",
+              "publishedAt": "Thu, 16 Apr 2026 15:09:22 +0530"
+            }
+          ]
+        },
+        {
+          "id": "pol_policy",
+          "label": "Policy & Law",
+          "emoji": "📜",
+          "articles": [
+            {
+              "title": "Supreme Court asks Allahabad HC panel to take action against bar leaders in Noida court for abstaining from work",
+              "description": "The apex court noted with concern that the Gautam Buddha Nagar Bar Association has continued to pass resolutions for abstaining from work, despite its judgment explicitly restraining district bar associations from doing",
+              "url": "https://www.thehindu.com/news/national/supreme-court-asks-allahabad-hc-panel-to-take-action-against-bar-leaders-in-noida-court-for-abstaining-from-work/article70923901.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/gh41gj/article70923929.ece/alternates/LANDSCAPE_1200/district_and_sessions_court_gautam_budh_nagar_cover.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:25:52 +0530"
+            },
+            {
+              "title": "Assembly election 2026 LIVE: 'Exit polls not important, LDF will return to power in Kerala,' says Minister Riyas",
+              "description": "Several exit polls have predicted UDF ahead in Kerala, NDA victory in Assam and Puducherry",
+              "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-30-2026/article70923124.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:25:20 +0530"
+            },
+            {
+              "title": "Women quota bill: SP MLAs stage protest against BJP in Uttar Pradesh Assembly premises",
+              "description": "The protest came ahead of the special one-day session of the Assembly during which the government is expected to move a censure motion against Opposition parties, holding them responsible for the failure to pass the Wome",
+              "url": "https://www.thehindu.com/news/national/uttar-pradesh/women-quota-bill-sp-mlas-stage-protest-against-bjp-in-uttar-pradesh-assembly-premises/article70923501.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/v37fa4/article70923559.ece/alternates/LANDSCAPE_1200/6607_30_4_2026_12_11_2_1_IMG_20260430_120247.JPG",
+              "publishedAt": "Thu, 30 Apr 2026 14:24:50 +0530"
+            },
+            {
+              "title": "Minor's pregnancy: Amend law on pregnancy termination of rape survivors, says Supreme Court",
+              "description": "The court said in its impassioned observations that this is a case of child rape and the survivor will have a lifelong scar and trauma, if termination is not allowed",
+              "url": "https://www.thehindu.com/news/national/minors-pregnancy-amend-law-on-pregnancy-termination-of-rape-survivors-says-supreme-court/article70923828.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/31a8k/article70923840.ece/alternates/LANDSCAPE_1200/SBI-moves-SupreG8RFSOCE9.4.jpg.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:21:57 +0530"
+            },
+            {
+              "title": "Bengaluru weather LIVE: Heavy rains and hailstorms throw life out of gear in city",
+              "description": "9 killed in city; seven dead in Bowring Hospital wall collapse, two people electrocuted in separate incidents",
+              "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-bangalore-rains-live-updates-april-30-2026-thursday/article70923159.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:18:24 +0530"
+            },
+            {
+              "title": "PM Modi wants to delay caste census; details of exercise still awaited: Congress",
+              "description": "“A full year has passed. The details of how this caste enumeration will be done are still awaited. There has been no dialogue with Opposition parties and state governments, let alone with experts in this subject,” Congre",
+              "url": "https://www.thehindu.com/news/national/pm-modi-wants-to-delay-caste-census-details-of-exercise-still-awaited-congress/article70923873.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/o12tkx/article70923900.ece/alternates/LANDSCAPE_1200/13_Jairam_Ramesh_03_04_Delhi.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:16:38 +0530"
+            },
+            {
+              "title": "Supreme Court reserves for verdict Pawan Khera’s plea for pre-arrest bail in Assam case",
+              "description": "The Telangana High Court had earlier granted Mr. Khera a seven-day transit anticipatory bail, but Assam Police moved the Supreme Court against it",
+              "url": "https://www.thehindu.com/news/national/supreme-court-reserves-order-on-congress-leader-pawan-kheras-plea-for-anticipatory-bail/article70923864.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/5ls0xz/article70683462.ece/alternates/LANDSCAPE_1200/PTI02_25_2026_000157B.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:15:44 +0530"
+            },
+            {
+              "title": "Bengaluru rains: Homes flooded in Jai Bheem Nagar, residents report repeated losses",
+              "description": "Residents, many of whom have been living in the area for over 45 years, said they face the same problem every time it rains.",
+              "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-rains-homes-flooded-in-jai-bheem-nagar-residents-report-repeated-losses/article70923754.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/karnataka/jw8x84/article70923898.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-30%20at%2011.58.55.jpeg",
+              "publishedAt": "Thu, 30 Apr 2026 14:14:39 +0530"
+            },
+            {
+              "title": "Axis My India Won't Release Bengal Exit Poll Data, Says Voters Staying Mum",
+              "description": "Some surveys forecast a victory for the Bharatiya Janata Party (BJP), while others suggest that the Trinamool Congress (TMC), led by Chief Minister Mamata Banerjee, will retain power.",
+              "url": "https://www.ndtv.com/india-news/2026-west-bengal-elections-bengal-exit-polls-bengal-voters-staying-mum-may-not-release-exit-poll-data-today-axis-my-india-founder-11428067#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/73f8kvdc_bengal-exit-polls-_625x300_30_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 14:03:46 +0530"
+            },
+            {
+              "title": "India-Turkey Cement Security Ties With Dawood Aide Salim Dola's Deportation",
+              "description": "Salim Dola, an alleged associate of Iqbal Mirchi and linked to networks of Dawood Ibrahim, had been on the radar of Indian agencies for years.",
+              "url": "https://www.ndtv.com/world-news/india-turkey-cement-security-ties-with-dawood-aide-salim-dolas-deportation-11429991#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/s1cb6ta8_salim-dola_625x300_28_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 13:38:20 +0530"
+            }
+          ]
+        },
+        {
+          "id": "pol_election",
+          "label": "Elections",
+          "emoji": "🗳️",
+          "articles": [
+            {
+              "title": "Ex-Kerala MLA P.V. Anvar vows to ‘shave head’ if defeated in Assembly polls",
+              "description": "UDF-backed Independent candidate P.V. Anvar says he will ‘shave his head, wear earrings and walk through the streets of Kozhikode’ if he loses the Assembly election in Beypore constituency; challenges LDF’s Mohamed Riyas",
+              "url": "https://www.thehindu.com/elections/kerala-assembly/ex-kerala-mla-pv-anvar-vows-to-shave-head-if-defeated-in-assembly-polls/article70923877.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/97jfoj/article70923882.ece/alternates/LANDSCAPE_1200/6678_17_10_2024_16_5_50_1_ANVAR_6.JPG",
+              "publishedAt": "Thu, 30 Apr 2026 14:10:31 +0530"
+            },
+            {
+              "title": "Assembly election 2026 LIVE: 'Exit polls not important, LDF will return to power in Kerala,' says Minister Riyas",
+              "description": "Several exit polls have predicted UDF ahead in Kerala, NDA victory in Assam and Puducherry",
+              "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-30-2026/article70923124.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:08:18 +0530"
+            },
+            {
+              "title": "Kerala Assembly polls: IUML ‘backs’ V.D. Satheesan as Congress-led UDF’s CM pick",
+              "description": "Indian Union Muslim League State president Panakkad Syed Sadikali Shihab Thangal says UDF will factor in ‘people’s sentiments’ while choosing its CM, noting that exit polls indicate V.D. Satheesan enjoys the highest supp",
+              "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-iuml-backs-vd-satheesan-as-congress-led-udfs-cm-pick/article70923781.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/wh3b0b/article70923856.ece/alternates/LANDSCAPE_1200/80692_17_11_2025_16_54_20_1_18TVKZPANAKKADSADIQUEALISHIHABTHANGAL.JPG",
+              "publishedAt": "Thu, 30 Apr 2026 13:55:00 +0530"
+            },
+            {
+              "title": "In pictures: West Bengal elections conclude with high voter turnout",
+              "description": "Inside the second phase of polling in West Bengal amid rain and violence.",
+              "url": "https://www.thehindu.com/elections/west-bengal-assembly/in-pictures-west-bengal-elections-conclude-with-high-voter-turnout/article70923474.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 13:34:20 +0530"
+            },
+            {
+              "title": "Himanta Sarma Like \"Constitutional Cowboy\": Pawan Khera's Bail Hearing",
+              "description": "",
+              "url": "https://www.ndtv.com/india-news/supreme-court-setback-again-for-pawan-khera-in-defamation-case-bail-plea-11429949#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/qasf955o_pawan-khera-on-x_625x300_24_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 13:32:26 +0530"
+            },
+            {
+              "title": "ICSE, ISC Result 2026 (OUT) LIVE: 99.18% Students Pass Class 10, 99.13% Pass Class 12, Check Scores Here",
+              "description": "ICSE, ISC Result 2026 LIVE Updates: CISCE Class 10, 12 Result out today, 11 am at cisce.org. Check direct link to download  your scorecard here.",
+              "url": "https://www.ndtv.com/education/icse-isc-result-2026-live-updates-cisce-class-10-12-result-at-cisce-org-download-scorecard-marksheet-direct-link-digilocker-direct-link-11428724#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/tvksc7t4_sd_625x300_19_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 13:28:58 +0530"
+            },
+            {
+              "title": "India Stopped Op Sindoor On Its Term, Was Ready For Long War: Rajnath Singh",
+              "description": "Rajnath Singh said that India did not fall for the \"bluff\" of a nuclear attack.",
+              "url": "https://www.ndtv.com/india-news/india-stopped-operation-sindoor-on-its-term-was-ready-for-long-war-rajnath-singh-11429973#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/co8tfsmo_rajnath-singh_625x300_30_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 13:28:45 +0530"
+            },
+            {
+              "title": "Security Alert In Nagpur After Radioactive Threat At RSS Headquarters",
+              "description": "Nagpur, April 30 (IANS) A high-security alert has been sounded in Nagpur, Maharashtra, after an anonymous letter was sent to the Police Commissioner claiming that radioactive material has been dispersed at the Rashtriya",
+              "url": "https://www.ndtv.com/india-news/security-alert-in-nagpur-after-radioactive-threat-at-rss-headquarters-11428917#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/a6m9s9t4_rss-office-_625x300_30_April_26.jpeg",
+              "publishedAt": "Thu, 30 Apr 2026 13:25:56 +0530"
+            },
+            {
+              "title": "Opinion: Opinion | Can Saudi Arabia, Now Alone At The Top, Manage To Keep Oil Stable?",
+              "description": "With the UAE's exit, Saudi Arabia will remain the only swing producer with sufficient spare capacity to exert market influence and respond to supply shocks. This will constrain the grouping's leveraging power.",
+              "url": "https://www.ndtv.com/opinion/us-israel-iran-uae-opec-will-uaes-exit-trigger-more-walkouts-11429803#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2019-06/tfq4l00o_mohammed-bin-salman-reuters_625x300_20_June_19.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Thu, 30 Apr 2026 12:52:38 +0530"
+            },
+            {
+              "title": "Kerala Assembly polls: LDF poised to retain power as exit polls confirm lack of anti-incumbency, claims M.V. Govindan",
+              "description": "CPI(M) State secretary says while some polling agencies predict a tight race, underlying findings of the surveys, specifically ‘absence of anti-incumbency and popularity of the Chief Minister’, indicate a definitive win",
+              "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-ldf-poised-to-retain-power-as-exit-polls-confirm-lack-of-anti-incumbency-claims-mv-govindan/article70923614.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/9b1bkp/article70923641.ece/alternates/LANDSCAPE_1200/80692_9_2_2026_12_24_38_1_10TVKZMVGOVINADN.JPG",
+              "publishedAt": "Thu, 30 Apr 2026 12:47:55 +0530"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instock",
+      "label": "Indian Stocks",
+      "emoji": "📊",
+      "subs": [
+        {
+          "id": "ins_movers",
+          "label": "Top Movers",
+          "emoji": "📈",
+          "articles": [
+            {
+              "title": "Bajaj Finance crosses  ₹5 trillion AUM – Cleaner growth ahead?",
+              "description": "Bajaj Finance continues to impress with over 20% growth in assets under management, crossing the  ₹5-trillion mark. With a 22% rise in net profit and easing credit costs, investors are optimistic about the future.",
+              "url": "https://www.livemint.com/market/mark-to-market/bajaj-finance-rs-5-trillion-aum-cleaner-growth-quality-of-growth-msmes-auto-portfolio-credit-costs-labour-code-impact-11777534728450.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/FD_salary_1701682485332_1777539296557.jpeg",
+              "publishedAt": "Thu, 30 Apr 2026 14:32:55 +0530"
+            },
+            {
+              "title": "Defence, energy, data centres to lead India’s $800 billion capex wave: Morgan Stanley",
+              "description": "Morgan Stanley has raised its investment rate forecast to 37.5% of GDP by FY2030, up from 36.5% earlier. This translates into incremental cumulative investments of about $800 billion over the next five years, with nearly",
+              "url": "https://www.livemint.com/market/stock-market-news/defence-energy-data-centres-to-lead-india-s-800-billion-capex-wave-morgan-stanley-11777537445654.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/tanding-front-stock-market-chart_1774423248578_1774423248799_1777539287167.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:27:04 +0530"
+            },
+            {
+              "title": "Indiabulls share price hits 10% upper circuit despite stock market crash. Here's why",
+              "description": "Indiabulls shares surged 10% to  ₹19.70 after strong Q4FY26 results, reflecting investor confidence in its transition to a real estate-focused model. The company reported a 46.4% rise in profitability, with a PAT of  ₹19",
+              "url": "https://www.livemint.com/market/stock-market-news/indiabulls-share-price-hits-10-upper-circuit-despite-stock-market-crash-after-q4-results-2026-heres-why-11777536135853.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/indiabulls_share_1777536241562_1777536241672.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:02:29 +0530"
+            },
+            {
+              "title": "Adani Ports Q4 Results: Net profit grows 10% YoY to Rs 3,329 crore; revenue jumps 26%",
+              "description": "Adani Ports Q4 Results: India's largest port operator posted revenue growth of 26% YoY to Rs 10,737 crore",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q4-results-net-profit-grows-10-yoy-to-rs-3329-crore-revenue-surges-26/articleshow/130628125.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628125,imgsize-2106408.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:00:51 +0530"
+            },
+            {
+              "title": "IDBI Bank Q4 Results: Net profit falls 5.3% to  ₹1,943 crore; NII rises 17% YoY",
+              "description": "IDBI Bank Q4 Results: Net interest income (NII) in Q4FY26 increased 17% to  ₹3,851.5 crore from  ₹3,290 crore, year-on-year (YoY).",
+              "url": "https://www.livemint.com/market/stock-market-news/idbi-bank-q4-results-net-profit-falls-5-3-to-rs-1-943-crore-nii-rises-17-yoy-11777537697037.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/2-0-556409729-idbi3-0_1680275229111_1777538118170.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 13:59:48 +0530"
+            },
+            {
+              "title": "Vedanta demerger done. Should investors buy or sell the stock now?",
+              "description": "Vedanta shares adjusted sharply post demerger, reflecting exclusion of four business units. While strong Q4 earnings and broker targets indicate upside, analysts remain divided. Some recommend waiting for price discovery",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-done-should-investors-buy-or-sell-the-stock-now/articleshow/130627872.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627872,imgsize-32914.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:46:16 +0530"
+            },
+            {
+              "title": "L&amp;T share price falls 2% after divesting 100% stake in L&amp;T Metro Rail (Hyderabad). Do you own?",
+              "description": "L&amp;amp;T share price has remained volatile in the near-term amid weak market sentiments. Here's all the divestment details, along with share price trend.",
+              "url": "https://www.livemint.com/market/stock-market-news/lt-share-price-falls-2-after-divesting-100-stake-in-l-t-metro-rail-hyderabad-do-you-own-11777533955963.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/LT_1777536537131_1777536537506.JPG",
+              "publishedAt": "Thu, 30 Apr 2026 13:43:58 +0530"
+            },
+            {
+              "title": "Kissht operator OnEMI Tech mobilises  ₹278 cr from anchor investors; IPO to open on April 30",
+              "description": "OnEMI Technology Solutions Ltd has raised  ₹278 crore from anchor investors for its IPO, set to open on April 30. Details here.",
+              "url": "https://www.livemint.com/market/ipo/kissht-operator-onemi-tech-mobilises-278-cr-from-anchor-investors-ipo-to-open-on-apr-30-11777536198643.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/3-0-109501714-iStock-510565657-0_1679846147174_1777536318340.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 13:36:36 +0530"
+            },
+            {
+              "title": "Up 110% in 3 months! Multibagger defence stock MTAR Technologies share price hits record high— What’s driving the surge?",
+              "description": "MTAR Technologies has secured orders exceeding  ₹380 crore for FY26 and FY27, showcasing solid near-term visibility. Its stock surged over 9%, marking a 348% increase from its 52-week low, driven by its pivotal role in c",
+              "url": "https://www.livemint.com/market/stock-market-news/up-110-in-3-months-multibagger-defence-stock-mtar-technologies-share-price-hits-record-high-what-s-driving-the-surge-11777533574426.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/mtar_technologies_share_price_1777534656505_1777534658693.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 13:08:09 +0530"
+            },
+            {
+              "title": "Market cap-to-GDP nears 2007 peak: expensive valuations, but not a bubble yet",
+              "description": "India’s market cap-to-GDP ratio is nearing its 2007–08 bull run peak, raising concerns of stretched valuations. However, experts downplay these fears",
+              "url": "https://www.livemint.com/market/stock-market-news/india-market-cap-gdp-ratio-2007-peak-valuations-bubble-sensex-nifty-11777522747595.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/calculation_2-istock_1777533785559_1777533803456.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 13:04:25 +0530"
+            }
+          ]
+        },
+        {
+          "id": "ins_ipo",
+          "label": "IPO News",
+          "emoji": "🆕",
+          "articles": [
+            {
+              "title": "IPO-Bound Kissht Nets ₹278 Cr From Anchor Investors",
+              "description": "Ahead of the commencement of the bidding for its public issue on April 30, lending tech startup Kissht’s parent OnEMI&#8230;",
+              "url": "https://inc42.com/buzz/ipo-bound-kissht-nets-%e2%82%b9278-cr-from-anchor-investors/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 15:45:02 +0000"
+            },
+            {
+              "title": "India BRICS Business summit aims to connect MSME sector globally",
+              "description": "The India BRICS Business Summit in Hyderabad boosted India's MSME sector. The BRICS Entrepreneurs Alliance (BEA) India aims for global MSME unification. The Hyderabad Declaration outlines growth strategies. India will ho",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/empowering-msmes-india-unveils-global-strategy-at-brics-business-summit/articleshow/130602305.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130602305,imgsize-94238.cms",
+              "publishedAt": "Wed, 29 Apr 2026 15:03:35 +0530"
+            },
+            {
+              "title": "Delhi High Court quashes Samir Modi's assault complaint against mother",
+              "description": "The Delhi High Court has dismissed a criminal complaint. Samir Modi withdrew his case against his mother, Bina Modi. This followed a settlement between them. The case involved an alleged assault on Samir Modi. He claimed",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/delhi-high-court-quashes-samir-modis-assault-complaint-against-mother/articleshow/130563819.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130563819,imgsize-43976.cms",
+              "publishedAt": "Tue, 28 Apr 2026 01:02:29 +0530"
+            },
+            {
+              "title": "SC pushes mediation in Sunjay Kapur family estate dispute",
+              "description": "The Supreme Court has urged Rani Kapur and Priya Kapur to resolve their dispute over the RK Family Trust through mediation. The court advised the 80-year-old Rani Kapur that prolonged litigation is unproductive. The trus",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/sc-pushes-mediation-in-sunjay-kapur-family-estate-dispute/articleshow/130563797.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130563797,imgsize-55856.cms",
+              "publishedAt": "Tue, 28 Apr 2026 01:00:19 +0530"
+            },
+            {
+              "title": "Tata Trusts may not recast trustee tenure amid ordinance",
+              "description": "Tata Trusts, citing legal advice, may not revise existing trustees’ tenures despite a Maharashtra ordinance capping perpetual trustees. Experts differ on whether the rule applies retrospectively.",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-trusts-may-not-recast-trustee-tenure-amid-ordinance/articleshow/130563629.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130563629,imgsize-53580.cms",
+              "publishedAt": "Tue, 28 Apr 2026 00:49:08 +0530"
+            },
+            {
+              "title": "Kissht IPO: Issue Subscribed 20% On Day 1 So Far",
+              "description": "Lending tech company Kissht’s parent OnEMI Technology Solutions’ IPO got off to a steady start on the first day of&#8230;",
+              "url": "https://inc42.com/buzz/kissht-ipo-issue-subscribed-20-on-day-1-so-far/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 08:49:12 +0000"
+            },
+            {
+              "title": "ICRA Downgrades Ola Electric’s Rating Amid Rising Competition, Declining Sales",
+              "description": "Credit rating agency ICRA has downgraded the rating of Ola Electric’s subsidiary Ola Electric Technologies Pvt Ltd rating due to&#8230;",
+              "url": "https://inc42.com/buzz/icra-downgrades-ola-electrics-rating-amid-rising-competition-declining-sales/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 08:17:56 +0000"
+            },
+            {
+              "title": "Another Exit At IPO-Bound Cars24 As Cofounder Mehul Agarwal Steps Down",
+              "description": "Amid a flurry of top level exits at Cars24, its cofounder and COO Mehul Agarwal has also stepped down from&#8230;",
+              "url": "https://inc42.com/buzz/another-exit-at-ipo-bound-cars24-as-cofounder-mehul-agarwal-steps-down/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 07:49:37 +0000"
+            },
+            {
+              "title": "Smartworks Posts ₹17 Cr Profit In Q4, Revenue Crosses ₹500 Cr Mark",
+              "description": "Coworking space provider Smartworks reported its second consecutive profitable quarter, posting a consolidated net profit of ₹16.6 Cr in Q4&#8230;",
+              "url": "https://inc42.com/buzz/smartworks-posts-%e2%82%b917-cr-profit-in-q4-revenue-crosses-%e2%82%b9500-cr-mark/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 06:57:14 +0000"
+            },
+            {
+              "title": "Credit Management Startup Oolka Bags $14 Mn In Accel-Led Series A Round",
+              "description": "Fintech startup Oolka has raised $14 Mn in its Series A funding round led by Accel, with participation from Lightspeed,&#8230;",
+              "url": "https://inc42.com/buzz/credit-management-startup-oolka-bags-14-mn-in-accel-led-series-a-round/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 06:40:58 +0000"
+            }
+          ]
+        },
+        {
+          "id": "ins_sectors",
+          "label": "Sector News",
+          "emoji": "🏭",
+          "articles": [
+            {
+              "title": "Acutaas Chemicals consolidated net profit rises 110.88% in the March 2026 quarter",
+              "description": "Sales rise 40.28% to Rs 432.75 crore",
+              "url": "https://www.business-standard.com/markets/capital-market-news/acutaas-chemicals-consolidated-net-profit-rises-110-88-in-the-march-2026-quarter-126043000635_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:16:18 +0530"
+            },
+            {
+              "title": "Newgen Software Technologies consolidated net profit declines 1.88% in the March 2026 quarter",
+              "description": "Sales rise 5.30% to Rs 452.67 crore",
+              "url": "https://www.business-standard.com/markets/capital-market-news/newgen-software-technologies-consolidated-net-profit-declines-1-88-in-the-march-2026-quarter-126043000634_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:16:10 +0530"
+            },
+            {
+              "title": "Shakti Pumps India secures solar pump order from MSEDCL",
+              "description": "Shakti Pumps India announced that it has received a Letter of Empanelment from Maharashtra State Electricity Distribution Company (MSEDCL) for the supply and installation of 6,580 off-grid solar photovoltaic water pumpin",
+              "url": "https://www.business-standard.com/markets/capital-market-news/shakti-pumps-india-secures-solar-pump-order-from-msedcl-126043000633_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:16:02 +0530"
+            },
+            {
+              "title": "HFCL hits 52-week high on Q4 profit turnaround, record order book in FY26",
+              "description": "HFCL share price gains 10.7 per cent, hitting a 52-week high at ₹118.76 per share on posting strong Q4 results",
+              "url": "https://www.business-standard.com/markets/news/hfcl-share-price-hits-52-week-high-on-q4-results-profit-turnaround-record-order-book-in-fy26-126043000606_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:04:11 +0530"
+            },
+            {
+              "title": "Newgen Software gains after Q4 PAT jumps 69% QoQ to Rs 106 cr",
+              "description": "Newgen Software Technologies rose 8.52% to Rs 521.55 after the company's consolidated net profit jumped 69.2% to Rs 106.30 crore on a 13.09% rise in revenue from operations to Rs 452.67 crore in Q4 FY26 over Q3 FY26.",
+              "url": "https://www.business-standard.com/markets/capital-market-news/newgen-software-gains-after-q4-pat-jumps-69-qoq-to-rs-106-cr-126043000617_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 14:04:02 +0530"
+            },
+            {
+              "title": "Adani Ports Q4 Results: Net profit grows 10% YoY to Rs 3,329 crore; revenue jumps 26%",
+              "description": "Adani Ports Q4 Results: India's largest port operator posted revenue growth of 26% YoY to Rs 10,737 crore",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q4-results-net-profit-grows-10-yoy-to-rs-3329-crore-revenue-surges-26/articleshow/130628125.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628125,imgsize-2106408.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:00:51 +0530"
+            },
+            {
+              "title": "Syngene International shares zoom 20% despite 19% fall in Q4 profit",
+              "description": "Today's rally in the counter came despite the company reporting a 19 per cent Y-o-Y decline in consolidated net profit to ₹147.9 crore in Q4FY26.",
+              "url": "https://www.business-standard.com/markets/news/syngene-international-shares-zoom-20-despite-19-fall-in-q4-profit-126043000603_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 13:59:23 +0530"
+            },
+            {
+              "title": "Schaeffler India records over 20% YoY growth in Q1 PAT",
+              "description": "Schaeffler India has reported 20.5% rise in net profit to Rs 319.7 crore in Q1 2026 from Rs 265.4 crore in Q1 2025.",
+              "url": "https://www.business-standard.com/markets/capital-market-news/schaeffler-india-records-over-20-yoy-growth-in-q1-pat-126043000594_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 13:50:22 +0530"
+            },
+            {
+              "title": "Nifty trades below 24,000 level; European mrkt decline",
+              "description": "At 13:30 ST, the barometer index, the S&P BSE Sensex dropped 628.19 points or 0.81% to 76,868.17. The Nifty 50 index plunged 204.50 points or 0.82% to 23,979.55.",
+              "url": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-000-level-european-mrkt-decline-126043000593_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 13:50:01 +0530"
+            },
+            {
+              "title": "Vedanta demerger done. Should investors buy or sell the stock now?",
+              "description": "Vedanta shares adjusted sharply post demerger, reflecting exclusion of four business units. While strong Q4 earnings and broker targets indicate upside, analysts remain divided. Some recommend waiting for price discovery",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-done-should-investors-buy-or-sell-the-stock-now/articleshow/130627872.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627872,imgsize-32914.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:46:16 +0530"
+            }
+          ]
+        },
+        {
+          "id": "ins_general",
+          "label": "Market News",
+          "emoji": "📰",
+          "articles": [
+            {
+              "title": "Bajaj Finance crosses  ₹5 trillion AUM – Cleaner growth ahead?",
+              "description": "Bajaj Finance continues to impress with over 20% growth in assets under management, crossing the  ₹5-trillion mark. With a 22% rise in net profit and easing credit costs, investors are optimistic about the future.",
+              "url": "https://www.livemint.com/market/mark-to-market/bajaj-finance-rs-5-trillion-aum-cleaner-growth-quality-of-growth-msmes-auto-portfolio-credit-costs-labour-code-impact-11777534728450.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/FD_salary_1701682485332_1777539296557.jpeg",
+              "publishedAt": "Thu, 30 Apr 2026 14:32:55 +0530"
+            },
+            {
+              "title": "Defence, energy, data centres to lead India’s $800 billion capex wave: Morgan Stanley",
+              "description": "Morgan Stanley has raised its investment rate forecast to 37.5% of GDP by FY2030, up from 36.5% earlier. This translates into incremental cumulative investments of about $800 billion over the next five years, with nearly",
+              "url": "https://www.livemint.com/market/stock-market-news/defence-energy-data-centres-to-lead-india-s-800-billion-capex-wave-morgan-stanley-11777537445654.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/tanding-front-stock-market-chart_1774423248578_1774423248799_1777539287167.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:27:04 +0530"
+            },
+            {
+              "title": "Markets overlooking macro stress, says Kunal Vora amid oil and currency shock",
+              "description": "Despite a calm surface, Indian equity markets face mounting macroeconomic pressures from rising crude oil prices and a weakening rupee. Experts warn that current market behavior suggests complacency, with potential earni",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-overlooking-macro-stress-says-kunal-vora-amid-oil-and-currency-shock/articleshow/130628326.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628326,imgsize-29178.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:10:25 +0530"
+            },
+            {
+              "title": "Indiabulls share price hits 10% upper circuit despite stock market crash. Here's why",
+              "description": "Indiabulls shares surged 10% to  ₹19.70 after strong Q4FY26 results, reflecting investor confidence in its transition to a real estate-focused model. The company reported a 46.4% rise in profitability, with a PAT of  ₹19",
+              "url": "https://www.livemint.com/market/stock-market-news/indiabulls-share-price-hits-10-upper-circuit-despite-stock-market-crash-after-q4-results-2026-heres-why-11777536135853.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/indiabulls_share_1777536241562_1777536241672.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 14:02:29 +0530"
+            },
+            {
+              "title": "Adani Ports Q4 Results: Net profit grows 10% YoY to Rs 3,329 crore; revenue jumps 26%",
+              "description": "Adani Ports Q4 Results: The company reported a 10% increase in consolidated net profit to Rs 3,329 crore for the March-ended quarter, with revenue growing 26% year-on-year to Rs 10,737 crore. The company surpassed its FY",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q4-results-net-profit-grows-10-yoy-to-rs-3329-crore-revenue-surges-26/articleshow/130628125.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628125,imgsize-2106408.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:00:51 +0530"
+            },
+            {
+              "title": "IDBI Bank Q4 Results: Net profit falls 5.3% to  ₹1,943 crore; NII rises 17% YoY",
+              "description": "IDBI Bank Q4 Results: Net interest income (NII) in Q4FY26 increased 17% to  ₹3,851.5 crore from  ₹3,290 crore, year-on-year (YoY).",
+              "url": "https://www.livemint.com/market/stock-market-news/idbi-bank-q4-results-net-profit-falls-5-3-to-rs-1-943-crore-nii-rises-17-yoy-11777537697037.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/2-0-556409729-idbi3-0_1680275229111_1777538118170.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 13:59:48 +0530"
+            },
+            {
+              "title": "Omaxe to invest Rs 250 cr on new housing project in Lucknow",
+              "description": "Realty firm Omaxe Group will invest Rs 250 crore to develop a housing project in Lucknow, as part of its expansion plan.",
+              "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/omaxe-to-invest-rs-250-cr-on-new-housing-project-in-lucknow/articleshow/130627898.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627898,imgsize-18210.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:48:29 +0530"
+            },
+            {
+              "title": "Vedanta demerger done. Should investors buy or sell the stock now?",
+              "description": "Vedanta shares adjusted sharply post demerger, reflecting exclusion of four business units. While strong Q4 earnings and broker targets indicate upside, analysts remain divided. Some recommend waiting for price discovery",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-done-should-investors-buy-or-sell-the-stock-now/articleshow/130627872.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627872,imgsize-32914.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:46:16 +0530"
+            },
+            {
+              "title": "L&amp;T share price falls 2% after divesting 100% stake in L&amp;T Metro Rail (Hyderabad). Do you own?",
+              "description": "L&amp;amp;T share price has remained volatile in the near-term amid weak market sentiments. Here's all the divestment details, along with share price trend.",
+              "url": "https://www.livemint.com/market/stock-market-news/lt-share-price-falls-2-after-divesting-100-stake-in-l-t-metro-rail-hyderabad-do-you-own-11777533955963.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/LT_1777536537131_1777536537506.JPG",
+              "publishedAt": "Thu, 30 Apr 2026 13:43:58 +0530"
+            },
+            {
+              "title": "Kissht operator OnEMI Tech mobilises  ₹278 cr from anchor investors; IPO to open on April 30",
+              "description": "OnEMI Technology Solutions Ltd has raised  ₹278 crore from anchor investors for its IPO, set to open on April 30. Details here.",
+              "url": "https://www.livemint.com/market/ipo/kissht-operator-onemi-tech-mobilises-278-cr-from-anchor-investors-ipo-to-open-on-apr-30-11777536198643.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/3-0-109501714-iStock-510565657-0_1679846147174_1777536318340.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 13:36:36 +0530"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worldstock",
+      "label": "World Stocks",
+      "emoji": "🌐",
+      "subs": [
+        {
+          "id": "ws_us",
+          "label": "US Markets",
+          "emoji": "🇺🇸",
+          "articles": [
+            {
+              "title": "The kelp producer who wants to get Americans eating seaweed",
+              "description": "Marine farmer Suzie Flores also hopes the crop can revitalise the US's small fishing towns.",
+              "url": "https://www.bbc.com/news/articles/cx21n6zzpqwo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:07 GMT"
+            },
+            {
+              "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+              "description": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
+              "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:04 GMT"
+            },
+            {
+              "title": "Stock investors fared very well under Powell. Bond investors, not so much",
+              "description": "Investors are starting to draw conclusions on what Powell's tenure has meant for Wall Street.",
+              "url": "https://www.cnbc.com/2026/04/29/stock-investors-fared-very-well-under-powell-bond-investors-not-so-much.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 21:22:01 GMT"
+            },
+            {
+              "title": "Shocking UAE exit rocks OPEC, but group will still hold significant sway over the oil market",
+              "description": "UAE leaving OPEC will have huge ramifications.",
+              "url": "https://www.cnbc.com/2026/04/29/shocking-uae-exit-rocks-opec-but-group-will-still-hold-significant-sway-over-the-oil-market.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:27:07 GMT"
+            },
+            {
+              "title": "Bill Ackman's Pershing Square USA fund falls sharply in public market debut",
+              "description": "The listing gives public investors their first direct stake in Ackman's investment platform, which runs a concentrated portfolio of 10 large-cap names.",
+              "url": "https://www.cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:07:10 GMT"
+            },
+            {
+              "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+              "description": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence.",
+              "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:01:26 GMT"
+            },
+            {
+              "title": "Traders brace for $800 billion in earnings-related stock movement",
+              "description": "Wenesday night is the main event for earnings season, with Alphabet, Amazon, Meta and Microsoft – four of the \"Magnificent Seven\" — set to report.",
+              "url": "https://www.cnbc.com/2026/04/29/traders-brace-for-800-billion-in-earnings-related-stock-movement.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 17:24:27 GMT"
+            },
+            {
+              "title": "A million-dollar gold bear emerges ahead of the Fed decision",
+              "description": "Someone sold upside call exposure in the SPDR Gold ETF (GLD) while simultaneously buying downside put exposure in a two-pronged trade.",
+              "url": "https://www.cnbc.com/2026/04/29/a-million-dollar-gold-bear-emerges-ahead-of-the-fed-decision.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 13:54:07 GMT"
+            },
+            {
+              "title": "Traders bet Nvidia's stock will return to record highs soon",
+              "description": "Shares of Nvidia fell a bit on Tuesday after a WSJ report raised questions about OpenAI growth targets and the whole AI complex.",
+              "url": "https://www.cnbc.com/2026/04/28/traders-bet-nvidias-stock-will-return-to-record-highs-soon.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Tue, 28 Apr 2026 19:16:18 GMT"
+            },
+            {
+              "title": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere",
+              "description": "Swedish startup Legora has raised more than $800 million in the past 12 months, and the latest deal values it at $5.6 billion.",
+              "url": "https://www.cnbc.com/2026/04/30/nvidia-backs-ai-legal-tech-legora.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 08:59:35 GMT"
+            }
+          ]
+        },
+        {
+          "id": "ws_asia",
+          "label": "Asia Markets",
+          "emoji": "🌏",
+          "articles": [
+            {
+              "title": "The kelp producer who wants to get Americans eating seaweed",
+              "description": "Marine farmer Suzie Flores also hopes the crop can revitalise the US's small fishing towns.",
+              "url": "https://www.bbc.com/news/articles/cx21n6zzpqwo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:07 GMT"
+            },
+            {
+              "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+              "description": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
+              "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:04 GMT"
+            },
+            {
+              "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+              "description": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence.",
+              "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:01:26 GMT"
+            },
+            {
+              "title": "Markets overlooking macro stress, says Kunal Vora amid oil and currency shock",
+              "description": "Despite a calm surface, Indian equity markets face mounting macroeconomic pressures from rising crude oil prices and a weakening rupee. Experts warn that current market behavior suggests complacency, with potential earni",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-overlooking-macro-stress-says-kunal-vora-amid-oil-and-currency-shock/articleshow/130628326.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628326,imgsize-29178.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:10:25 +0530"
+            },
+            {
+              "title": "Adani Ports Q4 Results: Net profit grows 10% YoY to Rs 3,329 crore; revenue jumps 26%",
+              "description": "Adani Ports Q4 Results: The company reported a 10% increase in consolidated net profit to Rs 3,329 crore for the March-ended quarter, with revenue growing 26% year-on-year to Rs 10,737 crore. The company surpassed its FY",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q4-results-net-profit-grows-10-yoy-to-rs-3329-crore-revenue-surges-26/articleshow/130628125.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628125,imgsize-2106408.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:00:51 +0530"
+            },
+            {
+              "title": "Omaxe to invest Rs 250 cr on new housing project in Lucknow",
+              "description": "Realty firm Omaxe Group will invest Rs 250 crore to develop a housing project in Lucknow, as part of its expansion plan.",
+              "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/omaxe-to-invest-rs-250-cr-on-new-housing-project-in-lucknow/articleshow/130627898.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627898,imgsize-18210.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:48:29 +0530"
+            },
+            {
+              "title": "Vedanta demerger done. Should investors buy or sell the stock now?",
+              "description": "Vedanta shares adjusted sharply post demerger, reflecting exclusion of four business units. While strong Q4 earnings and broker targets indicate upside, analysts remain divided. Some recommend waiting for price discovery",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-done-should-investors-buy-or-sell-the-stock-now/articleshow/130627872.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627872,imgsize-32914.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:46:16 +0530"
+            },
+            {
+              "title": "Crude at $120 poses multi-channel risk, but demand still resilient: Aurodeep Nandi",
+              "description": "Rising Brent crude prices and a weakening rupee are raising concerns for India's economy. Policy interventions, including controlled fuel prices and tax reductions, are currently buffering the immediate inflationary impa",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/crude-at-120-poses-multi-channel-risk-but-demand-still-resilient-aurodeep-nandi/articleshow/130627441.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627441,imgsize-25256.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:25:48 +0530"
+            },
+            {
+              "title": "Market remains stock-specific as earnings divergence widens across sectors: Dharmesh Kant",
+              "description": "Market expert Dharmesh Kant highlighted strong numbers for Bajaj Finance, though macro headwinds may impact near-term performance. He expressed a cautious stance on the IT sector, citing sluggish growth and weak discreti",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/market-remains-stock-specific-as-earnings-divergence-widens-across-sectors-dharmesh-kant/articleshow/130627024.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627024,imgsize-16886.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:05:59 +0530"
+            },
+            {
+              "title": "Multibaggers: 13 stocks surge up to 190% in a year, do you own any?",
+              "description": "Despite a falling Sensex, several BSE 500 stocks delivered multibagger returns up to 190%. Many saw increased FII interest, highlighting strong sectoral opportunities and selective wealth creation amid broader market und",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-13-stocks-surge-up-to-190-in-a-year-do-you-own-any/slideshow/130626910.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130626727,imgsize-3570.cms",
+              "publishedAt": "Thu, 30 Apr 2026 12:51:11 +0530"
+            }
+          ]
+        },
+        {
+          "id": "ws_commodity",
+          "label": "Commodities",
+          "emoji": "🛢️",
+          "articles": [
+            {
+              "title": "The kelp producer who wants to get Americans eating seaweed",
+              "description": "Marine farmer Suzie Flores also hopes the crop can revitalise the US's small fishing towns.",
+              "url": "https://www.bbc.com/news/articles/cx21n6zzpqwo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:07 GMT"
+            },
+            {
+              "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+              "description": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
+              "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 23:01:04 GMT"
+            },
+            {
+              "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+              "description": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence.",
+              "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Wed, 29 Apr 2026 20:01:26 GMT"
+            },
+            {
+              "title": "Bajaj Finserv Q4 Results: Cons PAT rises 5% YoY to Rs 2,539 crore, revenue rises 6%",
+              "description": "Bajaj Finserv Q4 Results: The company's revenue from operations in Q4FY26 stood at Rs 38,494 crore, up 6% from Rs 36,433 crore in the corresponding quarter of the previous financial year.",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finserv-q4-results-cons-pat-jumps-5-yoy-to-rs-2539-crore-revenue-rises-6/articleshow/130628575.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628575,imgsize-1890929.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:30:05 +0530"
+            },
+            {
+              "title": "Adani Ports Q4 Results: Net profit grows 10% YoY to Rs 3,329 crore; revenue jumps 26%",
+              "description": "Adani Ports Q4 Results: The company reported a 10% increase in consolidated net profit to Rs 3,329 crore for the March-ended quarter, with revenue growing 26% year-on-year to Rs 10,737 crore. The company surpassed its FY",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q4-results-net-profit-grows-10-yoy-to-rs-3329-crore-revenue-surges-26/articleshow/130628125.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130628125,imgsize-2106408.cms",
+              "publishedAt": "Thu, 30 Apr 2026 14:00:51 +0530"
+            },
+            {
+              "title": "Vedanta demerger done. Should investors buy or sell the stock now?",
+              "description": "Vedanta shares adjusted sharply post demerger, reflecting exclusion of four business units. While strong Q4 earnings and broker targets indicate upside, analysts remain divided. Some recommend waiting for price discovery",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-done-should-investors-buy-or-sell-the-stock-now/articleshow/130627872.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130627872,imgsize-32914.cms",
+              "publishedAt": "Thu, 30 Apr 2026 13:46:16 +0530"
+            },
+            {
+              "title": "Multibaggers: 13 stocks surge up to 190% in a year, do you own any?",
+              "description": "Despite a falling Sensex, several BSE 500 stocks delivered multibagger returns up to 190%. Many saw increased FII interest, highlighting strong sectoral opportunities and selective wealth creation amid broader market und",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-13-stocks-surge-up-to-190-in-a-year-do-you-own-any/slideshow/130626910.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130626727,imgsize-3570.cms",
+              "publishedAt": "Thu, 30 Apr 2026 12:51:11 +0530"
+            },
+            {
+              "title": "HUL shares drop over 4% despite Q4 topping Street estimates; profit jumps 21% YoY to Rs 2,464 crore",
+              "description": "Hindustan Unilever shares fell up to 4.4% despite a strong Q4, with net profit rising 21.4% YoY to Rs 2,992 crore. Revenue grew 7.6% to Rs 16,351 crore, while EBITDA rose 3.2% to Rs 3,877 crore, improving margins to 23.7",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-drop-over-4-despite-q4-topping-street-estimates-profit-jumps-21-yoy-to-rs-2464-crore/articleshow/130625778.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130625778,imgsize-20762.cms",
+              "publishedAt": "Thu, 30 Apr 2026 12:08:56 +0530"
+            },
+            {
+              "title": "Force Motors shares slip 6% as Q4 profit falls 36% YoY to Rs 279 crore",
+              "description": "Force Motors shares dropped 5.66% after reporting a 36% year-on-year decline in Q4FY26 net profit to Rs 278.5 crore, despite an 8.2% rise in revenue. Higher costs impacted profitability. However, full-year profit surged",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/force-motors-shares-slip-6-as-q4-profit-falls-36-yoy-to-rs-279-crore/articleshow/130625195.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130625195,imgsize-17640.cms",
+              "publishedAt": "Thu, 30 Apr 2026 11:47:32 +0530"
+            },
+            {
+              "title": "Bajaj Finserv Q4 Results Live Updates: Net profit rises 5% YoY to Rs 2,539 cr, revenue rises 6%; Board declares dividend of Rs 1.50 per share",
+              "description": "",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/adani-enterprises-q4-results-fy26-live-updates-adani-ports-share-price-dividend-bonus-share-gautam-adani-news/liveblog/130625124.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130625124,imgsize-96964.cms",
+              "publishedAt": "Thu, 30 Apr 2026 11:42:59 +0530"
+            }
+          ]
+        },
+        {
+          "id": "ws_crypto",
+          "label": "Crypto",
+          "emoji": "₿",
+          "articles": [
+            {
+              "title": "Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East",
+              "description": "Bitcoin dropped under $75,000 after FOMC minutes showed the US Federal Reserve holding interest rates and expressing slight concerns over inflation and the war in Iran.",
+              "url": "https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL3N0b3AlMjByZWd1bGF0aW9uJTIwYml0Y29pbi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
+              "publishedAt": "Wed, 29 Apr 2026 22:22:54 +0000"
+            },
+            {
+              "title": "Jack Mallers' Twenty One Capital surges after majority holder Tether proposes 3-way merger",
+              "description": "Tether has moved to combine bitcoin treasury, mining, and financial services under one roof.",
+              "url": "https://www.coindesk.com/markets/2026/04/29/jack-mallers-twenty-one-capital-surges-after-majority-holder-tether-proposes-3-way-merger",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/e19d147b8e74f849b254f6992db93a609c32d382-6720x4480.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Wed, 29 Apr 2026 22:12:53 +0000"
+            },
+            {
+              "title": "Big Tech's multi-billion dollar AI bets are still on track as Mag 7 giants report earnings",
+              "description": "The four Mag 7 giants reported quarterly results on Wednesday, showing that they are still on track to spend multi-billion on AI. Here is what it means for crypto.",
+              "url": "https://www.coindesk.com/markets/2026/04/29/big-tech-s-multi-billion-dollar-ai-bets-are-still-on-track-as-mag-7-giants-report-earnings",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a72fb22f10a7175780a35b5b8c07e675febdaa8-4056x2280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Wed, 29 Apr 2026 21:07:33 +0000"
+            },
+            {
+              "title": "Eric Trump says bitcoin in its 'greatest period ever' as Wall Street falls in line",
+              "description": "Speaking at Bitcoin Las Vegas 2026, the American Bitcoin co-founder declared the last six months a turning point.",
+              "url": "https://www.coindesk.com/markets/2026/04/29/eric-trump-says-bitcoin-in-its-greatest-period-ever-as-wall-street-falls-in-line",
+              "source": "feeds.feedburner.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/cff4cf020817889c01c829d5462b41e5c7576115-3998x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Wed, 29 Apr 2026 19:49:14 +0000"
+            },
+            {
+              "title": "XO Market bets on user-generated prediction markets to rival Polymarket and Kalshi",
+              "description": "Backed by 20VC, Picus Capital and Coinbase Ventures; XO lets users create and profit from their own prediction markets, and plans to rollout a new vault product to democratize market making.",
+              "url": "https://www.coindesk.com/business/2026/04/30/xo-market-bets-on-user-generated-prediction-markets-to-rival-polymarket-and-kalshi",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/e829cd7e064360275a0c66d994ee64c31e0c370a-6528x4896.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 30 Apr 2026 09:00:00 +0000"
+            },
+            {
+              "title": "Dogecoin zooms 10%, breaking away from bitcoin as open interest hits a yearly peak",
+              "description": "Open interest in DOGE-tracked futures climbed to 15.36 billion tokens, a sign that traders are adding fresh leverage as the memecoin’s price surges.",
+              "url": "https://www.coindesk.com/markets/2026/04/30/dogecoin-zooms-10-in-breakaway-from-bitcoin-as-open-interest-hits-year-high",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/314f5020354797282c2c4a4902e12966c1ed7f78-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 30 Apr 2026 07:50:52 +0000"
+            },
+            {
+              "title": "Trump-backed World Liberty Financial races toward 62 billion token unlock with near-unanimous vote",
+              "description": "Proposal introduces vesting for 40.7 billion insider tokens after 2-year cliff, even as voting power remains concentrated among a handful of large holders",
+              "url": "https://www.coindesk.com/markets/2026/04/30/wlfi-races-toward-62-billion-token-unlock-with-near-unanimous-vote",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/0b437d3834df2f3b3dde5ced6f1bd53689384626-3265x1837.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 30 Apr 2026 07:49:21 +0000"
+            },
+            {
+              "title": "Meta rolls out stablecoin payouts for creators in Philippines, Colombia",
+              "description": "The latest stablecoin move comes years after Meta first dipped its toes into stablecoins through Libra in 2019, before scrapping the plans in 2022 due to regulatory pushback.",
+              "url": "https://cointelegraph.com/news/meta-re-enters-stablecoin-market-rolls-out-usdc-payouts-for-select-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwVG9rZW4lMjBidXJuaW5nJTIwZXhwbGFpbmVkJTIwVVNEQy5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 07:05:02 +0000"
+            },
+            {
+              "title": "US Senator Tillis to push Senate Banking vote on stalled crypto bill",
+              "description": "Republican Senator Thom Tillis says the Senate’s version of the CLARITY Act has “made a lot of progress,” and it was time for lawmakers to vote on advancing the bill.",
+              "url": "https://cointelegraph.com/news/tillis-will-push-senate-banking-to-vote-on-stalled-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwQmxvY2tjaGFpbiUyMGFuZCUyMGVsZWN0aW9ucyUyMGNyeXB0bzMuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg",
+              "publishedAt": "Thu, 30 Apr 2026 07:04:05 +0000"
+            },
+            {
+              "title": "Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price",
+              "description": "Hawkish dissent within the Federal Reserve, elevated oil prices and rising long-term inflation expectations are pushing bond yields higher.",
+              "url": "https://www.coindesk.com/markets/2026/04/30/ouch-the-u-s-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/ef5792240e68641d8cb2648225031fd7638aafd0-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 30 Apr 2026 06:31:57 +0000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
