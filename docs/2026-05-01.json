@@ -187,28 +187,12 @@
           "emoji": "🧠",
           "articles": [
             {
-              "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
-              "description": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
-              "url": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 23:00:51 +0000"
-            },
-            {
               "title": "Alibaba's Metis agent cuts redundant AI tool calls from 98% to 2% — and gets more accurate doing it",
               "description": "One of the key challenges of building effective AI agents is teaching them to choose between using external tools or relying on their internal knowledge. But large language models are often trained to blindly invoke tool",
               "url": "https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it",
               "source": "venturebeat.com",
               "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5adrVJG12DsZYPv3bAT3Kk/786e22dcb26f295b11a3de9d91a97ac3/LLM_tool-use_abstention.jpg?w=300&q=30",
               "publishedAt": "Thu, 30 Apr 2026 20:51:26 GMT"
-            },
-            {
-              "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-              "description": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
-              "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 18:54:54 +0000"
             },
             {
               "title": "One tool call to rule them all? New open source Python tool Runpod Flash eliminates containers for faster AI dev",
@@ -219,38 +203,6 @@
               "publishedAt": "Thu, 30 Apr 2026 18:31:07 GMT"
             },
             {
-              "title": "MAGA Is Confused About ‘Animal Farm’",
-              "description": "The new film is the latest adaptation of George Orwell’s novel. Based on the critiques coming from right-wing influencers, it seems few of them fully grasp the book’s message.",
-              "url": "https://www.wired.com/story/maga-is-confused-about-animal-farm/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 18:19:28 +0000"
-            },
-            {
-              "title": "Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed",
-              "description": "Why the terms “smart bed,” \"adjustable mattress,\" and “adjustable frame” are not interchangeable, and how to avoid an expensive mistake.",
-              "url": "https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 17:42:52 +0000"
-            },
-            {
-              "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-              "description": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-              "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 17:41:14 +0000"
-            },
-            {
-              "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
-              "description": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
-              "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 17:30:39 +0000"
-            },
-            {
               "title": "Why OpenAI's 'goblin' problem matters — and how you can release the goblins on your own",
               "description": "AI is more than a technology — it&#x27;s magic.Don&#x27;t believe me? Why, then, is one of the leading companies in the space, OpenAI, publishing entire official, corporate blog posts about goblins?To understand, we firs",
               "url": "https://venturebeat.com/technology/why-openais-goblin-problem-matters-and-how-you-can-release-the-goblins-on-your-own",
@@ -259,12 +211,60 @@
               "publishedAt": "Thu, 30 Apr 2026 17:11:00 GMT"
             },
             {
-              "title": "Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System",
-              "description": "At WIRED Health, immunologist Daniel Davis detailed the ways in which new technologies are enabling a better understanding of the human immune system.",
-              "url": "https://www.wired.com/story/daniel-davis-immunology-wired-health/",
+              "title": "Claude Code, Copilot and Codex all got hacked. Every attacker went for the credential, not the model.",
+              "description": "On March 30, BeyondTrust proved that a crafted GitHub branch name could steal Codex’s OAuth token in cleartext. OpenAI classified it Critical P1. Two days later, Anthropic’s Claude Code source code spilled onto the publi",
+              "url": "https://venturebeat.com/security/six-exploits-broke-ai-coding-agents-iam-never-saw-them",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2KikESFD5r42LAO66sAKSK/0505660b31c83a54c4701cfcd1cc6ff1/Six_exploits_broke_Claude_Code__Copilot__Codex__and_Vertex_AI_Your_IAM_never_saw_them_coming.png?w=300&q=30",
+              "publishedAt": "Thu, 30 Apr 2026 16:30:01 GMT"
+            },
+            {
+              "title": "Writer launches AI agents that can act without prompts, taking on Amazon, Microsoft and Salesforce",
+              "description": "Writer, the enterprise AI agent platform backed by Salesforce Ventures, Adobe Ventures, and Insight Partners, today launched event-based triggers for its Writer Agent platform, enabling AI agents to autonomously detect b",
+              "url": "https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2A4wsP5BX8u0ZylzUEOncb/d97852834fdd610f61a1f5d79609d4ea/nuneybits_Vector_art_of_robot_secretary_typing_on_glowing_typew_bdb6fb50-e1f2-4f80-a241-560e6d906a91.webp?w=300&q=30",
+              "publishedAt": "Thu, 30 Apr 2026 16:00:00 GMT"
+            },
+            {
+              "title": "Netomi raises $110 million as Accenture and Adobe bet on AI for customer service",
+              "description": "Netomi, the San Francisco-based startup building AI systems for enterprise customer service, said Thursday that it has raised $110 million in new funding in a round led by Accenture Ventures, with participation from Adob",
+              "url": "https://venturebeat.com/technology/netomi-raises-110-million-as-accenture-and-adobe-bet-on-ai-for-customer-service",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/17Z7TzwDGYPOr36mKN8hXV/14fcfd667d19fd9d96b2de2371783baa/nuneybits_Vector_art_of_a_customer_service_headset_dissolving_i_1435a88a-3615-4579-bf8d-fa3f812f8e62.webp?w=300&q=30",
+              "publishedAt": "Thu, 30 Apr 2026 11:00:00 GMT"
+            },
+            {
+              "title": "Cheaper tokens, bigger bills: The new math of AI infrastructure",
+              "description": "Presented by NutanixAs enterprises move from AI experimentation into production deployment, the primary cost driver has shifted away from foundation model training and toward the infrastructure required to run thousands",
+              "url": "https://venturebeat.com/orchestration/cheaper-tokens-bigger-bills-the-new-math-of-ai-infrastructure",
+              "source": "venturebeat.com",
+              "image": "https://images.ctfassets.net/jdtwqhzvc2n1/U02VhIOaH7jJ7gn8gEdOq/4bb08d642fef028262704fee7df988a2/AdobeStock_605387881.jpeg?w=300&q=30",
+              "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT"
+            },
+            {
+              "title": "This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?",
+              "description": "YouTube’s search and recommendation algorithms are driving children to Russian-language content even when they seek out videos in Kyrgyz, creating a cultural shift that concerns some parents.",
+              "url": "https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/",
               "source": "wired.com",
               "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 16:32:14 +0000"
+              "publishedAt": "Fri, 01 May 2026 09:00:00 +0000"
+            },
+            {
+              "title": "Top Google Workspace Promo Codes for May",
+              "description": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+              "url": "https://www.wired.com/story/google-workspace-promo-code/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Fri, 01 May 2026 05:00:00 +0000"
+            },
+            {
+              "title": "Booking.com Promo Codes: Up to 20% Off",
+              "description": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+              "url": "https://www.wired.com/story/booking-com-promo-code/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Fri, 01 May 2026 05:00:00 +0000"
             }
           ]
         },
@@ -385,14 +385,6 @@
               "publishedAt": "Thu, 30 Apr 2026 23:07:56 +0000"
             },
             {
-              "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
-              "description": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
-              "url": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 23:00:51 +0000"
-            },
-            {
               "title": "Apple was surprised by AI-driven demand for Macs",
               "description": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
               "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
@@ -425,20 +417,28 @@
               "publishedAt": "Thu, 30 Apr 2026 19:36:53 +0000"
             },
             {
-              "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-              "description": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
-              "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+              "title": "This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?",
+              "description": "YouTube’s search and recommendation algorithms are driving children to Russian-language content even when they seek out videos in Kyrgyz, creating a cultural shift that concerns some parents.",
+              "url": "https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/",
               "source": "wired.com",
               "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 18:54:54 +0000"
+              "publishedAt": "Fri, 01 May 2026 09:00:00 +0000"
             },
             {
-              "title": "MAGA Is Confused About ‘Animal Farm’",
-              "description": "The new film is the latest adaptation of George Orwell’s novel. Based on the critiques coming from right-wing influencers, it seems few of them fully grasp the book’s message.",
-              "url": "https://www.wired.com/story/maga-is-confused-about-animal-farm/",
+              "title": "Top Google Workspace Promo Codes for May",
+              "description": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+              "url": "https://www.wired.com/story/google-workspace-promo-code/",
               "source": "wired.com",
               "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 18:19:28 +0000"
+              "publishedAt": "Fri, 01 May 2026 05:00:00 +0000"
+            },
+            {
+              "title": "Booking.com Promo Codes: Up to 20% Off",
+              "description": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+              "url": "https://www.wired.com/story/booking-com-promo-code/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Fri, 01 May 2026 05:00:00 +0000"
             }
           ]
         }
@@ -463,14 +463,6 @@
               "publishedAt": "Thu, 30 Apr 2026 23:11:37 GMT"
             },
             {
-              "title": "Fertiliser boss says war puts 10 billion meals a week at risk",
-              "description": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-              "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 23:08:09 GMT"
-            },
-            {
               "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
               "description": "The number of county court judgements rose by 17.5% in the first quarter of this year compared to last, data suggests.",
               "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
@@ -485,14 +477,6 @@
               "source": "feeds.bbci.co.uk",
               "image": "",
               "publishedAt": "Thu, 30 Apr 2026 23:04:43 GMT"
-            },
-            {
-              "title": "Trump to remove whisky tariffs after King's visit",
-              "description": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
-              "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 21:45:57 GMT"
             },
             {
               "title": "What the Renters' Rights Act means for tenants and landlords",
@@ -519,20 +503,36 @@
               "publishedAt": "Fri, 17 Apr 2026 23:50:39 +0530"
             },
             {
-              "title": "Oil rises over $1 with no sign of Iran conflict ending",
-              "description": "Oil prices climbed Friday as Iran conflict resolution efforts stalled, with Tehran blocking the Strait of Hormuz and the U.S. Navy restricting Iranian crude exports. Brent crude futures rose to $111.59 a barrel, and WTI",
-              "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-over-1-with-no-sign-of-iran-conflict-ending/articleshow/130664341.cms",
+              "title": "PPFAS Mutual Fund among 15 AMCs to offer voluntary lock-in for folios. Here is how Sebi’s rule works",
+              "description": "Mutual fund investors can now temporarily block withdrawals and debits from their folios, with 15 AMCs, including PPFAS Mutual Fund, rolling out a voluntary lock-in facility. This Sebi-introduced framework offers enhance",
+              "url": "https://economictimes.indiatimes.com/mf/mf-news/ppfas-mutual-fund-among-15-amcs-to-offer-voluntary-lock-in-for-folios-here-is-how-sebis-rule-works/articleshow/130672021.cms",
               "source": "economictimes.indiatimes.com",
               "image": "",
-              "publishedAt": "Fri, 01 May 2026 07:37:09 +0530"
+              "publishedAt": "Fri, 01 May 2026 12:15:15 +0530"
             },
             {
-              "title": "Gold heads for weekly loss amid oil-driven inflation concerns",
-              "description": "Gold prices held steady Friday, but a weekly dip was likely as soaring oil prices fueled inflation concerns, impacting interest rate expectations.  Meanwhile, geopolitical tensions in the Strait of Hormuz and a significa",
-              "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-weekly-loss-amid-oil-driven-inflation-concerns/articleshow/130663776.cms",
+              "title": "Square Yards reports Rs 2,086 crore revenue in FY26, growth of 48% year-over-year",
+              "description": "Real estate firm Square Yards has announced impressive financial results for FY26, with revenue soaring to Rs 2,086 crore, marking a 48% year-over-year increase. The company's EBITDA saw a significant jump of 3.7 times,",
+              "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/square-yards-reports-rs-2086-crore-revenue-in-fy26-growth-of-48-year-over-year/articleshow/130671971.cms",
               "source": "economictimes.indiatimes.com",
               "image": "",
-              "publishedAt": "Fri, 01 May 2026 07:19:10 +0530"
+              "publishedAt": "Fri, 01 May 2026 12:10:50 +0530"
+            },
+            {
+              "title": "​9 high-growth smallcap stocks surged up to 170%; 4 became multibaggers",
+              "description": "BSE small-cap earnings showed strong momentum, with select companies delivering over 50% profit growth and sharp stock gains. A few standout performers combined earnings acceleration with multibagger returns, highlightin",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/9-high-growth-small-cap-stocks-surged-up-to-170-4-became-multibaggers/slideshow/130671853.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "",
+              "publishedAt": "Fri, 01 May 2026 11:51:20 +0530"
+            },
+            {
+              "title": "Looking for best equity MFs to invest for 3 years? Check these 6 funds with over 27% returns",
+              "description": "",
+              "url": "https://economictimes.indiatimes.com/mf/analysis/looking-for-best-equity-mfs-to-invest-for-3-years-check-these-6-funds-with-over-27-returns/slideshow/130671627.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "",
+              "publishedAt": "Fri, 01 May 2026 11:44:42 +0530"
             }
           ]
         },
@@ -556,14 +556,6 @@
               "source": "feeds.bbci.co.uk",
               "image": "",
               "publishedAt": "Thu, 30 Apr 2026 23:11:37 GMT"
-            },
-            {
-              "title": "Fertiliser boss says war puts 10 billion meals a week at risk",
-              "description": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-              "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 23:08:09 GMT"
             },
             {
               "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
@@ -590,12 +582,20 @@
               "publishedAt": "Thu, 30 Apr 2026 23:04:43 GMT"
             },
             {
-              "title": "Trump to remove whisky tariffs after King's visit",
-              "description": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
-              "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
+              "title": "Trump signs executive order expanding retirement account access for workers",
+              "description": "The president's executive order expands retirement account access for workers and will be integrated with the Saver's Match.",
+              "url": "https://www.cnbc.com/2026/04/30/trump-executive-order-expanding-retirement-account-access.html",
+              "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 21:45:57 GMT"
+              "publishedAt": "Thu, 30 Apr 2026 22:20:45 GMT"
+            },
+            {
+              "title": "Jim Cramer says the market’s biggest winners all have one thing in common",
+              "description": "CNBC's Jim Cramer said he only sees two sectors in the market these days — the data center stocks and everything else.",
+              "url": "https://www.cnbc.com/2026/04/30/jim-cramer-markets-biggest-winners.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 22:16:50 GMT"
             },
             {
               "title": "Trump signs DHS funding bill, ending shutdown for most of agency, including TSA",
@@ -606,20 +606,20 @@
               "publishedAt": "Thu, 30 Apr 2026 20:54:05 GMT"
             },
             {
-              "title": "Intel's stock more than doubles in April for best month in chipmaker's 55 years on Nasdaq",
-              "description": "Intel's market cap more than doubled in April, boosted by a blowout earnings report and optimism that the chipmaker is in the midst of a revival.",
-              "url": "https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 20:10:36 GMT"
-            },
-            {
               "title": "US Republicans break ranks to challenge Trump administration on Iran war",
               "description": "Some from president’s own party have begun to demand accountability in the unpopular conflict",
               "url": "https://www.ft.com/content/cd5a7cb6-4265-410f-b461-f5bc84a00e64",
               "source": "ft.com",
               "image": "",
               "publishedAt": "Thu, 30 Apr 2026 20:06:04 GMT"
+            },
+            {
+              "title": "Israel rushed laser system to UAE to fend off Iran’s missiles",
+              "description": "Deployment of equipment is one of the first examples of major defence co-operation between the two states",
+              "url": "https://www.ft.com/content/6247449b-5a73-47a8-8cd4-c8ef295e6776",
+              "source": "ft.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 20:00:01 GMT"
             }
           ]
         },
@@ -780,20 +780,20 @@
               "publishedAt": "Wed, 05 Oct 2016 08:00:04 +0530"
             },
             {
-              "title": "Rajesh Palviya of Axis Sec suggests Sun Pharma, Chennai Petro, Great Eastern Shipping shares to buy next week",
-              "description": "On Thursday, Sensex and Nifty 50 declined nearly 1%, affected by increasing crude prices and foreign fund outflows. Sensex settled at 76,913.50 and Nifty 50 at 23,997.55. Markets will remain closed on Friday for Maharash",
-              "url": "https://www.livemint.com/market/stock-market-news/rajesh-palviya-of-axis-sec-suggests-sun-pharma-chennai-petro-great-eastern-shipping-shares-to-buy-next-week-11777606215378.html",
+              "title": "Do you know how to transfer physical shares to demat account?",
+              "description": "Investors are urged to convert physical share certificates into dematerialised form due to regulatory changes. The process involves opening a demat account and submitting a Dematerialisation Request Form. This transition",
+              "url": "https://www.livemint.com/market/stock-market-news/do-you-know-how-to-transfer-physical-shares-to-demat-account-11777622789346.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/Rajesh_Palviya_1770616160698_1770616164175_1777609050638.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:52:25 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/gc83f52a02d5281bb28e72844be0ba610fb92d6d82e0ef26ae_1714126668039_1777625469472.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:34:26 +0530"
             },
             {
-              "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy on Monday",
-              "description": "Shares to buy or sell: Chandan Taparia has recommended three stocks to buy on Monday, 4 May 2026 - Reliance Industries, RBL Bank and BSE shares.",
-              "url": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-on-monday-4-may-2026-reliance-bse-11777608663791.html",
-              "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/Chandan_Taparia__1725590979638_1777609179456.png",
-              "publishedAt": "Fri, 01 May 2026 09:50:36 +0530"
+              "title": "After a 60% rally, can Ola Electric shares extend gains following 20% MoM sales growth in April?",
+              "description": "Ola Electric shares have surged over 60% from recent lows, supported by a 20% month-on-month rise in April registrations. Despite a broader industry decline, the company posted growth, boosting sentiment. Analysts remain",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/after-a-60-rally-can-ola-electric-shares-extend-gains-following-20-mom-sales-growth-in-april/articleshow/130674020.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130674020,imgsize-44600.cms",
+              "publishedAt": "Fri, 01 May 2026 14:29:32 +0530"
             }
           ]
         }
@@ -810,84 +810,84 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "BDA unearths land fraud; FIR against four, including former Revenue Department officer",
-              "description": "The property transaction dates back to 2017 and allegedly involves a former Assistant Commissioner of Bengaluru sub-division who was arrested by the Special Investigation Team probing the IMA scam",
-              "url": "https://www.thehindu.com/news/national/karnataka/bda-unearths-land-fraud-fir-against-four-including-revenue-department-officer/article70924577.ece",
+              "title": "Above-normal heatwave days likely in some parts of India in May: IMD",
+              "description": "In a statement, Director General of Meteorology, IMD, Mrutyunjay Mohapatra, said, \"During May 2026, minimum temperatures are expected to be above normal across many parts of the country.\"",
+              "url": "https://www.thehindu.com/news/national/above-normal-heatwave-days-likely-in-some-parts-of-india-in-may-imd/article70927992.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/leqivj/article70927470.ece/alternates/LANDSCAPE_1200/Bangalore.CITY.GQ0F59EHH.3.jpg.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:59:19 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/sy1lxk/article70927994.ece/alternates/LANDSCAPE_1200/10258_30_4_2026_18_52_38_1_HEAT_WAVES_1.JPG",
+              "publishedAt": "Fri, 01 May 2026 14:37:17 +0530"
             },
             {
-              "title": "Bargi dam cruise boat tragedy: Death toll rises to nine; search operations continue",
-              "description": "A cruise boat with 29 passengers and two crew members onboard overturned in the Bargi Dam after encountering a sudden storm",
-              "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-cruise-boat-tragedy-toll-rises-updates/article70927475.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/hif6av/article70927479.ece/alternates/LANDSCAPE_1200/PTI05_01_2026_000015B.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:54:57 +0530"
-            },
-            {
-              "title": "Mamata Banerjee's Visit To Strongroom, Trinamool's Protest: Late-Night EVM Drama In Bengal",
-              "description": "With just two days left for counting in the high-stakes Assembly elections, the Trinamool alleged that the ballot boxes were opened without the presence of authorised party representatives.",
-              "url": "https://www.ndtv.com/india-news/mamata-banerjees-visit-trinamool-protest-late-night-evm-drama-in-bengal-bjp-responds-ballot-boxes-opened-west-bengal-elections-11434024#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/5rc7jv94_mamata_625x300_01_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 09:51:17 +0530"
-            },
-            {
-              "title": "Slithering fear: snakebite incidents trigger panic in Kerala",
-              "description": "Increased instances of snakebites and resultant deaths have spread panic in Kerala. Sarath Babu George speaks to members of the bereaved families and herpetologists and other experts to understand the magnitude of the si",
-              "url": "https://www.thehindu.com/news/national/kerala/slithering-fear-snakebite-incidents-trigger-panic-in-kerala/article70920343.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/o4r92k/article70925276.ece/alternates/LANDSCAPE_1200/NH24DikshalDeath04.JPEG",
-              "publishedAt": "Fri, 01 May 2026 09:50:12 +0530"
-            },
-            {
-              "title": "Lift abortion time limit for minor rape survivors: Supreme Court",
-              "description": "Says State and doctors cannot make such decisions for minor rape survivors; CJI calls for penal law amendment to ensure trials in such cases completed within a week, accused’s property transferred to victim",
-              "url": "https://www.thehindu.com/news/national/minors-pregnancy-amend-law-on-pregnancy-termination-of-rape-survivors-says-supreme-court/article70923828.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/31a8k/article70923840.ece/alternates/LANDSCAPE_1200/SBI-moves-SupreG8RFSOCE9.4.jpg.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:48:56 +0530"
-            },
-            {
-              "title": "NEET UG 2026: How to Attempt Question Paper and Fill OMR Sheet Correctly",
-              "description": "NEET UG 2026: Candidates must understand the correct method to attempt the question paper and fill the OMR sheet. Minor mistakes can affect the final score.",
-              "url": "https://www.ndtv.com/education/neet-ug-2026-how-to-attempt-question-paper-and-fill-omr-sheet-correctly-11433945#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/n1h4403s_neet-ug-2026_625x300_01_May_26.jpeg",
-              "publishedAt": "Fri, 01 May 2026 09:48:18 +0530"
-            },
-            {
-              "title": "Unmindful of nature’s vagaries, their toil for survival continues",
-              "description": "Climate change and rising temperatures are a global concern, and environmental experts are calling for urgent measures to address this crisis. However, for informal workers, changing temperatures hardly matter, as they c",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/unmindful-of-natures-vagaries-their-toil-for-survival-continues/article70924763.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/sjznsj/article70925949.ece/alternates/LANDSCAPE_1200/vjkvg-water%204.JPG",
-              "publishedAt": "Fri, 01 May 2026 09:39:54 +0530"
-            },
-            {
-              "title": "Hike in commercial LPG price: Shock and resignation on food street as LPG price goes up by 42%",
-              "description": "The food kiosk is among the dozens of shacks and mulgis in the Yellareddyguda, Ameerpet and Sri Nagar Colony area with rows of hostels and PG accommodations where gig-economy workers, IT students and informal economy emp",
-              "url": "https://www.thehindu.com/news/national/telangana/hike-in-commercial-lpg-price-shock-and-resignation-on-food-street-as-lpg-price-goes-up-by-42/article70927433.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/7h9nmv/article70927448.ece/alternates/LANDSCAPE_1200/Biryani%20dishes%20by%20using%20firewood%20and%20coal%20%2003.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:29:26 +0530"
-            },
-            {
-              "title": "​Embers in the air: On wildfires in the Nilgiris, Tamil Nadu",
-              "description": "Seasonal fires need long-term management, not just preparedness",
-              "url": "https://www.thehindu.com/opinion/editorial/embers-in-the-air-on-wildfires-in-the-nilgiris-tamil-nadu/article70925232.ece",
+              "title": "All set for vote counting in Kozhikode district",
+              "description": "",
+              "url": "https://www.thehindu.com/news/cities/kozhikode/all-set-for-vote-counting-in-kozhikode-district/article70927896.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Fri, 01 May 2026 09:28:35 +0530"
+              "publishedAt": "Fri, 01 May 2026 14:35:50 +0530"
             },
             {
-              "title": "Hyderabad Techie Kills Self, Family Blames Wife's Affair, 'Mental Stress'",
-              "description": "S Seetharam Reddy's father, Venkateshwar, alleged that his son was deeply disturbed by his wife's affair and other issues linked to it.",
-              "url": "https://www.ndtv.com/india-news/hyderabad-techie-kills-self-family-blames-wifes-affair-mental-stress-suicide-found-dead-in-lake-wife-lover-arrested-11434202#publisher=newsstand",
+              "title": "Kshatriya Parishad pays tributes to P.V.G. Raju on birth anniversary in Vizianagaram",
+              "description": "The MANSAS Trust founder and last king of the Vizianagaram princely State was remembered on Friday (May 1, 2026) for his contribution to the city’s education sector",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/kshatriya-parishad-pays-tributes-to-pvg-raju-on-birth-anniversary-in-vizianagaram/article70927839.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Fri, 01 May 2026 14:28:43 +0530"
+            },
+            {
+              "title": "Farooq Abdullah claims lack of support within INDIA bloc on restoration of J&K Statehood",
+              "description": "National Conference president Farooq Abdullah urged the alliance to move beyond being a mere electoral pact, calling for more frequent meetings to address the \"ignored\" future of the nation.",
+              "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/farooq-abdullah-claims-lack-of-support-within-india-bloc-on-restoration-of-jk-statehood/article70927782.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/zdrg6r/article70927828.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000066A.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:22:33 +0530"
+            },
+            {
+              "title": "Supreme Court reserves verdict on Pawan Khera’s plea for pre-arrest bail in Assam case",
+              "description": "The case is ‘unprecedented’ with Chief Minister Himanta Biswa Sarma himself making statements against the Congress leader, senior advocate Abhishek Manu Singhvi tells the Supreme Court",
+              "url": "https://www.thehindu.com/news/national/supreme-court-reserves-order-on-congress-leader-pawan-kheras-plea-for-anticipatory-bail/article70923864.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/5ls0xz/article70683462.ece/alternates/LANDSCAPE_1200/PTI02_25_2026_000157B.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:15:34 +0530"
+            },
+            {
+              "title": "Cancel Labour Codes, fix ₹26,000 as minimum monthly wage: Left parties at Srikakulam May Day rally",
+              "description": "CITU State secretary P. Tejeswara Rao said minimum wages had not been revised in 15 years, even as workers were being forced to put in 12-hour days for meagre pay",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/cancel-labour-codes-fix-26000-as-minimum-monthly-wage-left-parties-at-srikakulam-may-day-rally/article70927814.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/kfi80/article70927961.ece/alternates/LANDSCAPE_1200/CITU.jpeg",
+              "publishedAt": "Fri, 01 May 2026 14:13:31 +0530"
+            },
+            {
+              "title": "This May Day reminds workers to be more organised, says Kerala Chief Minister",
+              "description": "Kerala Chief Minister Pinarayi Vijayan said that even as neoliberal policies that undermine workers’ rights sweep across India, the voices of protest are emerging from the labour sector, which is very hopeful.",
+              "url": "https://www.thehindu.com/news/national/kerala/this-may-day-reminds-workers-to-be-more-organised-says-kerala-chief-minister/article70927825.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/her2k6/article70927962.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-01%20at%2010.16.57%20AM.jpeg",
+              "publishedAt": "Fri, 01 May 2026 14:11:44 +0530"
+            },
+            {
+              "title": "Allahabad HC dismisses plea seeking FIR against Rahul Gandhi over 2025 ‘fighting Indian State’ remark",
+              "description": "The petitioner said the remark hurt public sentiments and amounted to a seditious and anti-national statement allegedly intended to destabilise the country",
+              "url": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/ikl9io/article70927959.ece/alternates/LANDSCAPE_1200/Prayer-meeting-GEIFPP834.3.jpg.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:10:45 +0530"
+            },
+            {
+              "title": "Cop Arrested For Molesting 9-Year-Old Girl Inside A Garden In Mumbai",
+              "description": "Mumbai, May 1 (IANS) Assistant Commissioner of Police (ACP) rank officer was arrested by Mumbai Police for allegedly molesting a minor girl. The Worli Police have registered a case under the Protection of Children from S",
+              "url": "https://www.ndtv.com/india-news/cop-arrested-for-molesting-9-year-old-girl-inside-a-garden-in-mumbai-11434604#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/qc95kh5s_hyderabad_625x300_01_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 09:28:06 +0530"
+              "image": "https://c.ndtvimg.com/2025-06/ecv6cvdc_police-generic-image_625x300_27_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Fri, 01 May 2026 13:21:37 +0530"
+            },
+            {
+              "title": "Nominations Open For 2026 UNESCO Prize For Girls' And Women's Education",
+              "description": "UNESCO encourages its member states to implement a national selection process and publicly announce their selected nominees.",
+              "url": "https://www.ndtv.com/education/nominations-open-for-2026-unesco-prize-for-girls-and-womens-education-11434946#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-05/0pprse1_unesco_625x300_01_May_26.jpeg",
+              "publishedAt": "Fri, 01 May 2026 13:17:28 +0530"
             }
           ]
         },
@@ -961,20 +961,20 @@
               "publishedAt": "Mon, 22 Dec 2025 22:46:19 +0530"
             },
             {
-              "title": "Mamata Banerjee's Visit To Strongroom, Trinamool's Protest: Late-Night EVM Drama In Bengal",
-              "description": "With just two days left for counting in the high-stakes Assembly elections, the Trinamool alleged that the ballot boxes were opened without the presence of authorised party representatives.",
-              "url": "https://www.ndtv.com/india-news/mamata-banerjees-visit-trinamool-protest-late-night-evm-drama-in-bengal-bjp-responds-ballot-boxes-opened-west-bengal-elections-11434024#publisher=newsstand",
+              "title": "Cop Arrested For Molesting 9-Year-Old Girl Inside A Garden In Mumbai",
+              "description": "Mumbai, May 1 (IANS) Assistant Commissioner of Police (ACP) rank officer was arrested by Mumbai Police for allegedly molesting a minor girl. The Worli Police have registered a case under the Protection of Children from S",
+              "url": "https://www.ndtv.com/india-news/cop-arrested-for-molesting-9-year-old-girl-inside-a-garden-in-mumbai-11434604#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/5rc7jv94_mamata_625x300_01_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 09:51:17 +0530"
+              "image": "https://c.ndtvimg.com/2025-06/ecv6cvdc_police-generic-image_625x300_27_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Fri, 01 May 2026 13:21:37 +0530"
             },
             {
-              "title": "NEET UG 2026: How to Attempt Question Paper and Fill OMR Sheet Correctly",
-              "description": "NEET UG 2026: Candidates must understand the correct method to attempt the question paper and fill the OMR sheet. Minor mistakes can affect the final score.",
-              "url": "https://www.ndtv.com/education/neet-ug-2026-how-to-attempt-question-paper-and-fill-omr-sheet-correctly-11433945#publisher=newsstand",
+              "title": "Nominations Open For 2026 UNESCO Prize For Girls' And Women's Education",
+              "description": "UNESCO encourages its member states to implement a national selection process and publicly announce their selected nominees.",
+              "url": "https://www.ndtv.com/education/nominations-open-for-2026-unesco-prize-for-girls-and-womens-education-11434946#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/n1h4403s_neet-ug-2026_625x300_01_May_26.jpeg",
-              "publishedAt": "Fri, 01 May 2026 09:48:18 +0530"
+              "image": "https://c.ndtvimg.com/2026-05/0pprse1_unesco_625x300_01_May_26.jpeg",
+              "publishedAt": "Fri, 01 May 2026 13:17:28 +0530"
             }
           ]
         },
@@ -984,84 +984,84 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "4 Students, Attacker Injured In Stabbing At Washington High School",
-              "description": "The suspect, a student, was in custody and also injured.",
-              "url": "https://www.ndtv.com/world-news/4-students-attacker-injured-in-stabbing-at-washington-high-school-11433993#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/es1bl3rk_washington-stabbing_625x300_01_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 09:59:38 +0530"
-            },
-            {
-              "title": "BDA unearths land fraud; FIR against four, including former Revenue Department officer",
-              "description": "The property transaction dates back to 2017 and allegedly involves a former Assistant Commissioner of Bengaluru sub-division who was arrested by the Special Investigation Team probing the IMA scam",
-              "url": "https://www.thehindu.com/news/national/karnataka/bda-unearths-land-fraud-fir-against-four-including-revenue-department-officer/article70924577.ece",
+              "title": "Above-normal heatwave days likely in some parts of India in May: IMD",
+              "description": "In a statement, Director General of Meteorology, IMD, Mrutyunjay Mohapatra, said, \"During May 2026, minimum temperatures are expected to be above normal across many parts of the country.\"",
+              "url": "https://www.thehindu.com/news/national/above-normal-heatwave-days-likely-in-some-parts-of-india-in-may-imd/article70927992.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/leqivj/article70927470.ece/alternates/LANDSCAPE_1200/Bangalore.CITY.GQ0F59EHH.3.jpg.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:59:19 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/sy1lxk/article70927994.ece/alternates/LANDSCAPE_1200/10258_30_4_2026_18_52_38_1_HEAT_WAVES_1.JPG",
+              "publishedAt": "Fri, 01 May 2026 14:37:17 +0530"
             },
             {
-              "title": "Pete Hegseth Asked If Trump Is \"Mentally Stable\" To Lead US. His Reply Is Viral",
-              "description": "Hegseth later said Donald Trump is an \"incredible commander-in-chief who puts our troops first.\"",
-              "url": "https://www.ndtv.com/world-news/iran-us-war-news-pete-hegseth-asked-if-trump-is-mentally-stable-to-lead-us-his-reply-is-viral-11434264#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-03/501ltm4k_trump-hegseth_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 09:55:20 +0530"
-            },
-            {
-              "title": "Bargi dam cruise boat tragedy: Death toll rises to nine; search operations continue",
-              "description": "A cruise boat with 29 passengers and two crew members onboard overturned in the Bargi Dam after encountering a sudden storm",
-              "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-cruise-boat-tragedy-toll-rises-updates/article70927475.ece",
+              "title": "All set for vote counting in Kozhikode district",
+              "description": "",
+              "url": "https://www.thehindu.com/news/cities/kozhikode/all-set-for-vote-counting-in-kozhikode-district/article70927896.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/hif6av/article70927479.ece/alternates/LANDSCAPE_1200/PTI05_01_2026_000015B.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:54:57 +0530"
+              "image": "",
+              "publishedAt": "Fri, 01 May 2026 14:35:50 +0530"
             },
             {
-              "title": "China Building 'Super Soldiers' With Help From Harvard Scientist Convicted Of Lying To US",
-              "description": "Charles Lieber, 67, was convicted of making false statements to US officials about his ties to a Chinese state program to recruit overseas talent.",
-              "url": "https://www.ndtv.com/world-news/harvard-scientist-charles-lieber-convicted-of-lying-to-us-building-super-soldiers-for-china-11434278#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/1d5690o4_charles-lieber_625x300_01_May_26.jpeg",
-              "publishedAt": "Fri, 01 May 2026 09:54:29 +0530"
-            },
-            {
-              "title": "Mamata Banerjee's Visit To Strongroom, Trinamool's Protest: Late-Night EVM Drama In Bengal",
-              "description": "With just two days left for counting in the high-stakes Assembly elections, the Trinamool alleged that the ballot boxes were opened without the presence of authorised party representatives.",
-              "url": "https://www.ndtv.com/india-news/mamata-banerjees-visit-trinamool-protest-late-night-evm-drama-in-bengal-bjp-responds-ballot-boxes-opened-west-bengal-elections-11434024#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/5rc7jv94_mamata_625x300_01_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 09:51:17 +0530"
-            },
-            {
-              "title": "Slithering fear: snakebite incidents trigger panic in Kerala",
-              "description": "Increased instances of snakebites and resultant deaths have spread panic in Kerala. Sarath Babu George speaks to members of the bereaved families and herpetologists and other experts to understand the magnitude of the si",
-              "url": "https://www.thehindu.com/news/national/kerala/slithering-fear-snakebite-incidents-trigger-panic-in-kerala/article70920343.ece",
+              "title": "Kshatriya Parishad pays tributes to P.V.G. Raju on birth anniversary in Vizianagaram",
+              "description": "The MANSAS Trust founder and last king of the Vizianagaram princely State was remembered on Friday (May 1, 2026) for his contribution to the city’s education sector",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/kshatriya-parishad-pays-tributes-to-pvg-raju-on-birth-anniversary-in-vizianagaram/article70927839.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/o4r92k/article70925276.ece/alternates/LANDSCAPE_1200/NH24DikshalDeath04.JPEG",
-              "publishedAt": "Fri, 01 May 2026 09:50:12 +0530"
+              "image": "",
+              "publishedAt": "Fri, 01 May 2026 14:28:43 +0530"
             },
             {
-              "title": "Lift abortion time limit for minor rape survivors: Supreme Court",
-              "description": "Says State and doctors cannot make such decisions for minor rape survivors; CJI calls for penal law amendment to ensure trials in such cases completed within a week, accused’s property transferred to victim",
-              "url": "https://www.thehindu.com/news/national/minors-pregnancy-amend-law-on-pregnancy-termination-of-rape-survivors-says-supreme-court/article70923828.ece",
+              "title": "Farooq Abdullah claims lack of support within INDIA bloc on restoration of J&K Statehood",
+              "description": "National Conference president Farooq Abdullah urged the alliance to move beyond being a mere electoral pact, calling for more frequent meetings to address the \"ignored\" future of the nation.",
+              "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/farooq-abdullah-claims-lack-of-support-within-india-bloc-on-restoration-of-jk-statehood/article70927782.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/31a8k/article70923840.ece/alternates/LANDSCAPE_1200/SBI-moves-SupreG8RFSOCE9.4.jpg.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:48:56 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/zdrg6r/article70927828.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000066A.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:22:33 +0530"
             },
             {
-              "title": "Russia's Tuapse Faces Toxic Aftermath Of Ukrainian Attacks On Refinery",
-              "description": "Residents of the Russian port city of Tuapse were ordered not to drink tap water and schools remained closed on Thursday, as authorities grappled with the aftermath of the third",
-              "url": "https://www.ndtv.com/world-news/russias-tuapse-faces-toxic-aftermath-of-ukrainian-attacks-on-refinery-11433123#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/3d6blnmg_tuapse_625x300_01_May_26.jpeg",
-              "publishedAt": "Fri, 01 May 2026 09:46:15 +0530"
+              "title": "Supreme Court reserves verdict on Pawan Khera’s plea for pre-arrest bail in Assam case",
+              "description": "The case is ‘unprecedented’ with Chief Minister Himanta Biswa Sarma himself making statements against the Congress leader, senior advocate Abhishek Manu Singhvi tells the Supreme Court",
+              "url": "https://www.thehindu.com/news/national/supreme-court-reserves-order-on-congress-leader-pawan-kheras-plea-for-anticipatory-bail/article70923864.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/5ls0xz/article70683462.ece/alternates/LANDSCAPE_1200/PTI02_25_2026_000157B.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:15:34 +0530"
             },
             {
-              "title": "'Fix Your Broken Country': Trump Says German Chancellor Doing \"Terrible Job\"",
-              "description": "US President Donald Trump said the German chancellor has got \"immigration and energy problems, and a problem with Ukraine.\"",
-              "url": "https://www.ndtv.com/world-news/fix-your-broken-country-us-president-donald-trump-says-german-chancellor-friedrich-merz-doing-terrible-job-11433918#publisher=newsstand",
+              "title": "Cancel Labour Codes, fix ₹26,000 as minimum monthly wage: Left parties at Srikakulam May Day rally",
+              "description": "CITU State secretary P. Tejeswara Rao said minimum wages had not been revised in 15 years, even as workers were being forced to put in 12-hour days for meagre pay",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/cancel-labour-codes-fix-26000-as-minimum-monthly-wage-left-parties-at-srikakulam-may-day-rally/article70927814.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/kfi80/article70927961.ece/alternates/LANDSCAPE_1200/CITU.jpeg",
+              "publishedAt": "Fri, 01 May 2026 14:13:31 +0530"
+            },
+            {
+              "title": "This May Day reminds workers to be more organised, says Kerala Chief Minister",
+              "description": "Kerala Chief Minister Pinarayi Vijayan said that even as neoliberal policies that undermine workers’ rights sweep across India, the voices of protest are emerging from the labour sector, which is very hopeful.",
+              "url": "https://www.thehindu.com/news/national/kerala/this-may-day-reminds-workers-to-be-more-organised-says-kerala-chief-minister/article70927825.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/her2k6/article70927962.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-01%20at%2010.16.57%20AM.jpeg",
+              "publishedAt": "Fri, 01 May 2026 14:11:44 +0530"
+            },
+            {
+              "title": "Allahabad HC dismisses plea seeking FIR against Rahul Gandhi over 2025 ‘fighting Indian State’ remark",
+              "description": "The petitioner said the remark hurt public sentiments and amounted to a seditious and anti-national statement allegedly intended to destabilise the country",
+              "url": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/ikl9io/article70927959.ece/alternates/LANDSCAPE_1200/Prayer-meeting-GEIFPP834.3.jpg.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:10:45 +0530"
+            },
+            {
+              "title": "Sonia Gandhi, Rahul, I Will Decide: Mallikarjun Kharge On Karnataka Leadership Change",
+              "description": "",
+              "url": "https://www.ndtv.com/india-news/sonia-gandhi-rahul-i-will-decide-mallikarjun-kharge-on-karnataka-leadership-change-11434737#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/8fsq3k5_donald-trump_625x300_01_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 09:43:19 +0530"
+              "image": "https://c.ndtvimg.com/2026-05/5fv8p5ao_sonia-gandhi-rahul-mallikarjun-kharge_625x300_01_May_26.jpeg",
+              "publishedAt": "Fri, 01 May 2026 14:03:42 +0530"
+            },
+            {
+              "title": "New Lithium Reserves In US Can Power 500 Billion Phones, Reveals Study",
+              "description": "The US Geological Survey stated in a new study that the Appalachians contain an estimated 2.3 million metric tons of undiscovered, economically recoverable lithium.",
+              "url": "https://www.ndtv.com/world-news/new-lithium-reserves-us-power-500-billion-phones-mineral-study-import-geological-survey-11430862#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2025-09/623t9pt_lithium-_625x300_29_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Fri, 01 May 2026 14:02:51 +0530"
             }
           ]
         },
@@ -1071,84 +1071,84 @@
           "emoji": "🗳️",
           "articles": [
             {
-              "title": "Assembly election 2026 updates: CM Mamata reaches Kolkata's Bhabanipur EVM strong room, alleges tampering of vote machines",
-              "description": "Trinamool leaders Kunal Ghosh and Shashi Panja staged a sit-in protest at Khudiram Anushilan Kendra on Thursday, alleging irregular activities inside the EVM strongroom facilities",
-              "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-tamil-nadu-west-bengal-assam-kerala-puducherry-april-30-2026/article70923124.ece",
-              "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 22:40:51 +0530"
-            },
-            {
-              "title": "Kerala Assembly Election Results - A Data-Led Look at Kerala's Electoral Shift",
-              "description": "",
-              "url": "https://www.thehindu.com/infographics/2026-04-29/kerala-assembly-elections-results-2026/index.html",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/uoa4az/article70921721.ece/alternates/LANDSCAPE_1200/Flag_3.JPG",
-              "publishedAt": "Thu, 30 Apr 2026 21:56:12 +0530"
-            },
-            {
-              "title": "Assam Assembly Election Results - A Data-Led Look at Assam's Electoral Shift",
-              "description": "",
-              "url": "https://www.thehindu.com/infographics/2026-04-29/assam-assembly-election-results-2026-1/index.html",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/kln6i2/article70921748.ece/alternates/LANDSCAPE_1200/4col_with_pictuGPJFOL6CU.3.jpg.jpg",
-              "publishedAt": "Thu, 30 Apr 2026 21:55:58 +0530"
-            },
-            {
-              "title": "Assembly elections 2026 LIVE: Drama over EVM tampering claim at Kolkata counting centre as TMC stages sit-in; EC dismisses charge",
-              "description": "The Calcutta HC has dismissed a plea challenging the Election Commission’s directive to deploy central government and PSU employees for vote counting in the West Bengal Assembly elections",
+              "title": "Assembly elections 2026 LIVE: No scope for wrongdoing at counting centres, says Bengal CEO Manoj Agarwal",
+              "description": "The Election Commission on April 30, introduced a QR code-based photo identity card system to eliminate the possibility of any unauthorised persons entering counting centres.",
               "url": "https://www.thehindu.com/elections/assembly-elections-live-updates-may-1-2026-tamil-nadu-west-bengal-assam-kerala-pondicherry-results/article70927395.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Fri, 01 May 2026 10:02:06 +0530"
+              "publishedAt": "Fri, 01 May 2026 14:38:08 +0530"
             },
             {
-              "title": "Mamata Banerjee's Visit To Strongroom, Trinamool's Protest: Late-Night EVM Drama In Bengal",
-              "description": "With just two days left for counting in the high-stakes Assembly elections, the Trinamool alleged that the ballot boxes were opened without the presence of authorised party representatives.",
-              "url": "https://www.ndtv.com/india-news/mamata-banerjees-visit-trinamool-protest-late-night-evm-drama-in-bengal-bjp-responds-ballot-boxes-opened-west-bengal-elections-11434024#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/5rc7jv94_mamata_625x300_01_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 09:51:17 +0530"
+              "title": "All set for vote counting in Kozhikode district",
+              "description": "",
+              "url": "https://www.thehindu.com/news/cities/kozhikode/all-set-for-vote-counting-in-kozhikode-district/article70927896.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Fri, 01 May 2026 14:35:50 +0530"
             },
             {
-              "title": "NEET UG 2026: How to Attempt Question Paper and Fill OMR Sheet Correctly",
-              "description": "NEET UG 2026: Candidates must understand the correct method to attempt the question paper and fill the OMR sheet. Minor mistakes can affect the final score.",
-              "url": "https://www.ndtv.com/education/neet-ug-2026-how-to-attempt-question-paper-and-fill-omr-sheet-correctly-11433945#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/n1h4403s_neet-ug-2026_625x300_01_May_26.jpeg",
-              "publishedAt": "Fri, 01 May 2026 09:48:18 +0530"
+              "title": "Bengal Minister Sujit Bose appears before ED for questioning in civic body recruitment scam",
+              "description": "Mr. Bose is seeking re-election from the Bidhannagar seat, where polling happened in the final phase of the Assembly elections on April 29",
+              "url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-minister-sujit-bose-appears-before-ed-for-questioning-in-civic-body-recruitment-scam/article70927929.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/inl8t1/article70927944.ece/alternates/LANDSCAPE_1200/PTI03_29_2026_000204B.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:04:19 +0530"
             },
             {
-              "title": "Hyderabad Techie Kills Self, Family Blames Wife's Affair, 'Mental Stress'",
-              "description": "S Seetharam Reddy's father, Venkateshwar, alleged that his son was deeply disturbed by his wife's affair and other issues linked to it.",
-              "url": "https://www.ndtv.com/india-news/hyderabad-techie-kills-self-family-blames-wifes-affair-mental-stress-suicide-found-dead-in-lake-wife-lover-arrested-11434202#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/qc95kh5s_hyderabad_625x300_01_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 09:28:06 +0530"
+              "title": "Documentary on K.C. Venugopal reportedly the latest ‘casualty’ in the ‘tussle’ for post-poll UDF leadership",
+              "description": "However, he added, media reports that the high command had issued an “extraordinary fiat” to stop the work on the documentary directed by Vinod Mankara had no factual basis. However, the AICC has issued a “general direct",
+              "url": "https://www.thehindu.com/elections/kerala-assembly/documentary-on-kc-venugopal-reportedly-the-latest-casualty-in-the-tussle-for-post-poll-udf-leadership/article70927752.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/szf90u/article70927766.ece/alternates/LANDSCAPE_1200/04_mn%20KCV%201.JPG",
+              "publishedAt": "Fri, 01 May 2026 13:29:28 +0530"
             },
             {
-              "title": "9 Tourists Dead, Many Missing As Cruise Boat Sinks In Madhya Pradesh",
-              "description": "4 Dead As Cruise Boat With 31 On Board Sinks In Madhya Pradesh's Jabalpur",
-              "url": "https://www.ndtv.com/india-news/4-dead-as-cruise-boat-with-31-on-board-sinks-in-madhya-pradeshs-jabalpur-11431977#publisher=newsstand",
+              "title": "Cop Arrested For Molesting 9-Year-Old Girl Inside A Garden In Mumbai",
+              "description": "Mumbai, May 1 (IANS) Assistant Commissioner of Police (ACP) rank officer was arrested by Mumbai Police for allegedly molesting a minor girl. The Worli Police have registered a case under the Protection of Children from S",
+              "url": "https://www.ndtv.com/india-news/cop-arrested-for-molesting-9-year-old-girl-inside-a-garden-in-mumbai-11434604#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-04/or2nkn8g_ship-capsizes-_625x300_30_April_26.jpg",
-              "publishedAt": "Fri, 01 May 2026 08:59:49 +0530"
+              "image": "https://c.ndtvimg.com/2025-06/ecv6cvdc_police-generic-image_625x300_27_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Fri, 01 May 2026 13:21:37 +0530"
             },
             {
-              "title": "Man Visited Odisha Bank With Sister's Skeleton After He Was Told 'No' 4 Times",
-              "description": "CCTV footage shows that Jitu Munda met the bank manager twice and other officials, seeking to withdraw money, before he brought his sister's body.",
-              "url": "https://www.ndtv.com/india-news/man-visited-odisha-bank-with-sisters-skeleton-after-he-was-told-no-4-times-odisha-grameen-bank-11434071#publisher=newsstand",
+              "title": "Nominations Open For 2026 UNESCO Prize For Girls' And Women's Education",
+              "description": "UNESCO encourages its member states to implement a national selection process and publicly announce their selected nominees.",
+              "url": "https://www.ndtv.com/education/nominations-open-for-2026-unesco-prize-for-girls-and-womens-education-11434946#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-04/fh8t2amg_odisha_625x300_27_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-              "publishedAt": "Fri, 01 May 2026 08:27:28 +0530"
+              "image": "https://c.ndtvimg.com/2026-05/0pprse1_unesco_625x300_01_May_26.jpeg",
+              "publishedAt": "Fri, 01 May 2026 13:17:28 +0530"
             },
             {
-              "title": "Odisha 10th Result 2026 Date Confirmed: Matric Results Releasing Tomorrow At 4 PM",
-              "description": "Odisha 10th Result 2026: BSE, Odisha will declare the Odisha 10th Result 2026 on May 2, 2026, at 4 PM. Students can check their marks online from 6 PM.",
-              "url": "https://www.ndtv.com/education/odisha-10th-result-2026-date-confirmed-matric-results-releasing-tomorrow-at-4-pm-11434003#publisher=newsstand",
+              "title": "Cocaine Worth 1,745 Crores Seized In Mumbai, Amit Shah Vows \"Ruthless\" Action",
+              "description": "The Narcotics Control Bureau seized 349 kg of high-grade cocaine worth Rs 1,745 crore in Mumbai.",
+              "url": "https://www.ndtv.com/india-news/cocaine-worth-1-745-crores-seized-in-mumbai-amit-shah-vows-ruthless-action-11434545#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/0ir5a4rs_odisha-10th-result-2026_625x300_01_May_26.jpeg",
-              "publishedAt": "Fri, 01 May 2026 08:24:25 +0530"
+              "image": "https://i.ndtvimg.com/i/2016-10/narcotics-drugs-istock_650x400_71475644766.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Fri, 01 May 2026 13:12:42 +0530"
+            },
+            {
+              "title": "Gautam Adani Launches 'Apni Baat, Apno Ke Saath' To Connect With Colleagues",
+              "description": "Ahmedabad, May 1 (IANS) Gautam Adani, Chairman of the Adani Group, on Friday launched a new initiative, ‘Apni Baat, Apno Ke Saath’, to connect with over four lakh colleagues in the Adani family, on the occasion of the Wo",
+              "url": "https://www.ndtv.com/india-news/labour-day-gautam-adani-launches-apni-baat-apno-ke-saath-to-connect-with-colleagues-11434368#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-05/a5the81k_gautam-adani_625x300_01_May_26.jpeg",
+              "publishedAt": "Fri, 01 May 2026 13:06:03 +0530"
+            },
+            {
+              "title": "Gautam Adani, Wife Offer Prayers At Kedarnath Temple On 40th Wedding Anniversary",
+              "description": "The Adani Group chairman described his wife as not just \"support of his life\" but a \"calm strength in every challenge.\"",
+              "url": "https://www.ndtv.com/india-news/gautam-adani-wife-offer-prayers-at-kedarnath-temple-on-40th-wedding-anniversary-11434420#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-05/v2nrgmjo_gautam-adani_625x300_01_May_26.jpeg",
+              "publishedAt": "Fri, 01 May 2026 13:05:49 +0530"
+            },
+            {
+              "title": "16 Mizoram Convicts Try A 'Shawshank Redemption', 13 Re-Arrested",
+              "description": "Police sources said the alleged fraud began in January and remained undetected until last week",
+              "url": "https://www.ndtv.com/india-news/16-mizoram-convicts-try-a-shawshank-redemption-13-re-arrested-3-on-the-run-11434899#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-05/qec90l9g_jail-generic_625x300_01_May_26.jpeg",
+              "publishedAt": "Fri, 01 May 2026 13:00:35 +0530"
             }
           ]
         }
@@ -1229,20 +1229,20 @@
               "publishedAt": "Wed, 05 Oct 2016 08:00:04 +0530"
             },
             {
-              "title": "Four AC stocks in India to add to your watchlist",
-              "description": "Changing weather conditions could be setting the stage for a strong sectoral move.",
-              "url": "https://www.livemint.com/market/stock-market-news/air-conditioner-stocks-india-voltas-blue-star-ac-stocks-pg-electroplast-summer-stocks-11777606842202.html",
+              "title": "Do you know how to transfer physical shares to demat account?",
+              "description": "Investors are urged to convert physical share certificates into dematerialised form due to regulatory changes. The process involves opening a demat account and submitting a Dematerialisation Request Form. This transition",
+              "url": "https://www.livemint.com/market/stock-market-news/do-you-know-how-to-transfer-physical-shares-to-demat-account-11777622789346.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/AC_tonnage_1777370533417_1777370553539_1777608464425.png",
-              "publishedAt": "Fri, 01 May 2026 10:02:23 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/gc83f52a02d5281bb28e72844be0ba610fb92d6d82e0ef26ae_1714126668039_1777625469472.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:34:26 +0530"
             },
             {
-              "title": "Rajesh Palviya of Axis Sec suggests Sun Pharma, Chennai Petro, Great Eastern Shipping shares to buy next week",
-              "description": "On Thursday, Sensex and Nifty 50 declined nearly 1%, affected by increasing crude prices and foreign fund outflows. Sensex settled at 76,913.50 and Nifty 50 at 23,997.55. Markets will remain closed on Friday for Maharash",
-              "url": "https://www.livemint.com/market/stock-market-news/rajesh-palviya-of-axis-sec-suggests-sun-pharma-chennai-petro-great-eastern-shipping-shares-to-buy-next-week-11777606215378.html",
-              "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/Rajesh_Palviya_1770616160698_1770616164175_1777609050638.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:52:25 +0530"
+              "title": "After a 60% rally, can Ola Electric shares extend gains following 20% MoM sales growth in April?",
+              "description": "Ola Electric shares have surged over 60% from recent lows, supported by a 20% month-on-month rise in April registrations. Despite a broader industry decline, the company posted growth, boosting sentiment. Analysts remain",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/after-a-60-rally-can-ola-electric-shares-extend-gains-following-20-mom-sales-growth-in-april/articleshow/130674020.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130674020,imgsize-44600.cms",
+              "publishedAt": "Fri, 01 May 2026 14:29:32 +0530"
             }
           ]
         },
@@ -1403,20 +1403,20 @@
               "publishedAt": "Wed, 05 Oct 2016 08:00:04 +0530"
             },
             {
-              "title": "Govt of Singapore’s India portfolio: 10 stocks rally up to 70% in a year, 5 new Q4 picks unveiled",
-              "description": "The Government of Singapore’s India portfolio declined in value despite select stocks delivering strong gains. While several holdings posted double-digit returns, others saw sharp losses, reflecting mixed performance. Th",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-10-stocks-rally-up-to-70-in-a-year-5-new-q4-picks-unveiled/slideshow/130669704.cms",
+              "title": "After a 60% rally, can Ola Electric shares extend gains following 20% MoM sales growth in April?",
+              "description": "Ola Electric shares have surged over 60% from recent lows, supported by a 20% month-on-month rise in April registrations. Despite a broader industry decline, the company posted growth, boosting sentiment. Analysts remain",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/after-a-60-rally-can-ola-electric-shares-extend-gains-following-20-mom-sales-growth-in-april/articleshow/130674020.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-130669504,imgsize-29898.cms",
-              "publishedAt": "Fri, 01 May 2026 09:01:21 +0530"
+              "image": "https://img.etimg.com/photo/msid-130674020,imgsize-44600.cms",
+              "publishedAt": "Fri, 01 May 2026 14:29:32 +0530"
             },
             {
-              "title": "Stock market holiday today: Are NSE, BSE and MCX open or closed on May 1 for Maharashtra Day and Labour Day? Check now",
-              "description": "NSE Holidays 2026: Domestic stock exchanges NSE and BSE will be shut for trading on Friday due to  Maharashtra Day holiday. There will be no trading on NCDEX, while MCX will resume trading in the evening session.",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-today-for-maharashtra-day-2026-are-nse-bse-and-mcx-open-or-closed-on-may-1-check-now/articleshow/130627770.cms",
+              "title": "​9 high-growth smallcap stocks surged up to 170%; 4 became multibaggers",
+              "description": "BSE small-cap earnings showed strong momentum, with select companies delivering over 50% profit growth and sharp stock gains. A few standout performers combined earnings acceleration with multibagger returns, highlightin",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/9-high-growth-small-cap-stocks-surged-up-to-170-4-became-multibaggers/slideshow/130671853.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-130627770,imgsize-88448.cms",
-              "publishedAt": "Fri, 01 May 2026 07:00:00 +0530"
+              "image": "https://img.etimg.com/photo/msid-130671647,imgsize-38169.cms",
+              "publishedAt": "Fri, 01 May 2026 11:51:20 +0530"
             }
           ]
         },
@@ -1490,20 +1490,20 @@
               "publishedAt": "Wed, 05 Oct 2016 08:00:04 +0530"
             },
             {
-              "title": "Four AC stocks in India to add to your watchlist",
-              "description": "Changing weather conditions could be setting the stage for a strong sectoral move.",
-              "url": "https://www.livemint.com/market/stock-market-news/air-conditioner-stocks-india-voltas-blue-star-ac-stocks-pg-electroplast-summer-stocks-11777606842202.html",
+              "title": "Do you know how to transfer physical shares to demat account?",
+              "description": "Investors are urged to convert physical share certificates into dematerialised form due to regulatory changes. The process involves opening a demat account and submitting a Dematerialisation Request Form. This transition",
+              "url": "https://www.livemint.com/market/stock-market-news/do-you-know-how-to-transfer-physical-shares-to-demat-account-11777622789346.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/AC_tonnage_1777370533417_1777370553539_1777608464425.png",
-              "publishedAt": "Fri, 01 May 2026 10:02:23 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/gc83f52a02d5281bb28e72844be0ba610fb92d6d82e0ef26ae_1714126668039_1777625469472.jpg",
+              "publishedAt": "Fri, 01 May 2026 14:34:26 +0530"
             },
             {
-              "title": "Rajesh Palviya of Axis Sec suggests Sun Pharma, Chennai Petro, Great Eastern Shipping shares to buy next week",
-              "description": "On Thursday, Sensex and Nifty 50 declined nearly 1%, affected by increasing crude prices and foreign fund outflows. Sensex settled at 76,913.50 and Nifty 50 at 23,997.55. Markets will remain closed on Friday for Maharash",
-              "url": "https://www.livemint.com/market/stock-market-news/rajesh-palviya-of-axis-sec-suggests-sun-pharma-chennai-petro-great-eastern-shipping-shares-to-buy-next-week-11777606215378.html",
-              "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/Rajesh_Palviya_1770616160698_1770616164175_1777609050638.jpg",
-              "publishedAt": "Fri, 01 May 2026 09:52:25 +0530"
+              "title": "After a 60% rally, can Ola Electric shares extend gains following 20% MoM sales growth in April?",
+              "description": "Ola Electric shares have surged over 60% from recent lows, supported by a 20% month-on-month rise in April registrations. Despite a broader industry decline, the company posted growth, boosting sentiment. Analysts remain",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/after-a-60-rally-can-ola-electric-shares-extend-gains-following-20-mom-sales-growth-in-april/articleshow/130674020.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130674020,imgsize-44600.cms",
+              "publishedAt": "Fri, 01 May 2026 14:29:32 +0530"
             }
           ]
         }
@@ -1576,14 +1576,6 @@
               "publishedAt": "Thu, 30 Apr 2026 23:11:37 GMT"
             },
             {
-              "title": "Fertiliser boss says war puts 10 billion meals a week at risk",
-              "description": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-              "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 23:08:09 GMT"
-            },
-            {
               "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
               "description": "The number of county court judgements rose by 17.5% in the first quarter of this year compared to last, data suggests.",
               "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
@@ -1598,6 +1590,14 @@
               "source": "cnbc.com",
               "image": "",
               "publishedAt": "Thu, 30 Apr 2026 23:06:23 GMT"
+            },
+            {
+              "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+              "description": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
+              "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 23:04:43 GMT"
             }
           ]
         },
@@ -1613,14 +1613,6 @@
               "source": "feeds.bbci.co.uk",
               "image": "",
               "publishedAt": "Thu, 30 Apr 2026 23:11:37 GMT"
-            },
-            {
-              "title": "Fertiliser boss says war puts 10 billion meals a week at risk",
-              "description": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-              "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 23:08:09 GMT"
             },
             {
               "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
@@ -1647,28 +1639,28 @@
               "publishedAt": "Thu, 30 Apr 2026 23:04:43 GMT"
             },
             {
-              "title": "Trump to remove whisky tariffs after King's visit",
-              "description": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
-              "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 21:45:57 GMT"
-            },
-            {
-              "title": "Trump signs DHS funding bill, ending shutdown for most of agency, including TSA",
-              "description": "Trump on Thursday signed legislation to fund the Department of Homeland Security after the House approved the bill earlier in the afternoon.",
-              "url": "https://www.cnbc.com/2026/04/30/congress-dhs-tsa-funding.html",
+              "title": "Trump signs executive order expanding retirement account access for workers",
+              "description": "The president's executive order expands retirement account access for workers and will be integrated with the Saver's Match.",
+              "url": "https://www.cnbc.com/2026/04/30/trump-executive-order-expanding-retirement-account-access.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 20:54:05 GMT"
+              "publishedAt": "Thu, 30 Apr 2026 22:20:45 GMT"
             },
             {
-              "title": "Intel's stock more than doubles in April for best month in chipmaker's 55 years on Nasdaq",
-              "description": "Intel's market cap more than doubled in April, boosted by a blowout earnings report and optimism that the chipmaker is in the midst of a revival.",
-              "url": "https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html",
+              "title": "Jim Cramer says the market’s biggest winners all have one thing in common",
+              "description": "CNBC's Jim Cramer said he only sees two sectors in the market these days — the data center stocks and everything else.",
+              "url": "https://www.cnbc.com/2026/04/30/jim-cramer-markets-biggest-winners.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 20:10:36 GMT"
+              "publishedAt": "Thu, 30 Apr 2026 22:16:50 GMT"
+            },
+            {
+              "title": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+              "description": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+              "url": "https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Thu, 30 Apr 2026 19:25:06 GMT"
             },
             {
               "title": "What the Renters' Rights Act means for tenants and landlords",
@@ -1679,12 +1671,20 @@
               "publishedAt": "Thu, 30 Apr 2026 16:42:58 GMT"
             },
             {
-              "title": "GIFT Nifty rises 200 points, hints at a positive start for Dalal Street next week",
-              "description": "Indian stocks might open higher next week. GIFT Nifty showed a strong rise Friday morning. Investors are watching oil prices and global events. The market faced a sharp selloff recently. Foreign investors have been selli",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-rises-200-points-hints-at-a-positive-start-for-dalal-street-next-week/articleshow/130670112.cms",
+              "title": "After a 60% rally, can Ola Electric shares extend gains following 20% MoM sales growth in April?",
+              "description": "Ola Electric shares have surged over 60% from recent lows, supported by a 20% month-on-month rise in April registrations. Despite a broader industry decline, the company posted growth, boosting sentiment. Analysts remain",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/after-a-60-rally-can-ola-electric-shares-extend-gains-following-20-mom-sales-growth-in-april/articleshow/130674020.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-130670112,imgsize-110060.cms",
-              "publishedAt": "Fri, 01 May 2026 09:50:39 +0530"
+              "image": "https://img.etimg.com/photo/msid-130674020,imgsize-44600.cms",
+              "publishedAt": "Fri, 01 May 2026 14:29:32 +0530"
+            },
+            {
+              "title": "Global Markets | Japan's Nikkei rises on tech rally, stronger yen lifts JGBs",
+              "description": "Japan's Nikkei share average edged higher on Friday, helped by ​gains in a small group of technology stocks, while the yen's rally helped government bond prices rebound.",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rises-on-tech-rally-stronger-yen-lifts-jgbs/articleshow/130673000.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-130673000,imgsize-178484.cms",
+              "publishedAt": "Fri, 01 May 2026 13:30:01 +0530"
             }
           ]
         },
@@ -1766,12 +1766,12 @@
               "publishedAt": "Thu, 30 Apr 2026 23:11:37 GMT"
             },
             {
-              "title": "Fertiliser boss says war puts 10 billion meals a week at risk",
-              "description": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-              "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+              "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
+              "description": "The number of county court judgements rose by 17.5% in the first quarter of this year compared to last, data suggests.",
+              "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Thu, 30 Apr 2026 23:08:09 GMT"
+              "publishedAt": "Thu, 30 Apr 2026 23:07:00 GMT"
             }
           ]
         },
@@ -1789,44 +1789,12 @@
               "publishedAt": "Thu, 30 Apr 2026 22:13:13 +0000"
             },
             {
-              "title": "Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso",
-              "description": "A Bitso report shows shifting user behavior as dollar-linked stablecoins gain traction for everyday financial use across Latin America’s inflation-hit economies.",
-              "url": "https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLUxhdGluLUFtZXJpY2EtaXMtcmVhZHktZm9yLWNyeXB0by0lRTIlODAlOTQtanVzdC1pbnRlZ3JhdGUtaXQtd2l0aC10aGVpci1wYXltZW50LXN5c3RlbXMyMS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
-              "publishedAt": "Thu, 30 Apr 2026 21:12:00 +0000"
-            },
-            {
               "title": "From Cathie Wood to Cantor Fitzgerald, the big money is betting that Robinhood’s crypto slump is just a temporary speed bump",
               "description": "Cathie Wood’s Ark Invest snapped up over 500,000 shares of Robinhood on Wednesday, joining a wave of analysts who believe a surge in April trading activity will outweigh a recent earnings disappointment.",
               "url": "https://www.coindesk.com/markets/2026/04/30/from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhood-s-crypto-slump-is-just-a-temporary-speed-bump",
               "source": "coindesk.com",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/04dcac29907c5f042fa5216cd5e76b91a57d6d03-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
               "publishedAt": "Thu, 30 Apr 2026 19:30:05 +0000"
-            },
-            {
-              "title": "Bitcoin’s $75K cost basis emerges as key support zone for current bull trend",
-              "description": "Bitcoin found support above a key investor cost-basis level as spot BTC ETF flows and spot positioning compressed BTC’s price range in preparation for the next trending move.",
-              "url": "https://cointelegraph.com/markets/bitcoins-75k-cost-basis-cluster-emerges-as-key-support-zone-for-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLUEtYmVnaW5uZXIncy1ndWlkZS10by11bmRlcnN0YW5kaW5nLXdyYXBwZWQtQml0Y29pbi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
-              "publishedAt": "Thu, 30 Apr 2026 18:56:06 +0000"
-            },
-            {
-              "title": "Insider trading backlash forces Polymarket to step up surveillance",
-              "description": "Polymarket has selected Chainalysis to flag suspicious trades as insider betting concerns mount and regulators tighten scrutiny on prediction markets.",
-              "url": "https://cointelegraph.com/news/polymarket-chainalysis-insider-betting-detection-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwV2hhdCUyMEFyZSUyMHprLVNOQVJLcyUyMGFuZCUyMEhvdyUyMERvJTIwVGhleSUyMEFmZmVjdCUyMERpZ2l0YWwlMjBQcml2YWN5LmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
-              "publishedAt": "Thu, 30 Apr 2026 18:35:00 +0000"
-            },
-            {
-              "title": "Sentora brings institutional DeFi to the public with the launch of its Smart Yield platform",
-              "description": "Sentora has announced that Sentora Smart Yield is now publicly available, opening access to its DeFi vault discovery and monitoring platform to all users.",
-              "url": "https://cointelegraph.com/press-releases/sentora-brings-institutional-defi-to-the-public-with-the-launch-of-its-smart-yield-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlLzItMS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
-              "publishedAt": "Thu, 30 Apr 2026 17:34:21 +0000"
             },
             {
               "title": "Senator Warren questions Commerce Secretary Lutnick on Tether loan to family",
@@ -1837,28 +1805,60 @@
               "publishedAt": "Thu, 30 Apr 2026 17:06:21 +0000"
             },
             {
-              "title": "Three reasons why $3K ETH price target is back for May",
-              "description": "Despite Ether’s 8% deviation from 10-week highs above $2,460, data suggests that ETH's price could still rise toward $3,000 as a new month begins.",
-              "url": "https://cointelegraph.com/markets/three-reasons-why-3k-eth-price-target-is-still-in-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLVdoYXQtaXMtUG9XLUV0aGVyZXVtLShFVEhXKS1hbmQtaG93LWRvZXMtaXQtd29yay5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
-              "publishedAt": "Thu, 30 Apr 2026 16:24:35 +0000"
-            },
-            {
-              "title": "Bitcoin Coinbase Premium threatens bear flag repeat with BTC price at $76K",
-              "description": "Bitcoin price action risked repeating January's breakdown despite April being poised to offer the best monthly BTC price gains in a year.",
-              "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-threatens-bear-flag-repeat-with-btc-price-at-76k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50ZWxlZ3JhcGguY29tL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2JlYXIlMjBjcnlwdG8lMjBtYXJrZXQxLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
-              "publishedAt": "Thu, 30 Apr 2026 16:01:22 +0000"
-            },
-            {
               "title": "A Polymarket-linked bet on the weather in France forecasts a major data issue",
               "description": "The incident shows that as more real-world outcomes become tradable, the real bottleneck is not trading itself, but the integrity and certification of the data used for settlement, argues Hallali.",
               "url": "https://www.coindesk.com/opinion/2026/04/30/a-polymarket-linked-bet-on-the-weather-in-france-forecasts-a-major-data-issue",
               "source": "coindesk.com",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/11a4938ae135a45b5963e86173561666eb37136c-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
               "publishedAt": "Thu, 30 Apr 2026 15:27:33 +0000"
+            },
+            {
+              "title": "Gemini eyes prediction market challenge to Kalshi, Polymarket, secures derivatives license; shares surge",
+              "description": "Tyler and Cameron Winklevoss' crypto exchange now holds licenses allowing it to expand into regulated derivatives and prediction markets, the fastest-growing sectors in crypto.",
+              "url": "https://www.coindesk.com/policy/2026/04/30/gemini-eyes-prediction-market-challenge-to-kalshi-polymarket-secures-derivatives-license-shares-surge",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/0dfcc4d7c71fa2880b01af9aab8bf1de0ab3225e-3780x2124.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 30 Apr 2026 15:22:39 +0000"
+            },
+            {
+              "title": "Polymarket taps Chainalysis to bring Wall Street-level oversight to crypto prediction markets",
+              "description": "By partnering with Chainalysis to monitor its blockchain data in real-time, Polymarket is signaling to both users and regulators that it is serious about eliminating insider trading and market manipulation.",
+              "url": "https://www.coindesk.com/business/2026/04/30/polymarket-taps-chainalysis-to-bring-wall-street-level-oversight-to-crypto-prediction-markets",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/1336be5f04368968b919876af2286e534602b7ac-3803x2139.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 30 Apr 2026 15:05:09 +0000"
+            },
+            {
+              "title": "Bakkt completes acquisition of stablecoin payments firm Distributed Technologies Research",
+              "description": "Bakkt announced the deal in January, which was originally for 9.3 million shares, along with a corporate name change to Bakkt Inc.",
+              "url": "https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL21vbmV5JTIwZG9sbGFyJTIwY2FsY3VsYXRvciUyMCgyKS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
+              "publishedAt": "Fri, 01 May 2026 07:43:18 +0000"
+            },
+            {
+              "title": "Bithumb scores a legal win in South Korea as six-month suspension is lifted by local judge",
+              "description": "South Korea's financial watchdog imposed a $24.6 million fine on Bithumb and partial suspension that came into effect last month.",
+              "url": "https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e7d334bb1f703ff5b0643840f44918d12dc05cc-1500x837.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Fri, 01 May 2026 07:41:24 +0000"
+            },
+            {
+              "title": "Strategy keeps STRC dividend at 11.5% as stock logs first monthly gain in nine",
+              "description": "STRC’s volume weighted average price of $99.76 for April kept the dividend steady for a third consecutive month.",
+              "url": "https://www.coindesk.com/markets/2026/05/01/strategy-keeps-strc-dividend-at-11-5-as-stock-logs-first-monthly-gain-in-nine",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/3efa9d7cc7ee03df475afd9c52faf9fea428454f-2130x1736.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Fri, 01 May 2026 07:01:47 +0000"
+            },
+            {
+              "title": "Bitcoin risks extended retreat as April rally was futures-driven: CryptoQuant",
+              "description": "Futures drove up Bitcoin's price in April while spot demand declined, which CryptoQuant warned has historically preceded extended price declines.",
+              "url": "https://cointelegraph.com/news/bitcoin-risks-decline-rally-speculative-not-structural-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwbWFya2V0c1BybyUyMG9uZS1zdG9wJTIwaW5zdGl0dXRpb25hbC1ncmFkZSUyMGNyeXB0byUyMGludGVsbGlnZW5jZSUyMGRhc2hib2FyZCUyMEJpdGNvaW4uanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg",
+              "publishedAt": "Fri, 01 May 2026 06:53:44 +0000"
             }
           ]
         }
