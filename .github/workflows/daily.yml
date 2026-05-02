@@ -45,6 +45,6 @@ jobs:
         run: |
           git config user.name  "BharatInfo Bot"
           git config user.email "bot@bharatinfo.in"
-          git add docs/today.json docs/*.json
+          git add -A docs/
           git diff --cached --quiet || git commit -m "📰 Digest update – $(TZ='Asia/Kolkata' date +'%Y-%m-%d %H:%M IST')"
           git push
