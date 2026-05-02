@@ -695,18 +695,6 @@ function getMarketStatus(){
   }
   return {open:false, label:'CLOSED · Opens tomorrow 9:15 AM', class:'mkt-closed'};
 }
-    const d=await r.json();
-    const parsed=JSON.parse(d.contents);
-    const meta=parsed?.chart?.result?.[0]?.meta;
-    if(!meta) return null;
-    return{
-      symbol,
-      name: meta.shortName||meta.symbol||symbol,
-      price: meta.regularMarketPrice,
-      prev:  meta.chartPreviousClose||meta.previousClose,
-    };
-  }catch(e){return null;}
-}
 
 function chgHTML(price,prev){
   if(!prev||!price) return '';
