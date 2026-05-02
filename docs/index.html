@@ -226,6 +226,36 @@ body { top: 0 !important; }
   padding: 1rem 2rem;
 }
 .stocks-inner { max-width: 1280px; margin: 0 auto; }
+
+/* Market Status Bar */
+.market-status-bar {
+  display: flex; align-items: center; justify-content: space-between;
+  padding-bottom: 0.8rem; margin-bottom: 0.8rem;
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap; gap: 0.5rem;
+}
+.market-status {
+  display: flex; align-items: center; gap: 0.5rem;
+  font-family: var(--f-mono); font-size: 0.7rem;
+  font-weight: 600; letter-spacing: 0.05em;
+}
+.mkt-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+}
+.market-status.mkt-open .mkt-dot {
+  background: #16a34a;
+  box-shadow: 0 0 8px #16a34a;
+  animation: pulse 1.5s infinite;
+}
+.market-status.mkt-closed .mkt-dot { background: #dc2626; }
+.market-status.mkt-pre .mkt-dot { background: #ea580c; }
+.market-status.mkt-open { color: #16a34a; }
+.market-status.mkt-closed { color: #dc2626; }
+.market-status.mkt-pre { color: #ea580c; }
+.market-time {
+  font-family: var(--f-mono); font-size: 0.62rem;
+  color: var(--muted); letter-spacing: 0.04em;
+}
 .stocks-row { display: flex; gap: 1rem; flex-wrap: wrap; align-items: flex-start; }
 .stocks-col { flex: 1; min-width: 280px; }
 .stocks-col-title {
@@ -479,7 +509,11 @@ footer span { color: #aaa; }
 
 <!-- HERO -->
 <div class="hero">
-  <div class="hero-eyebrow"><span class="dot-live"></span><span id="updated-label">Loading today's digest…</span></div>
+  <div class="hero-eyebrow">
+    <span class="dot-live"></span>
+    <span id="updated-label">Loading today's digest…</span>
+    <span id="refresh-time" style="margin-left:1rem;font-family:var(--f-mono);font-size:0.58rem;color:var(--muted);"></span>
+  </div>
   <div class="hero-title">
     <span class="c-ai">AI</span> ·
     <span class="c-corp">Business</span> ·
@@ -492,11 +526,18 @@ footer span { color: #aaa; }
 <!-- LIVE STOCKS PANEL -->
 <div class="stocks-panel">
   <div class="stocks-inner">
+    <div class="market-status-bar">
+      <div class="market-status" id="market-status">
+        <span class="mkt-dot"></span>
+        <span id="mkt-label">Checking market status…</span>
+      </div>
+      <div class="market-time" id="market-time"></div>
+    </div>
     <div class="stocks-row">
       <div class="stocks-col">
         <div class="stocks-col-title">🇮🇳 Top 10 Indian Stocks (NSE)</div>
         <table class="stock-table" id="tbl-india"></table>
-        <div class="stocks-note">* Prices via Yahoo Finance (auto-refresh every 5 min)</div>
+        <div class="stocks-note">* Prices via Yahoo Finance · Delayed 15-20 minutes · Updated when market is open</div>
       </div>
       <div class="stocks-col">
         <div class="stocks-col-title">📉 Today's Top 10 Losers (NSE)</div>
@@ -576,17 +617,86 @@ function timeAgo(iso){
 // ── LIVE STOCK DATA (Yahoo Finance via allorigins proxy) ──────────────
 const INDIA_SYMBOLS  = ['RELIANCE.NS','TCS.NS','HDFCBANK.NS','INFY.NS','HINDUNILVR.NS','ICICIBANK.NS','SBIN.NS','BAJFINANCE.NS','AXISBANK.NS','WIPRO.NS'];
 const LOSER_SYMBOLS  = ['TATAMOTORS.NS','ONGC.NS','COALINDIA.NS','NTPC.NS','POWERGRID.NS','BPCL.NS','GAIL.NS','IOC.NS','HEROMOTOCO.NS','DRREDDY.NS'];
-const GLOBAL_SYMBOLS = ['^GSPC','^IXIC','^DJI','^N225','^HSI','^FTSE','GC=F','CL=F','BTC-USD','ETH-USD'];
-const GLOBAL_NAMES = {"^GSPC":"S&P 500","^IXIC":"Nasdaq","^DJI":"Dow Jones","^N225":"Nikkei 225","^HSI":"Hang Seng","^FTSE":"FTSE 100","GC=F":"Gold","CL=F":"Crude Oil","BTC-USD":"Bitcoin","ETH-USD":"Ethereum"};
+const GLOBAL_SYMBOLS = ['^GSPC','^IXIC','^DJI','^N225','^HSI','GC=F','SI=F','CL=F','INR=X','BTC-USD'];
+const GLOBAL_NAMES = {"^GSPC":"S&P 500","^IXIC":"Nasdaq","^DJI":"Dow Jones","^N225":"Nikkei 225","^HSI":"Hang Seng","^FTSE":"FTSE 100","GC=F":"Gold (24K)","SI=F":"Silver","CL=F":"Crude Oil","INR=X":"USD/INR","BTC-USD":"Bitcoin","ETH-USD":"Ethereum"};
 
 async function fetchQuote(symbol){
   try{
     const url=`https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=1d&range=1d`;
     const proxy=`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
     const controller=new AbortController();
-    const timer=setTimeout(()=>controller.abort(),8000);
+    const timer=setTimeout(()=>controller.abort(),10000);
     const r=await fetch(proxy,{signal:controller.signal});
     clearTimeout(timer);
+    const d=await r.json();
+    const parsed=JSON.parse(d.contents);
+    const meta=parsed?.chart?.result?.[0]?.meta;
+    if(!meta) return null;
+    let price = meta.regularMarketPrice;
+    let prev  = meta.chartPreviousClose||meta.previousClose;
+    let unit  = '';
+    let name  = GLOBAL_NAMES[symbol] || INDIA_NAMES[symbol] || meta.shortName || symbol;
+    
+    // Convert Gold (USD/oz) → INR per gram (1 oz = 31.1035 grams, USD/INR ≈ 84)
+    if(symbol === 'GC=F'){
+      price = (price / 31.1035) * 84;  // USD/oz → INR/gram
+      prev  = (prev  / 31.1035) * 84;
+      unit = '/gm';
+      name = 'Gold (24K)';
+    }
+    if(symbol === 'SI=F'){
+      price = (price / 31.1035) * 84;
+      prev  = (prev  / 31.1035) * 84;
+      unit = '/gm';
+      name = 'Silver';
+    }
+    if(symbol === 'CL=F'){
+      // Crude oil — keep USD per barrel, more recognizable
+      unit = '/bbl';
+      name = 'Crude Oil';
+    }
+    if(symbol === 'INR=X'){
+      name = 'USD/INR';
+    }
+    
+    return{
+      symbol, name, price, prev, unit,
+    };
+  }catch(e){return null;}
+}
+
+// Clean Indian stock names
+const INDIA_NAMES = {
+  "RELIANCE.NS":"Reliance","TCS.NS":"TCS","HDFCBANK.NS":"HDFC Bank",
+  "INFY.NS":"Infosys","HINDUNILVR.NS":"HUL","ICICIBANK.NS":"ICICI Bank",
+  "SBIN.NS":"SBI","BAJFINANCE.NS":"Bajaj Finance","AXISBANK.NS":"Axis Bank","WIPRO.NS":"Wipro",
+  "TATAMOTORS.NS":"Tata Motors","ONGC.NS":"ONGC","COALINDIA.NS":"Coal India",
+  "NTPC.NS":"NTPC","POWERGRID.NS":"PowerGrid","BPCL.NS":"BPCL","GAIL.NS":"GAIL",
+  "IOC.NS":"IOC","HEROMOTOCO.NS":"Hero MotoCorp","DRREDDY.NS":"Dr. Reddy's"
+};
+
+// ── MARKET STATUS ─────────────────────────────────────────────────────
+function getMarketStatus(){
+  const now = new Date();
+  const ist = new Date(now.toLocaleString('en-US',{timeZone:'Asia/Kolkata'}));
+  const day = ist.getDay();   // 0=Sun, 6=Sat
+  const hr = ist.getHours();
+  const min = ist.getMinutes();
+  const totalMin = hr*60 + min;
+
+  // Weekend
+  if(day === 0 || day === 6){
+    return {open:false, label:'CLOSED · Weekend', class:'mkt-closed'};
+  }
+  // NSE: 9:15 AM to 3:30 PM IST (555 to 930 minutes)
+  if(totalMin >= 555 && totalMin <= 930){
+    return {open:true, label:'OPEN · Live Trading', class:'mkt-open'};
+  }
+  if(totalMin < 555){
+    return {open:false, label:'PRE-MARKET · Opens 9:15 AM', class:'mkt-pre'};
+  }
+  return {open:false, label:'CLOSED · Opens tomorrow 9:15 AM', class:'mkt-closed'};
+}
     const d=await r.json();
     const parsed=JSON.parse(d.contents);
     const meta=parsed?.chart?.result?.[0]?.meta;
@@ -609,15 +719,19 @@ function chgHTML(price,prev){
   return `<span class="${cls}">${sign}${pct}%</span>`;
 }
 
-function fillTable(tbId, quotes, nameMap){
+function fillTable(tbId, quotes){
   const tb=document.getElementById(tbId);
   if(!tb) return;
-  tb.innerHTML=quotes.filter(Boolean).map(q=>`
+  tb.innerHTML=quotes.filter(Boolean).map(q=>{
+    const priceStr = q.price ? q.price.toLocaleString('en-IN',{maximumFractionDigits:2}) : '-';
+    const unit = q.unit ? `<span style="font-size:.85em;color:var(--muted)">${q.unit}</span>` : '';
+    return `
     <tr>
-      <td class="s-name">${esc(nameMap?nameMap[q.symbol]:q.name)}</td>
-      <td class="s-price">${q.price?q.price.toLocaleString('en-IN',{maximumFractionDigits:2}):'-'}</td>
+      <td class="s-name">${esc(q.name)}</td>
+      <td class="s-price">${priceStr} ${unit}</td>
       <td class="s-chg">${chgHTML(q.price,q.prev)}</td>
-    </tr>`).join('');
+    </tr>`;
+  }).join('');
 }
 
 async function loadStocks(){
@@ -629,9 +743,9 @@ async function loadStocks(){
     Promise.all(LOSER_SYMBOLS.map(fetchQuote)),
     Promise.all(GLOBAL_SYMBOLS.map(fetchQuote)),
   ]);
-  fillTable('tbl-india',  indiaQ,  null);
-  fillTable('tbl-losers', loserQ,  null);
-  fillTable('tbl-global', globalQ, GLOBAL_NAMES);
+  fillTable('tbl-india',  indiaQ);
+  fillTable('tbl-losers', loserQ);
+  fillTable('tbl-global', globalQ);
   buildTicker([...indiaQ,...globalQ].filter(Boolean));
 }
 
@@ -657,28 +771,104 @@ function buildTicker(quotes){
 loadStocks();
 setInterval(loadStocks, 5*60*1000);
 
+// ── MARKET STATUS UPDATER ─────────────────────────────────────────────
+function updateMarketStatus(){
+  const status = getMarketStatus();
+  const el = document.getElementById('market-status');
+  const lbl = document.getElementById('mkt-label');
+  const tm = document.getElementById('market-time');
+  if(!el || !lbl) return;
+  el.className = 'market-status ' + status.class;
+  lbl.textContent = status.label;
+  if(tm){
+    const ist = new Date().toLocaleString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:true});
+    tm.textContent = 'IST: ' + ist;
+  }
+}
+updateMarketStatus();
+setInterval(updateMarketStatus, 1000);
+
 // ── NEWS RENDER ───────────────────────────────────────────────────────
-// Category fallback images from Unsplash (free, no key needed)
+// Multiple fallback images per category — different image for each card
 const CAT_FALLBACKS = {
-  ai:         'https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=600&q=80',
-  corporate:  'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=80',
-  politics:   'https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=80',
-  instock:    'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80',
-  worldstock: 'https://images.unsplash.com/photo-1642543492481-44e81e3914a7?w=600&q=80',
+  ai: [
+    'https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=600&q=80',
+    'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80',
+    'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80',
+    'https://images.unsplash.com/photo-1555255707-c07966088b7b?w=600&q=80',
+    'https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80',
+    'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=80',
+    'https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=80',
+    'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&q=80',
+    'https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=80',
+    'https://images.unsplash.com/photo-1676573392026-bed9f654a6c0?w=600&q=80',
+  ],
+  corporate: [
+    'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=80',
+    'https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80',
+    'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80',
+    'https://images.unsplash.com/photo-1556761175-4b46a572b786?w=600&q=80',
+    'https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?w=600&q=80',
+    'https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=600&q=80',
+    'https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=600&q=80',
+    'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80',
+    'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&q=80',
+    'https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&q=80',
+  ],
+  politics: [
+    'https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=80',
+    'https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=600&q=80',
+    'https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80',
+    'https://images.unsplash.com/photo-1524069290683-0457abfe42c3?w=600&q=80',
+    'https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=600&q=80',
+    'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80',
+    'https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=600&q=80',
+    'https://images.unsplash.com/photo-1580128660010-fd027e1e587a?w=600&q=80',
+    'https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?w=600&q=80',
+    'https://images.unsplash.com/photo-1568644396922-5c3bfae12521?w=600&q=80',
+  ],
+  instock: [
+    'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80',
+    'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&q=80',
+    'https://images.unsplash.com/photo-1535320903710-d993d3d77d29?w=600&q=80',
+    'https://images.unsplash.com/photo-1642543492481-44e81e3914a7?w=600&q=80',
+    'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=80',
+    'https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?w=600&q=80',
+    'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80',
+    'https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?w=600&q=80',
+    'https://images.unsplash.com/photo-1627389955646-6596047473d7?w=600&q=80',
+    'https://images.unsplash.com/photo-1580519542036-c47de6196ba5?w=600&q=80',
+  ],
+  worldstock: [
+    'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80',
+    'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80',
+    'https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80',
+    'https://images.unsplash.com/photo-1543286386-713bdd548da4?w=600&q=80',
+    'https://images.unsplash.com/photo-1616514169581-2d2dfe30f487?w=600&q=80',
+    'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80',
+    'https://images.unsplash.com/photo-1518186233392-c232efbf2373?w=600&q=80',
+    'https://images.unsplash.com/photo-1559523161-0fc0d8b38a7a?w=600&q=80',
+    'https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=600&q=80',
+    'https://images.unsplash.com/photo-1619367763012-7c8dfb29a81e?w=600&q=80',
+  ],
 };
 
-function getImg(a, catId){
-  if(a.image) return `<img class="card-img" src="${esc(a.image)}" alt="" loading="lazy" onerror="this.src='${CAT_FALLBACKS[catId]||CAT_FALLBACKS.corporate}'">`;
-  // try to get screenshot of article via Google's thumbnail service
+function getFallbackImg(catId, index){
+  const list = CAT_FALLBACKS[catId] || CAT_FALLBACKS.corporate;
+  return list[index % list.length];
+}
+
+function getImg(a, catId, index){
+  const fallback = getFallbackImg(catId, index);
+  if(a.image) return `<img class="card-img" src="${esc(a.image)}" alt="" loading="lazy" onerror="this.src='${fallback}'">`;
   try{
     const domain = new URL(a.url).hostname;
     const gThumb = `https://www.google.com/s2/favicons?domain=${domain}&sz=128`;
-    // use category fallback as main, show favicon as small badge
-    return `<div class="card-img-ph" style="background-image:url('${CAT_FALLBACKS[catId]||CAT_FALLBACKS.corporate}');background-size:cover;background-position:center;position:relative;">
-      <img src="${gThumb}" style="position:absolute;bottom:8px;right:8px;width:24px;height:24px;border-radius:4px;background:#fff;padding:2px;" onerror="this.style.display='none'">
+    return `<div class="card-img-ph" style="background-image:url('${fallback}');background-size:cover;background-position:center;position:relative;">
+      <img src="${gThumb}" style="position:absolute;bottom:8px;right:8px;width:28px;height:28px;border-radius:4px;background:#fff;padding:2px;box-shadow:0 1px 4px rgba(0,0,0,0.2);" onerror="this.style.display='none'">
     </div>`;
   }catch(e){
-    return `<div class="card-img-ph" style="background-image:url('${CAT_FALLBACKS[catId]||CAT_FALLBACKS.corporate}');background-size:cover;background-position:center;"></div>`;
+    return `<div class="card-img-ph" style="background-image:url('${fallback}');background-size:cover;background-position:center;"></div>`;
   }
 }
 
@@ -686,7 +876,7 @@ function buildCard(a, catId, i){
   const feat=i===0?' featured':'';
   return `
   <a class="card ${catId}${feat}" href="${getArticleUrl(a.url)}" target="_blank" rel="noopener">
-    ${getImg(a, catId)}
+    ${getImg(a, catId, i)}
     <div class="card-body">
       <div class="card-meta">
         <span class="card-source" translate="no">${esc(a.source)}</span>
@@ -783,8 +973,8 @@ async function loadArchive(){
 }
 
 // ── SUPABASE CONFIG — replace these two values ────────────────────────
-const SUPABASE_URL = "https://ckthpgluaacxutmabnzr.supabase.co";   // ← paste your Supabase URL
-const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNrdGhwZ2x1YWFjeHV0bWFibnpyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc1Mzk5MjcsImV4cCI6MjA5MzExNTkyN30.bSeaCMH_-M91A_W9l5lILLYTKI_hpTrZX9S-IRHCo4Y";                 // ← paste your anon key
+const SUPABASE_URL = "https://YOUR_PROJECT.supabase.co";   // ← paste your Supabase URL
+const SUPABASE_KEY = "YOUR_ANON_KEY_HERE";                 // ← paste your anon key
 
 // ── FEEDBACK ──────────────────────────────────────────────────────────
 function openFeedback(){
@@ -875,6 +1065,31 @@ function doTranslate(lang){
 // ── INIT ──────────────────────────────────────────────────────────────
 loadArchive();
 loadDate(null);
+
+// ── AUTO PAGE REFRESH every 15 minutes (silently checks for new news) ─
+function updateRefreshTime(){
+  const el = document.getElementById('refresh-time');
+  if(el) el.textContent = 'Last checked: ' + new Date().toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
+}
+
+async function silentRefresh(){
+  try{
+    const res = await fetch('today.json?t=' + Date.now());
+    if(!res.ok) return;
+    const data = await res.json();
+    // Only re-render if date matches today
+    const today = new Date().toISOString().split('T')[0];
+    if(data.date === today){
+      renderDigest(data);
+      document.getElementById('updated-label').textContent = 'Updated ' + data.date_nice;
+    }
+  }catch(e){}
+  updateRefreshTime();
+}
+
+// Check for new news every 15 minutes automatically
+updateRefreshTime();
+setInterval(silentRefresh, 15 * 60 * 1000);
 </script>
 
 <!-- Google Translate API -->
