@@ -264,6 +264,25 @@ body { top: 0 !important; }
   color: var(--muted); margin-bottom: 0.6rem;
   padding-bottom: 0.4rem; border-bottom: 1px solid var(--border);
 }
+.stocks-col-title.collapsible {
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0.6rem 0.8rem;
+  border-radius: 6px; border: 1px solid var(--border);
+  background: var(--white);
+  transition: background 0.15s, color 0.15s;
+}
+.stocks-col-title.collapsible:hover {
+  background: var(--faint); color: var(--ink);
+}
+.stocks-col-title.collapsible.open {
+  background: var(--ink); color: #fff; border-color: var(--ink);
+}
+.collapse-icon {
+  font-size: 0.55rem; transition: transform 0.2s;
+}
+.collapse-icon.open { transform: rotate(180deg); }
+.stock-wrap { padding-top: 0.6rem; animation: fadeUp 0.2s ease both; }
 .stock-table { width: 100%; border-collapse: collapse; }
 .stock-table tr { border-bottom: 1px solid var(--faint); }
 .stock-table tr:last-child { border-bottom: none; }
@@ -527,25 +546,40 @@ footer span { color: #aaa; }
 <div class="stocks-panel">
   <div class="stocks-inner">
     <div class="market-status-bar">
-      <div class="market-status" id="market-status">
+      <div class="market-status" id="market-status" translate="no">
         <span class="mkt-dot"></span>
         <span id="mkt-label">Checking market status…</span>
       </div>
-      <div class="market-time" id="market-time"></div>
+      <div class="market-time" id="market-time" translate="no"></div>
     </div>
     <div class="stocks-row">
       <div class="stocks-col">
-        <div class="stocks-col-title">🇮🇳 Top 10 Indian Stocks (NSE)</div>
-        <table class="stock-table" id="tbl-india"></table>
-        <div class="stocks-note">* Prices via Yahoo Finance · Delayed 15-20 minutes · Updated when market is open</div>
+        <div class="stocks-col-title collapsible" onclick="toggleStocks('india')">
+          <span>🇮🇳 Top 10 Indian Stocks (NSE)</span>
+          <span class="collapse-icon" id="ico-india">▼</span>
+        </div>
+        <div class="stock-wrap" id="wrap-india" style="display:none">
+          <table class="stock-table" id="tbl-india"></table>
+          <div class="stocks-note">* Prices via Yahoo Finance · Delayed 15-20 minutes</div>
+        </div>
       </div>
       <div class="stocks-col">
-        <div class="stocks-col-title">📉 Today's Top 10 Losers (NSE)</div>
-        <table class="stock-table" id="tbl-losers"></table>
+        <div class="stocks-col-title collapsible" onclick="toggleStocks('losers')">
+          <span>📉 Today's Top 10 Losers (NSE)</span>
+          <span class="collapse-icon" id="ico-losers">▼</span>
+        </div>
+        <div class="stock-wrap" id="wrap-losers" style="display:none">
+          <table class="stock-table" id="tbl-losers"></table>
+        </div>
       </div>
       <div class="stocks-col">
-        <div class="stocks-col-title">🌍 Global Indices</div>
-        <table class="stock-table" id="tbl-global"></table>
+        <div class="stocks-col-title collapsible" onclick="toggleStocks('global')">
+          <span>🌍 Global Indices</span>
+          <span class="collapse-icon" id="ico-global">▼</span>
+        </div>
+        <div class="stock-wrap" id="wrap-global" style="display:none">
+          <table class="stock-table" id="tbl-global"></table>
+        </div>
       </div>
     </div>
   </div>
@@ -618,7 +652,9 @@ function timeAgo(iso){
 const INDIA_SYMBOLS  = ['RELIANCE.NS','TCS.NS','HDFCBANK.NS','INFY.NS','HINDUNILVR.NS','ICICIBANK.NS','SBIN.NS','BAJFINANCE.NS','AXISBANK.NS','WIPRO.NS'];
 const LOSER_SYMBOLS  = ['TATAMOTORS.NS','ONGC.NS','COALINDIA.NS','NTPC.NS','POWERGRID.NS','BPCL.NS','GAIL.NS','IOC.NS','HEROMOTOCO.NS','DRREDDY.NS'];
 const GLOBAL_SYMBOLS = ['^GSPC','^IXIC','^DJI','^N225','^HSI','GC=F','SI=F','CL=F','INR=X','BTC-USD'];
-const GLOBAL_NAMES = {"^GSPC":"S&P 500","^IXIC":"Nasdaq","^DJI":"Dow Jones","^N225":"Nikkei 225","^HSI":"Hang Seng","^FTSE":"FTSE 100","GC=F":"Gold (24K)","SI=F":"Silver","CL=F":"Crude Oil","INR=X":"USD/INR","BTC-USD":"Bitcoin","ETH-USD":"Ethereum"};
+// Symbols specifically for the top scrolling ticker
+const TICKER_SYMBOLS = ['^NSEI','^BSESN','GC=F','SI=F','CL=F','INR=X','BTC-USD'];
+const GLOBAL_NAMES = {"^GSPC":"S&P 500","^IXIC":"Nasdaq","^DJI":"Dow Jones","^N225":"Nikkei 225","^HSI":"Hang Seng","^FTSE":"FTSE 100","GC=F":"Gold (24K)","SI=F":"Silver","CL=F":"Crude Oil","INR=X":"USD/INR","BTC-USD":"Bitcoin","ETH-USD":"Ethereum","^NSEI":"Nifty 50","^BSESN":"Sensex"};
 const INDIA_NAMES = {
   "RELIANCE.NS":"Reliance","TCS.NS":"TCS","HDFCBANK.NS":"HDFC Bank",
   "INFY.NS":"Infosys","HINDUNILVR.NS":"HUL","ICICIBANK.NS":"ICICI Bank",
@@ -665,6 +701,12 @@ async function fetchQuote(symbol){
     }
     if(symbol === 'INR=X'){
       name = 'USD/INR';
+    }
+    if(symbol === '^NSEI'){
+      name = 'Nifty 50';
+    }
+    if(symbol === '^BSESN'){
+      name = 'Sensex';
     }
     
     return{
@@ -724,38 +766,79 @@ async function loadStocks(){
   // build ticker placeholder first
   buildTickerPlaceholder();
   // fetch in parallel
-  const [indiaQ,loserQ,globalQ]=await Promise.all([
+  const [indiaQ,loserQ,globalQ,tickerQ]=await Promise.all([
     Promise.all(INDIA_SYMBOLS.map(fetchQuote)),
     Promise.all(LOSER_SYMBOLS.map(fetchQuote)),
     Promise.all(GLOBAL_SYMBOLS.map(fetchQuote)),
+    Promise.all(TICKER_SYMBOLS.map(fetchQuote)),
   ]);
   fillTable('tbl-india',  indiaQ);
   fillTable('tbl-losers', loserQ);
   fillTable('tbl-global', globalQ);
-  buildTicker([...indiaQ,...globalQ].filter(Boolean));
+  buildTicker(tickerQ.filter(Boolean));
 }
 
 function buildTickerPlaceholder(){
-  const items=['NIFTY 50','SENSEX','S&P 500','NASDAQ','GOLD','CRUDE OIL'].map(n=>
+  const items=['NIFTY 50','SENSEX','GOLD 1g','GOLD 8g','SILVER','CRUDE OIL','USD/INR','BITCOIN','PETROL','DIESEL','LPG'].map(n=>
     `<span class="ticker-item"><span class="t-name">${n}</span><span class="t-price">Loading…</span></span>`).join('');
-  const t=items+items;
-  document.getElementById('ticker-track').innerHTML=t;
+  document.getElementById('ticker-track').innerHTML=items+items;
 }
 
+// Indian fuel/LPG prices (manually maintained — update monthly)
+// Prices in Chennai as of recent months
+const INDIAN_DAILY_PRICES = [
+  { name: 'Petrol (Chennai)',  price: 100.85, unit: '/L' },
+  { name: 'Diesel (Chennai)',  price: 92.43,  unit: '/L' },
+  { name: 'LPG 14.2kg',        price: 905.00, unit: '/cyl' },
+];
+
 function buildTicker(quotes){
-  const items=quotes.map(q=>{
-    const chg=q.price&&q.prev?(((q.price-q.prev)/q.prev)*100).toFixed(2):null;
-    const cls=chg&&parseFloat(chg)>=0?'t-up':'t-down';
-    const sign=chg&&parseFloat(chg)>=0?'▲':'▼';
-    return `<span class="ticker-item"><span class="t-name">${esc(q.name)}</span><span class="t-price">${q.price?q.price.toLocaleString('en-IN',{maximumFractionDigits:2}):'-'}</span>${chg?`<span class="${cls}">${sign}${Math.abs(chg)}%</span>`:''}</span>`;
+  // Add gold 8g version
+  const goldQ = quotes.find(q => q.symbol === 'GC=F');
+  const expanded = [];
+  for(const q of quotes){
+    if(q.symbol === 'GC=F'){
+      expanded.push({ ...q, name: 'Gold 1g', unit: '' });
+      expanded.push({ ...q, name: 'Gold 8g', price: q.price * 8, prev: q.prev * 8, unit: '' });
+    } else {
+      expanded.push(q);
+    }
+  }
+  // Add fixed Indian daily prices
+  for(const p of INDIAN_DAILY_PRICES){
+    expanded.push({ name: p.name, price: p.price, prev: p.price, unit: p.unit, fixed: true });
+  }
+
+  const items = expanded.map(q => {
+    const chg = (!q.fixed && q.price && q.prev) ? (((q.price - q.prev) / q.prev) * 100).toFixed(2) : null;
+    const cls  = chg && parseFloat(chg) >= 0 ? 't-up' : 't-down';
+    const sign = chg && parseFloat(chg) >= 0 ? '▲' : '▼';
+    const priceStr = q.price ? '₹' + q.price.toLocaleString('en-IN',{maximumFractionDigits:2}) + (q.unit||'') : '-';
+    return `<span class="ticker-item"><span class="t-name">${esc(q.name)}</span><span class="t-price">${priceStr}</span>${chg ? `<span class="${cls}">${sign}${Math.abs(chg)}%</span>` : ''}</span>`;
   }).join('');
-  const track=document.getElementById('ticker-track');
-  track.innerHTML=items+items;
+  const track = document.getElementById('ticker-track');
+  track.innerHTML = items + items;
 }
 
 // refresh stocks every 5 min
 loadStocks();
 setInterval(loadStocks, 5*60*1000);
+
+// ── COLLAPSIBLE STOCK TABLES ──────────────────────────────────────────
+function toggleStocks(id){
+  const wrap = document.getElementById('wrap-' + id);
+  const ico  = document.getElementById('ico-' + id);
+  const title = ico.parentElement;
+  if(wrap.style.display === 'none'){
+    wrap.style.display = 'block';
+    ico.classList.add('open');
+    title.classList.add('open');
+  } else {
+    wrap.style.display = 'none';
+    ico.classList.remove('open');
+    title.classList.remove('open');
+  }
+}
 
 // ── MARKET STATUS UPDATER ─────────────────────────────────────────────
 function updateMarketStatus(){
