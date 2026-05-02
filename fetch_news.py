@@ -47,7 +47,7 @@ RSS_SOURCES = {
     "corp_global": [
         "https://feeds.bbci.co.uk/news/business/rss.xml",
         "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-        "https://www.ft.com/?format=rss",
+        "https://www.cnbc.com/id/15839069/device/rss/rss.html",
     ],
     "corp_startup": [
         "https://inc42.com/feed/",
@@ -207,17 +207,29 @@ HEADERS = {"User-Agent": "Mozilla/5.0 BharatInfo/1.0 RSS Reader"}
 # ── SPAM / PROMO FILTER ───────────────────────────────────────────────
 SPAM_KEYWORDS = [
     "promo code", "promo codes", "coupon code", "coupon codes",
-    "discount code", "% off", "deals", "deal of the day",
-    "best deals", "amazon deals", "% discount", "blackfriday",
-    "black friday", "cyber monday", "save up to", "subscription deals",
-    "gift guide", "best gifts", "shopping deals",
+    "discount code", "% off", " off |", "off | ",
+    "deals", "deal of the day", "best deals", "amazon deals",
+    "% discount", "blackfriday", "black friday", "cyber monday",
+    "save up to", "subscription deals", "gift guide", "best gifts",
+    "shopping deals", "wirecutter", "review:", "reviewed:",
+    "best of ", "buying guide", "discount for",
+]
+
+SPAM_URL_PATHS = [
+    "/coupon", "/promo", "/deals", "/discount", "/gift-guide",
+    "/buying-guide", "/wirecutter", "/review/",
 ]
 
 def is_spam(article: dict) -> bool:
     """Filter out promo/coupon/deal articles"""
     text = (article.get("title", "") + " " + article.get("description", "")).lower()
+    url  = (article.get("url") or "").lower()
+    
     for kw in SPAM_KEYWORDS:
         if kw in text:
+            return True
+    for path in SPAM_URL_PATHS:
+        if path in url:
             return True
     return False
 
