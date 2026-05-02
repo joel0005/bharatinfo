@@ -328,6 +328,10 @@ def fetch_sub(sub_id: str) -> list:
 # ── MAIN ─────────────────────────────────────────────────────────────────
 def main():
     output = {"date": TODAY, "date_nice": DATE_NICE, "categories": []}
+    
+    # Global set: an article appears in only ONE subcategory across the whole site
+    global_seen_titles = set()
+    global_seen_urls = set()
 
     for cat in CATEGORIES:
         print(f"\n{cat['emoji']} {cat['label']}")
@@ -338,10 +342,20 @@ def main():
         for sub in cat["subs"]:
             print(f"  → {sub['label']} … ", end="", flush=True)
             arts = fetch_sub(sub["id"])
-            print(f"✓ {len(arts)} articles")
+            # filter out articles already shown in another subcategory
+            unique = []
+            for a in arts:
+                t = a["title"].strip().lower()
+                u = a["url"].strip()
+                if t in global_seen_titles or u in global_seen_urls:
+                    continue
+                global_seen_titles.add(t)
+                global_seen_urls.add(u)
+                unique.append(a)
+            print(f"✓ {len(unique)} articles")
             cat_out["subs"].append({
                 "id": sub["id"], "label": sub["label"],
-                "emoji": sub["emoji"], "articles": arts,
+                "emoji": sub["emoji"], "articles": unique,
             })
         output["categories"].append(cat_out)
 
@@ -353,15 +367,39 @@ def main():
     (out_dir / f"{TODAY}.json").write_text(
         json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
 
+    # ── AUTO-DELETE archive files older than 2 days ──────────────────
+    cutoff = datetime.date.today() - datetime.timedelta(days=2)
+    for f in out_dir.glob("*.json"):
+        if f.name in ("today.json", "archive.json"):
+            continue
+        # filename like 2026-04-30.json
+        try:
+            file_date = datetime.date.fromisoformat(f.stem)
+            if file_date < cutoff:
+                f.unlink()
+                print(f"🗑  Deleted old archive: {f.name}")
+        except ValueError:
+            pass
+
+    # update archive index — keep only last 2 days
+    archive = []
+    for f in sorted(out_dir.glob("*.json"), reverse=True):
+        if f.name in ("today.json", "archive.json"):
+            continue
+        try:
+            file_date = datetime.date.fromisoformat(f.stem)
+            archive.append({
+                "date": file_date.isoformat(),
+                "date_nice": file_date.strftime("%B %d, %Y")
+            })
+        except ValueError:
+            pass
     archive_file = out_dir / "archive.json"
-    archive = json.loads(archive_file.read_text(encoding="utf-8")) if archive_file.exists() else []
-    if not any(d["date"] == TODAY for d in archive):
-        archive.insert(0, {"date": TODAY, "date_nice": DATE_NICE})
     archive_file.write_text(
-        json.dumps(archive[:90], indent=2, ensure_ascii=False), encoding="utf-8")
+        json.dumps(archive[:3], indent=2, ensure_ascii=False), encoding="utf-8")
 
     print(f"\n✅  Done! Saved docs/today.json + docs/{TODAY}.json")
-    print(f"📅  Archive: {len(archive)} day(s)")
+    print(f"📅  Archive: {len(archive)} day(s) kept (today + 2 days max)")
     print(f"📡  NewsAPI requests used: {_newsapi_used}")
 
 
