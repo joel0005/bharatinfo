@@ -784,22 +784,13 @@ async function loadStocks(){
 }
 
 function buildTickerPlaceholder(){
-  const items=['NIFTY 50','SENSEX','GOLD 1g','GOLD 8g','SILVER','CRUDE OIL','USD/INR','BITCOIN','PETROL','DIESEL','LPG'].map(n=>
+  const items=['NIFTY 50','SENSEX','GOLD 1g','GOLD 8g','SILVER','CRUDE OIL','USD/INR','BITCOIN'].map(n=>
     `<span class="ticker-item"><span class="t-name">${n}</span><span class="t-price">Loading…</span></span>`).join('');
   document.getElementById('ticker-track').innerHTML=items+items;
 }
 
-// Indian fuel/LPG prices (manually maintained — update monthly)
-// Prices in Chennai as of recent months
-const INDIAN_DAILY_PRICES = [
-  { name: 'Petrol (Chennai)',  price: 100.85, unit: '/L' },
-  { name: 'Diesel (Chennai)',  price: 92.43,  unit: '/L' },
-  { name: 'LPG 14.2kg',        price: 905.00, unit: '/cyl' },
-];
-
 function buildTicker(quotes){
-  // Add gold 8g version
-  const goldQ = quotes.find(q => q.symbol === 'GC=F');
+  // Add gold 8g version (for Indians who buy in 8g)
   const expanded = [];
   for(const q of quotes){
     if(q.symbol === 'GC=F'){
@@ -809,13 +800,9 @@ function buildTicker(quotes){
       expanded.push(q);
     }
   }
-  // Add fixed Indian daily prices
-  for(const p of INDIAN_DAILY_PRICES){
-    expanded.push({ name: p.name, price: p.price, prev: p.price, unit: p.unit, fixed: true });
-  }
 
   const items = expanded.map(q => {
-    const chg = (!q.fixed && q.price && q.prev) ? (((q.price - q.prev) / q.prev) * 100).toFixed(2) : null;
+    const chg = (q.price && q.prev) ? (((q.price - q.prev) / q.prev) * 100).toFixed(2) : null;
     const cls  = chg && parseFloat(chg) >= 0 ? 't-up' : 't-down';
     const sign = chg && parseFloat(chg) >= 0 ? '▲' : '▼';
     const priceStr = q.price ? '₹' + q.price.toLocaleString('en-IN',{maximumFractionDigits:2}) + (q.unit||'') : '-';
