@@ -329,9 +329,29 @@ def fetch_sub(sub_id: str) -> list:
 def main():
     output = {"date": TODAY, "date_nice": DATE_NICE, "categories": []}
     
-    # Global set: an article appears in only ONE subcategory across the whole site
-    global_seen_titles = set()
-    global_seen_urls = set()
+    # Multiple dedup signatures to catch articles with slight variations
+    global_seen_titles = set()    # normalized title
+    global_seen_urls = set()      # exact URL
+    global_seen_slugs = set()     # URL path slug
+    global_seen_images = set()    # image URL
+
+    def normalize_title(t):
+        """Strip punctuation, lowercase, take first 60 chars"""
+        import re
+        t = re.sub(r'[^\w\s]', '', t.lower()).strip()
+        t = re.sub(r'\s+', ' ', t)
+        return t[:60]
+
+    def get_url_slug(url):
+        """Extract the slug part of URL (last meaningful path segment)"""
+        try:
+            from urllib.parse import urlparse
+            path = urlparse(url).path.strip('/')
+            # take last 2 path components
+            parts = [p for p in path.split('/') if p][-2:]
+            return '/'.join(parts).lower()[:80]
+        except:
+            return url.lower()
 
     for cat in CATEGORIES:
         print(f"\n{cat['emoji']} {cat['label']}")
@@ -342,15 +362,32 @@ def main():
         for sub in cat["subs"]:
             print(f"  → {sub['label']} … ", end="", flush=True)
             arts = fetch_sub(sub["id"])
-            # filter out articles already shown in another subcategory
+            # filter out articles already shown anywhere
             unique = []
             for a in arts:
-                t = a["title"].strip().lower()
-                u = a["url"].strip()
-                if t in global_seen_titles or u in global_seen_urls:
+                norm_title = normalize_title(a.get("title", ""))
+                url = a.get("url", "").strip()
+                slug = get_url_slug(url) if url else ""
+                image = a.get("image", "").strip()
+
+                # Skip if any signature matches
+                if not norm_title:
                     continue
-                global_seen_titles.add(t)
-                global_seen_urls.add(u)
+                if norm_title in global_seen_titles:
+                    continue
+                if url and url in global_seen_urls:
+                    continue
+                if slug and slug in global_seen_slugs:
+                    continue
+                if image and image in global_seen_images:
+                    continue
+
+                # Mark all signatures as seen
+                global_seen_titles.add(norm_title)
+                if url: global_seen_urls.add(url)
+                if slug: global_seen_slugs.add(slug)
+                if image: global_seen_images.add(image)
+
                 unique.append(a)
             print(f"✓ {len(unique)} articles")
             cat_out["subs"].append({
