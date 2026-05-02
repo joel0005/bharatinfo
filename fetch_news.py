@@ -18,25 +18,24 @@ RSS_SOURCES = {
 
     # ── WORLD AI ──────────────────────────────────────────────────────────
     "ai_company": [
-        "https://techcrunch.com/feed/",
-        "https://venturebeat.com/feed/",
-        "https://www.theverge.com/rss/index.xml",
+        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://venturebeat.com/category/ai/feed/",
     ],
     "ai_tools": [
-        "https://techcrunch.com/feed/",
-        "https://feeds.feedburner.com/venturebeat/SZYF",
+        "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+        "https://feeds.arstechnica.com/arstechnica/technology-lab",
     ],
     "ai_models": [
-        "https://venturebeat.com/feed/",
-        "https://www.wired.com/feed/rss",
+        "https://www.technologyreview.com/feed/",
+        "https://venturebeat.com/category/ai/feed/",
     ],
     "ai_research": [
-        "https://techcrunch.com/feed/",
         "https://www.technologyreview.com/feed/",
+        "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
     ],
     "ai_policy": [
-        "https://www.wired.com/feed/rss",
-        "https://techcrunch.com/feed/",
+        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://feeds.arstechnica.com/arstechnica/technology-lab",
     ],
 
     # ── CORPORATE BUSINESS ────────────────────────────────────────────────
@@ -205,6 +204,24 @@ CATEGORIES = [
 
 HEADERS = {"User-Agent": "Mozilla/5.0 BharatInfo/1.0 RSS Reader"}
 
+# ── SPAM / PROMO FILTER ───────────────────────────────────────────────
+SPAM_KEYWORDS = [
+    "promo code", "promo codes", "coupon code", "coupon codes",
+    "discount code", "% off", "deals", "deal of the day",
+    "best deals", "amazon deals", "% discount", "blackfriday",
+    "black friday", "cyber monday", "save up to", "subscription deals",
+    "gift guide", "best gifts", "shopping deals",
+]
+
+def is_spam(article: dict) -> bool:
+    """Filter out promo/coupon/deal articles"""
+    text = (article.get("title", "") + " " + article.get("description", "")).lower()
+    for kw in SPAM_KEYWORDS:
+        if kw in text:
+            return True
+    return False
+
+
 # ── RSS FETCH ─────────────────────────────────────────────────────────────
 def fetch_rss(url: str) -> list:
     try:
@@ -243,14 +260,18 @@ def fetch_rss(url: str) -> list:
                     image = enc.get("url", "")
 
             if title and link and "[Removed]" not in title:
-                articles.append({
+                article = {
                     "title":       title,
                     "description": desc,
                     "url":         link,
                     "source":      url.split("/")[2].replace("www.", "").replace("feeds.feedburner.com/", ""),
                     "image":       image,
                     "publishedAt": pub,
-                })
+                }
+                # skip promo/coupon spam
+                if is_spam(article):
+                    continue
+                articles.append(article)
         return articles
     except Exception as e:
         print(f"      RSS error {url}: {e}")
@@ -287,14 +308,17 @@ def fetch_newsapi(queries: list) -> list:
                 if not title or "[Removed]" in title or title in seen:
                     continue
                 seen.add(title)
-                articles.append({
+                article = {
                     "title":       title,
                     "description": (a.get("description") or "").strip()[:220],
                     "url":         a.get("url", ""),
                     "source":      a.get("source", {}).get("name", "Unknown"),
                     "image":       a.get("urlToImage", ""),
                     "publishedAt": a.get("publishedAt", ""),
-                })
+                }
+                if is_spam(article):
+                    continue
+                articles.append(article)
         except Exception as e:
             print(f"      NewsAPI error: {e}")
     return articles
