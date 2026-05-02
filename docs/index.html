@@ -619,6 +619,14 @@ const INDIA_SYMBOLS  = ['RELIANCE.NS','TCS.NS','HDFCBANK.NS','INFY.NS','HINDUNIL
 const LOSER_SYMBOLS  = ['TATAMOTORS.NS','ONGC.NS','COALINDIA.NS','NTPC.NS','POWERGRID.NS','BPCL.NS','GAIL.NS','IOC.NS','HEROMOTOCO.NS','DRREDDY.NS'];
 const GLOBAL_SYMBOLS = ['^GSPC','^IXIC','^DJI','^N225','^HSI','GC=F','SI=F','CL=F','INR=X','BTC-USD'];
 const GLOBAL_NAMES = {"^GSPC":"S&P 500","^IXIC":"Nasdaq","^DJI":"Dow Jones","^N225":"Nikkei 225","^HSI":"Hang Seng","^FTSE":"FTSE 100","GC=F":"Gold (24K)","SI=F":"Silver","CL=F":"Crude Oil","INR=X":"USD/INR","BTC-USD":"Bitcoin","ETH-USD":"Ethereum"};
+const INDIA_NAMES = {
+  "RELIANCE.NS":"Reliance","TCS.NS":"TCS","HDFCBANK.NS":"HDFC Bank",
+  "INFY.NS":"Infosys","HINDUNILVR.NS":"HUL","ICICIBANK.NS":"ICICI Bank",
+  "SBIN.NS":"SBI","BAJFINANCE.NS":"Bajaj Finance","AXISBANK.NS":"Axis Bank","WIPRO.NS":"Wipro",
+  "TATAMOTORS.NS":"Tata Motors","ONGC.NS":"ONGC","COALINDIA.NS":"Coal India",
+  "NTPC.NS":"NTPC","POWERGRID.NS":"PowerGrid","BPCL.NS":"BPCL","GAIL.NS":"GAIL",
+  "IOC.NS":"IOC","HEROMOTOCO.NS":"Hero MotoCorp","DRREDDY.NS":"Dr. Reddy's"
+};
 
 async function fetchQuote(symbol){
   try{
@@ -664,16 +672,6 @@ async function fetchQuote(symbol){
     };
   }catch(e){return null;}
 }
-
-// Clean Indian stock names
-const INDIA_NAMES = {
-  "RELIANCE.NS":"Reliance","TCS.NS":"TCS","HDFCBANK.NS":"HDFC Bank",
-  "INFY.NS":"Infosys","HINDUNILVR.NS":"HUL","ICICIBANK.NS":"ICICI Bank",
-  "SBIN.NS":"SBI","BAJFINANCE.NS":"Bajaj Finance","AXISBANK.NS":"Axis Bank","WIPRO.NS":"Wipro",
-  "TATAMOTORS.NS":"Tata Motors","ONGC.NS":"ONGC","COALINDIA.NS":"Coal India",
-  "NTPC.NS":"NTPC","POWERGRID.NS":"PowerGrid","BPCL.NS":"BPCL","GAIL.NS":"GAIL",
-  "IOC.NS":"IOC","HEROMOTOCO.NS":"Hero MotoCorp","DRREDDY.NS":"Dr. Reddy's"
-};
 
 // ── MARKET STATUS ─────────────────────────────────────────────────────
 function getMarketStatus(){
