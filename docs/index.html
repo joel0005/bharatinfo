@@ -128,7 +128,11 @@ body { top: 0 !important; }
 .main-nav {
   background: var(--white);
   border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 68px;        /* sit just below header */
+  z-index: 250;
   overflow-x: auto; scrollbar-width: none;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
 }
 .main-nav::-webkit-scrollbar { display: none; }
 .main-nav-inner {
@@ -137,14 +141,15 @@ body { top: 0 !important; }
   display: flex; gap: 0;
 }
 .main-tab {
-  padding: 0.9rem 1.4rem;
-  font-size: 0.78rem; font-weight: 600;
-  letter-spacing: 0.03em; white-space: nowrap;
+  padding: 1rem 1.6rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.02em; white-space: nowrap;
   cursor: pointer; border: none; background: none;
   color: var(--muted);
   border-bottom: 2px solid transparent;
   transition: color 0.2s, border-color 0.2s;
-  display: flex; align-items: center; gap: 0.4rem;
+  display: flex; align-items: center; gap: 0.5rem;
 }
 .main-tab:hover { color: var(--ink); }
 .main-tab.active { color: var(--ink); }
@@ -994,7 +999,13 @@ function switchMain(id){
     t.className='main-tab';
     if(t.dataset.id===id) t.classList.add('active-'+id);
   });
-  window.scrollTo({top:0,behavior:'smooth'});
+  // Scroll just past the sticky nav (so news cards appear right below)
+  const main = document.getElementById('main');
+  if(main){
+    const navHeight = 68 + 56;  // header + nav approx
+    const top = main.getBoundingClientRect().top + window.scrollY - navHeight;
+    window.scrollTo({top, behavior:'smooth'});
+  }
   retriggerTranslate();
 }
 
