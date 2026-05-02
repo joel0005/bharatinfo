@@ -310,8 +310,12 @@ main { max-width: 1280px; margin: 0 auto; padding: 2rem 2rem 5rem; }
 /* ── SUB-NAV ──────────────────────────────────────────────────── */
 .sub-nav {
   display: flex; gap: 0.5rem; flex-wrap: wrap;
-  margin-bottom: 2rem; padding-bottom: 1.2rem;
+  margin-bottom: 2rem; padding: 1rem 0 1.2rem;
   border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 122px;       /* below header (68px) + main-nav (54px) */
+  z-index: 200;
+  background: var(--bg);
 }
 .sub-tab {
   padding: 0.42rem 1rem; border-radius: 5px;
@@ -565,7 +569,6 @@ footer span { color: #aaa; }
         </div>
         <div class="stock-wrap" id="wrap-india" style="display:none">
           <table class="stock-table" id="tbl-india"></table>
-          <div class="stocks-note">* Prices via Yahoo Finance · Delayed 15-20 minutes</div>
         </div>
       </div>
       <div class="stocks-col">
@@ -670,54 +673,67 @@ const INDIA_NAMES = {
 };
 
 async function fetchQuote(symbol){
-  try{
-    const url=`https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=1d&range=1d`;
-    const proxy=`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
-    const controller=new AbortController();
-    const timer=setTimeout(()=>controller.abort(),10000);
-    const r=await fetch(proxy,{signal:controller.signal});
-    clearTimeout(timer);
-    const d=await r.json();
-    const parsed=JSON.parse(d.contents);
-    const meta=parsed?.chart?.result?.[0]?.meta;
-    if(!meta) return null;
-    let price = meta.regularMarketPrice;
-    let prev  = meta.chartPreviousClose||meta.previousClose;
-    let unit  = '';
-    let name  = GLOBAL_NAMES[symbol] || INDIA_NAMES[symbol] || meta.shortName || symbol;
-    
-    // Convert Gold (USD/oz) → INR per gram (1 oz = 31.1035 grams, USD/INR ≈ 84)
-    if(symbol === 'GC=F'){
-      price = (price / 31.1035) * 84;  // USD/oz → INR/gram
-      prev  = (prev  / 31.1035) * 84;
-      unit = '/gm';
-      name = 'Gold (24K)';
+  const url=`https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=1d&range=1d`;
+  const proxies = [
+    `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
+    `https://corsproxy.io/?${encodeURIComponent(url)}`,
+    `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+  ];
+  
+  for(const proxyUrl of proxies){
+    try{
+      const controller=new AbortController();
+      const timer=setTimeout(()=>controller.abort(),8000);
+      const r=await fetch(proxyUrl,{signal:controller.signal});
+      clearTimeout(timer);
+      if(!r.ok) continue;
+      const text = await r.text();
+      // allorigins wraps in {contents: "..."} JSON, others return raw
+      let parsed;
+      try {
+        const wrapped = JSON.parse(text);
+        if(wrapped.contents){
+          parsed = JSON.parse(wrapped.contents);
+        } else {
+          parsed = wrapped;
+        }
+      } catch {
+        continue;
+      }
+      const meta=parsed?.chart?.result?.[0]?.meta;
+      if(!meta) continue;
+      
+      let price = meta.regularMarketPrice;
+      let prev  = meta.chartPreviousClose||meta.previousClose;
+      let unit  = '';
+      let name  = GLOBAL_NAMES[symbol] || INDIA_NAMES[symbol] || meta.shortName || symbol;
+      
+      if(symbol === 'GC=F'){
+        price = (price / 31.1035) * 84;
+        prev  = (prev  / 31.1035) * 84;
+        unit = '/gm';
+        name = 'Gold (24K)';
+      }
+      if(symbol === 'SI=F'){
+        price = (price / 31.1035) * 84;
+        prev  = (prev  / 31.1035) * 84;
+        unit = '/gm';
+        name = 'Silver';
+      }
+      if(symbol === 'CL=F'){
+        unit = '/bbl';
+        name = 'Crude Oil';
+      }
+      if(symbol === 'INR=X') name = 'USD/INR';
+      if(symbol === '^NSEI') name = 'Nifty 50';
+      if(symbol === '^BSESN') name = 'Sensex';
+      
+      return { symbol, name, price, prev, unit };
+    }catch(e){
+      continue; // try next proxy
     }
-    if(symbol === 'SI=F'){
-      price = (price / 31.1035) * 84;
-      prev  = (prev  / 31.1035) * 84;
-      unit = '/gm';
-      name = 'Silver';
-    }
-    if(symbol === 'CL=F'){
-      // Crude oil — keep USD per barrel, more recognizable
-      unit = '/bbl';
-      name = 'Crude Oil';
-    }
-    if(symbol === 'INR=X'){
-      name = 'USD/INR';
-    }
-    if(symbol === '^NSEI'){
-      name = 'Nifty 50';
-    }
-    if(symbol === '^BSESN'){
-      name = 'Sensex';
-    }
-    
-    return{
-      symbol, name, price, prev, unit,
-    };
-  }catch(e){return null;}
+  }
+  return null;
 }
 
 // ── MARKET STATUS ─────────────────────────────────────────────────────
