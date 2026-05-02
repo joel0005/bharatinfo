@@ -328,71 +328,96 @@ def fetch_sub(sub_id: str) -> list:
 # ── MAIN ─────────────────────────────────────────────────────────────────
 def main():
     output = {"date": TODAY, "date_nice": DATE_NICE, "categories": []}
-    
-    # Multiple dedup signatures to catch articles with slight variations
-    global_seen_titles = set()    # normalized title
-    global_seen_urls = set()      # exact URL
-    global_seen_slugs = set()     # URL path slug
-    global_seen_images = set()    # image URL
+
+    import re
+    from urllib.parse import urlparse
 
     def normalize_title(t):
-        """Strip punctuation, lowercase, take first 60 chars"""
-        import re
-        t = re.sub(r'[^\w\s]', '', t.lower()).strip()
+        t = re.sub(r'[^\w\s]', '', (t or '').lower()).strip()
         t = re.sub(r'\s+', ' ', t)
         return t[:60]
 
     def get_url_slug(url):
-        """Extract the slug part of URL (last meaningful path segment)"""
         try:
-            from urllib.parse import urlparse
             path = urlparse(url).path.strip('/')
-            # take last 2 path components
             parts = [p for p in path.split('/') if p][-2:]
             return '/'.join(parts).lower()[:80]
         except:
-            return url.lower()
+            return (url or '').lower()
 
+    # First pass: fetch all articles for all subcategories
+    # Second pass: distribute uniquely with priority order
+    all_subs = []  # list of (cat, sub, articles)
     for cat in CATEGORIES:
         print(f"\n{cat['emoji']} {cat['label']}")
+        for sub in cat["subs"]:
+            print(f"  → {sub['label']} … ", end="", flush=True)
+            arts = fetch_sub(sub["id"])
+            print(f"got {len(arts)} raw articles")
+            all_subs.append((cat, sub, arts))
+
+    # Now distribute — give each subcategory unique articles
+    # Strategy: round-robin assignment to ensure no category is empty
+    print(f"\n📊 Distributing articles uniquely across {len(all_subs)} subcategories...")
+
+    seen_titles = set()
+    seen_urls = set()
+    seen_slugs = set()
+    seen_images = set()
+
+    # Track which articles each sub has after dedup
+    sub_articles = {sub_id: [] for cat, sub, arts in all_subs for sub_id in [sub["id"]]}
+
+    def is_dup(a):
+        nt = normalize_title(a.get("title", ""))
+        u  = (a.get("url") or "").strip()
+        s  = get_url_slug(u) if u else ""
+        i  = (a.get("image") or "").strip()
+        if not nt: return True
+        if nt in seen_titles: return True
+        if u and u in seen_urls: return True
+        if s and s in seen_slugs: return True
+        if i and i in seen_images: return True
+        return False
+
+    def mark_seen(a):
+        nt = normalize_title(a.get("title", ""))
+        u  = (a.get("url") or "").strip()
+        s  = get_url_slug(u) if u else ""
+        i  = (a.get("image") or "").strip()
+        seen_titles.add(nt)
+        if u: seen_urls.add(u)
+        if s: seen_slugs.add(s)
+        if i: seen_images.add(i)
+
+    # Round-robin: in each round, each subcategory gets ONE article
+    # Repeat until each sub has up to 10 articles
+    for round_num in range(15):  # max 15 articles per sub
+        for cat, sub, arts in all_subs:
+            if len(sub_articles[sub["id"]]) >= 10:
+                continue
+            # find the first non-duplicate article from this sub's pool
+            for a in arts:
+                if a in sub_articles[sub["id"]]:
+                    continue
+                if is_dup(a):
+                    continue
+                sub_articles[sub["id"]].append(a)
+                mark_seen(a)
+                break
+
+    # Build output
+    for cat in CATEGORIES:
         cat_out = {
             "id": cat["id"], "label": cat["label"],
             "emoji": cat["emoji"], "subs": []
         }
         for sub in cat["subs"]:
-            print(f"  → {sub['label']} … ", end="", flush=True)
-            arts = fetch_sub(sub["id"])
-            # filter out articles already shown anywhere
-            unique = []
-            for a in arts:
-                norm_title = normalize_title(a.get("title", ""))
-                url = a.get("url", "").strip()
-                slug = get_url_slug(url) if url else ""
-                image = a.get("image", "").strip()
-
-                # Skip if any signature matches
-                if not norm_title:
-                    continue
-                if norm_title in global_seen_titles:
-                    continue
-                if url and url in global_seen_urls:
-                    continue
-                if slug and slug in global_seen_slugs:
-                    continue
-                if image and image in global_seen_images:
-                    continue
-
-                # Mark all signatures as seen
-                global_seen_titles.add(norm_title)
-                if url: global_seen_urls.add(url)
-                if slug: global_seen_slugs.add(slug)
-                if image: global_seen_images.add(image)
-
-                unique.append(a)
-            print(f"✓ {len(unique)} articles")
+            arts = sub_articles[sub["id"]]
+            print(f"  ✓ {sub['label']}: {len(arts)} unique articles")
             cat_out["subs"].append({
                 "id": sub["id"], "label": sub["label"],
-                "emoji": sub["emoji"], "articles": unique,
+                "emoji": sub["emoji"], "articles": arts,
             })
         output["categories"].append(cat_out)
 
