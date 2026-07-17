@@ -20,22 +20,36 @@ RSS_SOURCES = {
     "ai_company": [
         "https://techcrunch.com/category/artificial-intelligence/feed/",
         "https://venturebeat.com/category/ai/feed/",
+        "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+        "https://feeds.arstechnica.com/arstechnica/index",
+        "https://www.wired.com/feed/tag/ai/latest/rss",
     ],
     "ai_tools": [
         "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+        "https://venturebeat.com/category/ai/feed/",
+        "https://techcrunch.com/category/artificial-intelligence/feed/",
         "https://feeds.arstechnica.com/arstechnica/technology-lab",
+        "https://www.wired.com/feed/tag/ai/latest/rss",
     ],
     "ai_models": [
         "https://www.technologyreview.com/feed/",
         "https://venturebeat.com/category/ai/feed/",
+        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://openai.com/blog/rss.xml",
+        "https://blog.google/technology/ai/rss/",
     ],
     "ai_research": [
         "https://www.technologyreview.com/feed/",
         "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+        "https://feeds.arstechnica.com/arstechnica/science",
+        "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
     ],
     "ai_policy": [
         "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
         "https://feeds.arstechnica.com/arstechnica/technology-lab",
+        "https://venturebeat.com/category/ai/feed/",
+        "https://www.wired.com/feed/category/business/latest/rss",
     ],
 
     # ── CORPORATE BUSINESS ────────────────────────────────────────────────
@@ -208,11 +222,11 @@ HEADERS = {"User-Agent": "Mozilla/5.0 BharatInfo/1.0 RSS Reader"}
 SPAM_KEYWORDS = [
     "promo code", "promo codes", "coupon code", "coupon codes",
     "discount code", "% off", " off |", "off | ",
-    "deals", "deal of the day", "best deals", "amazon deals",
+    "deal of the day", "best deals", "amazon deals", "shopping deals",
     "% discount", "blackfriday", "black friday", "cyber monday",
     "save up to", "subscription deals", "gift guide", "best gifts",
-    "shopping deals", "wirecutter", "review:", "reviewed:",
-    "best of ", "buying guide", "discount for",
+    "wirecutter", "buying guide", "discount for",
+    "promo codes:", "coupon codes:",
 ]
 
 SPAM_URL_PATHS = [
@@ -245,7 +259,7 @@ def fetch_rss(url: str) -> list:
         # handle both RSS and Atom
         items = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
         articles = []
-        for item in items[:8]:
+        for item in items[:15]:
             def g(tag, atom_tag=None):
                 v = item.findtext(tag)
                 if not v and atom_tag:
