@@ -45,22 +45,6 @@
               "publishedAt": "Thu, 30 Jul 2026 20:12:57 +0000"
             },
             {
-              "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-              "description": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-              "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Jul 2026 17:51:10 +0000"
-            },
-            {
-              "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
-              "description": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
-              "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 30 Jul 2026 17:00:00 +0000"
-            },
-            {
               "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
               "description": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging",
               "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
@@ -83,6 +67,22 @@
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Sat, 01 Aug 2026 20:26:04 +0000"
+            },
+            {
+              "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+              "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+              "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Sat, 01 Aug 2026 19:45:45 +0000"
+            },
+            {
+              "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+              "description": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+              "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-1152x648.png",
+              "publishedAt": "Sat, 01 Aug 2026 18:20:11 +0000"
             }
           ]
         },
@@ -335,14 +335,6 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Tue, 28 Jul 2026 20:15:19 +0000"
-            },
-            {
-              "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-              "description": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
-              "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Tue, 28 Jul 2026 10:30:00 +0000"
             }
           ]
         }
@@ -415,12 +407,20 @@
               "publishedAt": "Sat, 01 Aug 2026 07:48:01 GMT"
             },
             {
-              "title": "Swiggy shares fall 6% in 2 days despite strong Q1 earnings. Should you buy, sell or hold?",
-              "description": "Swiggy shares declined six percent over two days despite reporting strong first-quarter earnings.  The company's net loss decreased by thirty-four percent year-on-year in the first quarter.  Revenue from operations incre",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-fall-6-in-2-days-despite-strong-q1-earnings-should-you-buy-sell-or-hold/articleshow/132824092.cms",
+              "title": "Greaves Electric Mobility’s Rs 530 crore rights issue offer gets fully subscribed",
+              "description": "Greaves Electric Mobility's Rs 530 crore rights issue was fully subscribed by existing shareholders, reinforcing confidence in the EV maker's growth strategy. The company will use the funds to expand its product pipeline",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/greaves-electric-mobilitys-rs-530-crore-rights-issue-offer-gets-fully-subscribed/articleshow/132825682.cms",
               "source": "economictimes.indiatimes.com",
               "image": "",
-              "publishedAt": "Mon, 03 Aug 2026 13:10:58 +0530"
+              "publishedAt": "Mon, 03 Aug 2026 14:12:51 +0530"
+            },
+            {
+              "title": "Rub-off effect? Godfrey Phillips shares jump 6% after rival cigarette maker ITC's Q1 earnings",
+              "description": "Godfrey Phillips shares rallied on Monday after ITC's June-quarter earnings and upbeat brokerage commentary lifted sentiment across the cigarette sector. Analysts believe the worst of the tax-led disruption may be over,",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/rub-off-effect-godfrey-phillips-shares-jump-6-after-rival-cigarette-maker-itcs-q1-earnings/articleshow/132825322.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "",
+              "publishedAt": "Mon, 03 Aug 2026 13:53:41 +0530"
             }
           ]
         },
@@ -485,6 +485,14 @@
               "publishedAt": "Sun, 02 Aug 2026 20:54:22 +0000"
             },
             {
+              "title": "Battery Smart may file IPO papers in Sep-Oct; eyes 70-80% annual growth",
+              "description": "According to the people familiar with the development, Battery Smart is targeting annual growth of 70-80%  over the next three to five years, driven by deeper penetration in existing cities and expansion into new markets",
+              "url": "https://yourstory.com/2026/08/battery-smart-may-file-ipo-papers-in-sep-oct-eyes-70-80-annual-growth",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Sun, 02 Aug 2026 18:30:00 GMT"
+            },
+            {
               "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
               "description": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
               "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
@@ -539,14 +547,6 @@
               "source": "inc42.com",
               "image": "",
               "publishedAt": "Sun, 02 Aug 2026 00:30:14 +0000"
-            },
-            {
-              "title": "Inside the London hacker house taking a stand against founder burnout",
-              "description": "How one founder house is betting work-life balance can beat burnout .",
-              "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Sat, 01 Aug 2026 21:14:48 +0000"
             }
           ]
         },
@@ -586,44 +586,44 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "Tamil Nadu farmers are cheated whenever Congress is in power in Karnataka: Nagenthran",
-              "description": "Hitting back at TNCC chief’s remarks on the Cauvery water dispute, he asks Tagore to question his party’s government over not releasing water to T.N. despite a direction from the CWMA",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-farmers-are-cheated-whenever-congress-is-in-power-in-karnataka-nagenthran/article71297566.ece",
+              "title": "Tamil Nadu files petition in Supreme Court seeking Cauvery water",
+              "description": "It sought a direction to Karnataka to release the proportionate share of 26.954 thousand million cubic feet (tmc ft.)",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-files-petition-in-supreme-court-seeking-cauvery-water/article71300544.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/kwt05z/article71298753.ece/alternates/LANDSCAPE_1200/9868_21_9_2025_21_48_58_3_PRESSMEET_2.JPG",
-              "publishedAt": "Mon, 03 Aug 2026 13:18:51 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/t2svnp/article71300557.ece/alternates/LANDSCAPE_1200/IMG_4051A.JPEG",
+              "publishedAt": "Mon, 03 Aug 2026 15:32:59 +0530"
             },
             {
-              "title": "Thirupparankundram row: Supreme Court agrees to hear T.N. government plea, but gives the State no interim relief",
-              "description": "The Bench queried whether there was a prevailing tradition of lighting the lamp on the pillar; the State said there were no historical records of lighting the lamp on the stone pillar.",
-              "url": "https://www.thehindu.com/news/national/thirupparankundram-row-supreme-court-agrees-to-hear-tn-government-plea-but-gives-the-state-no-interim-relief/article71300072.ece",
+              "title": "Country’s ethos should reflect in curriculum of educational institutions: Tamil Nadu Governor Arlekar",
+              "description": "He inaugurated a national conclave on ’The Role of Minority Educational Institutions in Unity, Cultural Diversity, and Nation Building: Viksit Bharat @ 2047’ at the B.S. Abdur Rahman Crescent Institute of Science and Tec",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/countrys-ethos-should-reflect-in-curriculum-of-educational-institutions-tamil-nadu-governor-arlekar/article71300386.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/tf6e5c/article71300112.ece/alternates/LANDSCAPE_1200/Subramaniyaswamy%20temple.JPG",
-              "publishedAt": "Mon, 03 Aug 2026 13:16:25 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/kbgm6b/article71300622.ece/alternates/LANDSCAPE_1200/1693_3_8_2026_13_54_46_4_1A8B1AE0_41EB_40E1_99B5_FA334068142B.JPEG",
+              "publishedAt": "Mon, 03 Aug 2026 15:30:38 +0530"
             },
             {
-              "title": "NLC India Renewables receives Letter of Intent from Gujarat Urja Vikas Nigam for 900 MW solar power project",
-              "description": "The project has been awarded through a tariff-based competitive bidding process, with the power generated to be procured by GUVNL",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/nirl-receives-letter-of-intent-from-guvnl-for-900-mw-solar-power-project/article71297203.ece",
+              "title": "NEET aspirants stage silent protest in Visakhapatnam seeking end to caste-based reservation",
+              "description": "Participants wore black ribbons across their mouths at the Gandhi statue; State convener S.L.N. Vasu sought a periodic review of the reservation system and minimum qualifying marks for all candidates",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/neet-aspirants-stage-silent-protest-in-visakhapatnam-seeking-end-to-caste-based-reservation/article71300405.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/fxseso/article71297358.ece/alternates/LANDSCAPE_1200/IMG_2786_8_5_2021_21_21__2_1_0OCTMO6N.jpg",
-              "publishedAt": "Mon, 03 Aug 2026 13:14:34 +0530"
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/cqipi6/article71300588.ece/alternates/LANDSCAPE_1200/ee55ab63-e077-41b7-a1da-9a19998dba20.jpeg",
+              "publishedAt": "Mon, 03 Aug 2026 15:21:28 +0530"
             },
             {
-              "title": "Centre must ensure every road has encroachment-free space for walking: Supreme Court",
-              "description": "Supreme Court emphasises the need for clear pedestrian pathways, highlighting the fundamental right to walk safely and freely amid increasing urban encroachments",
-              "url": "https://www.thehindu.com/news/national/centre-must-ensure-every-road-has-encroachment-free-space-for-walking-supreme-court/article71300211.ece",
+              "title": "E20 fuel: Arvind Kejriwal alleges Centre 'yielded' to Trump",
+              "description": "In his letter, AAP’s Arvind Kejriwal had sought the availability of options for both pure petrol and E20 fuel at petrol stations, besides demanding a reduction in the price of ethanol-blended petrol",
+              "url": "https://www.thehindu.com/news/national/e20-fuel-arvind-kejriwal-alleges-centre-yielded-to-trump/article71300312.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/xr71ql/article71300227.ece/alternates/LANDSCAPE_1200/_NGP8377.jpg",
-              "publishedAt": "Mon, 03 Aug 2026 13:10:18 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/qs9td6/article71300329.ece/alternates/LANDSCAPE_1200/PTI08_01_2026_000473A.jpg",
+              "publishedAt": "Mon, 03 Aug 2026 15:14:59 +0530"
             },
             {
-              "title": "SP legislators protest in Uttar Pradesh Assembly premises over Ram temple donation issue",
-              "description": "Holding a donation box in their hand, SP MLAs alleged that the BJP had \"betrayed the faith of devotees\" and demanded accountability over donations made for the temple",
-              "url": "https://www.thehindu.com/news/national/uttar-pradesh/sp-legislators-protest-in-uttar-pradesh-assembly-premises-over-ram-temple-donation-issue/article71300048.ece",
+              "title": "Sparsha Darshan at Srisailam only at night on Saturdays, Sundays and Mondays",
+              "description": "Executive Officer M. Srinivasa Rao said the change had been made for the convenience of general devotees; dignitaries have been asked to send recommendation letters at least two days before their visit",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/sparsha-darshan-at-srisailam-only-at-night-on-saturdays-sundays-and-mondays/article71300222.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/k9etgx/article71300076.ece/alternates/LANDSCAPE_1200/6607_3_8_2026_11_20_28_3_IMG_20260803_111537.JPG",
-              "publishedAt": "Mon, 03 Aug 2026 13:09:25 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/wy7pjs/article71017469.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-06%20at%2020.12.54.jpeg",
+              "publishedAt": "Mon, 03 Aug 2026 15:14:18 +0530"
             }
           ]
         },
@@ -720,44 +720,44 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Kerala rains: Water level of major rivers in Ernakulam crosses warning mark",
-              "description": "District administration issues alert to people living along Muvattupuzha, Thodupuzha and Kaliyar rivers as water levels continued to rise",
-              "url": "https://www.thehindu.com/news/national/kerala/kerala-rains-water-level-of-major-rivers-in-ernakulam-crosses-warning-mark/article71300117.ece",
+              "title": "17 booked over threat to kill Dalits for refusing to dig burial pit in Yadgir district",
+              "description": "A Dalit family was intercepted, physically assaulted, caste-abused, and threatened with death, on August 1 in Shakhapur (SH) village",
+              "url": "https://www.thehindu.com/news/national/karnataka/17-booked-over-threat-to-kill-dalits-for-refusing-to-dig-burial-pit-in-yadgir-district/article71300512.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/kerala/6fphmz/article71300135.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-03%20at%2011.25.01.jpeg",
-              "publishedAt": "Mon, 03 Aug 2026 13:18:50 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/uov6im/article71300617.ece/alternates/LANDSCAPE_1200/YDRKN_4_11_2025_20_28_2_1_IMG_20251104_WA0126.JPG",
+              "publishedAt": "Mon, 03 Aug 2026 15:31:04 +0530"
             },
             {
-              "title": "How monsoon ready is Chennai?",
-              "description": "As Chennai begins the countdown to the Northeast monsoon, the city confronts the twin challenges of a weak Southwest monsoon, followed by prospects of intense rainfall during the ensuing monsoon. An additional factor thi",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/how-monsoon-ready-is-chennai-in-2026/article71295858.ece",
+              "title": "Parliament Monsoon Session Day 11 highlights: Lok Sabha passes Bill to raise strength of judges in Supreme Court to 38; RS passes MSME Bill",
+              "description": "Both Houses adjourned for the day. Lok Sabha saw protests by the Opposition demanding Amit Shah's statement on police brutality during protests in Delhi",
+              "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-11-live-update-indian-statistical-institute-bill-bankers-books-evidence-bill-bjp-congress/article71299754.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/rpngix/article71295859.ece/alternates/LANDSCAPE_1200/SS_BVR_1643.JPG",
-              "publishedAt": "Mon, 03 Aug 2026 13:15:34 +0530"
+              "image": "",
+              "publishedAt": "Mon, 03 Aug 2026 15:28:23 +0530"
             },
             {
-              "title": "Include Velama community in OBC list, Corporation Chairman asks Centre",
-              "description": "P.V.G. Kumar said students of the community were unable to get seats in medical colleges and the IITs without reservation; he will meet Backward Classes Welfare Minister S. Savitha on Tuesday to seek a note to the Centre",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/include-velama-community-in-obc-list-corporation-chairman-asks-centre/article71300047.ece",
+              "title": "Supreme Court directs MEA to trace Indian seafarer missing after Black Sea drone attack",
+              "description": "Court urges diplomatic action to locate Deepak Kumar Gupta, who vanished during a drone strike on his vessel, as family pleads for urgent government intervention amidst growing concerns for his safety",
+              "url": "https://www.thehindu.com/news/national/supreme-court-directs-mea-to-trace-indian-seafarer-missing-after-black-sea-drone-attack/article71300500.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/vlczqx/article71300241.ece/alternates/LANDSCAPE_1200/Vizinagaram.jpeg",
-              "publishedAt": "Mon, 03 Aug 2026 13:11:08 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/8tt6um/article70298070.ece/alternates/LANDSCAPE_1200/vbk-stock-supreme%20court-sc4-2019-02-12T155705Z_468587102_RC1D209BE9D0_RTRMADP_3_INDIA-COURT.JPG",
+              "publishedAt": "Mon, 03 Aug 2026 15:19:43 +0530"
             },
             {
-              "title": "Kerala cashew import scam: K.A. Ratheesh resigns from three key posts amid CBI corruption charges",
-              "description": "Ratheesh resigns as secretary, Kerala Khadi and Village Industries Board; managing director, RUTRONIX (Kerala State Rural Women’s Electronics Industrial Cooperative Federation Ltd); and CEO of Kerala Khadi Workers’ Welfa",
-              "url": "https://www.thehindu.com/news/national/kerala/kerala-cashew-import-scam-ka-ratheesh-resigns-from-three-key-posts-amid-cbi-corruption-charges/article71300213.ece",
+              "title": "Madras High Court refuses to quash FIR against former DMK MLA L. Idhayavarman",
+              "description": "Justice G.K. Ilanthiraiyan directs Mamallapuram police to complete the investigation in a case registered against him for having caused damage to public property at Nemmeli desalination plant and file the final report wi",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-quash-fir-against-former-dmk-mla-l-idhayavarman/article71300177.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/kerala/wuzv73/article71300232.ece/alternates/LANDSCAPE_1200/IMG_CASHEWNUT_2_1_15FH6AHD.jpg",
-              "publishedAt": "Mon, 03 Aug 2026 13:10:15 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/f1u93u/article71300518.ece/alternates/LANDSCAPE_1200/IMG-20190403-WA0018.jpg",
+              "publishedAt": "Mon, 03 Aug 2026 15:14:40 +0530"
             },
             {
-              "title": "Madras High Court grants bail to Vilathikulam DMK MLA Markandayan for speech against Tamil Nadu CM Vijay",
-              "description": "Justice G.K. Ilanthiraiyan directs him to file an affidavit before Thoothukudi judicial magistrate undertaking that he shall not make such speeches in the future",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-grants-bail-to-vilathikulam-dmk-mla-markandayan-for-speech-against-tn-cm-vijay/article71299944.ece",
+              "title": "‘My U.S. studies funded by scholarship, education loan’: CJP founder Abhijeet Dipke",
+              "description": "Education has become unaffordable and inaccessible for common people in India, Mr. Dipke said, adding that the responsibility has increased after the recent protests and the CJP team would be expanded soon.",
+              "url": "https://www.thehindu.com/news/national/my-us-studies-funded-by-scholarship-education-loan-cjp-founder-abhijeet-dipke/article71300209.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/ijbu5f/article71300026.ece/alternates/LANDSCAPE_1200/de20%20Markandayan.jpg",
-              "publishedAt": "Mon, 03 Aug 2026 13:09:04 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/828wl3/article71300298.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2018.JPG",
+              "publishedAt": "Mon, 03 Aug 2026 15:13:01 +0530"
             }
           ]
         },
@@ -999,22 +999,6 @@
               "publishedAt": "Thu, 30 Jul 2026 23:06:37 GMT"
             },
             {
-              "title": "The change that may help you get a mortgage as a first-time buyer",
-              "description": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
-              "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Sun, 02 Aug 2026 23:16:32 GMT"
-            },
-            {
-              "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
-              "description": "U.K. pharmaceutical giant AstraZeneca is considering a deal to merge with its U.S. rival Bristol Myers Squibb.",
-              "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Sun, 02 Aug 2026 22:17:47 GMT"
-            },
-            {
               "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
               "description": "Miller has denied the allegations made against him by his ex-wife Emily Moreno, daughter of Ohio Sen. Bernie Moreno.",
               "url": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
@@ -1031,20 +1015,20 @@
               "publishedAt": "Sun, 02 Aug 2026 15:54:05 GMT"
             },
             {
+              "title": "Why people are dropping out of the workforce and not looking for new jobs: 'The market wore me down'",
+              "description": "Candidates giving up in the face of relentless job searches could be part of the reason behind recent declines in the labor force participation rate.",
+              "url": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 02 Aug 2026 14:30:01 GMT"
+            },
+            {
               "title": "States expand student loan options as new federal borrowing caps take effect — but they come with trade-offs",
               "description": "Some states — including Connecticut, Minnesota and Rhode Island — have expanded their own student loan programs amid new limits on federal borrowing.",
               "url": "https://www.cnbc.com/2026/08/02/state-student-loans.html",
               "source": "cnbc.com",
               "image": "",
               "publishedAt": "Sun, 02 Aug 2026 13:30:01 GMT"
-            },
-            {
-              "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-              "description": "Oil price volatility caused by U.S.-Iran war created big market winners, but for buy-and-hold investors, there are better long-term energy themes to monitor.",
-              "url": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Sun, 02 Aug 2026 13:00:01 GMT"
             },
             {
               "title": "Why flights are so expensive and will likely stay that way",
@@ -1055,12 +1039,28 @@
               "publishedAt": "Sun, 02 Aug 2026 12:00:01 GMT"
             },
             {
-              "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-              "description": "While the leak of key exam papers was the trigger for the recent student protest in India, rising unemployment is the real fuel angering Gen Z in the country.",
-              "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
+              "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+              "description": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
+              "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Sun, 02 Aug 2026 05:18:21 GMT"
+              "publishedAt": "Sat, 01 Aug 2026 23:19:46 GMT"
+            },
+            {
+              "title": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts",
+              "description": "Trump Media and Technology Group's new paid data service launched Aug. 1, selling faster access to top Truth Social posts from President Donald Trump and more.",
+              "url": "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sat, 01 Aug 2026 14:17:57 GMT"
+            },
+            {
+              "title": "Buying a condo with a mortgage may soon get more complicated. Here's why",
+              "description": "New policies that apply to mortgages for condos take effect Aug. 3, and some experts are sounding the alarm that buyers may see delays or denials.",
+              "url": "https://www.cnbc.com/2026/08/01/condo-buyers-mortgage-rules-fannie-mae-freddie-mac.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sat, 01 Aug 2026 13:30:01 GMT"
             }
           ]
         },
