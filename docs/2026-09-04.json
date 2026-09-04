@@ -21,14 +21,6 @@
               "publishedAt": "Wed, 02 Sep 2026 23:01:00 +0000"
             },
             {
-              "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-              "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-              "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Wed, 02 Sep 2026 22:24:09 +0000"
-            },
-            {
               "title": "Spending deal comes with a bonus: Blocking political control of grants",
               "description": "Congress pauses the OMB's attempt to rewrite how research is funded.",
               "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
@@ -51,6 +43,38 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Thu, 03 Sep 2026 21:56:21 +0000"
+            },
+            {
+              "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+              "description": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+              "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Thu, 03 Sep 2026 21:48:24 +0000"
+            },
+            {
+              "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+              "description": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+              "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-1152x648.jpg",
+              "publishedAt": "Thu, 03 Sep 2026 21:10:59 +0000"
+            },
+            {
+              "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+              "description": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
+              "url": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2259791135-1152x648.jpg",
+              "publishedAt": "Thu, 03 Sep 2026 20:14:48 +0000"
+            },
+            {
+              "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+              "description": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+              "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
+              "publishedAt": "Thu, 03 Sep 2026 19:52:06 +0000"
             }
           ]
         },
@@ -76,14 +100,6 @@
               "publishedAt": "Wed, 02 Sep 2026 20:32:02 +0000"
             },
             {
-              "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-              "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#16",
-              "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Wed, 02 Sep 2026 17:18:13 +0000"
-            },
-            {
               "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
               "description": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
               "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
@@ -98,6 +114,30 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
               "publishedAt": "Tue, 18 Aug 2026 13:00:04 +0000"
+            },
+            {
+              "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+              "description": "227 install commands were found in corporate docs pointing at code nobody owns.",
+              "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+              "publishedAt": "Thu, 27 Aug 2026 14:00:13 +0000"
+            },
+            {
+              "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+              "description": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+              "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
+              "publishedAt": "Thu, 27 Aug 2026 12:58:59 +0000"
+            },
+            {
+              "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+              "description": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+              "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
+              "publishedAt": "Thu, 20 Aug 2026 13:00:35 +0000"
             }
           ]
         },
@@ -113,14 +153,6 @@
               "source": "blog.google",
               "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
               "publishedAt": "Wed, 19 Aug 2026 19:00:00 +0000"
-            },
-            {
-              "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-              "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-              "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Wed, 02 Sep 2026 20:19:14 +0000"
             },
             {
               "title": "Proactive cyber defense for governments and enterprises",
@@ -153,6 +185,30 @@
               "source": "openai.com",
               "image": "",
               "publishedAt": "Wed, 02 Sep 2026 12:00:00 GMT"
+            },
+            {
+              "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+              "description": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
+              "publishedAt": "Tue, 28 Jul 2026 16:00:00 +0000"
+            },
+            {
+              "title": "5 ways to host the ultimate dinner party with Google Search",
+              "description": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+              "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
+              "publishedAt": "Tue, 28 Jul 2026 13:00:00 +0000"
+            },
+            {
+              "title": "5 ways AI Mode in Search helps you enjoy the real world",
+              "description": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+              "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+              "publishedAt": "Tue, 28 Jul 2026 13:00:00 +0000"
             }
           ]
         },
@@ -255,6 +311,14 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Wed, 02 Sep 2026 15:51:46 +0000"
+            },
+            {
+              "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+              "description": "Meet the AI police who can make or break careers—in publishing and beyond.",
+              "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 02 Sep 2026 10:00:00 +0000"
             }
           ]
         }
@@ -429,20 +493,20 @@
               "publishedAt": "Thu, 03 Sep 2026 19:29:16 +0000"
             },
             {
-              "title": "Abliteration.ai is making a business out of removing AI guardrails",
-              "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-              "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Thu, 03 Sep 2026 18:37:57 +0000"
-            },
-            {
               "title": "Cars24 Trims FY26 Net Loss By 19% YoY To ₹441 Cr, Revenue Slides 18%",
               "description": "Used car marketplace Cars24 managed to trim its net loss for the fiscal year FY26 by 18.7% to ₹441.1 Cr&#8230;",
               "url": "https://inc42.com/buzz/cars24-trims-fy26-net-loss-by-19-yoy-to-%e2%82%b9441-cr-revenue-slides-18/",
               "source": "inc42.com",
               "image": "",
               "publishedAt": "Thu, 03 Sep 2026 18:37:51 +0000"
+            },
+            {
+              "title": "BITS Pilani-incubated Apollyon Dynamics sets new speed record in India with 498 km/h interceptor drone",
+              "description": "Evolving from a Rs 2 lakh student grant to a defence-tech breakthrough, the startup’s electric interceptor drone Ahuti Mk II is South Asia’s fastest multirotor UAV.",
+              "url": "https://yourstory.com/2026/09/bits-pilani-incubated-apollyon-dynamics-sets-india-record-with-498-kmh-interceptor-drone",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Thu, 03 Sep 2026 15:44:43 GMT"
             }
           ]
         },
@@ -482,44 +546,60 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "Develop North Karnataka cities as alternative growth centres to Bengaluru: KCCI",
-              "description": "The KCCI urges the government to accord priority to Hubballi-Dharwad, Belagavi, Haveri, and Gadag and to develop them as integrated industrial, commercial, educational, healthcare, IT, transport and logistics centres",
-              "url": "https://www.thehindu.com/news/national/karnataka/develop-north-karnataka-cities-as-alternative-growth-centres-to-bengaluru-kcci/article71428346.ece",
+              "title": "‘Reflection of people's trust’: Modi hails Meloni on becoming Italy's longest continuously serving PM",
+              "description": "Giorgia Meloni, 49, has been Italy's Prime Minister since October 22, 2022.  She is also the first woman to hold the position",
+              "url": "https://www.thehindu.com/news/national/reflection-of-peoples-trust-modi-hails-meloni-on-becoming-italys-longest-continuously-serving-pm/article71429003.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/t89eq/article71428984.ece/alternates/LANDSCAPE_1200/10258_16_1_2026_18_44_0_2_KKCCI_BUILDING_2.JPG",
-              "publishedAt": "Fri, 04 Sep 2026 19:55:09 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/yr89dv/article71429543.ece/alternates/LANDSCAPE_1200/AP05_20_2026_000317A.jpg",
+              "publishedAt": "Fri, 04 Sep 2026 21:55:56 +0530"
             },
             {
-              "title": "IUML Thiruvananthapuram district president passes away at 65",
+              "title": "CET: Third round provisional results announced, Choice 4 introduced",
+              "description": "For the convenience of candidates who have newly been allotted seats in the third round, the authority has, for the first time, introduced a Choice-4 option.",
+              "url": "https://www.thehindu.com/news/national/karnataka/cet-third-round-provisional-results-announced-choice-4-introduced/article71429343.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/2elnex/article71429559.ece/alternates/LANDSCAPE_1200/KEA-to-conduct-G9IGB8MJD.3.jpg.jpg",
+              "publishedAt": "Fri, 04 Sep 2026 21:55:21 +0530"
+            },
+            {
+              "title": "1,000 transplants and new beginnings: Thalassemia patients get a second chance",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/kerala/iuml-thiruvananthapuram-district-president-passes-away-at-65/article71428550.ece",
+              "url": "https://www.thehindu.com/news/national/karnataka/1000-transplants-and-new-beginnings-thalassemia-patients-get-a-second-chance/article71428948.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/kerala/veqa79/article71428549.ece/alternates/LANDSCAPE_1200/1001030033.jpg",
-              "publishedAt": "Fri, 04 Sep 2026 19:54:31 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/flscd7/article71429530.ece/alternates/LANDSCAPE_1200/thalassemia.jpg",
+              "publishedAt": "Fri, 04 Sep 2026 21:48:28 +0530"
             },
             {
-              "title": "Lorry crashes into three vehicles at Marathakkara signal in Thrissur",
-              "description": "Car passengers escape narrowly after being trapped between two lorries in late-night highway accident",
-              "url": "https://www.thehindu.com/news/national/kerala/lorry-crashes-into-three-vehicles-at-marathakkara-signal-in-thrissur/article71428593.ece",
-              "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Fri, 04 Sep 2026 19:50:43 +0530"
-            },
-            {
-              "title": "Excise squad seeks Central agencies’ support to trace Nigerian national in MDMA case",
-              "description": "The accused, Emmanuel Afam, 46, is suspected to be a key link in a synthetic drug network and is believed to have operated ‘drug kitchens’ in different parts of the country, according to Excise officials.",
-              "url": "https://www.thehindu.com/news/national/kerala/excise-squad-seeks-central-agencies-support-to-trace-nigerian-national-in-mdma-case/article71427876.ece",
+              "title": "KRMB panel meet fails to arrive at consensus on water-sharing",
+              "description": "Full-fledged meeting of the river board likely in the last week this month; Telangana says AP drawing large quantities of water unilaterally",
+              "url": "https://www.thehindu.com/news/national/telangana/krmb-panel-meet-fails-to-arrive-at-consensus-on-water-sharing/article71428503.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Fri, 04 Sep 2026 19:47:09 +0530"
+              "publishedAt": "Fri, 04 Sep 2026 21:44:12 +0530"
             },
             {
-              "title": "Keralam student arrested for allegedly circulating morphed images of teachers; police say more youth under radar",
+              "title": "Captive mines, SAIL merger sought for VSP",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/kerala/keralam-student-arrested-for-allegedly-circulating-morphed-images-of-teachers-police-say-more-youth-under-radar/article71427242.ece",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/captive-mines-sail-merger-sought-for-vsp/article71429043.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Fri, 04 Sep 2026 19:42:04 +0530"
+              "publishedAt": "Fri, 04 Sep 2026 21:42:42 +0530"
+            },
+            {
+              "title": "CPM demands daily drinking water supply in GVMC’s 22nd ward",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpm-demands-daily-drinking-water-supply-in-gvmcs-22nd-ward/article71428277.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Fri, 04 Sep 2026 21:40:39 +0530"
+            },
+            {
+              "title": "Venkaiah Naidu praises Cattamanchi’s contribution to Telugu literary criticism",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/venkaiah-naidu-praises-cattamanchis-contribution-to-telugu-literary-criticism/article71428214.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Fri, 04 Sep 2026 21:39:42 +0530"
             }
           ]
         },
@@ -616,44 +696,44 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Bus driver booked, vehicle seized after dispute",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/kerala/bus-driver-booked-vehicle-seized-after-dispute/article71428394.ece",
+              "title": "Protesters Open Fire During SIR Hearing In Arunachal, Security Deployed",
+              "description": "During the unrest, an AAPSU leader was reportedly injured. The incident added to tensions in the area, sources said.",
+              "url": "https://www.ndtv.com/india-news/protesters-open-fire-during-sir-hearing-in-arunachal-security-deployed-12003507#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-09/mcehsa88_arunachal-sir_625x300_04_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Fri, 04 Sep 2026 21:55:27 +0530"
+            },
+            {
+              "title": "Sabarimala ‘Thiruvabharanam’ carrier Gangadharan Pillai dies at 92",
+              "description": "Pillai had been a member of the group carrying Thiruvabharana petakam to Sabarimala Lord Ayyappa Temple since the age of 18.",
+              "url": "https://www.thehindu.com/news/national/kerala/sabarimala-thiruvabharanam-carrier-gangadharan-pillai-dies-at-92/article71429479.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Fri, 04 Sep 2026 19:54:33 +0530"
+              "publishedAt": "Fri, 04 Sep 2026 21:48:45 +0530"
             },
             {
-              "title": "Realtor dies as car plunges into canal in Kurnool",
-              "description": "The victim loses control over the car while trying to avoid a vehicle coming from the opposite direction",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/realtor-dies-as-car-plunges-into-canal-in-kurnool/article71428888.ece",
+              "title": "Congress plans organisational revamp in U.P. ahead of Assembly polls",
+              "description": "Congress finalises new District Congress Committee presidents as it seeks to strengthen its organisation in Uttar Pradesh ahead of Assembly elections",
+              "url": "https://www.thehindu.com/news/national/congress-plans-organisational-revamp-in-up-ahead-of-assembly-polls/article71429195.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/t9o633/article71429528.ece/alternates/LANDSCAPE_1200/HRX3g5QaQAAiEdT%201.jpg",
+              "publishedAt": "Fri, 04 Sep 2026 21:48:11 +0530"
+            },
+            {
+              "title": "Ponguleti Srinivas Reddy blames previous BRS government for ‘Polavaram backwater threat’ to flood- prone areas in Bhadrachalam",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/telangana/ponguleti-srinivas-reddy-blames-previous-brs-government-for-polavaram-backwater-threat-to-flood-prone-areas-in-bhadrachalam/article71428668.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Fri, 04 Sep 2026 19:51:21 +0530"
+              "publishedAt": "Fri, 04 Sep 2026 21:43:08 +0530"
             },
             {
-              "title": "Prabhudeva invited to inaugurate Yuva Dasara",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/karnataka/prabhudeva-invited-to-inaugurate-yuva-dasara/article71428300.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/qb5hzt/article71428942.ece/alternates/LANDSCAPE_1200/2303_4_9_2026_17_56_18_1_PRABHUDEVAINVITED.JPEG",
-              "publishedAt": "Fri, 04 Sep 2026 19:48:30 +0530"
-            },
-            {
-              "title": "Abhimanyu gets special permission for Dasara appearance as ‘Nishane Ane’",
-              "description": "The 60-year-old legendary tusker to get ceremonial send-off during the grand Jamboo Savari in Dasara finale to be held in October",
-              "url": "https://www.thehindu.com/news/national/karnataka/abhimanyu-gets-special-permission-for-dasara-appearance-as-nishane-ane/article71428198.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/7z93nm/article71428748.ece/alternates/LANDSCAPE_1200/2303_4_9_2026_17_56_18_2_ABHIMANYU.JPG",
-              "publishedAt": "Fri, 04 Sep 2026 19:42:57 +0530"
-            },
-            {
-              "title": "Ramchander Rao questions CM’s praise for Owaisis, seeks clarity on ‘patriotism’",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/telangana/ramchander-rao-questions-cms-praise-for-owaisis-seeks-clarity-on-patriotism/article71428633.ece",
-              "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Fri, 04 Sep 2026 19:39:11 +0530"
+              "title": "Rust From Bow To Stern: What 286 Days At Sea Did To USS Abraham Lincoln",
+              "description": "The visible corrosion is not the only issue to have emerged from Lincoln's extended deployment. There have also been reports of low morale linked to supply shortages, along with at least one incident of a crew member goi",
+              "url": "https://www.ndtv.com/world-news/rust-from-bow-to-stern-what-286-days-at-sea-did-to-uss-abraham-lincoln-12003459#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-09/ldqqp054_uss-lincoln_625x300_04_September_26.jpeg",
+              "publishedAt": "Fri, 04 Sep 2026 21:42:26 +0530"
             }
           ]
         },
@@ -919,8 +999,24 @@
               "publishedAt": "Thu, 03 Sep 2026 12:50:14 GMT"
             },
             {
-              "title": "US stocks today: US stocks subdued after jobs report fuels rate-hike bets",
-              "description": "US stocks opened largely flat on Friday after stronger-than-expected jobs data boosted expectations that the Federal Reserve could raise interest rates this month. The Dow Jones fell 0.19%, while the S&amp;P 500 and Nasd",
+              "title": "Gland Pharma block deal: Fosun Pharma divests 99 lakh shares worth Rs 2,800 crore",
+              "description": "Fosun Pharma sold a 6% stake in Gland Pharma for ₹2,800 crore via a block deal, reducing its holding to 45.77%. Major buyers included Kotak, Axis, and ICICI Prudential Mutual Funds, while Gland Pharma shares closed highe",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/gland-pharma-block-deal-fosun-pharma-divests-99-lakh-shares-worth-rs-2800-crore/articleshow/133768263.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-133768263,imgsize-12906.cms",
+              "publishedAt": "Fri, 04 Sep 2026 20:40:47 +0530"
+            },
+            {
+              "title": "Lululemon’s turnaround gets tougher as new CEO inherits a battered brand",
+              "description": "Lululemon shares dropped significantly after the company lowered its full-year sales forecast.  The sportswear maker's signature leggings business saw a notable sales decline.  Competitors like Alo and Vuori are gaining",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/lululemon-shares-dive-on-risks-of-prolonged-overhaul-under-new-ceo/articleshow/133767300.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-133767300,imgsize-54368.cms",
+              "publishedAt": "Fri, 04 Sep 2026 20:11:53 +0530"
+            },
+            {
+              "title": "US stocks today: S&amp;P 500, Dow  stocks slip as stronger jobs report lifts rate-hike bets",
+              "description": "US stocks slipped after a stronger-than-expected August jobs report boosted bets on a Fed rate hike in September. The S&amp;P 500 and Dow fell, while investors turned their focus to next week’s inflation data. Lululemon,",
               "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-subdued-after-jobs-report-fuels-rate-hike-bets/articleshow/133765227.cms",
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-133765227,imgsize-198364.cms",
@@ -941,22 +1037,6 @@
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-133764506,imgsize-12200.cms",
               "publishedAt": "Fri, 04 Sep 2026 18:43:34 +0530"
-            },
-            {
-              "title": "US diesel prices hit a record high, pushing up transportation costs for a long list of goods",
-              "description": "Diesel prices soared to unprecedented levels in the United States on Friday, primarily due to the six-month conflict involving Iran. This rise in costs is causing transportation fees for everyday goods and services to cl",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-diesel-prices-hit-a-record-high-pushing-up-transportation-costs-for-a-long-list-of-goods/articleshow/133764405.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-133764405,imgsize-41344.cms",
-              "publishedAt": "Fri, 04 Sep 2026 18:41:33 +0530"
-            },
-            {
-              "title": "NSE likely to price IPO around Rs 1,800, list by September 25: Sources",
-              "description": "The National Stock Exchange plans to price its initial public offering near Rs 1,800 per share.  The company will likely announce its price band on September 15.  The IPO is expected to open around September 18 for inves",
-              "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-likely-to-price-ipo-around-rs-1800-list-by-september-25-sources/articleshow/133763785.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-133763785,imgsize-183070.cms",
-              "publishedAt": "Fri, 04 Sep 2026 18:29:15 +0530"
             }
           ]
         },
@@ -1021,28 +1101,12 @@
               "publishedAt": "Thu, 03 Sep 2026 18:44:22 +0000"
             },
             {
-              "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
-              "description": "The bank is now offering institutional crypto spot trading in the region, bringing BTC and ETH onto the same eFX rails that institutions use to trade dollars and euros.",
-              "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+              "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
+              "description": "Adam Aron said synthetic AMC shares could divert demand from the actual stock and strip investors of shareholder rights, drawing support from some tokenization executives.",
+              "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
               "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/340d393dde0aee90bc02178a19a6f92588da4886-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-              "publishedAt": "Thu, 03 Sep 2026 15:58:02 +0000"
-            },
-            {
-              "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
-              "description": "",
-              "url": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
-              "source": "feeds.feedburner.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/5827e3d1483c884ef042b120e1127826773ce73a-4397x2850.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-              "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0000"
-            },
-            {
-              "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
-              "description": "Users paid nearly $6 million in a day to create and trade tokens through Pons, more than they paid to use Pump or Hyperliquid, and even more than they paid to use Robinhood Chain itself.",
-              "url": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
-              "source": "feeds.feedburner.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/800c636f7f1593410f22ed849c8620a1f9d1cfd0-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-              "publishedAt": "Thu, 03 Sep 2026 14:51:39 +0000"
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/922887aed0e47fe82d8ea0f44a3116b66c314232-5000x3383.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Fri, 04 Sep 2026 14:56:00 +0000"
             },
             {
               "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
@@ -1059,6 +1123,22 @@
               "source": "coindesk.com",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a17fcb061c085aa06628eb11086287448b35a09-5701x3801.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
               "publishedAt": "Fri, 04 Sep 2026 14:12:34 +0000"
+            },
+            {
+              "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+              "description": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
+              "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
+              "publishedAt": "Fri, 04 Sep 2026 13:34:30 +0000"
+            },
+            {
+              "title": "Token buybacks are booming. But are they good for crypto projects?",
+              "description": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?",
+              "url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K8AJR546DD0XM3RM8FJK76/magazine-tokenomics.jpg",
+              "publishedAt": "Fri, 04 Sep 2026 13:30:00 +0000"
             }
           ]
         }
