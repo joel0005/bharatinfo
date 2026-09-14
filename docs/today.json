@@ -53,28 +53,28 @@
               "publishedAt": "Thu, 10 Sep 2026 20:30:37 +0000"
             },
             {
-              "title": "Everything New You Can Do With Siri AI",
-              "description": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
-              "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 10 Sep 2026 10:30:00 +0000"
-            },
-            {
-              "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-              "description": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
-              "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 10 Sep 2026 10:00:00 +0000"
-            },
-            {
               "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
               "description": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
               "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
               "publishedAt": "Sun, 13 Sep 2026 21:56:52 +0000"
+            },
+            {
+              "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+              "description": "The manufacturer has a service that lets owners repair their own equipment.",
+              "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Deere-5ML-Tractor-1152x648.jpg",
+              "publishedAt": "Sun, 13 Sep 2026 11:00:41 +0000"
+            },
+            {
+              "title": "AI Agents Are Thirsty for Power",
+              "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+              "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Sun, 13 Sep 2026 10:00:00 +0000"
             }
           ]
         },
@@ -209,6 +209,14 @@
               "source": "blog.google",
               "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
               "publishedAt": "Tue, 11 Aug 2026 17:00:00 +0000"
+            },
+            {
+              "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+              "description": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+              "url": "https://openai.com/index/codex-quantum-computing-experiments",
+              "source": "openai.com",
+              "image": "",
+              "publishedAt": "Tue, 08 Sep 2026 17:00:00 GMT"
             }
           ]
         },
@@ -250,14 +258,6 @@
               "publishedAt": "Wed, 09 Sep 2026 13:58:44 +0000"
             },
             {
-              "title": "The Download: OpenAI’s turning point for math and a battery record",
-              "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math Ope",
-              "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-              "source": "technologyreview.com",
-              "image": "",
-              "publishedAt": "Wed, 09 Sep 2026 12:10:00 +0000"
-            },
-            {
               "title": "AI Models Are Watermarking Text—Will You Notice?",
               "description": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which",
               "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
@@ -296,6 +296,14 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2229834435-1152x648.jpg",
               "publishedAt": "Tue, 08 Sep 2026 20:06:44 +0000"
+            },
+            {
+              "title": "Update to Google’s AI weather model improves forecast accuracy",
+              "description": "Like traditional weather models, it benefits from an expanded set of inputs.",
+              "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-85757697-1152x648.jpg",
+              "publishedAt": "Tue, 08 Sep 2026 18:00:56 +0000"
             }
           ]
         },
@@ -391,12 +399,12 @@
               "publishedAt": "Thu, 16 Jul 2026 20:56:34 +0530"
             },
             {
-              "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-              "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-              "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+              "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+              "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+              "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Sun, 13 Sep 2026 18:49:37 GMT"
+              "publishedAt": "Sun, 13 Sep 2026 19:34:36 GMT"
             },
             {
               "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
@@ -452,6 +460,14 @@
               "source": "cnbc.com",
               "image": "",
               "publishedAt": "Thu, 03 Sep 2026 19:01:36 GMT"
+            },
+            {
+              "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+              "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
+              "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 13 Sep 2026 22:21:33 GMT"
             }
           ]
         },
@@ -517,14 +533,6 @@
               "publishedAt": "Sun, 13 Sep 2026 16:04:00 +0000"
             },
             {
-              "title": "India's semiconductor sector gets $1.4 billion: report",
-              "description": "Nearly half of the funding amount into Indian semiconductor companies was raised since 2025.",
-              "url": "https://yourstory.com/2026/09/indias-semiconductor-sector-gets-14-billion-report",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Sun, 13 Sep 2026 14:28:52 GMT"
-            },
-            {
               "title": "Why a Japanese entrepreneur sees India as the bridge between rival worlds",
               "description": "A Japanese entrepreneur living in India as a new global leader, using its ties across competing power blocs to shape the next global economic and technology order",
               "url": "https://yourstory.com/2026/09/why-a-japanese-entrepreneur-sees-india-as-the-bridge-between-rival-worlds",
@@ -539,6 +547,14 @@
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Sun, 13 Sep 2026 13:15:00 +0000"
+            },
+            {
+              "title": "Deepinder Goyal partners with Art of Living for Temple",
+              "description": "The partnership will study the effects of meditation through Entropy, a biomarker of Temple.",
+              "url": "https://yourstory.com/2026/09/deepinder-goyal-partners-with-art-of-living-for-temple",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Sun, 13 Sep 2026 12:02:39 GMT"
             }
           ]
         },
@@ -578,52 +594,52 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "Tamil Nadu Minister S. Ramesh says ‘obscene, derogatory’ remarks are DMK’s DNA",
-              "description": "Addressing reporters, the minister acknowledged that staging protests and demonstrations is a fundamental democratic right, but strongly condemned the use of foul language during political events",
-              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-minister-s-ramesh-says-obscene-derogatory-remarks-are-dmks-dna/article71465829.ece",
+              "title": "‘Power House’ is Vikram’s next with Anand Shankar; title teaser out",
+              "description": "‘Power House’, previously called ‘Chiyaan 63’, will release in 2027",
+              "url": "https://www.thehindu.com/entertainment/movies/power-house-chiyaan-vikram-anand-shankar-riya-shibu-sathya-jyothi-films/article71465917.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/dwan4a/article71465834.ece/alternates/LANDSCAPE_1200/DSC_1104.JPG",
-              "publishedAt": "Mon, 14 Sep 2026 15:27:44 +0530"
+              "image": "https://th-i.thgim.com/public/entertainment/movies/ucqaud/article71466067.ece/alternates/LANDSCAPE_1200/Chiyaan%20Vikram%20Power%20House.png",
+              "publishedAt": "Mon, 14 Sep 2026 18:33:36 +0530"
             },
             {
-              "title": "India gains wider EU steel access, but carbon levy remains",
-              "description": "The agreement provides India with an additional preferential quota of 694,853 ‌tons of steel, on top ‌of ⁠an existing 946,616 ton WTO quota.",
-              "url": "https://www.thehindu.com/business/india-gains-wider-eu-steel-access-but-carbon-levy-remains/article71465776.ece",
+              "title": "Farmers start dharna outside Punjab Minister’s office in Hoshiarpur",
+              "description": "The call for the sit-in outside the residences and offices of several ministers in Punjab was given by the KMM on a 12-point charter of demands, including loan waiver and withdrawal of cases registered against those who",
+              "url": "https://www.thehindu.com/news/national/punjab/farmers-dharna-outside-punjab-ministers-office-in-hoshiarpur/article71466031.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/dy7n79/article71465791.ece/alternates/LANDSCAPE_1200/2026-09-08T074706Z_1558853184_RC26AJA31SVV_RTRMADP_3_INDIA-STEEL.JPG",
-              "publishedAt": "Mon, 14 Sep 2026 15:23:28 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/3b5s09/article71466041.ece/alternates/LANDSCAPE_1200/20260902264L.jpg",
+              "publishedAt": "Mon, 14 Sep 2026 18:08:21 +0530"
             },
             {
-              "title": "Urban local body polls: Counting of votes under way across Rajasthan, BJP takes early lead",
-              "description": "The elections, being seen as a major test for the ruling BJP and the opposition Congress ahead of the 2028 Assembly polls, were held in two phases on September 9 and 11",
-              "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/19nbcu/article71465804.ece/alternates/LANDSCAPE_1200/PTI09_14_2026_000039B.jpg",
-              "publishedAt": "Mon, 14 Sep 2026 15:15:24 +0530"
-            },
-            {
-              "title": "Opinion: Opinion | Congress Wants Professionals. Can It Deal With What They Say?",
-              "description": "Tharoor, to Chakravarti, to Yaskhi now, the fate of a Congress 'experiment' that started in 2017 will tell you a lot",
-              "url": "https://www.ndtv.com/opinion/congress-wants-professionals-can-it-deal-with-what-they-say-12044351#publisher=newsstand",
+              "title": "Ajmer Man Fights Off Chain-Snatchers To Save Retired Couple, CCTV Captures Brave Act",
+              "description": "The elderly couple were returning home on their scooter and were reportedly just around 100 metres from their house when the two men approached them.",
+              "url": "https://www.ndtv.com/india-news/ajmer-man-fights-off-chain-snatchers-to-save-retired-couple-cctv-captures-brave-act-12045047#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/8u94u0f4_1_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Mon, 14 Sep 2026 15:07:05 +0530"
+              "image": "https://c.ndtvimg.com/2026-09/i67eajcg_ajmer-man-fights-off-chainsnatchers_625x300_14_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Mon, 14 Sep 2026 17:57:28 +0530"
             },
             {
-              "title": "Empty Coffers, Late Freebies: Why AAP Parked Its Biggest Punjab Promises",
-              "description": "The Shiromani Akali Dal accused the AAP government of looting Punjab in the name of freebies and guarantees.",
-              "url": "https://www.ndtv.com/india-news/empty-coffers-late-freebies-why-aap-parked-its-biggest-punjab-promises-12044358#publisher=newsstand",
+              "title": "Sydani Fellowship Program 2027: Apply For 5-Month Fellowship, Check Eligibility",
+              "description": "The Sydani Fellowship Program 2027 offers graduates practical management consulting experience in Abuja, Nigeria, starting January 2027.",
+              "url": "https://www.ndtv.com/education/sydani-fellowship-program-2027-apply-for-5-month-fellowship-check-eligibility-12045124#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2022-12/dns3eva_bhagwat-mann_625x300_17_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Mon, 14 Sep 2026 15:04:09 +0530"
+              "image": "https://c.ndtvimg.com/2026-09/ja10papk_bihar_625x300_13_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Mon, 14 Sep 2026 17:50:44 +0530"
             },
             {
-              "title": "Retired IAF officer assaulted at a commercial complex in Gurugram",
-              "description": "The incident took place on the evening of September 10 and the accused has been identified as parking staff of the complex",
-              "url": "https://www.thehindu.com/news/national/haryana/kargil-war-veteran-injured-after-assault-by-parking-attendant-with-iron-rod-in-gurugram/article71465731.ece",
+              "title": "Rebel Trinamool MP Basunia claims 17 of 20 NCPI MPs to join BJP; fellow rebels, ruling party deny",
+              "description": "The BJP sought to distance itself from the claim, with its West Bengal unit chief Samik Bhattacharya saying the party would not take in anyone merely because they want to join it",
+              "url": "https://www.thehindu.com/news/national/west-bengal/rebel-trinamool-mp-basunia-claims-17-of-20-ncpi-mps-to-join-bjp-fellow-rebels-ruling-party-deny/article71465946.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/nk6ws/article71465743.ece/alternates/LANDSCAPE_1200/iStock-1001140222.jpg",
-              "publishedAt": "Mon, 14 Sep 2026 15:03:50 +0530"
+              "image": "",
+              "publishedAt": "Mon, 14 Sep 2026 17:18:41 +0530"
+            },
+            {
+              "title": "Activist Manoj Jarange Announces Solo Protest In Mumbai's Azad Maidan",
+              "description": "Mumbai police on Sunday denied permission to Jarange for his indefinite hunger strike in the metropolis from September 19, citing potential security concerns during the ongoing Ganeshotsav.",
+              "url": "https://www.ndtv.com/india-news/activist-manoj-jarange-announces-solo-protest-in-mumbais-azad-maidan-12044969#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2024-05/1d419qc_manoj-jarangepatil-ians_625x300_17_May_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Mon, 14 Sep 2026 17:18:03 +0530"
             }
           ]
         },
@@ -720,20 +736,44 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Gurugram woman bike injured in hit-and-run; accused identified, police launch suo motu probe",
-              "description": "The rider alleged that the car had been chasing her before hitting her Aprilia RS 457 and fleeing the spot; the collision was captured on her motorcycle-mounted camera and the bike was sent sliding",
-              "url": "https://www.thehindu.com/news/national/haryana/gurugram-woman-biker-thrown-off-sports-bike-after-car-hits-her-on-golf-course-road-police-launch-suo-motu-probe/article71465459.ece",
+              "title": "Central team to visit Bihar on September 16 to assess flood damage",
+              "description": "According to the latest figures from the Bihar Disaster Management Department (DMD), the floods affected over 49.36 lakh people in 88 blocks across 15 districts",
+              "url": "https://www.thehindu.com/news/national/bihar/central-team-to-visit-bihar-on-september-16-to-assess-flood-damage/article71465989.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/jnzald/article71465468.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-14%20at%2011.08.20%20AM.jpeg",
-              "publishedAt": "Mon, 14 Sep 2026 15:24:35 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/xq19h7/article71466061.ece/alternates/LANDSCAPE_1200/20260914251L.jpg",
+              "publishedAt": "Mon, 14 Sep 2026 18:25:48 +0530"
             },
             {
-              "title": "Ganesh Chaturthi celebrations begin with fervour across Telangana",
-              "description": "Lakhs of Lord Ganesha idols of various sizes and forms were installed at homes, apartment complexes and road corners for worship in Hyderabad and all other towns and villages in the State",
-              "url": "https://www.thehindu.com/news/national/ganesh-chaturthi-celebrations-begin-with-fervour-across-telangana/article71465694.ece",
+              "title": "Pak Increases Bounty On Jaish Chief Masood Azhar Weeks Ahead Of FATF Meet",
+              "description": "Masood Azhar, 58, is the founder and chief of JeM, a Pakistan-based terrorist organisation that has been accused of carrying out some of the most serious attacks against India over the past two decades.",
+              "url": "https://www.ndtv.com/world-news/pak-announces-pkr-7-million-bounty-on-terror-group-jaish-chief-masood-azhar-12044683#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-09/sr03ss24_masood-azhar-_625x300_14_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Mon, 14 Sep 2026 17:49:24 +0530"
+            },
+            {
+              "title": "West Bengal bypolls: TMC MP urges EC to ensure no eligible voter denied voting right",
+              "description": "Nearly 25 lakh appeals have been filed before SIR tribunals over deletion of names from the voter list",
+              "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bypolls-tmc-mp-urges-ec-to-ensure-no-eligible-voter-denied-voting-right/article71466000.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/1vht1m/article71465697.ece/alternates/LANDSCAPE_1200/_DSC0499.JPG",
-              "publishedAt": "Mon, 14 Sep 2026 15:21:35 +0530"
+              "image": "https://th-i.thgim.com/public/todays-paper/tp-national/s3gnuh/article69536432.ece/alternates/LANDSCAPE_1200/TH03-SHIV-SAHAYGEHEB4S1K.3.jpg.jpg",
+              "publishedAt": "Mon, 14 Sep 2026 17:49:21 +0530"
+            },
+            {
+              "title": "BJP candidate gets one vote in Rajasthan local body polls",
+              "description": "Mr. Kailashchand said that he was a voter of Ward 12 but the BJP fielded him from the neighbouring Ward 13 of the Parbatsar municipality in Didwana-Kuchaman district",
+              "url": "https://www.thehindu.com/news/national/rajasthan/bjp-candidate-gets-one-vote-in-rajasthan-local-body-polls/article71465993.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/nqrxoc/article71465996.ece/alternates/LANDSCAPE_1200/20260914160L.jpg",
+              "publishedAt": "Mon, 14 Sep 2026 17:25:49 +0530"
+            },
+            {
+              "title": "Amazon Suspends Use Of Cargo Carrier Whose Plane Killed 5 On Miami Runway",
+              "description": "The Boeing 767 came in fast on September 6 and then barreled roughly 1,300 feet (396 metres) past the end of the runway and smashed into a van carrying workers at a plane cleaning company.",
+              "url": "https://www.ndtv.com/world-news/amazon-suspends-use-of-cargo-carrier-whose-plane-killed-5-on-miami-runway-12044983#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-09/k782e1lg_amazon-plane-miami_625x300_14_September_26.jpeg",
+              "publishedAt": "Mon, 14 Sep 2026 17:20:24 +0530"
             },
             {
               "title": "Three main accused in Goa nightclub fire surrender before Mapusa court two weeks after SC order",
@@ -741,23 +781,7 @@
               "url": "https://www.thehindu.com/news/national/three-main-accused-in-goa-nightclub-fire-surrender-before-mapusa-court-two-weeks-after-sc-order/article71465808.ece",
               "source": "thehindu.com",
               "image": "https://th-i.thgim.com/public/incoming/2jcgtv/article71465823.ece/alternates/LANDSCAPE_1200/1_BM_1_BM_GA-COG57FPTI0M.3.jpg.jpg",
-              "publishedAt": "Mon, 14 Sep 2026 15:12:46 +0530"
-            },
-            {
-              "title": "Kochi Metro documents leak: Police launch probe",
-              "description": "According to police, the incident came to light after KMRL found that some of its confidential documents were being circulated in WhatsApp groups",
-              "url": "https://www.thehindu.com/news/national/kerala/kochi-metro-documents-leak-police-launch-probe/article71465800.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/jmejhm/article71465807.ece/alternates/LANDSCAPE_1200/kochi_metro_07.JPG",
-              "publishedAt": "Mon, 14 Sep 2026 15:06:24 +0530"
-            },
-            {
-              "title": "Pakistan's Damage Control With Saudi After Backtracking On Houthi Fight",
-              "description": "Pakistani officials worry the Houthi threat is more likely to draw Islamabad into a war than Iranian missile strikes on Saudi energy infrastructure were earlier this year.",
-              "url": "https://www.ndtv.com/world-news/pakistans-damage-control-with-saudi-after-backtracking-on-houthi-fight-12044362#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/60lnvb0s_saudipakistan_625x300_14_September_26.jpeg",
-              "publishedAt": "Mon, 14 Sep 2026 15:06:11 +0530"
+              "publishedAt": "Mon, 14 Sep 2026 17:14:20 +0530"
             }
           ]
         },
@@ -898,14 +922,6 @@
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-133965228,imgsize-205958.cms",
               "publishedAt": "Wed, 09 Sep 2026 16:30:52 +0530"
-            },
-            {
-              "title": "Recyclekaro partners with TMK for recycling facility in Uzbekistan",
-              "description": "Recyclekaro will establish a facility in Uzbekistan for e-waste and battery recycling. This strategic collaboration aims to recover critical minerals from across Central Asia. Feasibility studies are currently underway t",
-              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/recyclekaro-partners-with-tmk-for-recycling-facility-in-uzbekistan/articleshow/133964784.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-133964784,imgsize-170180.cms",
-              "publishedAt": "Wed, 09 Sep 2026 16:12:39 +0530"
             }
           ]
         },
@@ -999,6 +1015,14 @@
           "emoji": "🌏",
           "articles": [
             {
+              "title": "Jim Cramer questions Anthropic CEO's slowdown manifesto and puts forth an action plan",
+              "description": "While I have grown tired of his endless proclamations, Dario Amodei does raise points that will impact many stocks if the spending curb proceeds.",
+              "url": "https://www.cnbc.com/2026/09/13/cramer-questions-anthropic-ceos-slowdown-manifesto-puts-forth-an-action-plan.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 13 Sep 2026 23:47:14 GMT"
+            },
+            {
               "title": "Rent rises set to speed up in gloomy forecast for tenants",
               "description": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
               "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
@@ -1015,12 +1039,12 @@
               "publishedAt": "Sun, 13 Sep 2026 23:03:06 GMT"
             },
             {
-              "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-              "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-              "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+              "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+              "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+              "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Sun, 13 Sep 2026 19:34:36 GMT"
+              "publishedAt": "Sun, 13 Sep 2026 18:49:37 GMT"
             },
             {
               "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
@@ -1031,28 +1055,12 @@
               "publishedAt": "Sun, 13 Sep 2026 17:48:53 GMT"
             },
             {
-              "title": "The wages of American workers are under pressure. AI's potential role is drawing more attention",
-              "description": "Wage growth for workers has slowed and is struggling to keep up with inflation, drawing attention to AI's potential role even as evidence remains incomplete.",
-              "url": "https://www.cnbc.com/2026/09/13/ai-jobs-pay-inflation.html",
-              "source": "cnbc.com",
+              "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+              "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+              "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Sun, 13 Sep 2026 13:52:58 GMT"
-            },
-            {
-              "title": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
-              "description": "The U.S.-Iran war has caused oil prices to surge and added to freight stress from tariffs, but no shipping trade has boomed quite like crude oil tanker futures.",
-              "url": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Sun, 13 Sep 2026 13:50:00 GMT"
-            },
-            {
-              "title": "Taxing high earners to help fund Social Security gains bipartisan attention — what it could mean for benefits",
-              "description": "With Social Security due to reach a funding shortfall in six years, more lawmakers are opening up to the idea of taxing high earners to help fund the program.",
-              "url": "https://www.cnbc.com/2026/09/13/social-security-payroll-tax-cap.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Sun, 13 Sep 2026 13:30:01 GMT"
+              "publishedAt": "Sat, 12 Sep 2026 21:16:47 GMT"
             }
           ]
         },
@@ -1117,7 +1125,7 @@
               "publishedAt": "Sun, 13 Sep 2026 13:00:00 +0000"
             },
             {
-              "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+              "title": "Crypto’s Clarity Act heads into a make-or-break week with no clear outcome",
               "description": "The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form.",
               "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
               "source": "coindesk.com",
@@ -1144,7 +1152,7 @@
               "title": "OpenAI IPO won't happen this year, says Sam Altman",
               "description": "\"Given everything happening with safety, right now would be an ill-advised moment to go public,\" OpenAI CEO Sam Altman told Fortune.",
               "url": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-              "source": "coindesk.com",
+              "source": "feeds.feedburner.com",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/24e158dc172914f8d1d6b9b4165e6ca991594da0-4979x2801.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
               "publishedAt": "Sat, 12 Sep 2026 21:09:31 +0000"
             },
@@ -1152,17 +1160,17 @@
               "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
               "description": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.",
               "url": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
-              "source": "coindesk.com",
+              "source": "feeds.feedburner.com",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ef3afd448edde39821d9fb15979c93228552e33-6641x3736.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
               "publishedAt": "Sat, 12 Sep 2026 21:09:06 +0000"
             },
             {
-              "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-              "description": "The combined haul equals the largest individual political donations in U.K. history, sharply scaling up crypto industry backing.",
-              "url": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-              "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/54d425afad71df8d6e1593c490cf930909b6742f-640x360.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-              "publishedAt": "Sat, 12 Sep 2026 18:51:04 +0000"
+              "title": "North Korea using foreign talent to help infiltrate US companies: Report",
+              "description": "The DPRK has turned to third-country IT workers to pass job interviews, after which, the positions are usually taken over by North Korean operatives.",
+              "url": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2B5SN57G44ZRVJ1417WPGSB/job-interview-handover-scene.png",
+              "publishedAt": "Sat, 12 Sep 2026 16:08:29 +0000"
             }
           ]
         }
