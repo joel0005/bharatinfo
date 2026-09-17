@@ -60,7 +60,7 @@
           "emoji": "🛠️",
           "articles": [
             {
-              "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+              "title": "An OpenAI Agent Tried to Jailbreak Itself",
               "description": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
               "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
               "source": "wired.com",
@@ -194,6 +194,14 @@
               "publishedAt": "Wed, 16 Sep 2026 15:17:43 +0000"
             },
             {
+              "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
+              "description": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches.Download this free whitepaper now!",
+              "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
+              "source": "spectrum.ieee.org",
+              "image": "https://assets.rbl.ms/67781549/origin.png",
+              "publishedAt": "Wed, 16 Sep 2026 13:24:18 +0000"
+            },
+            {
               "title": "Building the materials foundation for AI",
               "description": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen",
               "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
@@ -208,14 +216,6 @@
               "source": "technologyreview.com",
               "image": "",
               "publishedAt": "Wed, 16 Sep 2026 12:10:00 +0000"
-            },
-            {
-              "title": "How chimps teach their kids tool tricks",
-              "description": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
-              "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chimps1-1152x648.jpg",
-              "publishedAt": "Wed, 16 Sep 2026 04:00:39 +0000"
             }
           ]
         },
@@ -287,12 +287,12 @@
               "publishedAt": "Wed, 16 Sep 2026 14:30:51 GMT"
             },
             {
-              "title": "We managed to get jobs after uni - here's how we're keeping them",
-              "description": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
-              "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+              "title": "Complaints to watchdog about water firms soar",
+              "description": "Many complaints were about affordability, after customers saw steep hikes to bills.",
+              "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 08:36:37 GMT"
+              "publishedAt": "Wed, 16 Sep 2026 06:59:41 GMT"
             },
             {
               "title": "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
@@ -303,12 +303,12 @@
               "publishedAt": "Tue, 16 Jun 2026 12:51:54 +0530"
             },
             {
-              "title": "UK in talks about joining global defence bank led by Canada",
-              "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
-              "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
+              "title": "Apple faces Indian engineer’s bias lawsuit",
+              "description": "Anita Nariani Schulze is part of the Sindhi minority. Her complaint alleges that her senior and direct managers, both male, consistently excluded her from meetings while inviting her male counterparts, criticised her, mi",
+              "url": "https://economictimes.indiatimes.com/tech/technology/apple-faces-indian-engineers-bias-lawsuit/articleshow/81694292.cms",
+              "source": "economictimes.indiatimes.com",
               "image": "",
-              "publishedAt": "Tue, 15 Sep 2026 23:50:55 GMT"
+              "publishedAt": "Thu, 25 Mar 2021 23:14:01 +0530"
             }
           ]
         },
@@ -326,20 +326,20 @@
               "publishedAt": "Wed, 16 Sep 2026 23:18:47 GMT"
             },
             {
-              "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-              "description": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
-              "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 21:40:18 GMT"
-            },
-            {
               "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
               "description": "The Fed should have hiked rates by half percentage point rather than a quarter, the investor told CNBC.",
               "url": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
               "source": "cnbc.com",
               "image": "",
               "publishedAt": "Wed, 16 Sep 2026 19:38:41 GMT"
+            },
+            {
+              "title": "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
+              "description": "The biggest trade in options on the Cboe VIX Index Tuesday was an unusual $6 million purchase of deep, deep in-the-money-puts.",
+              "url": "https://www.cnbc.com/2026/09/16/bizarre-volatility-bet-in-the-options-pits-is-a-head-scratcher-ahead-of-fed-rate-decision.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 16 Sep 2026 12:14:21 GMT"
             }
           ]
         },
@@ -357,52 +357,60 @@
               "publishedAt": "Wed, 16 Sep 2026 23:50:07 +0000"
             },
             {
-              "title": "US automakers could soon be forced to include AM radio for free",
-              "description": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
-              "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
-              "source": "techcrunch.com",
+              "title": "Peak XV Partners Sells Groww Shares Worth ₹1,756.2 Cr",
+              "description": "VC firm Peak XV Partners has sold 9.17 Cr shares of fintech major Groww in a bulk deal today.  As&#8230;",
+              "url": "https://inc42.com/buzz/peak-xv-partners-sells-groww-shares-worth-%e2%82%b91756-2-cr/",
+              "source": "inc42.com",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 22:37:08 +0000"
+              "publishedAt": "Wed, 16 Sep 2026 15:34:04 +0000"
             },
             {
-              "title": "Noise wants to help everyday people  become paid content creators",
-              "description": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-              "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-              "source": "techcrunch.com",
+              "title": "UPI In August: Navi’s Market Share Climbs To 4.4%,  PhonePe & Google Pay Slip",
+              "description": "Sachin Bansal-led Navi continued to gain ground in the UPI market in August, with its share of transaction volumes rising&#8230;",
+              "url": "https://inc42.com/buzz/upi-in-august-navis-market-share-climbs-to-4-4-phonepe-google-pay-slip/",
+              "source": "inc42.com",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 21:35:00 +0000"
+              "publishedAt": "Wed, 16 Sep 2026 15:24:22 +0000"
             },
             {
-              "title": "Pulley, a Carta rival, is shutting down",
-              "description": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund,   announced that it's closing shop in December.",
-              "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+              "title": "Last call: Disrupt volunteer application closes soon",
+              "description": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
+              "url": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
               "source": "techcrunch.com",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 21:23:19 +0000"
+              "publishedAt": "Thu, 17 Sep 2026 15:02:00 +0000"
             },
             {
-              "title": "X will now let US users trade via Cashtags",
-              "description": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
-              "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+              "title": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
+              "description": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.",
+              "url": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
               "source": "techcrunch.com",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 19:57:22 +0000"
+              "publishedAt": "Thu, 17 Sep 2026 15:00:00 +0000"
             },
             {
-              "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-              "description": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefit",
-              "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-              "source": "techcrunch.com",
+              "title": "SEBI Greenlights Kuku FM’s ₹3,500 Cr IPO",
+              "description": "Markets regulator SEBI has greenlit the proposed listing of audio OTT startup Kuku FM months after it filed its draft&#8230;",
+              "url": "https://inc42.com/buzz/sebi-greenlights-kuku-fms-%e2%82%b93500-cr-ipo/",
+              "source": "inc42.com",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 19:35:29 +0000"
+              "publishedAt": "Thu, 17 Sep 2026 14:14:49 +0000"
             },
             {
-              "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-              "description": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-              "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+              "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+              "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+              "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
               "source": "techcrunch.com",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 19:02:49 +0000"
+              "publishedAt": "Thu, 17 Sep 2026 14:06:14 +0000"
+            },
+            {
+              "title": "Bombay Shaving Company Revises ‘Switch4’ Ad Post Delhi High Court Direction",
+              "description": "Bombay Shaving Company (BSC) founder Shantanu Deshpande said the company has revised its Switch4 advertisement in accordance with the undertaking&#8230;",
+              "url": "https://inc42.com/buzz/bombay-shaving-company-revises-switch4-ad-post-delhi-high-court-direction/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Thu, 17 Sep 2026 14:03:51 +0000"
             }
           ]
         },
@@ -466,28 +474,28 @@
               "publishedAt": "Wed, 16 Sep 2026 23:12:34 +0530"
             },
             {
-              "title": "Mizoram Speaker to lead Indian delegation session on AI at Commonwealth meet in South Africa",
-              "description": "The conference is deliberating upon issues related to strengthening parliamentary systems and promoting equitable development among Commonwealth countries, according to an official release.",
-              "url": "https://www.thehindu.com/news/national/mizoram/mizoram-speaker-to-lead-indian-delegation-session-on-ai-at-commonwealth-meet-in-south-africa/article71476412.ece",
+              "title": "Army sepoy from Bengaluru competes in IRONMAN 70.3 World Championship 2026",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/karnataka/army-sepoy-from-bengaluru-competes-in-ironman-703-world-championship-2026/article71477221.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/ob5n65/article71476451.ece/alternates/LANDSCAPE_1200/KPnWudk5fGCvIVZKhvAg.jpg",
-              "publishedAt": "Thu, 17 Sep 2026 17:12:52 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/y58iwf/article71477496.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-17%20at%2019.48.32.JPEG",
+              "publishedAt": "Thu, 17 Sep 2026 20:33:58 +0530"
             },
             {
-              "title": "Disha Salian case: Raut backs Aaditya; says CBI FIR attempt to malign Thackeray family image",
-              "description": "The Central Bureau of Investigation registered a First Information Report in the 2020 Disha Salian death case, naming no accused in compliance with Bombay High Court directives on a petition filed by her father",
-              "url": "https://www.thehindu.com/news/national/maharashtra/disha-salian-case-raut-backs-aaditya-says-cbi-fir-attempt-to-malign-thackeray-family-image/article71476373.ece",
+              "title": "IIIT-B, TCA sign LoI to deepen tech cooperation",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/karnataka/iiit-b-tca-sign-loi-to-deepen-tech-cooperation/article71477132.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/9so9ev/article71476407.ece/alternates/LANDSCAPE_1200/8_BM_MaharashtrGN7F9C02R.3.jpg.jpg",
-              "publishedAt": "Thu, 17 Sep 2026 16:57:31 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/wtq5gh/article71477473.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-17%20at%2018.56.36.JPEG",
+              "publishedAt": "Thu, 17 Sep 2026 20:30:46 +0530"
             },
             {
-              "title": "Supreme Court asks CBSE to consider implementing 3-language policy for Class 6 from next year",
-              "description": "The law officer said that the CBSE would consider the suggestion and come back with a fresh note on the issue",
-              "url": "https://www.thehindu.com/news/national/supreme-court-asks-cbse-to-consider-implementing-3-language-policy-for-class-6-from-next-year/article71476330.ece",
+              "title": "Man, daughter killed in road accident while returning after distributing wedding invitations",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/telangana/man-daughter-killed-in-road-accident-while-returning-after-distributing-wedding-invitations/article71477206.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/n9z1rr/article71476383.ece/alternates/LANDSCAPE_1200/NEET-UG-protestGULGHO8AK.4.jpg.jpg",
-              "publishedAt": "Thu, 17 Sep 2026 16:48:59 +0530"
+              "image": "",
+              "publishedAt": "Thu, 17 Sep 2026 20:29:56 +0530"
             }
           ]
         },
@@ -560,60 +568,60 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Tata Trusts dissents to reappointment of N. Chandrasekaran as Tata Sons chairperson",
-              "description": "The Tata Trusts formally placed on record their acceptance of the decision the following day and advised Tata Sons to initiate the process for setting up a Selection Committee for appointing a successor, in accordance wi",
-              "url": "https://www.thehindu.com/business/Industry/tata-trusts-dissents-to-reappointment-of-n-chandrasekaran-as-tata-sons-chairperson/article71476401.ece",
+              "title": "MP inaugurates new dining hall in V.S. Krishna college",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/mp-inaugurates-new-dining-hall-in-vs-krishna-college/article71476343.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/8tr4dw/article71476391.ece/alternates/LANDSCAPE_1200/Tata-Sons-facesG8AGHARJJ.5.jpg.jpg",
-              "publishedAt": "Thu, 17 Sep 2026 17:20:48 +0530"
+              "image": "",
+              "publishedAt": "Thu, 17 Sep 2026 20:34:22 +0530"
             },
             {
-              "title": "'84 rules changed': Congress accuses Uttarakhand CM of handing power project meant for PSUs to Adani",
-              "description": "The Opposition party asked why did the BJP government kill its own UJVN-THDC project only to create a 1,320 MW opportunity that perfectly fits Adani's Korba plant, and why 84 tender conditions were rewritten",
-              "url": "https://www.thehindu.com/news/national/84-rules-changed-congress-accuses-uttarakhand-cm-of-handing-power-project-meant-for-psus-to-adani/article71476411.ece",
+              "title": "Teresian College to host science exhibition",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/karnataka/teresian-college-to-host-science-exhibition/article71477332.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/291odd/article71471224.ece/alternates/LANDSCAPE_1200/TH19-Vijaita-CoGSCGDSKIN.3.jpg.jpg",
-              "publishedAt": "Thu, 17 Sep 2026 17:19:18 +0530"
+              "image": "",
+              "publishedAt": "Thu, 17 Sep 2026 20:34:08 +0530"
             },
             {
-              "title": "Software employee saw ₹1.44 crore in his account, lost ₹22.8 lakh; two held in Andhra’s Nandyal",
-              "description": "Asked to pay ₹25 lakh in “taxes” before he could withdraw his money, he realised he had been cheated",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/software-employee-saw-144-crore-in-his-account-lost-228-lakh-two-held-in-andhras-nandyal/article71476273.ece",
+              "title": "APSPDCL’s phone-in receives 2249 complaints; 1,898 resolved",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/apspdcls-phone-in-receives-2249-complaints-1898-resolved/article71477295.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/rk4tod/article71251868.ece/alternates/LANDSCAPE_1200/Cyberabad-PolicG2GG9IEV7.3.jpg.jpg",
-              "publishedAt": "Thu, 17 Sep 2026 17:10:39 +0530"
+              "image": "",
+              "publishedAt": "Thu, 17 Sep 2026 20:31:22 +0530"
             },
             {
-              "title": "NIA court issues arrest warrant against Pakistan-based LeT ‘commander’ Saifullah for his role in attacks in J&K",
-              "description": "The Central agency says Saifullah is a key figure in the terror outfit’s operations and has remained active for over two decades; he is linked to last year’s Pahalgam terror attack in which 26 people were killed",
-              "url": "https://www.thehindu.com/news/national/nia-court-issues-arrest-warrant-against-pakistan-based-let-commander-saifullah-for-his-role-in-attacks-in-jampk/article71476200.ece",
+              "title": "PanIIT summit to help shape roadmap for DeepTech initiatives in Andhra Pradesh",
+              "description": "The vision is to use DeepTech, research, innovation and advanced manufacturing as drivers of the State’s growth, while addressing priorities in energy, healthcare, agriculture, water, space and defence",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/paniit-summit-to-shape-roadmap-for-deeptech-initiatives-in-andhra-pradesh/article71476983.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/lx74vp/article71476238.ece/alternates/LANDSCAPE_1200/6751_29_1_2023_14_12_25_2_52_NIA_ATTACHED_HURRIYAT_OFFICE_SGR_29_01_2023.JPG",
-              "publishedAt": "Thu, 17 Sep 2026 16:53:12 +0530"
+              "image": "",
+              "publishedAt": "Thu, 17 Sep 2026 20:30:40 +0530"
             },
             {
-              "title": "Boy’s body found, search on for father, uncle who swept away in Galeru-Nagari canal",
-              "description": "Eight-year-old Aarush lost his balance while playing at Ramapuram village in Owk mandal and the two men went in after him; the canal was carrying about 3,200 cusecs at the time",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/boys-body-found-search-on-for-father-uncle-who-swept-away-in-galeru-nagari-canal/article71475930.ece",
+              "title": "CM to distribute pattas for plots tomorrow",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/cm-to-distribute-pattas-for-plots-tomorrow/article71476744.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/6uvnvz/article53493722.ece/alternates/LANDSCAPE_1200/23vj-sub-waer-rGFI80LAU33jpgjpg",
-              "publishedAt": "Thu, 17 Sep 2026 16:46:10 +0530"
+              "image": "",
+              "publishedAt": "Thu, 17 Sep 2026 20:29:50 +0530"
             },
             {
-              "title": "No proposal from NSE seeking approval for trading on its own platform: SEBI chief",
-              "description": "On concerns raised by some brokers and asset management companies over the new UPI Merchant Discount Rate (MDR), Mr. Pandey said the Securities and Exchange Board of India (SEBI) would examine the issues.",
-              "url": "https://www.thehindu.com/business/markets/no-proposal-from-nse-seeking-approval-for-trading-on-its-own-platform-sebi-chief/article71476004.ece",
+              "title": "New underpass to ease traffic, improve U-turn efficiency at My Home Avatar Junction handling 33,000 vehicles in morning rush",
+              "description": "Traffic police hope to eventually make the busy junction ‘waiting-free’, with additional U-turn arrangements planned to separate conflicting vehicle movements",
+              "url": "https://www.thehindu.com/news/national/telangana/new-underpass-to-ease-traffic-improve-u-turn-efficiency-at-my-home-avatar-junction-handling-33000-vehicles-in-morning-rush/article71477082.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/b1gcb9/article71476025.ece/alternates/LANDSCAPE_1200/20260812170L.jpg",
-              "publishedAt": "Thu, 17 Sep 2026 16:42:12 +0530"
+              "image": "https://th-i.thgim.com/public/news/national/telangana/9hgycz/article71477451.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-17%20at%208.17.03%20PM.jpeg",
+              "publishedAt": "Thu, 17 Sep 2026 20:27:13 +0530"
             },
             {
-              "title": "Nashik stray dog menace: Protesters release puppies on civic official's table",
-              "description": "Shiv Sena (UBT) district youth wing functionary Vikram Randhave claimed that more than 400 stray dogs roam the Nagar Panchayat limits and that over 100 residents suffer dog-bite injuries every month",
-              "url": "https://www.thehindu.com/news/national/maharashtra/protesters-place-puppies-on-officials-table-to-highlight-nashik-stray-dog-menace/article71476211.ece",
+              "title": "₹73 lakh CSR-funded toilet works begin at Mysuru zoo, Karanji Lake",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/karnataka/73-lakh-csr-funded-toilet-works-begin-at-mysuru-zoo-karanji-lake/article71477101.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/ss8dv/article71476234.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000133B.jpg",
-              "publishedAt": "Thu, 17 Sep 2026 16:35:44 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/qr5e2r/article71477452.ece/alternates/LANDSCAPE_1200/2303_17_9_2026_20_18_9_1_ZOOWORK.JPEG",
+              "publishedAt": "Thu, 17 Sep 2026 20:27:08 +0530"
             }
           ]
         },
@@ -732,36 +740,12 @@
               "publishedAt": "Wed, 16 Sep 2026 19:51:42 +0530"
             },
             {
-              "title": "Peak XV Partners Sells Groww Shares Worth ₹1,756.2 Cr",
-              "description": "VC firm Peak XV Partners has sold 9.17 Cr shares of fintech major Groww in a bulk deal today.  As&#8230;",
-              "url": "https://inc42.com/buzz/peak-xv-partners-sells-groww-shares-worth-%e2%82%b91756-2-cr/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 15:34:04 +0000"
-            },
-            {
-              "title": "UPI In August: Navi’s Market Share Climbs To 4.4%,  PhonePe & Google Pay Slip",
-              "description": "Sachin Bansal-led Navi continued to gain ground in the UPI market in August, with its share of transaction volumes rising&#8230;",
-              "url": "https://inc42.com/buzz/upi-in-august-navis-market-share-climbs-to-4-4-phonepe-google-pay-slip/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 15:24:22 +0000"
-            },
-            {
               "title": "Meta May Lose Intermediary Status In India Amid CSAM Scrutiny: Report",
               "description": "Social media giant Meta may no longer enjoy intermediary status in India, under which Facebook, Instagram and WhatsApp can seek&#8230;",
               "url": "https://inc42.com/buzz/meta-may-lose-intermediary-status-in-india-amid-csam-scrutiny-report/",
               "source": "inc42.com",
               "image": "",
               "publishedAt": "Wed, 16 Sep 2026 15:19:59 +0000"
-            },
-            {
-              "title": "Lendingkart Finance Cuts Q1 FY27 Loss By 62% To ₹32.4 Cr, Revenue Halves YoY",
-              "description": "Fintech startup Lendingkart’s NBFC arm Lendingkart Finance has managed to trim its loss by 62% to ₹32.4 Cr for the&#8230;",
-              "url": "https://inc42.com/buzz/lendingkart-finance-cuts-q1-fy27-loss-by-62-to-%e2%82%b932-4-cr-revenue-halves-yoy/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 14:33:00 +0000"
             },
             {
               "title": "TikTok founder Zhang Yiming overtakes Gautam Adani as Asia’s richest",
@@ -772,28 +756,12 @@
               "publishedAt": "Wed, 16 Sep 2026 13:07:37 +0530"
             },
             {
-              "title": "With UPI MDR Clarity, PhonePe Eyes IPO By March 2027",
-              "description": "With greater clarity around the monetisation of UPI payments following’ the introduction of a new Merchant Discount Rate (MDR) framework,&#8230;",
-              "url": "https://inc42.com/buzz/with-upi-mdr-clarity-phonepe-eyes-ipo-by-march-2027/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 12:44:46 +0000"
-            },
-            {
-              "title": "Finvolve Announces First Close Of Growth Stage Fund At ₹90 Cr",
-              "description": "India Accelerator’s dedicated multi-stage venture capital (VC) investment arm Finvolve has announced the first close of its ₹250 Cr growth&#8230;",
-              "url": "https://inc42.com/buzz/finvolve-announces-first-close-of-growth-stage-fund-at-%e2%82%b990-cr/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 11:45:55 +0000"
-            },
-            {
-              "title": "Inside Dextrus’ Contrarian Bet In India’s Venture Capital-Heavy Workspace Ecosystem",
-              "description": "The traditional Indian workplace is being reimagined. Whether it is a year-old startup or a decades-old enterprise, companies now want&#8230;",
-              "url": "https://inc42.com/features/inside-dextrus-bet-in-indias-workspace-ecosystem/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 11:30:08 +0000"
+              "title": "India's policymakers keen to adopt new technologies: Autodesk CEO Andrew Anagnost",
+              "description": "Autodesk's CEO notes India's ministers are receptive to new technologies and collaboration. The country offers significant quality and depth in its talent pool for hiring. Autodesk is actively engaging with its recently",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-policymakers-keen-to-adopt-new-technologies-autodesk-ceo-andrew-anagnost/articleshow/134276151.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-134276151,imgsize-57520.cms",
+              "publishedAt": "Wed, 16 Sep 2026 07:30:45 +0530"
             }
           ]
         },
@@ -856,20 +824,12 @@
           "emoji": "🇺🇸",
           "articles": [
             {
-              "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
-              "description": "Salesforce issued some updated longer-term financials at its annual Dreamforce conference.",
-              "url": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
+              "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+              "description": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
+              "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 23:13:45 GMT"
-            },
-            {
-              "title": "Here are five key takeaways from Wednesday's Fed rate hike",
-              "description": "The Fed on Wednesday delivered a much-expected interest rate hike.",
-              "url": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 21:23:51 GMT"
+              "publishedAt": "Wed, 16 Sep 2026 23:05:48 GMT"
             },
             {
               "title": "Hyperscaler debt signals warning sign, Apollo cautions",
@@ -887,20 +847,28 @@
           "emoji": "🌏",
           "articles": [
             {
-              "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
-              "description": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
-              "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+              "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+              "description": "The Fed on Wednesday delivered a much-expected interest rate hike.",
+              "url": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 23:05:48 GMT"
+              "publishedAt": "Wed, 16 Sep 2026 21:23:51 GMT"
             },
             {
-              "title": "Burnham rejects 'tax and spend socialist' comments",
-              "description": "The prime minister insists he is prepared to take \"difficult decisions\" at next month's Budget.",
-              "url": "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o?at_medium=RSS&at_campaign=rss",
+              "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+              "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+              "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 14:21:37 GMT"
+              "publishedAt": "Wed, 16 Sep 2026 10:02:05 GMT"
+            },
+            {
+              "title": "UK in talks about joining global defence bank led by Canada",
+              "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+              "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Tue, 15 Sep 2026 23:50:55 GMT"
             }
           ]
         },
@@ -918,20 +886,12 @@
               "publishedAt": "Wed, 16 Sep 2026 14:52:38 GMT"
             },
             {
-              "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-              "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-              "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+              "title": "We managed to get jobs after uni - here's how we're keeping them",
+              "description": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+              "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 10:02:05 GMT"
-            },
-            {
-              "title": "Complaints to watchdog about water firms soar",
-              "description": "Many complaints were about affordability, after customers saw steep hikes to bills.",
-              "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Wed, 16 Sep 2026 06:59:41 GMT"
+              "publishedAt": "Wed, 16 Sep 2026 08:36:37 GMT"
             }
           ]
         },
@@ -941,84 +901,84 @@
           "emoji": "₿",
           "articles": [
             {
-              "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
-              "description": "Digital Sovereignty Alliance managing director Adrian Wall said senators from both parties are considering another attempt to advance the crypto market structure bill before the current Congress ends.",
-              "url": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NY2SA6460QWXX3EP9NYFFC/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump-2.png",
-              "publishedAt": "Wed, 16 Sep 2026 20:51:38 +0000"
-            },
-            {
-              "title": "UK FCA sets crypto authorization guidance ahead of September application window",
-              "description": "The FCA’s new guidance outlines which crypto activities may require authorization as firms prepare for the UK’s incoming digital asset regulatory regime.",
-              "url": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NRTRQVV5H9VDTT43R1701S/hi-united-kingdom-making-strides-on-crypto-regulation-fca.jpg",
-              "publishedAt": "Wed, 16 Sep 2026 19:19:23 +0000"
-            },
-            {
-              "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+              "title": "Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data",
               "description": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings. Revolut said it has not not received any direct contact from the individuals.",
               "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-              "source": "coindesk.com",
+              "source": "feeds.feedburner.com",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/b08655496c72c8658f860327377b4fc4bb202061-1500x903.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
               "publishedAt": "Wed, 16 Sep 2026 19:07:34 +0000"
             },
             {
-              "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
-              "description": "A bipartisan House committee vote advanced legislation that would reshape federal tax rules for stablecoins, staking, crypto lending and digital asset transactions.",
-              "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZPXXHGWMSP41E47Q6TRZ/hi-more-irs-crypto-reporting-more-danger.jpg",
-              "publishedAt": "Wed, 16 Sep 2026 18:01:55 +0000"
-            },
-            {
-              "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-              "description": "The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.",
-              "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+              "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+              "description": "Increased enforcement coincides with detailed regulatory guidance issued to crypto firms ahead of the full framework taking effect in late 2027.",
+              "url": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
               "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/91249261c4cf7e9e62ee5838d44d8d8de8253080-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-              "publishedAt": "Wed, 16 Sep 2026 17:54:55 +0000"
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb17cfd9d06f0cacc79776020c4a1165af9af36-2142x1258.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 17 Sep 2026 15:08:24 +0000"
             },
             {
-              "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-              "description": "The estate is chasing 6,360 BTC lost in the Covid crash — a leveraged long position that sits awkwardly with the lender's delta-neutral marketing.",
-              "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+              "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+              "description": "The U.S. Securities and Exchange Commission dug into plans for around-the-clock trading in an event on the same morning it approved tokenized securities.",
+              "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
               "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/60aebd54ba86be12588505ff7b7b03b2e32c2fa1-1200x807.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-              "publishedAt": "Wed, 16 Sep 2026 17:34:04 +0000"
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 17 Sep 2026 15:03:19 +0000"
             },
             {
-              "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
-              "description": "The Digital Asset Tax Certainty Act would ease complicated tax burdens for everyday use of cryptocurrencies, though Trump's industry ties spurred some pushback.",
-              "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+              "title": "Crypto for Advisors: Beyond bitcoin and ether",
+              "description": "",
+              "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
               "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/00c315459375cb1046e10cb7540bafa9dfe690b4-3761x2456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-              "publishedAt": "Wed, 16 Sep 2026 16:21:44 +0000"
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/9052ffe1b38183c086273c6f263b678678736d69-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 17 Sep 2026 14:57:11 +0000"
             },
             {
-              "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
-              "description": "Anchorage Digital Bank added custody support for Etherlink and several Etherlink-based assets, including xU3O8, a token representing physical uranium.",
-              "url": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDB0Z3PMHZBGW6VE69Z32A/coin-crypto-silver.png",
-              "publishedAt": "Wed, 16 Sep 2026 16:03:35 +0000"
+              "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+              "description": "The U.S. is likely to lose out to foreign markets in the short term, but SEC and CFTC rules will help underpin the industry.",
+              "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/822b54f142ab14b2c15954a87529a4bed9d926aa-5107x3405.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 17 Sep 2026 14:50:58 +0000"
             },
             {
-              "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
-              "description": "A strategist at the Danish bank said Coinbase has more at stake in the CLARITY setback because its trading business is directly exposed to US market-structure rules.",
-              "url": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "title": "Here’s what happened in crypto today",
+              "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+              "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
               "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NBVNQWMFT4B98DXZHZWR69/c-man-reading-a-news-paper-coinbase.jpg",
-              "publishedAt": "Wed, 16 Sep 2026 15:52:17 +0000"
+              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+              "publishedAt": "Thu, 17 Sep 2026 13:53:14 +0000"
             },
             {
-              "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
-              "description": "Bitcoin price support materialized around $68,000 as markets saw a 93% chance of the Fed hiking rates by 0.25% on Wednesday.",
-              "url": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+              "description": "Crypto.com’s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.",
+              "url": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
               "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDCKGG8297RQRGC1PX6SV9/hi-impact-of-fed-interest-rates-on-crypto-holders.jpg",
-              "publishedAt": "Wed, 16 Sep 2026 15:30:49 +0000"
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQC5X3Z7N19JN9MSH4SD45/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter-1.jpg",
+              "publishedAt": "Thu, 17 Sep 2026 13:35:57 +0000"
+            },
+            {
+              "title": "SEC grants temporary exemption for tokenized US stock trading",
+              "description": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
+              "url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH74529R6BGMH1T9/hi-who-is-mark-uyeda-trumps-new-face-for-the-sec.jpg",
+              "publishedAt": "Thu, 17 Sep 2026 13:34:17 +0000"
+            },
+            {
+              "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+              "description": "Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?",
+              "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MQKH8M6FB9RA6PJPEFV90G/magazine-young-crypto-founder-1.png",
+              "publishedAt": "Thu, 17 Sep 2026 13:30:00 +0000"
+            },
+            {
+              "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
+              "description": "Building on its recent market-data investment in Kaiko, S&P Global’s latest purchase targets the technological risks facing banks and asset managers onchain.",
+              "url": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/8124d5817232e2a5c9bb3d2dd20a5d30b0f10d51-1264x711.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Thu, 17 Sep 2026 13:15:21 +0000"
             }
           ]
         }
