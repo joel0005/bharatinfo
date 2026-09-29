@@ -13,20 +13,28 @@
           "emoji": "🏢",
           "articles": [
             {
+              "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+              "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+              "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 12:45:05 +0000"
+            },
+            {
+              "title": "Reco raises $55M as AI agent security startups crowd the market",
+              "description": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+              "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 12:30:00 +0000"
+            },
+            {
               "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
               "description": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
               "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
               "source": "wired.com",
               "image": "",
               "publishedAt": "Tue, 29 Sep 2026 10:36:22 +0000"
-            },
-            {
-              "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-              "description": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
-              "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 10:30:00 +0000"
             },
             {
               "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -67,22 +75,6 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
               "publishedAt": "Mon, 28 Sep 2026 22:24:33 +0000"
-            },
-            {
-              "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-              "description": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
-              "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-              "publishedAt": "Mon, 28 Sep 2026 21:49:10 +0000"
-            },
-            {
-              "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-              "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-              "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Mon, 28 Sep 2026 21:29:18 +0000"
             }
           ]
         },
@@ -108,6 +100,14 @@
               "publishedAt": "Wed, 09 Sep 2026 20:55:02 +0000"
             },
             {
+              "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+              "description": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+              "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 10:30:00 +0000"
+            },
+            {
               "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
               "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
               "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
@@ -130,22 +130,6 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255624329-1024x648.jpg",
               "publishedAt": "Tue, 22 Sep 2026 16:55:40 +0000"
-            },
-            {
-              "title": "Why this month's Microsoft patch release is a doozy",
-              "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-              "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-              "publishedAt": "Tue, 08 Sep 2026 21:11:46 +0000"
-            },
-            {
-              "title": "There's a new way to break RSA that's faster than anything we've seen before",
-              "description": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
-              "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg",
-              "publishedAt": "Thu, 24 Sep 2026 11:15:44 +0000"
             }
           ]
         },
@@ -161,14 +145,6 @@
               "source": "blog.google",
               "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
               "publishedAt": "Wed, 23 Sep 2026 18:00:00 +0000"
-            },
-            {
-              "title": "A congressional representative just proposed killing America’s border tower program",
-              "description": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just d",
-              "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-              "source": "technologyreview.com",
-              "image": "",
-              "publishedAt": "Wed, 23 Sep 2026 17:10:11 +0000"
             },
             {
               "title": "Two years of OpenAI Academy",
@@ -233,6 +209,14 @@
               "source": "openai.com",
               "image": "",
               "publishedAt": "Wed, 23 Sep 2026 02:00:00 GMT"
+            },
+            {
+              "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+              "description": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+              "url": "https://openai.com/index/airbnb-gpt-6-astra",
+              "source": "openai.com",
+              "image": "",
+              "publishedAt": "Wed, 23 Sep 2026 01:00:00 GMT"
             }
           ]
         },
@@ -290,28 +274,36 @@
               "publishedAt": "Wed, 09 Sep 2026 10:00:07 +0000"
             },
             {
-              "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-              "description": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies",
-              "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-              "source": "spectrum.ieee.org",
-              "image": "https://assets.rbl.ms/67843727/origin.png",
-              "publishedAt": "Tue, 29 Sep 2026 10:00:06 +0000"
+              "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+              "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the",
+              "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+              "source": "technologyreview.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 12:10:00 +0000"
             },
             {
-              "title": "Effort begins to fill the void left by terminated US climate report",
-              "description": "First paper added to community collection is a roadmap for research.",
-              "url": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-154344707-1024x648.jpg",
-              "publishedAt": "Tue, 22 Sep 2026 16:26:30 +0000"
+              "title": "How to Stop AI Agents From Secretly Collaborating",
+              "description": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous example is OpenAI’s hack of AI platform Hugging Face",
+              "url": "https://spectrum.ieee.org/ai-agent-security",
+              "source": "spectrum.ieee.org",
+              "image": "https://spectrum.ieee.org/media-library/illustration-of-several-smiling-robot-faces-against-a-geometric-background.jpg?id=67862180&width=980",
+              "publishedAt": "Tue, 29 Sep 2026 12:00:02 +0000"
             },
             {
-              "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
-              "description": "Have you ever read a paper in Science or Nature and thought, “Man, that research was so cool. I wish I could try that method on my own data,” only to spend a week wrestling with someone else’s undocumented repo, broken d",
-              "url": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
-              "source": "spectrum.ieee.org",
-              "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-an-ai-chatbot-observing-abstract-patterns-charts-and-shapes-for-its-deep-learning-algorithms.jpg?id=67806327&width=980",
-              "publishedAt": "Tue, 22 Sep 2026 15:00:05 +0000"
+              "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+              "description": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal",
+              "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+              "source": "technologyreview.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 11:00:00 +0000"
+            },
+            {
+              "title": "Making AI an asset, not an expense",
+              "description": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. Bu",
+              "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+              "source": "technologyreview.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 10:43:45 +0000"
             }
           ]
         },
@@ -359,12 +351,52 @@
           "emoji": "🇮🇳",
           "articles": [
             {
-              "title": "India's next investor wave will come from smaller cities, youth: EY",
-              "description": "India has built digital rails for financial access, but EY says the next phase requires a wealth infrastructure that links identity, data, AI, advice and investor protection mechanisms",
-              "url": "https://www.business-standard.com/finance/personal-finance/india-s-next-investor-wave-will-come-from-smaller-cities-youth-ey-126092900707_1.html",
+              "title": "TVS Motor leases 529,533 sq ft office space in Bengaluru for 10 years",
+              "description": "The 10-year lease at Gardencity IT Park in Hebbal commenced on September 22, with monthly rent of about ₹4.7 crore; Colliers advised on the transaction",
+              "url": "https://www.business-standard.com/companies/news/tvs-motor-leases-529-533-sq-ft-office-space-in-bengaluru-for-10-years-126092901013_1.html",
               "source": "business-standard.com",
               "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 16:15:41 +0530"
+              "publishedAt": "Tue, 29 Sep 2026 18:25:44 +0530"
+            },
+            {
+              "title": "Expanding innovative portfolio may drive gains for Sun Pharma stock",
+              "description": "Lerodalcibep licensing deal, growth in the US portfolio and tariff relief offer triggers, while the proposed Organon acquisition could broaden its global reach",
+              "url": "https://www.business-standard.com/markets/news/expanding-innovative-portfolio-may-drive-gains-for-sun-pharma-stock-126092900957_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 17:57:19 +0530"
+            },
+            {
+              "title": "Ending five-month buying streak, FPIs sell FAR bonds in September",
+              "description": "Foreign investors turned net sellers of FAR government bonds in September, ending a five-month buying streak as high crude prices and firm US yields weighed",
+              "url": "https://www.business-standard.com/markets/news/fpis-sell-9-192-crore-of-far-bonds-in-sept-as-global-risks-intensify-126092900819_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 17:47:53 +0530"
+            },
+            {
+              "title": "Medanta acquires land in Ghaziabad for ₹ 166 cr, to build 350-bed hospital",
+              "description": "Proposed 350-bed facility in UP to strengthen Global Health's footprint across Delhi-NCR healthcare market",
+              "url": "https://www.business-standard.com/health/medanta-acquires-land-in-ghaziabad-for-166-cr-to-build-350-bed-hospital-126092900875_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 17:26:45 +0530"
+            },
+            {
+              "title": "Ten of 19 services sub-sectors post double-digit growth in July: NSO",
+              "description": "Ten of 19 services sub-sectors posted double-digit growth in July, led by administrative and support services at 20.9 per cent, while two segments contracted",
+              "url": "https://www.business-standard.com/economy/news/ten-of-19-services-sub-sectors-post-double-digit-growth-in-july-nso-126092900876_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 17:09:52 +0530"
+            },
+            {
+              "title": "SP Group's Mercury Finance taps dollar debt to meet another unit's dues",
+              "description": "The real estate conglomerate plans to use the ​proceeds to invest in rupee-denominated bonds to be issued later by a local group entity.",
+              "url": "https://www.business-standard.com/companies/news/sp-group-s-mercury-finance-taps-dollar-debt-to-meet-another-unit-s-dues-126092900815_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 16:57:44 +0530"
             },
             {
               "title": "As smartphone prices rise, how retailers plan to keep festive deals alive",
@@ -372,7 +404,7 @@
               "url": "https://www.business-standard.com/industry/news/as-smartphone-prices-rise-how-retailers-plan-to-keep-festive-deals-alive-126092900623_1.html",
               "source": "business-standard.com",
               "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 16:10:40 +0530"
+              "publishedAt": "Tue, 29 Sep 2026 16:22:17 +0530"
             },
             {
               "title": "India's Sun Pharma plans $1 billion local debt sale for loan takeout",
@@ -397,46 +429,6 @@
               "source": "business-standard.com",
               "image": "",
               "publishedAt": "Tue, 29 Sep 2026 14:51:08 +0530"
-            },
-            {
-              "title": "India's Essar group to invest $18 bn in steel manufacturing in the US",
-              "description": "The plan includes a proposed $15 billion steel complex in Iowa and nearly $3 billion already invested in a Minnesota iron ore mine and pelletising facility",
-              "url": "https://www.business-standard.com/companies/news/essar-mesabi-metallics-18-billion-us-steel-investment-iowa-minnesota-126092900624_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 14:49:42 +0530"
-            },
-            {
-              "title": "Tata leadership transition, IPO unlikely to impact ratings: S&P Global",
-              "description": "Sept 29 (Reuters) - Potential leadership transition and listing of Tata Sons would not immediately affect the ratings of the ​companies in the salt-to-software onglomerate, S&P Global said ​on Tuesday, saying that change",
-              "url": "https://www.business-standard.com/industry/news/tata-leadership-transition-ipo-unlikely-to-impact-ratings-s-p-global-says-126092900490_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 13:22:45 +0530"
-            },
-            {
-              "title": "Delhi HC quashes FSSAI order barring Red Bull from using energy drink label",
-              "description": "India ordered makers of high-caffeine beverages sold as 'energy drinks' to stop using the description, rejecting efforts to stall the move in a market expected to be worth $1.6 billion by 2028",
-              "url": "https://www.business-standard.com/industry/news/delhi-hc-quashes-fssai-order-barring-red-bull-from-using-energy-drink-label-126092900476_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 13:22:32 +0530"
-            },
-            {
-              "title": "Nomura initiates coverage on Allied Blenders with Buy rating, sees up to 20% upside",
-              "description": "Nomura has initiated coverage on Allied Blenders & Distillers with a Buy rating and a target price of Rs 850, implying nearly 20% upside. The brokerage sees premiumisation, backward integration and margin expansion as ke",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-initiates-coverage-on-allied-blenders-with-buy-rating-sees-up-to-20-upside/articleshow/134557779.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 11:29:16 +0530"
-            },
-            {
-              "title": "Why Tata Sons faces a listing mandate and how Tata Trusts hopes to avoid it",
-              "description": "After the RBI classified Tata Sons for listing in 2022, Tata Trusts first sought to end its NBFC status and, after that bid failed, proposed merging two operating businesses into the holding company",
-              "url": "https://www.business-standard.com/companies/news/why-tata-sons-faces-a-listing-mandate-and-how-tata-trusts-hopes-to-avoid-it-126092900340_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 11:10:44 +0530"
             }
           ]
         },
@@ -462,28 +454,28 @@
               "publishedAt": "Wed, 16 Sep 2026 19:29:18 GMT"
             },
             {
-              "title": "Smart ring maker Oura postpones IPO due to market 'uncertainty'",
-              "description": "Oura said the delay comes despite \"strong demand\" and a strengthenthing of the business since the start of the IPO process.",
-              "url": "https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html",
+              "title": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist",
+              "description": "Nvidia is looking to spend hundreds of billions of dollars buying its stock at a time when it's historically cheap based on earnings expectations.",
+              "url": "https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 10:48:28 GMT"
+              "publishedAt": "Tue, 29 Sep 2026 13:09:30 GMT"
             },
             {
-              "title": "Shell backs $23 billion LNG Canada expansion in boost to Carney's ‘energy superpower’ push",
-              "description": "The investment puts Canada on course to become a leading LNG exporter as global supply disruptions sharpen focus on energy security.",
-              "url": "https://www.cnbc.com/2026/09/29/shell-canada-lng-carney-oil-gas-energy.html",
+              "title": "House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction",
+              "description": "House Speaker Mike Johnson is scheduled for lunch Tuesday with President Trump and AI industry executives.",
+              "url": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 10:32:42 GMT"
+              "publishedAt": "Tue, 29 Sep 2026 13:08:48 GMT"
             },
             {
-              "title": "Warning more homes will be uninsurable due to flood risk",
-              "description": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
-              "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
+              "title": "These private and public colleges have the best return on investment, according to The Princeton Review",
+              "description": "With increasing emphasis on the return on investment, The Princeton Review's new college ranking measures academics, affordability and career outcomes.",
+              "url": "https://www.cnbc.com/2026/09/29/private-public-colleges-best-roi-return-on-investment-the-princeton-review.html",
+              "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 09:42:48 GMT"
+              "publishedAt": "Tue, 29 Sep 2026 13:00:01 GMT"
             }
           ]
         },
@@ -493,6 +485,54 @@
           "emoji": "🚀",
           "articles": [
             {
+              "title": "Fireflies adds dictation to its desktop notetaking apps",
+              "description": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
+              "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 13:00:00 +0000"
+            },
+            {
+              "title": "IIM Kozhikode partners with Walmart Global Tech to nurture Indian deeptech startups",
+              "description": "IIM Kozhikode’s business incubator, IIMK LIVE, has tied up with Walmart Global Tech to launch DEEP LEAP, a Rs 2.89 Cr initiative supporting 50 high-potential early-stage tech ventures.",
+              "url": "https://yourstory.com/2026/09/iim-kozhikode-partners-walmart-global-tech-indian-deeptech-startups",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 12:49:34 GMT"
+            },
+            {
+              "title": "StockGro Confidentially Files IPO Papers, Eyes Up To ₹2,500 Cr Issue",
+              "description": "Investment advisory startup StockGro pre-filed its draft red herring prospectus (DRHP) with the Securities and Exchange Board of India for&#8230;",
+              "url": "https://inc42.com/buzz/stockgro-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b92500-cr-issue/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 12:15:26 +0000"
+            },
+            {
+              "title": "Bharat Housing Network secures $5M from Symbiotics",
+              "description": "Bharat Housing Network will deploy this funding towards solar rooftop financing, electric mobility financing, and credit to new-age clean tech MSMEs.",
+              "url": "https://yourstory.com/2026/09/bharat-housing-network-secures-5-million-from-symbiotics",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 11:41:15 GMT"
+            },
+            {
+              "title": "India faces 53-60% talent gap in GenAI, cloud skills: TeamLease",
+              "description": "The report by TeamLease Digital highlighted that only 16% of IT professionals hold AI skills with 20 lakh upskilled and only three lakh in advanced AI.",
+              "url": "https://yourstory.com/2026/09/talent-gap-genai-cloud-india-stands-53-60-teamlease-digital-report",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 11:28:07 GMT"
+            },
+            {
+              "title": "From payments to wealth: Where is India's fintech story headed next?",
+              "description": "India’s fintech story is moving beyond payments and credit as rising incomes and longer lifespans create a growing need for personalised wealth advice. But access to independent, affordable financial guidance remains lim",
+              "url": "https://yourstory.com/2026/09/where-is-india-fintech-story-headed-next",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 11:21:50 GMT"
+            },
+            {
               "title": "AceVector IPO Oversubscribed 2.59X On Day 3 So Far",
               "description": "Snapdeal parent AceVector’s ₹420 Cr IPO was oversubscribed 2.59X on the final day of bidding, with investors placing bids for&#8230;",
               "url": "https://inc42.com/buzz/acevector-ipo-oversubscribed-2-59x-on-day-3-so-far/",
@@ -501,76 +541,12 @@
               "publishedAt": "Tue, 29 Sep 2026 10:19:01 +0000"
             },
             {
-              "title": "Adani Family Office backs Nudge as startup pivots to rewards-led commerce",
-              "description": "Nudge, operated by iSocial Sports, is shifting from its earlier sports-led model towards receipt-based rewards, commerce and purchase intelligence for brands.",
-              "url": "https://yourstory.com/2026/09/adani-family-office-backs-nudge-as-startup-pivots-to-rewards-led-commerce",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 10:18:56 GMT"
-            },
-            {
               "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
               "description": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
               "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Tue, 29 Sep 2026 10:00:00 +0000"
-            },
-            {
-              "title": "Meet The Startups From Peak XV’s ‘Surge 12’",
-              "description": "VC firm Peak XV Partners has launched the twelfth cohort of its accelerator and incubation programme, Surge.  The cohort features&#8230;",
-              "url": "https://inc42.com/buzz/meet-the-startups-from-peak-xvs-surge-12/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 09:50:02 +0000"
-            },
-            {
-              "title": "Startup news and updates: daily roundup (September 29, 2026)",
-              "description": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, September 29, 2026.",
-              "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-29-2026",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 09:15:49 GMT"
-            },
-            {
-              "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-              "description": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
-              "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 09:00:00 +0000"
-            },
-            {
-              "title": "TechSparks 2026: More founders, tech leaders, global policymakers shaping the New Tech Order",
-              "description": "From AI and deeptech to fintech, aerospace, and digital infrastructure, TechSparks 2026 convenes the builders and policymakers redefining how technology is created, scaled, and governed.",
-              "url": "https://yourstory.com/2026/09/techsparks-2026-more-founders-tech-leaders-global-policymakers-shaping-the-new-tech-order",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 08:27:06 GMT"
-            },
-            {
-              "title": "Peak XV selects 18 startups for 12th Surge cohort, doubles down on AI and deep tech",
-              "description": "The cohort spans artificial intelligence (AI), robotics, space technology, consumer internet, healthcare, financial services and music.",
-              "url": "https://yourstory.com/2026/09/peak-xv-selects-18-startups-12th-surge-cohort-doubles-down-ai-deep-tech",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 08:17:49 GMT"
-            },
-            {
-              "title": "CTO Summit 2026 Agenda: How India’s Tech Leaders Are Rebuilding Products, Teams & Systems For AI Era",
-              "description": "There was a time when adding AI to a technology roadmap largely meant identifying a few use cases, running pilots&#8230;",
-              "url": "https://inc42.com/buzz/cto-summit-2026-agenda-how-indias-tech-leaders-are-rebuilding-products-teams-systems-for-ai-era/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 06:49:04 +0000"
-            },
-            {
-              "title": "WEH Ventures Announces First Close Of ₹250 Cr Fund III",
-              "description": "Seed-stage focused venture capital firm WEH Ventures announced the first close of its third fund  (Fund III) at an undisclosed&#8230;",
-              "url": "https://inc42.com/buzz/weh-ventures-announces-first-close-of-%e2%82%b9250-cr-fund-iii/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 06:34:49 +0000"
             }
           ]
         },
@@ -610,44 +586,44 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "PNB scam: CBI arrests Nirav Modi's aide Sandeep Mistry after extradition from UAE",
-              "description": "A special CBI court remanded fugitive businessman Nirav Modi’s associate Sandeep Mistry to judicial custody till October 6",
-              "url": "https://www.thehindu.com/news/national/pnb-scam-cbi-arrests-nirav-modis-aide-sandeep-mistry-after-extradition-from-uae/article71523430.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/fk3z4y/article71523500.ece/alternates/LANDSCAPE_1200/2019-05-21T100753Z_442416925_RC1CAF63FDC0_RTRMADP_3_PUNJAB-NATL-BANK-DEALS.JPG",
-              "publishedAt": "Tue, 29 Sep 2026 16:16:04 +0530"
-            },
-            {
-              "title": "Keralam long jumper Sreeshankar’s silver at Asian Games brings cheers to Yakkara",
-              "description": "His second attempt of 8.07 metres enough to win him silver",
-              "url": "https://www.thehindu.com/news/national/kerala/keralam-long-jumper-sreeshankars-silver-at-asian-games-brings-cheers-to-yakkara/article71520671.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/qp4dor/article71520989.ece/alternates/LANDSCAPE_1200/46544a3e-49ee-4de7-8802-fd5478f7e720.JPG",
-              "publishedAt": "Tue, 29 Sep 2026 16:12:56 +0530"
-            },
-            {
-              "title": "Hotel industry expo in Chennai from October 1 to 3",
-              "description": "With more than 150 stalls, the event at Chennai Trade Fair Complex will bring under one roof global and Indian cooking equipment manufacturers and suppliers",
-              "url": "https://www.thehindu.com/news/cities/chennai/hotel-industry-expo-in-chennai-from-october-1-to-3/article71522930.ece",
+              "title": "IRCS to collect data on all blood banks in A.P.",
+              "description": "The data collected will be uploaded on Blood Banks Management Software (BBMS) to prevent commercialisation, spread of diseases, and to check irregularities; overall, 246 blood banks exist in the State",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/ircs-to-collect-data-on-all-blood-banks-in-ap/article71523481.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 16:08:31 +0530"
+              "publishedAt": "Tue, 29 Sep 2026 18:37:27 +0530"
             },
             {
-              "title": "PM Modi degree case: Gujarat High Court rejects Kejriwal appeal, upholds ₹25,000 cost on him",
+              "title": "Rahul Gandhi creating confusion over SIR and demeaning Election Commission, says BJP",
+              "description": "BJP State spokesperson Jalli Madhusudhan says the revision only removes dead and shifted voters, and that the Leader of the Opposition’s attacks on the Election Commission do not befit his office",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/rahul-gandhi-creating-confusion-over-sir-and-demeaning-election-commission-says-bjp/article71523432.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/w41gk3/article71523700.ece/alternates/LANDSCAPE_1200/Jali.jpeg",
+              "publishedAt": "Tue, 29 Sep 2026 18:33:23 +0530"
+            },
+            {
+              "title": "Don’t get caught in race for jobs, says U.P. Deputy CM, buy vehicles, join Bharat Taxi",
+              "description": "The BJP leader’s statements were widely criticised by Opposition leaders and social media users, who asked the Deputy CM when he would be buying a taxi for himself",
+              "url": "https://www.thehindu.com/news/national/uttar-pradesh/dont-get-caught-in-race-for-jobs-says-up-deputy-cm-buy-vehicles-join-bharat-taxi/article71523696.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/mhcbu8/article71524114.ece/alternates/LANDSCAPE_1200/20260803159L.jpg",
+              "publishedAt": "Tue, 29 Sep 2026 18:29:47 +0530"
+            },
+            {
+              "title": "Militants ambush Assam Rifles team in Arunachal Pradesh's Changlang district; one jawan killed, four injured",
+              "description": "“The incident took place at around 6.30 a.m. near Nampong Nallah under Nampong circle when personnel of the 21 Assam Rifles were patrolling an area where border fencing work is under way,” they said",
+              "url": "https://www.thehindu.com/news/national/assam/militants-ambush-assam-rifles-team-in-arunachal-pradeshs-changlang-district-one-jawan-killed-four-injured/article71523999.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Tue, 29 Sep 2026 18:27:56 +0530"
+            },
+            {
+              "title": "Former MLA demands Madhu Bangarappa’s resignation",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/pm-modi-degree-case-gujarat-high-court-rejects-kejriwal-appeal-upholds-25000-cost-on-him/article71523295.ece",
+              "url": "https://www.thehindu.com/news/national/karnataka/former-mla-demands-madhu-bangarappas-resignation/article71523505.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/yfp815/article71523486.ece/alternates/LANDSCAPE_1200/20260928077L.jpg",
-              "publishedAt": "Tue, 29 Sep 2026 16:07:33 +0530"
-            },
-            {
-              "title": "Veeramani POCSO case: DMK moves Madras High Court to ask SIT to summon Tamil Nadu CM Vijay, Ministers Aadhav Arjuna and Nirmal Kumar",
-              "description": "The party wants the SIT to summon the CM and the Ministers to find out if they had any materials to prove it had shielded the prime accused during its regime",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/veeramani-pocso-case-dmk-moves-madras-high-court-to-ask-sit-to-summon-tamil-nadu-cm-vijay-ministers-aadhav-arjuna-and-nirmal-kumar/article71523106.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/sxpefu/article71523462.ece/alternates/LANDSCAPE_1200/Untitled%20design%2010.png",
-              "publishedAt": "Tue, 29 Sep 2026 16:03:30 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/zgtp8r/article71524087.ece/alternates/LANDSCAPE_1200/9911_29_9_2026_16_15_0_2_KBPRASANNAKUMAR03.JPG",
+              "publishedAt": "Tue, 29 Sep 2026 18:25:37 +0530"
             }
           ]
         },
@@ -681,36 +657,36 @@
               "publishedAt": "Wed, 16 Sep 2026 15:40:25 +0530"
             },
             {
-              "title": "Thar Hits Bike, Then Crashes Into Pole In Chandigarh, 2 Injured",
-              "description": "According to eyewitnesses, the woman allegedly tried to drive away after the collision.",
-              "url": "https://www.ndtv.com/india-news/thar-hits-bike-then-crashes-into-pole-in-chandigarhs-dhanas-2-injured-12113898#publisher=newsstand",
+              "title": "Andhra Man Beaten To Death With Stone After Dispute Over Missing Phone",
+              "description": "After being alerted, personnel from the Patamata Police Station reached the scene and conducted a preliminary investigation.",
+              "url": "https://www.ndtv.com/india-news/andhra-pradesh-man-beaten-to-death-with-stone-after-dispute-over-missing-phone-in-vijayawadas-autonagar-12114736#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/ehkegrf8_dhanas-thar-accident-_625x300_29_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 29 Sep 2026 15:01:53 +0530"
+              "image": "https://c.ndtvimg.com/2026-09/c0thileg_man-beaten-to-death_625x300_29_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 29 Sep 2026 17:26:32 +0530"
             },
             {
-              "title": "Genitals Cut, Grinder In Room: Premanand Maharaj's Disciple's Death Probe",
-              "description": "Police have found a grinder in Deepak Lodhi's room. With the help of a forensic team, efforts are underway to identify whose fingerprints are on it.",
-              "url": "https://www.ndtv.com/india-news/genitals-cut-grinder-in-room-premanand-maharajs-disciples-death-probe-deepak-lodhi-alias-rasik-dulari-sharan-12113822#publisher=newsstand",
+              "title": "Common Admission Test: Application Correction Window To Open On October 5, Check Details",
+              "description": "CAT 2026 Application Correction: Candidates must carefully review their applications and make the necessary changes within the given timeframe. No further extensions will be provided beyond the deadline.",
+              "url": "https://www.ndtv.com/education/iim-cat-2026-application-correction-window-to-open-on-october-5-check-details-12114712#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/d6c9jdlc_prema_625x300_26_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 29 Sep 2026 14:45:48 +0530"
+              "image": "https://c.ndtvimg.com/2025-08/2u4j8_clat-2026-online-registration_625x300_03_August_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 29 Sep 2026 17:22:19 +0530"
             },
             {
-              "title": "Delhi Minister, AAP MLA And Row That Began With Handshake And Ended With Slap",
-              "description": "The 22-year-old bespectacled victim, Sahib Singh, was not even the protagonist or the villain in the chain of events unfolding on Sunday afternoon in Tilak Nagar in West Delhi. But he now is a political cause celebre.",
-              "url": "https://www.ndtv.com/india-news/delhi-minister-parvesh-verma-aap-mla-and-row-that-began-with-handshake-and-ended-with-slap-12113413#publisher=newsstand",
+              "title": "DRDO Invites Applications For 30 Paid Internships For BE/BTech, MSc Students",
+              "description": "DRDO's CASDIC invites applications for its 2026 six-month internship from eligible B.E./B.Tech and M.Sc students by October 11.",
+              "url": "https://www.ndtv.com/education/drdo-invites-applications-for-30-paid-internships-for-be-btech-msc-students-12114681#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/8300uev_aap-mla-_625x300_29_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 29 Sep 2026 14:21:42 +0530"
+              "image": "https://c.ndtvimg.com/2025-02/8hobcf0o_drdo_625x300_19_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 29 Sep 2026 17:15:48 +0530"
             },
             {
-              "title": "2 UPSC Failures, Then IPS: Meet ASP Mavis Tak, Who Makes History In Uttar Pradesh",
-              "description": "UPSC Success Story: For IPS officer Mavis Tak, the journey to the Indian Police Service was not easy. She failed to clear the examination in her first two attempts but continued preparing and eventually cleared it in her",
-              "url": "https://www.ndtv.com/education/upsc-success-story-failed-upsc-twice-no-coaching-now-sonbhadras-first-woman-asp-mavis-taks-story-12113153#publisher=newsstand",
+              "title": "MBA Admissions 2027: Missed CAT? These Management Exams Are Still Accepting Applications",
+              "description": "MBA Admissions 2027: For candidates eyeing admission to Narsee Monjee Institute of Management Studies (NMIMS), the application portal is open till October 10, 2026.",
+              "url": "https://www.ndtv.com/education/mba-admissions-2027-missed-cat-these-management-exams-are-still-accepting-applications-12114593#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/dgajc4qo_ips-mavis-tak_625x300_29_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 29 Sep 2026 14:14:49 +0530"
+              "image": "https://c.ndtvimg.com/2026-06/ni8qn5b8_study-abroad-2026_625x300_25_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 29 Sep 2026 17:01:35 +0530"
             }
           ]
         },
@@ -720,44 +696,44 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "BMIC project: H.D. Kumaraswamy fires salvo at Karnataka Chief Minister D.K. Shivakumar, accusing him of making ‘illegal land purchases’",
-              "description": "The JD (S) leader and Union Minister accused the Chief Minister of taking decisions in 2004 as Urban Development Minister and Chairman of BMICP Authority that were in violation of original framework agreement",
-              "url": "https://www.thehindu.com/news/national/karnataka/bmic-project-hd-kumaraswamy-fires-salvo-at-karnataka-chief-minister-dk-shivakumar-accusing-him-of-making-illegal-land-purchases/article71523368.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/karnataka/631n6/article71523499.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-29%20at%2012.46.00%201.jpeg",
-              "publishedAt": "Tue, 29 Sep 2026 16:14:27 +0530"
-            },
-            {
-              "title": "Tamil Nadu CM Vijay announces ₹30 lakh for Asian Games athlete Vithya Ramraj",
+              "title": "YSRCP slams government over ‘inhuman’ treatment of secretariat employees",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-announces-30-lakh-for-asian-games-athlete/article71520738.ece",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-slams-government-over-inhuman-treatment-of-secretariat-employees/article71523810.ece",
               "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 16:12:32 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/frvh2f/article71524097.ece/alternates/LANDSCAPE_1200/10745_29_9_2026_16_28_40_1_IMG_20260929_WA0082.JPG",
+              "publishedAt": "Tue, 29 Sep 2026 18:35:15 +0530"
             },
             {
-              "title": "Thirumavalavan opposes plan to outsource reading of electricity meters",
-              "description": "He attributes the problem to shortage of staff and urges the T.N. government to fill vacancies in TNPDCL through internal recruitment",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/thirumavalavan-opposes-plan-to-outsource-reading-of-electricity-meters/article71519401.ece",
+              "title": "Bengal government rebrands Sabuj Sathi as Sarathi scheme, 12.59 lakh students to get cycles under it: CM",
+              "description": "Suvendu Adhikari alleges the previous TMC government used to procure \"substandard\" bicycles and hand them over to students under its Sabuj Sathi scheme",
+              "url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-rebrands-sabuj-sathi-as-sarathi-scheme-1259-lakh-students-to-get-cycles-under-it-cm/article71524013.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/ekvdbf/article71519897.ece/alternates/LANDSCAPE_1200/2.JPG",
-              "publishedAt": "Tue, 29 Sep 2026 16:08:01 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/4vhhob/article71524111.ece/alternates/LANDSCAPE_1200/20260927052L.jpg",
+              "publishedAt": "Tue, 29 Sep 2026 18:33:10 +0530"
             },
             {
-              "title": "Kerala Lok Ayukta suggests measures to improve transparency in the functioning of State Lotteries",
-              "description": "Calls for setting up a centralised, continuously updated digital platform to give the general public real-time access to key operational data and the development of a framework for the continuous statistical monitoring o",
-              "url": "https://www.thehindu.com/news/national/kerala/kerala-lok-ayukta-suggests-measures-to-improve-transparency-in-the-functioning-of-state-lotteries/article71523392.ece",
+              "title": "Former IAS officer Divya Mittal announces entry into politics, says will begin journey from Uttar Pradesh",
+              "description": "Former IAS officer Divya Mittal vows an independent, people-driven platform from U.P., highlighting governance gaps, land, water, and infrastructure issues she aims to address",
+              "url": "https://www.thehindu.com/news/national/uttar-pradesh/former-ias-officer-divya-mittal-announces-entry-into-politics/article71523184.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/yl8lso/article71523482.ece/alternates/LANDSCAPE_1200/image%206.jpg",
-              "publishedAt": "Tue, 29 Sep 2026 16:06:25 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/xe1l4k/article71523217.ece/alternates/LANDSCAPE_1200/vbk-Divya%20Mittal-Twitter.jpg",
+              "publishedAt": "Tue, 29 Sep 2026 18:28:23 +0530"
             },
             {
-              "title": "Keralam local body bypolls: Congress-led UDF suffers setback as Opposition LDF wrests seven wards",
-              "description": "Of 38 wards where by-elections were held, UDF wins 19 seats, while LDF secures 18. Twenty20 wins in Poothrikka",
-              "url": "https://www.thehindu.com/news/national/kerala/keralam-local-body-bypolls-congress-led-udf-suffers-setback-as-opposition-ldf-wrests-seven-wards/article71523138.ece",
+              "title": "ESA exclusion row puts UDF under pressure in Pathanamthitta",
+              "description": "The issue has intensified political pressure and raised questions about mapping, land demarcation, and the potential rise in human-wildlife conflict.",
+              "url": "https://www.thehindu.com/news/national/kerala/esa-exclusion-row-puts-udf-under-pressure-in-pathanamthitta/article71523824.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/kerala/uw67dt/article71523194.ece/alternates/LANDSCAPE_1200/voting.jpg",
-              "publishedAt": "Tue, 29 Sep 2026 16:03:15 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/h0qmhq/article71524089.ece/alternates/LANDSCAPE_1200/80759_14_9_2024_18_28_48_1_KURINJI02.JPG",
+              "publishedAt": "Tue, 29 Sep 2026 18:27:00 +0530"
+            },
+            {
+              "title": "‘When we go, you will come’: Rahul Gandhi says PM told him only Congress can defeat BJP",
+              "description": "Talking about the alleged vote chori campaign he started, Rahul Gandhi said that if 20% of people believed the issue earlier, now more than 80% believe it, and the party should raise the issue more strongly",
+              "url": "https://www.thehindu.com/news/national/when-we-go-you-will-come-rahul-gandhi-says-pm-told-him-only-congress-can-defeat-bjp/article71523738.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/q2ll6e/article71523737.ece/alternates/LANDSCAPE_1200/20260929114L_7cmZ0bn.jpg",
+              "publishedAt": "Tue, 29 Sep 2026 18:25:36 +0530"
             }
           ]
         },
@@ -791,28 +767,28 @@
               "publishedAt": "Wed, 23 Sep 2026 01:26:22 +0530"
             },
             {
-              "title": "M Kharge Calls Poll Panel Chief A 'Puppet', Lists 5 Demands At Congress Meet",
-              "description": "Kharge also demanded that an independent, time-bound probe be conducted where serious anomalies are found and that the poll process be made transparent",
-              "url": "https://www.ndtv.com/india-news/election-commission-mallikarjun-kharge-calls-gyanesh-kumar-bjp-puppet-lists-5-demands-at-congress-cwc-meet-12113338#publisher=newsstand",
+              "title": "India In Talks With China For Alternate Route Amid Pak Airspace Ban: Sources",
+              "description": "The move comes days after China's president Xi Jinping attended BRICS Summit in New Delhi.",
+              "url": "https://www.ndtv.com/india-news/india-in-talks-with-china-for-alternate-route-amid-pak-airspace-ban-sources-12114705#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/7nb2lrss_kharge_625x300_29_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 29 Sep 2026 14:47:09 +0530"
+              "image": "https://c.ndtvimg.com/2026-06/hgr1ahtk_flight-generic-pic_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 29 Sep 2026 17:26:22 +0530"
             },
             {
-              "title": "Railway Recruitment Board Issues Notification For 1,688 Posts, Check Details",
-              "description": "RRB NTPC Undergraduate Vacancy 2026: The application window will open on October 15, and the deadline to apply is November 13. Eligible candidates will be able to apply once the registration process begins.",
-              "url": "https://www.ndtv.com/education/rrb-ntpc-undergraduate-vacancy-2026-notification-out-for-1-688-posts-check-details-12113799#publisher=newsstand",
+              "title": "Kanpur Woman, Framed For Father-In-Law's Murder, Reveals What 'Haunted Her In Jail'",
+              "description": "During the initial investigation, the police identified Shalu as the mastermind and arrested her alongside their former employee, Vishal Gautam, and his associate, Rajkishore.",
+              "url": "https://www.ndtv.com/india-news/kanpur-woman-framed-for-father-in-laws-murder-reveals-what-haunted-her-in-jail-12114708#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/dcnss4dk_rrb-ntpc-undergraduate-vacancy-2026_625x300_29_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 29 Sep 2026 14:40:36 +0530"
+              "image": "https://c.ndtvimg.com/2026-09/k1r2tu84_kanpur-businessman_625x300_08_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 29 Sep 2026 17:20:15 +0530"
             },
             {
-              "title": "No Bridge Over River, Assam School Children Still Depend On Boats",
-              "description": "School children in Chengajan Gowala village rely on small boats to cross rivers daily due to the absence of a permanent bridge.",
-              "url": "https://www.ndtv.com/education/no-bridge-over-river-assam-school-children-still-depend-on-boats-12113697#publisher=newsstand",
+              "title": "Piles Of Cash, Gold Worth Lakhs: Delhi Drug 'Queenpin', Bodyguard Arrested",
+              "description": "The woman, identified by police as 42-year-old Parvati, was arrested along with her alleged accomplice and bodyguard, 30-year-old Vikas Kumar alias Shanu. Police said the arrests were made in New Sanoth Colony in Bawana",
+              "url": "https://www.ndtv.com/india-news/piles-of-cash-gold-heroin-delhi-drug-queenpin-parvati-bodyguard-arrested-12114395#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/qmuvbja8_assam-students_625x300_29_September_26.jpeg",
-              "publishedAt": "Tue, 29 Sep 2026 14:17:41 +0530"
+              "image": "https://c.ndtvimg.com/2026-09/5fomm0fg_delhi-drugs_625x300_29_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 29 Sep 2026 17:03:12 +0530"
             }
           ]
         }
@@ -936,28 +912,28 @@
               "publishedAt": "Wed, 16 Sep 2026 12:14:21 GMT"
             },
             {
-              "title": "Senate advances college sports bill aimed at regulating NIL deals",
-              "description": "The Senate voted Monday on the bill, which would create a national framework for name, image and likeness deals in college athletics.",
-              "url": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
+              "title": "Some wealthy Americans are spending up to $250,000 a year on longevity care. Here's what doctors say about the practice",
+              "description": "The wealthy and ultra-wealthy are spending more on longevity care than ever before. Should you invest your money into similar therapeutics? Experts weigh in.",
+              "url": "https://www.cnbc.com/2026/09/29/longevity-clinic-costs.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 10:40:07 GMT"
+              "publishedAt": "Tue, 29 Sep 2026 13:09:15 GMT"
             },
             {
-              "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-              "description": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
-              "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html",
+              "title": "Coinbase Ventures and CMCC Global close strategic funding round with trading firm Raven",
+              "description": "Raven is an institutional market-maker for prediction markets, generating constant buy and sell orders on contracts.",
+              "url": "https://www.cnbc.com/2026/09/29/coinbase-ventures-and-cmcc-global-close-strategic-funding-round-with-raven.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 10:00:01 GMT"
+              "publishedAt": "Tue, 29 Sep 2026 13:05:06 GMT"
             },
             {
-              "title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market",
-              "description": "Following the success of its Muse personal AI agent, Meta is introducing a specialized version for small businesses.",
-              "url": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html",
-              "source": "cnbc.com",
+              "title": "Burnham to unveil public body to invest in electricity grid",
+              "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+              "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Tue, 29 Sep 2026 09:30:01 GMT"
+              "publishedAt": "Tue, 29 Sep 2026 12:56:20 GMT"
             }
           ]
         },
@@ -967,84 +943,84 @@
           "emoji": "🌏",
           "articles": [
             {
-              "title": "Rupee ends nearly flat as traders remain glued to oil moves, RBI caps fall",
-              "description": "The Indian rupee showed little change after reaching a two-month low in early trading. Crude oil prices significantly impacted the currency's movement, leading to a brief decline. Dollar sales by state-run banks helped c",
-              "url": "https://economictimes.indiatimes.com/markets/forex/rupee-ends-nearly-flat-as-traders-remain-glued-to-oil-moves-rbi-caps-fall/articleshow/134563409.cms",
+              "title": "India 10-year bond snaps four-day losing run as US yields ease",
+              "description": "On Tuesday, Indian government bonds rebounded, marking the end of a four-day downturn spurred by softer US Treasury yields and declining crude oil prices. Despite this rally, apprehensions linger over persistently high g",
+              "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-snaps-four-day-losing-run-as-us-yields-ease/articleshow/134566016.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134563409,imgsize-192744.cms",
-              "publishedAt": "Tue, 29 Sep 2026 16:03:08 +0530"
+              "image": "https://img.etimg.com/photo/msid-134566016,imgsize-125426.cms",
+              "publishedAt": "Tue, 29 Sep 2026 17:55:46 +0530"
             },
             {
-              "title": "AI bubble to burst sooner than expected? Michael Burry believes it would take only one season of revenue disappointment",
-              "description": "Michael Burry has accelerated his bearish outlook on AI stocks, shifting toward leveraged put options and expecting an earlier bubble burst. Citing research that weak AI revenue could trigger spending cuts, Burry compare",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-bubble-to-burst-sooner-than-expected-michael-burry-believes-it-would-take-only-one-season-of-revenue-disappointment/articleshow/134563244.cms",
+              "title": "SBI Funds Management: Centrum bets on strong franchise, growth runway; initiates Buy with 34% upside",
+              "description": "Centrum Broking has initiated coverage on SBI Funds Management with a Buy rating and a Rs 700 target, implying up to 34% upside. The brokerage sees SBI AMC’s extensive distribution network, strong B-30 presence, expandin",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-centrum-bets-on-strong-franchise-growth-runway-initiates-buy-with-34-upside/articleshow/134565987.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134563244,imgsize-214906.cms",
-              "publishedAt": "Tue, 29 Sep 2026 15:55:28 +0530"
+              "image": "https://img.etimg.com/photo/msid-134565987,imgsize-55166.cms",
+              "publishedAt": "Tue, 29 Sep 2026 17:53:57 +0530"
             },
             {
-              "title": "CAS chaos: Nifty’s indicative price drops 2% in 2 seconds, later recovers on monthly F&amp;O expiry day",
-              "description": "Nifty's indicative price sharply dropped by 2% during the closing auction session on monthly expiry day. The index fell from 22,684 to 22,249 within two seconds at 3:20:01. This sudden decline was followed by a rapid rec",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-niftys-indicative-price-drops-2-in-2-seconds-later-recovers-on-monthly-fo-expiry-day/articleshow/134563164.cms",
+              "title": "Medico Remedies among 5 Healthcare stocks hitting 52-week low; slipped up to 48% in a month",
+              "description": "The Sensex fell 242 points to 72,529 as five BSE Healthcare Index stocks touched fresh 52-week lows. Medico Remedies, Pfizer, AstraZeneca Pharma India, Sanofi Consumer Healthcare India and Eris Lifesciences recorded thei",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/medico-remedies-among-5-healthcare-stocks-hitting-52-week-low-slipped-up-to-48-in-a-month/slideshow/134565970.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134563164,imgsize-91096.cms",
-              "publishedAt": "Tue, 29 Sep 2026 15:53:21 +0530"
+              "image": "https://img.etimg.com/photo/msid-134565878,imgsize-6508.cms",
+              "publishedAt": "Tue, 29 Sep 2026 17:46:07 +0530"
             },
             {
-              "title": "Bitcoin near $83,900, Ethereum around $2,680 as crypto markets consolidate: Here is what experts say",
-              "description": "Bitcoin consolidated near $83,900 while Ethereum traded around $2,680 as crypto markets experienced macro-driven risk-off pressure. Experts cite rising US Treasury yields, high crude oil prices, and profit-taking for the",
-              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-83900-ethereum-around-2680-as-crypto-markets-consolidate-here-is-what-experts-say/articleshow/134563132.cms",
+              "title": "Investor alert! Nifty cracks below key 200-week moving average for the first time since Covid",
+              "description": "Nifty slipped below its 200-week moving average near 22,600 for the first time since the Covid crash, hitting 22,569 intraday. Analysts are watching whether the index can reclaim the key support, with 22,800 acting as im",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/investor-alert-nifty-cracks-below-key-200-week-moving-average-for-the-first-time-since-covid/articleshow/134565786.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134563132,imgsize-255744.cms",
-              "publishedAt": "Tue, 29 Sep 2026 15:52:51 +0530"
+              "image": "https://img.etimg.com/photo/msid-134565786,imgsize-42486.cms",
+              "publishedAt": "Tue, 29 Sep 2026 17:44:05 +0530"
             },
             {
-              "title": "Global Market: Japan 2-year bond yield nears 2% as BOJ rate hike bets rise",
-              "description": "Japan’s two-year government bond yield neared 2%, its highest level since 1995, as persistent inflation, yen weakness and expectations of further Bank of Japan rate hikes pushed short-term borrowing costs higher.",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-2-year-bond-yield-nears-2-as-boj-rate-hike-bets-rise/articleshow/134562765.cms",
+              "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures rise as tech steadies, while oil, yields remains high",
+              "description": "",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-anthropic-ipo-nvidia-micron-pepsico-marvell-ai-chip-stock-price-news-29th-september-2026/liveblog/134566067.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134562765,imgsize-223298.cms",
-              "publishedAt": "Tue, 29 Sep 2026 15:39:40 +0530"
+              "image": "https://img.etimg.com/photo/msid-134566067,imgsize-2283925.cms",
+              "publishedAt": "Tue, 29 Sep 2026 17:43:01 +0530"
             },
             {
-              "title": "Global Market: European stocks edge higher, tech shares lead gains",
-              "description": "European shares rose 0.3%, led by technology and semiconductor stocks, as investors responded to Anthropic’s AI expansion plans and potential $2 trillion valuation. Gains were capped by higher oil prices, elevated bond y",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-higher-tech-shares-lead-gains/articleshow/134562690.cms",
+              "title": "Fitch revises PRISM’s outlook to positive, cites improving leverage and stronger cash generation",
+              "description": "Fitch Ratings has revised Oyo parent PRISM’s outlook to Positive from Stable while affirming its ‘B’ ratings, citing improving leverage, stronger cash generation and sustained revenue growth. The agency expects EBITDA le",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/fitch-revises-prisms-outlook-to-positive-cites-improving-leverage-and-stronger-cash-generation/articleshow/134565751.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134562690,imgsize-240488.cms",
-              "publishedAt": "Tue, 29 Sep 2026 15:36:19 +0530"
+              "image": "https://img.etimg.com/photo/msid-134565751,imgsize-43556.cms",
+              "publishedAt": "Tue, 29 Sep 2026 17:41:22 +0530"
             },
             {
-              "title": "India can add over 100 million long-term investors by 2035: Report",
-              "description": "According to an EY India report, India could add over 100 million long-term investors by 2035 as investing expands beyond metros and affluent households. Despite having more than 550 million active UPI users, only around",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-can-add-over-100-million-long-term-investors-by-2035-report/articleshow/134562575.cms",
+              "title": "Rupee breaches 96 per dollar as oil surge stokes pressure; RBI intervention limits fall",
+              "description": "The Indian rupee breached the 96-per-dollar mark for the first time since July as surging crude oil prices and a firm dollar weighed on the currency. RBI intervention helped the rupee recover and close at 95.98, but econ",
+              "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-breaches-96-per-dollar-as-oil-surge-stokes-pressure-rbi-intervention-limits-fall/articleshow/134565213.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134562575,imgsize-289206.cms",
-              "publishedAt": "Tue, 29 Sep 2026 15:33:25 +0530"
+              "image": "https://img.etimg.com/photo/msid-134565213,imgsize-35218.cms",
+              "publishedAt": "Tue, 29 Sep 2026 17:20:00 +0530"
             },
             {
-              "title": "Transport Corp board approves Rs 150 crore share buyback at 11% premium",
-              "description": "The board of Transport Corporation has sanctioned a share buyback of Rs 150 crore, intending to purchase 15.62 lakh equity shares at a premium price. This move aims to boost shareholder value while simultaneously establi",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/transport-corp-board-approves-rs-150-crore-share-buyback-at-11-premium/articleshow/134561968.cms",
+              "title": "Market wrap: Adani Enterprises, Adani Ports, Titan Company, Wipro top gainers and losers on Nifty and Sensex on Tuesday",
+              "description": "Indian equities extended their decline on Tuesday, with Nifty and Sensex hitting fresh six-month lows. Broader markets also weakened, while Realty, Consumer Durables and Chemicals led sectoral losses. Bearish market brea",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-enterprises-adani-ports-titan-company-wipro-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134565034.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134561968,imgsize-45936.cms",
-              "publishedAt": "Tue, 29 Sep 2026 14:57:09 +0530"
+              "image": "https://img.etimg.com/photo/msid-134565034,imgsize-270780.cms",
+              "publishedAt": "Tue, 29 Sep 2026 17:15:25 +0530"
             },
             {
-              "title": "India bonds edge up on short covering as US yields cool",
-              "description": "Indian government bonds experienced a rise after a sharp selloff raised benchmark yields. US Treasury yields decreased, leading to investors unwinding their short positions. Reports of potential US-Iran talks contributed",
-              "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-edge-up-on-short-covering-as-us-yields-cool/articleshow/134561936.cms",
+              "title": "Cupid shares end 10% higher ahead of Nifty Smallcap 250 inclusion tomorrow. How much inflows can it see?",
+              "description": "Cupid shares jumped 10% to Rs 291 after the company’s inclusion in the Nifty Smallcap 250 index, effective September 30. The stock has surged 250% in six months, while strong June-quarter growth and raised FY27 guidance",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-end-10-higher-ahead-of-nifty-smallcap-250-inclusion-tomorrow-how-much-inflows-can-it-see/articleshow/134564560.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134561936,imgsize-121016.cms",
-              "publishedAt": "Tue, 29 Sep 2026 14:54:31 +0530"
+              "image": "https://img.etimg.com/photo/msid-134564560,imgsize-41690.cms",
+              "publishedAt": "Tue, 29 Sep 2026 16:48:12 +0530"
             },
             {
-              "title": "Subway India operator EverBrands files IPO papers with Sebi. Check details",
-              "description": "EverBrands India, which operates Subway restaurants, is planning an IPO to raise Rs 600 crore. The funds will mainly support debt repayment and the expansion of Subway stores. As of March 2026, the company has 1,008 Subw",
-              "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/subway-restaurants-operator-everbrands-india-files-papers-for-rs-600-crore-ipo/articleshow/134561897.cms",
+              "title": "Quote of the day by Irving Fisher: \"A chief cause of crises, panics, runs on banks, etc., is that risks are not independently reckoned, but are a mere matter of imitation. A crisis is a time of general and forced liquidation\"",
+              "description": "Economist Irving Fisher warned that investors copying one another can amplify financial risks. Rising optimism can fuel credit and asset prices, while sudden fear can trigger forced liquidation, falling prices, tighter l",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-irving-fisher-a-chief-cause-of-crises-panics-runs-on-banks-etc-is-that-risks-are-not-independently-reckoned-but-are-a-mere-matter-of-imitation-a-crisis-is-a-time-of-general-and-forced-liquidation/articleshow/134564516.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134561897,imgsize-92976.cms",
-              "publishedAt": "Tue, 29 Sep 2026 14:52:52 +0530"
+              "image": "https://img.etimg.com/photo/msid-134564516,imgsize-84674.cms",
+              "publishedAt": "Tue, 29 Sep 2026 16:46:33 +0530"
             }
           ]
         },
@@ -1068,6 +1044,38 @@
           "label": "Crypto",
           "emoji": "₿",
           "articles": [
+            {
+              "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+              "description": "CoinShares says IBIT offers clues to institutional buying, but basis trades mean inflows are not necessarily bets on rising Bitcoin prices.",
+              "url": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg",
+              "publishedAt": "Tue, 29 Sep 2026 12:40:12 +0000"
+            },
+            {
+              "title": "ECB puts AI agent payments on the digital euro drawing board",
+              "description": "The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro pilot for 2027.",
+              "url": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PG8ZXT8HQTWKJ0JHNKVNVA/hi-digital-euro.jpg",
+              "publishedAt": "Tue, 29 Sep 2026 12:00:45 +0000"
+            },
+            {
+              "title": "Bitcoin beats gold, surge to $100,000 in play",
+              "description": "Your day-ahead look for Sept. 29, 2026",
+              "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Tue, 29 Sep 2026 11:34:55 +0000"
+            },
+            {
+              "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
+              "description": "Developers are starting to fold Project Tachyon into Zakura Common as they work toward a long-term target of more than 50,000 private payments a second.",
+              "url": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1f96db8eb916e3fbb2aec102f6317fceb95edad-1500x1026.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+              "publishedAt": "Tue, 29 Sep 2026 11:15:30 +0000"
+            },
             {
               "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
               "description": "Glamsterdam will bring proposer-builder separation, block-level access lists and new gas pricing, while its mainnet date remains unset.",
@@ -1115,38 +1123,6 @@
               "source": "cointelegraph.com",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
               "publishedAt": "Tue, 29 Sep 2026 10:04:42 +0000"
-            },
-            {
-              "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-              "description": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
-              "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P1CC8JZ9CE9GXZ0SSDV4J0/111111.png",
-              "publishedAt": "Tue, 29 Sep 2026 09:50:22 +0000"
-            },
-            {
-              "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
-              "description": "Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.",
-              "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
-              "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0eaf8d2e978ec15cc3459b214f337e3a5ee8d3-802x505.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-              "publishedAt": "Tue, 29 Sep 2026 09:45:31 +0000"
-            },
-            {
-              "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
-              "description": "Why yields are rising matters more for bitcoin than how high they go.",
-              "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
-              "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/856a0977f5be04928578ad232bbb18d29da95a30-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-              "publishedAt": "Tue, 29 Sep 2026 09:06:11 +0000"
-            },
-            {
-              "title": "BitMine could hit its 5% Ether supply target within weeks — then what?",
-              "description": "BitMine could reach 5% of Ether’s supply by early November, while Tom Lee has left open whether it would continue buying beyond that level.",
-              "url": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P2R6QTGGW0GWR2RKYMQNCC/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings.jpg",
-              "publishedAt": "Tue, 29 Sep 2026 08:51:25 +0000"
             }
           ]
         }
