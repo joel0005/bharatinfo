@@ -13,6 +13,22 @@
           "emoji": "🏢",
           "articles": [
             {
+              "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+              "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+              "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 07 Oct 2026 20:22:37 +0000"
+            },
+            {
+              "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
+              "description": "Altering molecular handedness has implications for the origins of life.",
+              "url": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1337028378-1152x648.jpg",
+              "publishedAt": "Wed, 07 Oct 2026 18:48:18 +0000"
+            },
+            {
               "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
               "description": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
               "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
@@ -21,36 +37,20 @@
               "publishedAt": "Wed, 07 Oct 2026 18:45:00 +0000"
             },
             {
-              "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-              "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-              "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:15:28 +0000"
-            },
-            {
-              "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-              "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-              "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:00:19 +0000"
-            },
-            {
-              "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
-              "description": "Car design sure riles people up on the Internet these days. Goes double for EVs.",
-              "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
+              "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
+              "description": "In renewed policy, pediatricians review the benefits of heating milk to kill germs.",
+              "url": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
               "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ext_Macro_Headlight_Blue-1152x648.jpg",
-              "publishedAt": "Wed, 07 Oct 2026 15:48:01 +0000"
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-2176630363-1152x648.jpg",
+              "publishedAt": "Wed, 07 Oct 2026 18:24:39 +0000"
             },
             {
-              "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
-              "description": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
-              "url": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
+              "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+              "description": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+              "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
               "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1030875166-1152x648.jpg",
-              "publishedAt": "Wed, 07 Oct 2026 15:19:05 +0000"
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2297466143-1024x648.jpg",
+              "publishedAt": "Wed, 07 Oct 2026 17:57:39 +0000"
             }
           ]
         },
@@ -74,6 +74,14 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
               "publishedAt": "Wed, 30 Sep 2026 11:15:14 +0000"
+            },
+            {
+              "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+              "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+              "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 07 Oct 2026 18:00:19 +0000"
             },
             {
               "title": "The New ChatGPT Is More Show Than Tell",
@@ -137,14 +145,6 @@
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Wed, 07 Oct 2026 14:41:38 +0000"
-            },
-            {
-              "title": "Google experiments with an AI-powered gaming platform",
-              "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-              "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 14:36:23 +0000"
             }
           ]
         },
@@ -153,14 +153,6 @@
           "label": "Research",
           "emoji": "🔬",
           "articles": [
-            {
-              "title": "Dinosaur-killing impact crater might have been teeming with life",
-              "description": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
-              "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1042124682-1152x648.jpg",
-              "publishedAt": "Wed, 30 Sep 2026 21:54:12 +0000"
-            },
             {
               "title": "Rethinking Robot Safety in the Age of AI",
               "description": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes",
@@ -358,36 +350,36 @@
               "publishedAt": "Wed, 23 Sep 2026 18:06:25 GMT"
             },
             {
-              "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-              "description": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
-              "url": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
-              "source": "cnbc.com",
+              "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+              "description": "The research found that important guardrails for teens using ChatGPT often failed.",
+              "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:50:21 GMT"
+              "publishedAt": "Wed, 07 Oct 2026 20:34:17 GMT"
             },
             {
-              "title": "Strange market anomaly is creating a buying opportunity in the Nasdaq 100",
-              "description": "So instead of buying QQQ outright and exposing your portfolio to severe downside risk, buying calls at current option prices is a smarter, capital-efficient way to stay long.",
-              "url": "https://www.cnbc.com/2026/10/07/strange-market-anomaly-is-creating-a-buying-opportunity-in-the-nasdaq-100.html",
+              "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+              "description": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+              "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:44:33 GMT"
+              "publishedAt": "Wed, 07 Oct 2026 20:26:13 GMT"
             },
             {
-              "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-              "description": "Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.",
-              "url": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
+              "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
+              "description": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
+              "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:28:27 GMT"
+              "publishedAt": "Wed, 07 Oct 2026 20:09:59 GMT"
             },
             {
-              "title": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
-              "description": "Third-quarter earnings season kicks off this week and as results roll in they should reveal what the market is eagerly anticipating: blockbuster profits.",
-              "url": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+              "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+              "description": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+              "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:19:53 GMT"
+              "publishedAt": "Wed, 07 Oct 2026 19:42:31 GMT"
             }
           ]
         },
@@ -403,6 +395,14 @@
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Wed, 07 Oct 2026 18:30:57 +0000"
+            },
+            {
+              "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+              "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+              "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 07 Oct 2026 18:15:28 +0000"
             },
             {
               "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
@@ -427,14 +427,6 @@
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Wed, 07 Oct 2026 17:04:46 +0000"
-            },
-            {
-              "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-              "description": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
-              "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 15:00:00 +0000"
             }
           ]
         },
@@ -482,44 +474,44 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "Protests will continue until CEC Gyanesh Kumar resigns, says Rahul Gandhi",
-              "description": "INDIA bloc leaders hint at more protests on Thursday as dramatic scenes unfold during the Opposition’s three-hour-long bus procession and the subsequent impromptu sit-in",
-              "url": "https://www.thehindu.com/news/national/protests-will-continue-until-cec-gyanesh-kumar-resigns-says-rahul-gandhi/article71556968.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/pv8h8n/article71557133.ece/alternates/LANDSCAPE_1200/20261007482L.jpg",
-              "publishedAt": "Wed, 07 Oct 2026 23:58:02 +0530"
+              "title": "Seemapuri Building Collapse LIVE Updates: 3 Killed, 8 Rescued In Seemapuri",
+              "description": "Seemapuri Building Collapse LIVE Updates: The city's fire department received information about the building collapse at 3.30 pm today.",
+              "url": "https://www.ndtv.com/india-news/seemapuri-building-collapse-live-updates-delhi-building-collapse-rescue-operation-trapped-people-live-news-12151253#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/m10p7vtg_accident_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 07 Oct 2026 23:58:39 +0530"
             },
             {
-              "title": "Edtech firm byteXL raises $9 million",
+              "title": "India Among Top 10 Emerging AI-Ready Markets. How Much Investment It Pulls",
+              "description": "The ranking is led by the United States, which scored 100 on the index. China ranked second with a score of 53.8, followed by Singapore, the United Kingdom, France and South Korea.",
+              "url": "https://www.ndtv.com/india-news/india-among-top-10-emerging-ai-ready-markets-how-much-investment-it-pulls-12153362#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/04tq7vk4_main-image_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 07 Oct 2026 23:57:33 +0530"
+            },
+            {
+              "title": "Sugar mill owners to start early crushing under fear of ED probe: Farmers’ leader Raju Shetti",
               "description": "",
-              "url": "https://www.thehindu.com/news/cities/Hyderabad/edtech-firm-bytexl-raises-9-million/article71555603.ece",
+              "url": "https://www.thehindu.com/news/national/maharashtra/sugar-mill-owners-to-start-early-crushing-under-fear-of-ed-probe-farmers-leader-raju-shetti/article71556612.ece",
               "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 23:36:13 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/bcdtp/article71557270.ece/alternates/LANDSCAPE_1200/2026-05-06T104302Z_1840715685_RC2FN4A1M6ZV_RTRMADP_3_INDIA-SUGAR.JPG",
+              "publishedAt": "Thu, 08 Oct 2026 01:36:04 +0530"
             },
             {
-              "title": "State Central Library branch opened at Technopark",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/kerala/state-central-library-branch-opened-at-technopark/article71556065.ece",
+              "title": "PM, HM likely to skip West Bengal govt’s mega Mahalaya event",
+              "description": "The West Bengal government is holding the grand Mahalaya event at Eden Gardens cricket stadium and Chief Minister Suvendu Adhikari had said that Prime Minister Narendra Modi was supposed to attend the grand event.",
+              "url": "https://www.thehindu.com/news/national/west-bengal/pm-hmlikely-to-skip-west-bengal-govts-mega-mahalaya-event/article71556527.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/kerala/u9itns/article71556061.ece/alternates/LANDSCAPE_1200/Photo%202.jpeg",
-              "publishedAt": "Wed, 07 Oct 2026 23:27:23 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/vufew2/article71557258.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000213A.jpg",
+              "publishedAt": "Thu, 08 Oct 2026 01:22:40 +0530"
             },
             {
-              "title": "Kashmir-born filmmaker held in U.S. likely to be freed soon, says family",
-              "description": "Sheikh Arfat won many awards after multiple screenings of his movie Saffron Kingdom in several parts of the United States and Europe",
-              "url": "https://www.thehindu.com/news/national/kashmir-born-filmmaker-held-in-us-likely-to-be-freed-soon-says-family/article71556733.ece",
+              "title": "Civil Supplies officials seize one tonne of PDS rice in Ranipet",
+              "description": "Special teams were formed to nab escaped suspects",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/civil-supplies-officials-seizeone-tonne-of-pds-rice-in-ranipet/article71555700.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/jpqqp3/article71557051.ece/alternates/LANDSCAPE_1200/iStock-2216837590.jpg",
-              "publishedAt": "Wed, 07 Oct 2026 23:11:01 +0530"
-            },
-            {
-              "title": "Pfizer partners with GITAM to train rural women for pharmaceutical careers",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/pfizer-partners-with-gitam-to-train-rural-women-for-pharmaceutical-careers/article71556743.ece",
-              "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 23:09:49 +0530"
+              "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/gwdi88/article71555953.ece/alternates/LANDSCAPE_1200/rice-5.jpeg",
+              "publishedAt": "Thu, 08 Oct 2026 01:04:11 +0530"
             }
           ]
         },
@@ -553,28 +545,36 @@
               "publishedAt": "Wed, 16 Sep 2026 15:40:25 +0530"
             },
             {
-              "title": "\"Not Just An Attempt To Kill Israelis\": Ambassador Reuven Azar On flydubai Attack",
-              "description": "\"What terrorists are trying to do is to always find cracks in the system and our job is to narrow those gaps,\" Reuven Azar said on the third anniversary of the October 7 attack.",
-              "url": "https://www.ndtv.com/india-news/not-just-an-attempt-to-kill-israelis-ambassador-reuven-azar-on-flydubai-attack-12153068#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-03/beq50gqs_reuven-azar-interview_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 22:58:58 +0530"
+              "title": "Former Andhra Pradesh Deputy CM Alla Nani dies of cardiac arrest in Visakhapatnam; he was 56",
+              "description": "The Eluru leader was Health Minister through the pandemic in the Y.S. Jagan Mohan Reddy government, lost his seat in 2024, quit the YSRCP that August and joined the TDP in February 2025",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-andhra-pradesh-deputy-chief-minister-alla-nani-dies-of-cardiac-arrest-at-56/article71467339.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/o7hckw/article71467478.ece/alternates/LANDSCAPE_1200/Alla.jpeg",
+              "publishedAt": "Tue, 15 Sep 2026 17:13:11 +0530"
             },
             {
-              "title": "Seemapuri Building Collapse LIVE Updates: 3 Killed, 8 Rescued In Seemapuri",
-              "description": "Seemapuri Building Collapse LIVE Updates: The city's fire department received information about the building collapse at 3.30 pm today.",
-              "url": "https://www.ndtv.com/india-news/seemapuri-building-collapse-live-updates-delhi-building-collapse-rescue-operation-trapped-people-live-news-12151253#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/m10p7vtg_accident_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 22:33:35 +0530"
+              "title": "Protected on paper: how private schoolteachers fall through the cracks in three Southern States",
+              "description": "Salaries for teachers in mid-tier private schools often range between ₹8,000 and ₹15,000 a month, rarely crossing ₹25,000",
+              "url": "https://www.thehindu.com/education/protected-on-paper-how-private-schoolteachers-fall-through-the-cracks-in-three-southern-states/article71473761.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/bixfxp/article71474134.ece/alternates/LANDSCAPE_1200/iStock-1344985960.jpg",
+              "publishedAt": "Thu, 17 Sep 2026 00:52:37 +0530"
             },
             {
-              "title": "Old Terror Hideout Busted In Jammu And Kashmir's Handwara, Cache Of Arms Recovered",
-              "description": "Police said the hideout appeared to be old and was being used as a dump to stock arms and ammunition for terrorists operating in Handwara.",
-              "url": "https://www.ndtv.com/india-news/old-terror-hideout-busted-in-jammu-and-kashmirs-handwara-arms-cache-recovered-12152977#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/6o8ung14_kashmir_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 22:26:03 +0530"
+              "title": "Headline numbers mask AGP’s steady slide despite 10 years in power",
+              "description": "BJP’s junior ally in Assam gets the same number of seats to contest as last time, but a granular analysis reveals slipping ground",
+              "url": "https://www.thehindu.com/elections/assam-assembly/headline-numbers-mask-agps-steady-slide-despite-10-years-in-power/article70777121.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/utn8oa/article70777115.ece/alternates/LANDSCAPE_1200/20260323550L.jpg",
+              "publishedAt": "Thu, 16 Apr 2026 15:09:22 +0530"
+            },
+            {
+              "title": "Women Reservation Bill: In 20 States & UTs less than 10% MLAs are female | Data",
+              "description": "Share of women parliamentarians has never exceeded 15% in the past general elections",
+              "url": "https://www.thehindu.com/data/women-reservation-bill-in-20-states-uts-less-than-10-mlas-are-female-data/article67338512.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/15d1co/article67338517.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
+              "publishedAt": "Thu, 16 Apr 2026 14:19:09 +0530"
             }
           ]
         },
@@ -584,44 +584,60 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "CEC row updates: INDIA bloc MPs to stage another protest against CEC on October 8",
-              "description": "Lok Sabha LoP Rahul Gandhi and Congress MP Priyanka Gandhi were released after being detained during the INDIA bloc’s protest march towards Jantar Mantar.",
-              "url": "https://www.thehindu.com/news/national/cec-row-gyanesh-kumar-india-bloc-march-election-commission-sir-delhi-police-cjp-jantar-mantar-protest-live-updates-october-7-2026/article71554188.ece",
+              "title": "Loanees do not mortgage their constitutional rights with banks: Madras High Court",
+              "description": "Justice V. Lakshminarayanan says banks cannot prevent defaulters, not facing any criminal charge, from going abroad",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/loanees-do-not-mortgage-their-constitutional-rights-with-banks-madras-high-court/article71556876.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/h1cybg/article71557266.ece/alternates/LANDSCAPE_1200/Nearby1--5-_GNRGLJGJU9CM.3.jpg.jpg",
+              "publishedAt": "Thu, 08 Oct 2026 01:47:39 +0530"
+            },
+            {
+              "title": "BRS Accuses Telangana MLA Of \"Inappropriately Touching\" Girl On Bus",
+              "description": "In a video that has gone viral, Ranga Reddy (70), MLA from Ibrahimpatnam, is seen having a conversation with two girl students on the Congress government's 'Mahalakshmi' free bus scheme for women.",
+              "url": "https://www.ndtv.com/india-news/brs-accuses-telangana-mla-of-inappropriately-touching-girl-student-on-bus-12153550#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/2l66ans_ranga-reddy-touching-girl_625x300_08_October_26.jpeg",
+              "publishedAt": "Thu, 08 Oct 2026 01:41:08 +0530"
+            },
+            {
+              "title": "Odisha govt. forms panel to study SEBC political backwardness",
+              "description": "The decision assumes significance as both panchayat and urban local body polls are scheduled to be held next year",
+              "url": "https://www.thehindu.com/news/national/odisha/odisha-govt-forms-panel-to-study-sebc-political-backwardness/article71557071.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 23:41:46 +0530"
+              "publishedAt": "Thu, 08 Oct 2026 01:23:31 +0530"
             },
             {
-              "title": "AIIMS: Murali flays Centre’s adamant stance",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/kerala/aiims-murali-flays-centres-adamant-stance/article71556887.ece",
+              "title": "Bombay High Court asks Maharashtra to restore trust of MPSC aspirants, students to return to classes",
+              "description": "Vacancies in government jobs ran to thousands, students alleged that exams were not held in accordance with procedure, and papers were leaked; when students protested, it meant their grievances needed attention, the cour",
+              "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-asks-maharashtra-to-restore-trust-of-mpsc-aspirants-students-to-return-to-classes/article71556539.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/fm8rsx/article71557264.ece/alternates/LANDSCAPE_1200/IMG_Bombay_High_Court_2_1_59DCPNA5.jpg",
+              "publishedAt": "Thu, 08 Oct 2026 01:06:44 +0530"
+            },
+            {
+              "title": "CMC to organise conference on gene therapy in Vellore",
+              "description": "CGTCON 2026 aims to strengthen collaborations between clinicians, scientists, industry partners, and regulatory stakeholders",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/cmc-to-organise-conference-on-gene-therapy-in-vellore/article71555717.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 23:30:55 +0530"
+              "publishedAt": "Thu, 08 Oct 2026 01:03:18 +0530"
             },
             {
-              "title": "Jharkhand CM Hemant Soren’s mother Roopi Soren dies",
-              "description": "Roopi was admitted to Hill View Hospital & Research Centre on September 18, with breathing difficulties and placed on a ventilator on October 7",
-              "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cm-hemant-sorens-mother-roopi-soren-dies/article71557123.ece",
+              "title": "Taslima Nasrin In Kolkata, Says Will Stay For Durga Puja Next Year",
+              "description": "\"I will certainly be here next year. I absolutely love the Puja celebrations here; it feels like a grand art exhibition,\" Taslima Nasrin said.",
+              "url": "https://www.ndtv.com/india-news/taslima-nasrin-in-kolkata-says-will-stay-for-durga-puja-next-year-12153502#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2024-05/b7ralpm_taslima-nasrin_625x300_26_May_24.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Thu, 08 Oct 2026 01:02:47 +0530"
+            },
+            {
+              "title": "INDIA bloc leaders in Bihar take out Aakrosh March against ECI",
+              "description": "INDIA bloc leaders alleged that the Election Commission of India (ECI) is acting as a puppet of the Bharatiya Janata Party (BJP) and that politics is underway to weaken democracy and the constitution.",
+              "url": "https://www.thehindu.com/news/national/bihar/india-bloc-leaders-in-bihar-take-out-aakrosh-march-against-eci/article71556245.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/4kdkk/article71557152.ece/alternates/LANDSCAPE_1200/PTI10_07_2026_000443B.jpg",
-              "publishedAt": "Wed, 07 Oct 2026 23:12:34 +0530"
-            },
-            {
-              "title": "US Man Out-Streamed Taylor Swift, But No One Was Listening",
-              "description": "Michael Smith, 54, was sentenced for taking part in a scheme to \"defraud music streaming platforms and musicians of royalty payments\", according to the US Attorney's Office.",
-              "url": "https://www.ndtv.com/world-news/ai-streaming-fraud-taylor-swift-us-man-out-streamed-youtube-but-no-one-was-listening-12153165#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/mr6c4t38_man-ai-streaming_625x300_07_October_26.jpeg",
-              "publishedAt": "Wed, 07 Oct 2026 23:10:47 +0530"
-            },
-            {
-              "title": "A 1985 Viral Pic And 2 Young Coursemates, Who Are Now Army, Air Force Chief",
-              "description": "The two officers are Army chief General Dhiraj Seth and the next chief of the Indian Air Force, Air Marshal Ashutosh Dixit.",
-              "url": "https://www.ndtv.com/india-news/a-1985-viral-pic-and-2-young-coursemates-who-are-now-army-air-force-chief-general-dhiraj-seth-air-marshal-ashutosh-dixit-12153162#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/22er00i8_dhiraj-seth-ashutosh-dixit_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 23:09:42 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/3zyj7e/article71557250.ece/alternates/LANDSCAPE_1200/20261007279L.jpg",
+              "publishedAt": "Thu, 08 Oct 2026 01:02:36 +0530"
             }
           ]
         },
@@ -639,52 +655,44 @@
               "publishedAt": "Wed, 23 Sep 2026 16:16:43 +0530"
             },
             {
-              "title": "2 Children, Pregnant Woman Killed In Building Collapse In Delhi. 8 Injured",
-              "description": "The Delhi Fire Service (DFS) received a call regarding the collapse at 3.30 pm and rushed fire engines to the spot.",
-              "url": "https://www.ndtv.com/india-news/many-feared-trapped-as-building-collapses-in-delhis-seemapuri-a-month-after-satya-niketan-tragedy-12150995#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/9ctjjveo_seemapuri-building-collapse-delhi-_650x400_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 23:08:39 +0530"
+              "title": "SP decides not a field a third candidate for the Rajya Sabha election",
+              "description": "The focus is on the Assembly election, Akhilesh Yadav says, with the party preparing to contest all the Assembly seats",
+              "url": "https://www.thehindu.com/elections/uttar-pradesh-assembly/sp-decides-not-a-field-a-third-candidate-for-the-rajya-sabha-election/article71552400.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/jym66y/article71553013.ece/alternates/LANDSCAPE_1200/PTI10_03_2026_000284A.jpg",
+              "publishedAt": "Tue, 06 Oct 2026 22:53:06 +0530"
             },
             {
-              "title": "Jharkhand Chief Minister Hemant Soren's Mother Rupi Soren Dies At 80",
-              "description": "The wife of Jharkhand Mukti Morcha founder and former chief minister, the late Shibu Soren, was in critical condition and on ventilator support.",
-              "url": "https://www.ndtv.com/india-news/jharkhand-chief-minister-hemant-sorens-mother-rupi-soren-dies-at-80-12153120#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/31t9a49_rupi_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 23:00:31 +0530"
+              "title": "Byelections 2026 highlights: Bypolls to five Assembly seats, one LS seat conclude with high voter turnout; minor incidents reported",
+              "description": "The counting of votes is scheduled for October 9",
+              "url": "https://www.thehindu.com/news/national/byelection-bypoll-voting-nandigram-rejinagar-madurantakam-dharapuram-thattanchavady-nagaon-live-updates-october-6-2026/article71549585.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Tue, 06 Oct 2026 21:55:31 +0530"
             },
             {
-              "title": "Court Fines Mumbai Mayor Rs 1,000 For Skipping Hearing In Assault Case",
-              "description": "The court had at a previous hearing imposed a cost of Rs 300 on the Mayor, a BJP corporator, after allowing her plea for exemption from personal appearance in the case.",
-              "url": "https://www.ndtv.com/india-news/court-fines-mumbai-mayor-rs-1-000-for-skipping-hearing-in-assault-case-12153051#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-02/jfuvpm3s_ritu-tawde_625x300_07_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 22:43:38 +0530"
+              "title": "The many categories of SIR’s logical discrepancy list keep voters on toes",
+              "description": "Up to 11 distinct categories of logical discrepancies have been identified and applied across various States and Union Territories in the third phase of the SIR, expanding from the original four categories initially used",
+              "url": "https://www.thehindu.com/news/national/the-many-categories-of-sirs-logical-discrepancy-list-keep-voters-on-toes/article71504625.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/m6w8x4/article71505482.ece/alternates/LANDSCAPE_1200/_JAI6728.JPG",
+              "publishedAt": "Thu, 24 Sep 2026 22:22:03 +0530"
             },
             {
-              "title": "\"My Way Or The Highway\": Former Minister Scoffs At Opposition Protests Over Voter List Revision",
-              "description": "In an interview with NDTV's Padmaja Joshi on the Day 2 of massive Opposition protest of SIR and Chief Election Commissioner Gyanesh Kumar, Prasad said the opposition has a \"My way or the highway\" attitude and is not read",
-              "url": "https://www.ndtv.com/india-news/my-way-or-the-highway-former-minister-scoffs-at-opposition-protests-over-voter-list-revision-12153014#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/hg8r63oc_ravi-shankar-prasad_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 22:30:40 +0530"
+              "title": "Noida bus fire: passengers warned driver of burning smell; 17 challans worth ₹1.59 lakh pending against vehicle",
+              "description": "Passengers were allegedly told “to die” when they told the driver to stop the bus after a fire broke out; blast in air-conditioning system likely caused the fire, say police",
+              "url": "https://www.thehindu.com/elections/uttar-pradesh-assembly/noida-bus-fire-passengers-warned-driver-of-burning-smell-17-challans-pending-against-vehicle/article71503505.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/kknnb3/article71503801.ece/alternates/LANDSCAPE_1200/20260924116L.jpg",
+              "publishedAt": "Thu, 24 Sep 2026 17:19:20 +0530"
             },
             {
-              "title": "Indian Oil Official Went To Seal Petrol Pump In Maharashtra, Stabbed 7 Times",
-              "description": "Shelke and his team had arrived to seal an Indian Oil petrol pump in Chondhi, which had been shut for three months due to technical issues, police said.",
-              "url": "https://www.ndtv.com/india-news/indian-oil-official-stabbed-7-times-at-maharashtra-petrol-pump-he-tried-to-seal-12150966#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/cqhhfrqk_indian-oil-murder_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 22:18:19 +0530"
-            },
-            {
-              "title": "Rahul, Priyanka Gandhi Detained, Then A Puncture Twist Before Release",
-              "description": "Making light of the FIR against him over the dharna on Tuesday, Rahul Gandhi said that he wants a 100 FIRs filed against him. \"There are 45 FIRs against me. My goal is 100,\" he said.",
-              "url": "https://www.ndtv.com/india-news/a-day-after-high-drama-in-delhi-oppositions-lunch-meet-on-next-move-rahul-gandhi-sagar-ratna-12150574#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/6n2ibflk_rahul-priyanka_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 07 Oct 2026 22:18:00 +0530"
+              "title": "Presumed ineligible: On the Election Commission of India’s SIR process",
+              "description": "The Election Commission of India must end its method of deleting first and verifying later",
+              "url": "https://www.thehindu.com/opinion/editorial/presumed-ineligible-on-the-election-commission-of-indias-sir-process/article71491681.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Thu, 24 Sep 2026 12:56:28 +0530"
             }
           ]
         }
@@ -900,7 +908,7 @@
             {
               "title": "US stocks: Webull shares plunge 18% after report flags structural ties to China",
               "description": "Webull shares fell by more than 18% following a report connecting the platform to the Chinese government. The House Select Committee on China revealed discrepancies between Webull’s marketing and its operational reality.",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/webull-sinks-over-19-after-cnbc-reports-us-house-panel-flagged-china-ties/articleshow/134769396.cms",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/webull-sinks-over-19-after-cnbc-reports-us-house-panel-flagged-china-ties/articleshow/134769396.cms",
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-134769396,imgsize-10402.cms",
               "publishedAt": "Wed, 07 Oct 2026 20:48:23 +0530"
@@ -920,44 +928,36 @@
           "emoji": "🇺🇸",
           "articles": [
             {
-              "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-              "description": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
-              "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+              "title": "Lululemon poaches Athleta CEO as new chief product officer",
+              "description": "Lululemon announced Wednesday that Athleta CEO Maggie Gauger has joined the company as its chief product officer, a newly created role.",
+              "url": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:55:10 GMT"
+              "publishedAt": "Wed, 07 Oct 2026 20:39:39 GMT"
             },
             {
-              "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
-              "description": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
-              "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+              "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+              "description": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
+              "url": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:47:30 GMT"
+              "publishedAt": "Wed, 07 Oct 2026 20:33:34 GMT"
             },
             {
-              "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
-              "description": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
-              "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+              "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+              "description": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
+              "url": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:42:36 GMT"
+              "publishedAt": "Wed, 07 Oct 2026 20:25:25 GMT"
             },
             {
-              "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
-              "description": "As affordability pressures mount, Americans are increasingly concerned about their financial future, the New York Fed's data shows.",
-              "url": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
+              "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
+              "description": "SpaceX and Amazon have moved to expand providing direct-to-device services with networks of satellites.",
+              "url": "https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:24:12 GMT"
-            },
-            {
-              "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
-              "description": "President Trump's order comes amid mounting political pressure to take action on surging diesel prices, with the midterm elections only a month away.",
-              "url": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Wed, 07 Oct 2026 18:09:33 GMT"
+              "publishedAt": "Wed, 07 Oct 2026 20:03:50 GMT"
             }
           ]
         },
@@ -975,36 +975,12 @@
               "publishedAt": "Wed, 07 Oct 2026 21:36:09 +0530"
             },
             {
-              "title": "UK 30-year gilt yields hit 28-year high in global selloff",
-              "description": "The British 30-year bond yields have skyrocketed to their highest level since January 1998 amid a global bond market decline. This surge is primarily driven by ongoing inflation and substantial government borrowing, whic",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-hit-28-year-high-in-global-selloff/articleshow/134769020.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134769020,imgsize-97312.cms",
-              "publishedAt": "Wed, 07 Oct 2026 20:25:28 +0530"
-            },
-            {
-              "title": "US SEC will not pursue charges against climate group, warns of disclosure obligations",
-              "description": "The US Securities and Exchange Commission investigated a climate group related to ExxonMobil's shareholder meeting in May 2021. After the investigation, the SEC decided not to pursue any charges against the group. Howeve",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-sec-will-not-pursue-charges-against-climate-group-warns-of-disclosure-obligations/articleshow/134768910.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134768910,imgsize-86906.cms",
-              "publishedAt": "Wed, 07 Oct 2026 20:23:50 +0530"
-            },
-            {
-              "title": "Iraq devalues its currency as Mideast war disrupts oil shipping routes",
-              "description": "Iraq has officially devalued its currency from 1,300 dinars to 1,500 dinars to the US dollar. The Central Bank announced this decision following a Cabinet meeting, which aimed to address financial, economic, and monetary",
-              "url": "https://economictimes.indiatimes.com/markets/forex/iraq-devalues-its-currency-as-iran-us-war-disrupts-oil-shipping-routes/articleshow/134768571.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134768571,imgsize-103836.cms",
-              "publishedAt": "Wed, 07 Oct 2026 20:01:19 +0530"
-            },
-            {
-              "title": "Gold slides to two-month low as robust dollar, yields add pressure",
-              "description": "Gold prices have fallen to a two-month low due to a strong US dollar and rising Treasury yields. Spot gold dropped 1.6% to $4,096.13 per ounce, while silver also faced significant declines. The Federal Reserve's policy d",
-              "url": "https://economictimes.indiatimes.com/markets/commodities/gold-slides-to-two-month-low-as-robust-dollar-yields-add-pressure/articleshow/134768281.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134768281,imgsize-64506.cms",
-              "publishedAt": "Wed, 07 Oct 2026 19:42:27 +0530"
+              "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+              "description": "President Trump's order comes amid mounting political pressure to take action on surging diesel prices, with the midterm elections only a month away.",
+              "url": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 07 Oct 2026 20:26:51 GMT"
             }
           ]
         },
@@ -1076,14 +1052,6 @@
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-134765380,imgsize-69040.cms",
               "publishedAt": "Wed, 07 Oct 2026 17:25:25 +0530"
-            },
-            {
-              "title": "Market wrap: Kotak Bank, Bharti Airtel, Titan Company, Adani Ent top gainers and losers on Nifty and Sensex on Wednesday",
-              "description": "Indian equities ended lower on Wednesday after the RBI raised the repo rate by 25 basis points to 5.5% and shifted its stance to calibrated tightening. The Nifty and Sensex fell 0.76% and 0.59%, respectively, while Titan",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-kotak-bank-bharti-airtel-titan-company-adani-ent-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134765160.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134765160,imgsize-255930.cms",
-              "publishedAt": "Wed, 07 Oct 2026 17:21:13 +0530"
             }
           ]
         },
@@ -1092,6 +1060,14 @@
           "label": "Crypto",
           "emoji": "₿",
           "articles": [
+            {
+              "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+              "description": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
+              "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed683cdb87684e6ca349d6f2efd15060d7dd27d5-5196x3464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Wed, 07 Oct 2026 18:59:32 +0000"
+            },
             {
               "title": "Here’s what happened in crypto today",
               "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1163,14 +1139,6 @@
               "source": "cointelegraph.com",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BEBEZ7QSY6YC27Z3G1WAYE/oil-bitcoin-petrol-iran-3.jpg",
               "publishedAt": "Wed, 07 Oct 2026 15:06:14 +0000"
-            },
-            {
-              "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
-              "description": "AI has made it cheap to link wallet addresses to the people behind them, and the permanence of the blockchain means records don’t age out. Michael Zhao of Grayscale Research explains how Zcash’s shielded transactions add",
-              "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
-              "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/4194d43220448d79587beee0fb55642b52881a6b-2352x1200.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-              "publishedAt": "Wed, 07 Oct 2026 15:03:54 +0000"
             }
           ]
         }
