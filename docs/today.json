@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-16",
-  "date_nice": "October 16, 2026",
+  "date": "2026-10-17",
+  "date_nice": "October 17, 2026",
   "categories": [
     {
       "id": "ai",
@@ -37,14 +37,6 @@
               "publishedAt": "Wed, 14 Oct 2026 09:30:00 +0000"
             },
             {
-              "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-              "description": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-              "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Tue, 13 Oct 2026 19:35:29 +0000"
-            },
-            {
               "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
               "description": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
               "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
@@ -67,6 +59,14 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Thu, 15 Oct 2026 21:18:15 +0000"
+            },
+            {
+              "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+              "description": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+              "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 21:00:28 +0000"
             }
           ]
         },
@@ -121,14 +121,6 @@
               "source": "blog.google",
               "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
               "publishedAt": "Wed, 23 Sep 2026 18:00:00 +0000"
-            },
-            {
-              "title": "The Download: faking blood and the future of batteries",
-              "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US milit",
-              "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-              "source": "technologyreview.com",
-              "image": "",
-              "publishedAt": "Wed, 14 Oct 2026 12:10:00 +0000"
             },
             {
               "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -192,6 +184,14 @@
               "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
               "source": "blog.google",
               "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
+              "publishedAt": "Tue, 15 Sep 2026 16:00:00 +0000"
+            },
+            {
+              "title": "AI for everyone in every language",
+              "description": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
               "publishedAt": "Tue, 15 Sep 2026 16:00:00 +0000"
             }
           ]
@@ -258,20 +258,28 @@
               "publishedAt": "Tue, 22 Sep 2026 15:00:05 +0000"
             },
             {
-              "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
-              "description": "This article is brought to you by CoolIT, an Ecolab Company.Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. T",
-              "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
-              "source": "spectrum.ieee.org",
-              "image": "https://spectrum.ieee.org/media-library/close-up-of-copper-liquid-cooling-plates-and-heat-pipes-inside-an-electronic-device.jpg?id=67771117&width=980",
-              "publishedAt": "Tue, 22 Sep 2026 12:22:50 +0000"
-            },
-            {
               "title": "They war-gamed dimming the Sun. It went even worse than you think.",
               "description": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
               "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-516604291-1024x648.jpg",
               "publishedAt": "Tue, 13 Oct 2026 15:17:59 +0000"
+            },
+            {
+              "title": "High-speed video reveals how honey bee stingers pump venom",
+              "description": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
+              "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/bee-TOP-1152x648-1791731084.jpg",
+              "publishedAt": "Tue, 13 Oct 2026 13:03:45 +0000"
+            },
+            {
+              "title": "Google DeepMind’s New Resident Philosopher Tackles AI Ethics",
+              "description": "How should humans relate to generative AI? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could s",
+              "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
+              "source": "spectrum.ieee.org",
+              "image": "https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=980",
+              "publishedAt": "Tue, 13 Oct 2026 13:00:03 +0000"
             }
           ]
         },
@@ -303,6 +311,14 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Tue, 13 Oct 2026 23:17:59 +0000"
+            },
+            {
+              "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+              "description": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+              "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Tue, 13 Oct 2026 19:35:29 +0000"
             },
             {
               "title": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
@@ -413,22 +429,6 @@
               "publishedAt": "Thu, 15 Oct 2026 23:44:56 +0000"
             },
             {
-              "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-              "description": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-              "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Thu, 15 Oct 2026 23:33:45 +0000"
-            },
-            {
-              "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-              "description": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-              "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Thu, 15 Oct 2026 20:38:13 +0000"
-            },
-            {
               "title": "5 Kristin Hannah lessons on the complexities of womanhood",
               "description": "Explore five powerful Kristin Hannah lessons that capture the complexities of womanhood, from love & sacrifice to resilience and the strength of women.",
               "url": "https://yourstory.com/2026/10/kristin-hannah-lessons",
@@ -477,12 +477,28 @@
               "publishedAt": "Thu, 15 Oct 2026 08:02:26 GMT"
             },
             {
-              "title": "Peak XV is taking bigger bets as Indian startups grow more ambitious: Mohit Bhatnagar",
-              "description": "At TechSparks 2026, Peak XV's Managing Director Mohit Bhatnagar said the venture capital firm is increasingly willing to back ambitious, high-risk startups as AI opens up new opportunities for Indian founders to build gl",
-              "url": "https://yourstory.com/2026/10/ambition-of-indian-founders-has-grown-bigger-mohit-bhatnagar-of-peak-xv",
+              "title": "‘We cannot wait 75 years’: ANRF CEO Shivkumar Kalyanaraman on scaling India’s research multiplier",
+              "description": "To boost India’s R&D spend toward 3% of GDP, ANRF CEO Shivkumar Kalyanaraman revealed a patient-capital architecture combining private investment, open IP licensing, and national mission programmes.",
+              "url": "https://yourstory.com/2026/10/anrf-ceo-shivkumar-kalyanaraman-scaling-india-research-multiplier",
               "source": "yourstory.com",
               "image": "",
-              "publishedAt": "Thu, 15 Oct 2026 05:33:26 GMT"
+              "publishedAt": "Thu, 15 Oct 2026 05:37:33 GMT"
+            },
+            {
+              "title": "Replit is no longer working with Anthropic, CEO says",
+              "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+              "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Fri, 16 Oct 2026 21:22:28 +0000"
+            },
+            {
+              "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+              "description": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+              "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Fri, 16 Oct 2026 19:40:00 +0000"
             }
           ]
         },
@@ -492,36 +508,36 @@
           "emoji": "📈",
           "articles": [
             {
-              "title": "Yes Bank flags 250-bps impact in core capital ratio after Supreme Court upholds AT-1 bond write-off ruling",
-              "description": "Yes Bank said its Common Equity Tier 1 capital ratio could fall by about 250 basis points after the Supreme Court upheld a ruling against the 2020 write-down of  ₹8,415 crore in AT-1 bonds. The bank expects its overall T",
-              "url": "https://www.livemint.com/market/stock-market-news/yes-bank-flags-250-bps-impact-in-core-capital-ratio-after-supreme-court-upholds-at-1-bond-write-off-ruling-11792175520924.html",
+              "title": "Foreign Holdings of US Treasuries Rise From Almost One-Year Low",
+              "description": "Foreign holdings of US Treasuries rose in August from the lowest level since October 2025, led by increases in the stockpiles of Canada and Belgium.",
+              "url": "https://www.livemint.com/market/foreign-holdings-of-us-treasuries-rise-from-almost-one-year-low-11792184534641.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/YES-BANK_1687525611708_1792175594462_Ll18_1956e1c7-61f3-4264-b5d0-46fb8117d2b8_sMyy.JPG",
-              "publishedAt": "Sat, 17 Oct 2026 00:21:54 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+              "publishedAt": "Sat, 17 Oct 2026 02:32:14 +0530"
             },
             {
-              "title": "Chip selloff deepens Wall Street losses as doubts grew over AI returns",
-              "description": "A significant selloff in semiconductor stocks affected major US indexes amid rising concerns regarding AI investment returns. The Nasdaq 100 dropped by 1.8%, continuing its longest losing streak since 2008. Market partic",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chip-selloff-deepens-wall-street-losses-as-doubts-grew-over-ai-returns/articleshow/135001236.cms",
+              "title": "Funding Markets Diverge as T-Bills Cheapen, Overnight Repo Calm",
+              "description": "Treasury-bill yields have risen sharply as a wave of new issuance tests investor demand, posing a threat to the stability of overnight funding markets.",
+              "url": "https://www.livemint.com/market/funding-markets-diverge-as-t-bills-cheapen-overnight-repo-calm-11792179755736.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+              "publishedAt": "Sat, 17 Oct 2026 01:12:35 +0530"
+            },
+            {
+              "title": "Big US bank stocks head for longest weekly losing streak since 2008",
+              "description": "Major US banks are experiencing their longest weekly losing streak since the 2008 financial crisis, driven by mixed quarterly earnings and rising inflation. The KBW Bank Index has fallen about 13% since its August peak,",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-us-bank-stocks-head-for-longest-weekly-losing-streak-since-2008/articleshow/135002546.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135001236,imgsize-184214.cms",
-              "publishedAt": "Fri, 16 Oct 2026 23:29:09 +0530"
+              "image": "https://img.etimg.com/photo/msid-135002546,imgsize-3818941.cms",
+              "publishedAt": "Sat, 17 Oct 2026 00:24:46 +0530"
             },
             {
-              "title": "Dividend delight on D-Street: Modison, LTM to Oberoi Realty announce dividends on October 16 | Amount, record dates",
-              "description": "Modison, Oberoi Realty and LTM announced dividends, with October 23 set as the record date for all three. Modison approved  ₹4 per share, Oberoi Realty  ₹2, and LTM  ₹25. Modison’s Q2FY27 profit and revenue rose sharply,",
-              "url": "https://www.livemint.com/market/stock-market-news/dividend-delight-on-d-street-modison-ltm-to-oberoi-realty-announce-dividends-on-october-16-amount-record-dates-11792166904111.html",
+              "title": "HFCL shares jump 277% in 2026 ahead of Reliance Jio IPO; Nuvama says buy rating. Check target price and Jio connection",
+              "description": "Nuvama initiated coverage of HFCL with a Buy rating and a  ₹380 target, citing its shift toward telecom and networking products, strong order book, investment plans and opportunities in data centers and defence.",
+              "url": "https://www.livemint.com/market/stock-market-news/hfcl-shares-jump-277-in-2026-ahead-of-reliance-jio-ipo-nuvama-says-buy-rating-check-target-price-and-jio-connection-11792172068819.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/Dividend_Delight_on_D-Street_1792167011439_skPm_1792167021115_A5FP_8e2310b1-bd19-42ab-b4e1-0c93296c9a14_lH6O.png",
-              "publishedAt": "Fri, 16 Oct 2026 21:41:16 +0530"
-            },
-            {
-              "title": "This small-cap AI stock has surged 250% in 2026: What is behind its stellar market performance?",
-              "description": "E2E Networks shares have surged 248% this year after falling 50% in 2025, buoyed by demand for AI infrastructure and NVIDIA-related deals. September-quarter revenue rose 411% year-on-year to  ₹223.8 crore, while net prof",
-              "url": "https://www.livemint.com/market/stock-market-news/this-small-cap-ai-stock-has-surged-250-in-2026-what-is-behind-its-stellar-market-performance-11792162057382.html",
-              "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/Multibagger_stock_1792162721611_NyBg_1792162780012_6p2I_3d61d2ca-7669-48ef-8771-052f052b343a_kVVG.png",
-              "publishedAt": "Fri, 16 Oct 2026 20:31:04 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/HFCL_Stock_1792174259090_yJfi_1792174268145_YliM_204dc490-03ac-46e0-8d4d-7a9d552ad4ef_m26d.png",
+              "publishedAt": "Fri, 16 Oct 2026 23:44:55 +0530"
             }
           ]
         }
@@ -538,52 +554,44 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "BSP to stage indefinite hunger strike condemning delay in action in Perumbali SC man’s burial case",
-              "description": "Though a case had been registered against six persons under the SC/ST Act, the accused had not been arrested, the BSP said",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/bsp-to-stage-indefinite-hunger-strike-demanding-delay-in-action-in-perumbali-sc-man-burial-case/article71591369.ece",
+              "title": "Rahul Gandhi has 'anarchist' mindset: Nitin Nabin",
+              "description": "BJP will always oppose attempts to settle people in India with a “foreign mindset”, the party’s national president said",
+              "url": "https://www.thehindu.com/news/national/rahul-gandhi-has-anarchist-mindset-bjp-nitin-nabin/article71558595.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/u14l1y/article71558621.ece/alternates/LANDSCAPE_1200/PTI09_29_2026_000294B.jpg",
+              "publishedAt": "Sat, 17 Oct 2026 06:02:48 +0530"
+            },
+            {
+              "title": "Toll collection on NH 66 at Nattika in Keralam suspended amid protests",
+              "description": "Keralam government orders the suspension citing likelihood of severe traffic congestion as construction work remains incomplete",
+              "url": "https://www.thehindu.com/news/national/kerala/toll-collection-on-nh-66-at-nattika-in-keralam-suspended-amid-protests/article71558625.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/kerala/69b2g8/article71558715.ece/alternates/LANDSCAPE_1200/NH03.jpg",
+              "publishedAt": "Sat, 17 Oct 2026 05:56:45 +0530"
+            },
+            {
+              "title": "JNTU-GV students can now get certificates online in days, without ₹3,000 tatkal fee",
+              "description": "Vice-Chancellor V.V. Subba Rao says the move will benefit about 90,000 students in 37 affiliated colleges across six north Andhra districts",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/jntu-gv-students-can-now-get-certificates-online-in-days-without-3000-tatkal-fee/article71558367.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/h01mj9/article71558675.ece/alternates/LANDSCAPE_1200/VV.jpeg",
+              "publishedAt": "Sat, 17 Oct 2026 05:54:07 +0530"
+            },
+            {
+              "title": "Self-styled tantric Shrawan Mahto arrested after video of him swinging small children as part of ‘ritual’ goes viral",
+              "description": "The video showed the tantrik performing a bizzare ritual on toddlers in the presence of their parents, in the name of ‘curing them’.",
+              "url": "https://www.thehindu.com/news/national/bihar/self-styled-tantric-shrawan-mahto-arrested-after-video-of-him-swinging-small-children-as-part-of-ritual-goes-viral/article71558583.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/cities/kolkata/lzepoq/article66349589.ece/alternates/LANDSCAPE_1200/NKV-arrest.jpg",
+              "publishedAt": "Sat, 17 Oct 2026 05:51:16 +0530"
+            },
+            {
+              "title": "Woman social media influencer in Keralam booked for allegedly sexually harassing minor boy",
+              "description": "Police officials said a detailed probe is underway into the complaint, and the boy’s statement has been recorded",
+              "url": "https://www.thehindu.com/news/national/kerala/woman-social-media-influencer-in-keralam-booked-for-allegedly-sexually-harassing-minor-boy/article71558572.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Sat, 17 Oct 2026 00:20:32 +0530"
-            },
-            {
-              "title": "BJP-Yuva Morcha  march to Keralam Assembly turns violent, police use tear gas",
-              "description": "The BJP and Yuva Morcha organised the march over alleged irregularities in the Kerala Public Service Commission, including delays in recruitment to government jobs",
-              "url": "https://www.thehindu.com/news/national/kerala/bjp-yuva-morcha-march-to-keralam-assembly-turns-violent-police-use-tear-gas/article71593824.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/gwxenn/article71594025.ece/alternates/LANDSCAPE_1200/YuvaMorcha002.JPG",
-              "publishedAt": "Sat, 17 Oct 2026 00:16:57 +0530"
-            },
-            {
-              "title": "TDP names Mukka Sravani as GVMC Mayor candidate",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-names-mukka-sravani-as-gvmc-mayor-candidate/article71594116.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/3jbn36/article71594134.ece/alternates/LANDSCAPE_1200/9604_16_10_2026_23_26_6_1_IMG_20261016_WA0059.JPG",
-              "publishedAt": "Sat, 17 Oct 2026 00:02:11 +0530"
-            },
-            {
-              "title": "Tremors, Tectonic Shifts: Milind Deora, Shashi Tharoor's Banter Over Protests",
-              "description": "The exchange began after Milind Deora posted and mentioned the earthquake in Panama.",
-              "url": "https://www.ndtv.com/india-news/cjp-congress-shiv-sena-gyanesh-kumar-tremors-tectonic-shifts-milind-deora-shashi-tharoors-banter-over-protests-12197041#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/rmcnvbrk_deora-tharoor_625x300_16_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Fri, 16 Oct 2026 23:57:26 +0530"
-            },
-            {
-              "title": "Prakash Raj flags attempts to divide country into those with voting rights and, those without votes",
-              "description": "He also pointed out how the BJP government brought in two legislations to amend the way in which the Chief Election Commissioner was chosen",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/prakash-raj-flags-attempts-to-divide-country-into-those-with-voting-rights-and-those-without-votes/article71552694.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/o8nwwu/article71552948.ece/alternates/LANDSCAPE_1200/DSC_5527.JPG",
-              "publishedAt": "Fri, 16 Oct 2026 23:51:51 +0530"
-            },
-            {
-              "title": "Sankoo Becomes Ladakh's 8th District, Gets Separate Hill Council",
-              "description": "Sankoo was not among the five new districts announced earlier this year, despite demands from local organisations and political representatives.",
-              "url": "https://www.ndtv.com/india-news/sankoo-becomes-ladakhs-8th-district-gets-separate-hill-council-12197014#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2025-06/ae48qgf8_ladakh_625x300_04_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Fri, 16 Oct 2026 23:48:16 +0530"
+              "publishedAt": "Sat, 17 Oct 2026 05:49:31 +0530"
             }
           ]
         },
@@ -680,44 +688,44 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Devotees celebrate Durga Puja with ‘Prabhat Pheri’ procession in Visakhapatnam",
+              "title": "Patient footfall at NIMS Hyderabad rises; daily OP registrations up from 3,500 to over 5,600",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/devotees-celebrate-durga-puja-with-prabhat-pheri-procession-in-visakhapatnam/article71593786.ece",
+              "url": "https://www.thehindu.com/news/cities/Hyderabad/patient-footfall-at-nims-hyderabad-rises-daily-op-registrations-up-from-3500-to-over-5600/article71556983.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/iw76hr/article71594144.ece/alternates/LANDSCAPE_1200/VSP17_Dasara%204.JPG",
-              "publishedAt": "Sat, 17 Oct 2026 00:19:20 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/6ju1j4/article71558723.ece/alternates/LANDSCAPE_1200/IMG_NIMS-Medical-Ge_GK9E_2_1_T6E8CRJS.jpg",
+              "publishedAt": "Sat, 17 Oct 2026 06:01:07 +0530"
             },
             {
-              "title": "No coercive steps by Revenue officials from October 17 to 25 in disputed properties: HC to government",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/telangana/no-coercive-steps-by-revenue-officials-from-october-17-to-25-in-disputed-properties-hc-to-government/article71593392.ece",
+              "title": "CUSAT suspends offline classes amid rising chickenpox cases",
+              "description": "Functioning of all departments of schools and centres at Thrikkakara and Marine campuses has been shifted to online mode after cases were reported on the campus. All infected students have left the campus, says a CUSAT o",
+              "url": "https://www.thehindu.com/news/national/kerala/cusat-suspends-offline-classes-amid-rising-chickenpox-cases/article71558549.ece",
               "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Sat, 17 Oct 2026 00:11:49 +0530"
+              "image": "https://th-i.thgim.com/public/news/national/kerala/ske175/article71558640.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-08%20at%2011.42.44.jpeg",
+              "publishedAt": "Sat, 17 Oct 2026 05:55:14 +0530"
             },
             {
-              "title": "Seven Ethiopian armed groups announce anti-government alliance",
-              "description": "The announcement of the Ethiopian Peoples’ Forces Alliance for Survival brought together a geographically and ethnically diverse groups ranging from ‌Tigray in the north to the Somali Region in the south",
-              "url": "https://www.thehindu.com/news/national/seven-ethiopian-armed-groups-announce-anti-government-alliance/article71491242.ece",
+              "title": "Disputed, abandoned properties targeted using forged documents, two held in Malkajgiri",
+              "description": "The network targeted the properties whose owners or legal heirs could be impersonated",
+              "url": "https://www.thehindu.com/news/cities/Hyderabad/disputed-abandoned-properties-targeted-using-forged-documents-two-held-in-malkajgiri/article71556096.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/au8ohf/article71491390.ece/alternates/LANDSCAPE_1200/AP09_12_2026_000373B.jpg",
-              "publishedAt": "Fri, 16 Oct 2026 23:58:22 +0530"
+              "image": "https://th-i.thgim.com/public/news/national/telangana/995js2/article71556092.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-07%20at%206.48.52%20PM.jpeg",
+              "publishedAt": "Sat, 17 Oct 2026 05:51:19 +0530"
             },
             {
-              "title": "\"Tibetan Issue Will Remain Alive\": Dalai Lama To NDTV",
-              "description": "For most of the time, the Tibetan cause and the leader have been almost the same thing in the public mind. As he ages, the debate over what comes next has only grown louder",
-              "url": "https://www.ndtv.com/world-news/tibetan-issue-will-remain-alive-dalai-lama-to-ndtv-12197047#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://i.ndtvimg.com/i/2017-03/dalai-lama-reuters_650x400_41490006645.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Fri, 16 Oct 2026 23:58:06 +0530"
+              "title": "NTRUHS invites Andhra Governor to its Ruby Jubilee celebrations on October 26",
+              "description": "Vice-Chancellor P. Chandrasekhar and other officials brief S. Abdul Nazeer on the university’s 40-year journey; the Governor agrees to attend",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/ntruhs-invites-andhra-governor-to-its-ruby-jubilee-celebrations-on-october-26/article71556690.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/wxo3cf/article71082879.ece/alternates/LANDSCAPE_1200/AP-Governor-preGT7G3F0IV.3.jpg.jpg",
+              "publishedAt": "Sat, 17 Oct 2026 05:50:13 +0530"
             },
             {
-              "title": "Forest Department destroys 125 illegal country-made guns in Tiruvannamalai",
-              "description": "Forest officials said that traditionally, tribals possessed illegal country-made guns to guard themselves from wild animals and thefts",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/forest-department-destroys-125-illegal-country-made-guns-in-tiruvannamalai/article71551290.ece",
+              "title": "Local body polls: YSRCP urges SEC to call all-party meeting before notification",
+              "description": "The party cites delays in issuing caste certificates to candidates, seeks Central forces for the polls and wants ward-wise rolls prepared only after the SIR is completed",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-ysrcp-urges-sec-to-call-all-party-meeting-before-notification/article71555779.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/6rubvx/article71551533.ece/alternates/LANDSCAPE_1200/gun-9.jpeg",
-              "publishedAt": "Fri, 16 Oct 2026 23:51:48 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/xzunp0/article71556461.ece/alternates/LANDSCAPE_1200/Leela.jpg",
+              "publishedAt": "Sat, 17 Oct 2026 05:49:26 +0530"
             }
           ]
         },
@@ -783,28 +791,28 @@
               "publishedAt": "Thu, 15 Oct 2026 18:31:18 +0530"
             },
             {
+              "title": "Man Arrested For Killing Associate Over Rs 10,000 Debt In Uttarakhand",
+              "description": "The accused, Sunil Kumar, allegedly attacked Sumit Kumar, a resident of Uttar Pradesh's Bijnor district, with a bamboo stick on Thursday following a dispute over the outstanding payment, they said.",
+              "url": "https://www.ndtv.com/india-news/man-arrested-for-killing-associate-over-rs-10-000-debt-in-uttarakhand-12197480#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2024-07/oia0qjtg_police-generic_625x300_30_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sat, 17 Oct 2026 05:30:07 +0530"
+            },
+            {
+              "title": "Probe Agency ED Summons Pinarayi Vijayan In Money Laundering Case",
+              "description": "The Keralam Vigilance and Anti-Corruption Bureau (VACB) recently registered two FIRs against Vijayan and his family members in connection with the alleged CMRL bribery case.",
+              "url": "https://www.ndtv.com/india-news/probe-agency-ed-summons-pinarayi-vijayan-in-money-laundering-case-12197077#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2018-10/7f3sla2g_pinarayi-vijayan_625x300_27_October_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sat, 17 Oct 2026 00:09:54 +0530"
+            },
+            {
               "title": "The need to preserve the shine of Indian elections",
               "description": "Elections are by far the best organised expression of “we, the people” and hence cannot be allowed to fail",
               "url": "https://www.thehindu.com/opinion/op-ed/the-need-to-preserve-the-shine-of-indian-elections/article71572517.ece",
               "source": "thehindu.com",
               "image": "https://th-i.thgim.com/public/incoming/j0yiyv/article71572767.ece/alternates/LANDSCAPE_1200/India_Cockroach_Protest_59856.jpg",
               "publishedAt": "Mon, 12 Oct 2026 15:21:07 +0530"
-            },
-            {
-              "title": "Barricades cannot silence the voice of democracy",
-              "description": "As protest spaces shrink, citizens must unite to defend the right to dissent",
-              "url": "https://www.thehindu.com/opinion/op-ed/barricades-cannot-silence-the-voice-of-democracy/article71572370.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/qareev/article71572392.ece/alternates/LANDSCAPE_1200/PTI10_06_2026_000086B.jpg",
-              "publishedAt": "Mon, 12 Oct 2026 15:20:03 +0530"
-            },
-            {
-              "title": "Changing the guard, confronting the democratic crisis",
-              "description": "The crisis extends beyond one Election Commissioner to democracy’s weakened institutional safeguards",
-              "url": "https://www.thehindu.com/opinion/lead/changing-the-guard-confronting-the-democratic-crisis/article71572333.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/tarot2/article71572335.ece/alternates/LANDSCAPE_1200/India_Cockroach_Protests_74797.jpg",
-              "publishedAt": "Mon, 12 Oct 2026 12:22:47 +0530"
             }
           ]
         }
@@ -821,12 +829,28 @@
           "emoji": "📈",
           "articles": [
             {
-              "title": "Top 3 stocks to buy: Bajaj Finance, Dr Reddy's Lab, Grasim Industries by Sumeet Bagadia | Target price, stop-loss",
-              "description": "Nifty prediction: Sumeet Bagadia believes the Nifty 50 RSI has improved to 52.81, well above its average of 34.70, indicating strengthening bullish momentum",
-              "url": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bajaj-finance-dr-reddys-lab-grasim-industries-by-sumeet-bagadia-target-price-stoploss-11792172794591.html",
+              "title": "ITC sets board meeting date to declare Q2 results 2026; net profit may decline due to cigarette taxation — share outlook",
+              "description": "Q2 results 2026: ITC informed about the board meeting date to declare Q2FY27 earnings in an exchange filing on Friday",
+              "url": "https://www.livemint.com/market/stock-market-news/itc-sets-board-meeting-date-to-declare-q2-results-2026-net-profit-may-decline-due-to-cigarette-taxation-share-outlook-11792178741965.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/Sumeet_Bagadia_Stock_Recommendations_Monday_Today_1792173069053_iQma_1792173069177_2hX7_7cd151e2-9ae7-4dc5-9ba3-120f3e793c45_cQ1G.png",
-              "publishedAt": "Sat, 17 Oct 2026 00:15:17 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/ITCV_Q2_Results_2026_Date_Cigarette_taxation_Price_1792179881952_VWFS_1792179882075_5DSM_1ebe8140-3794-40bd-b8a3-1707ccb00fa9_3wWQ.png",
+              "publishedAt": "Sat, 17 Oct 2026 01:59:50 +0530"
+            },
+            {
+              "title": "Stocks slip as dollar heads for weekly loss",
+              "description": "GLOBAL-MARKETS/ (UPDATE 5):GLOBAL MARKETS-Stocks slip as dollar heads for weekly loss",
+              "url": "https://www.livemint.com/market/stocks-slip-as-dollar-heads-for-weekly-loss-11792179512288.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+              "publishedAt": "Sat, 17 Oct 2026 01:08:31 +0530"
+            },
+            {
+              "title": "Yes Bank flags 250-bps impact on core capital ratio after Supreme Court upholds AT-1 bond write-off ruling",
+              "description": "Yes Bank said its Common Equity Tier 1 capital ratio could fall by about 250 basis points after the Supreme Court upheld a ruling against the 2020 write-down of  ₹8,415 crore in AT-1 bonds. The bank expects its overall T",
+              "url": "https://www.livemint.com/market/stock-market-news/yes-bank-flags-250-bps-impact-in-core-capital-ratio-after-supreme-court-upholds-at-1-bond-write-off-ruling-11792175520924.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/YES-BANK_1687525611708_1792175594462_Ll18_1956e1c7-61f3-4264-b5d0-46fb8117d2b8_sMyy.JPG",
+              "publishedAt": "Sat, 17 Oct 2026 00:21:54 +0530"
             },
             {
               "title": "Reliance-backed Jio Platforms IPO:  ₹1 lakh crore gains for Meta, Google in  ₹30,213 cr issue by Mukesh Ambani firm?",
@@ -837,28 +861,12 @@
               "publishedAt": "Fri, 16 Oct 2026 22:37:32 +0530"
             },
             {
-              "title": "Crompton Greaves Consumer Electricals Ltd Q2 Results: Profit surges 65% to Rs 124 crore",
-              "description": "Crompton Greaves Consumer Electricals reported a 65 percent increase in consolidated net profit for the September quarter. The company's revenue from operations also jumped by 18.15 percent compared to the previous year.",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q2-results-profit-surges-65-to-rs-124-crore/articleshow/134998426.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134998426,imgsize-30138.cms",
-              "publishedAt": "Fri, 16 Oct 2026 21:03:01 +0530"
-            },
-            {
-              "title": "Cult.fit IPO alert: Fitness major receives SEBI nod for proposed IPO - Check OFS, fresh issue mix details",
-              "description": "SEBI has approved Cult.fit’s IPO, which aims to raise up to  ₹950 crore through a fresh share issue and an offer for sale of up to 17.86 crore shares. The company plans to use proceeds to expand its fitness centres and f",
-              "url": "https://www.livemint.com/market/ipo/cultfit-ipo-alert-fitness-major-receives-sebi-nod-for-proposed-ipo-check-ofs-fresh-issue-mix-details-11792158029624.html",
+              "title": "₹30 dividend: ICICI Prudential AMC dividend record date ahead! Check yield, payout history, stock performance",
+              "description": "ICICI Prudential AMC has declared an interim dividend of  ₹30 per share for FY27, with October 21, 2026, set as the record date. Investors must own shares by October 20 to qualify. The stock closed 0.90% lower at  ₹2,811",
+              "url": "https://www.livemint.com/market/stock-market-news/rs-30-dividend-icici-prudential-amc-dividend-record-date-ahead-check-yield-payout-history-stock-performance-other-d-11792168215358.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/FGgg_1792163930407_7NVz_1792163983390_M3oI_0e565907-6c46-423d-bd38-a6ce3f36774a_dvmr.png",
-              "publishedAt": "Fri, 16 Oct 2026 20:30:54 +0530"
-            },
-            {
-              "title": "Oberoi Realty Q2 results, dividend 2026: Check amount, record date, yield, history, stock returns",
-              "description": "Oberoi Realty declared a second interim dividend of  ₹2 per share for FY27, with October 23, 2026, set as the record date and payments beginning October 30. Q2 consolidated net profit edged up to  ₹761.65 crore, while to",
-              "url": "https://www.livemint.com/market/stock-market-news/rs-2-per-share-dividend-stock-do-you-own-this-real-estate-stock-check-record-date-to-qualify-for-cash-reward-11792158360275.html",
-              "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/Dividend_Stocks_to_Buy_1792159506592_Jz0G_1792159511255_Iedu_d1650e82-a571-4ae0-b706-2a1eaa9b8684_wLNh.png",
-              "publishedAt": "Fri, 16 Oct 2026 19:41:32 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/afg_1792168376361_2778_1792168409703_pvYS_71902a33-2771-480a-9f48-106ffdf6dd32_QoCs.png",
+              "publishedAt": "Fri, 16 Oct 2026 22:04:51 +0530"
             }
           ]
         },
@@ -908,12 +916,12 @@
               "publishedAt": "Thu, 15 Oct 2026 08:57:22 +0530"
             },
             {
-              "title": "DP World bidding for all assets on offer: CEO Yuvraj Narayan amid West Asia conflict",
-              "description": "DP World is increasing its focus on the Indian port sector to explore new opportunities. The company plans to expand its capacity at Tuna Tekra and aims to renew concessions in Mumbai and Mundra. Significant disruptions",
-              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/dp-world-bidding-for-all-assets-on-offer-ceo-yuvraj-narayan-amid-west-asia-conflict/articleshow/134950252.cms",
+              "title": "Panasonic reverses stand on Indianising top deck, offers key roles to expats",
+              "description": "Panasonic has recently appointed Japanese executives to senior roles in its Indian operations. The company is restructuring its leadership back to an expat-led model after focusing on Indian leadership. Former executives",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/panasonic-reverses-stand-on-indianising-top-deck-offers-key-roles-to-expats/articleshow/135002873.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134950252,imgsize-68302.cms",
-              "publishedAt": "Thu, 15 Oct 2026 00:31:02 +0530"
+              "image": "https://img.etimg.com/photo/msid-135002873,imgsize-85688.cms",
+              "publishedAt": "Sat, 17 Oct 2026 00:52:28 +0530"
             },
             {
               "title": "Valuation of businesses run by under-35s rises 23% to Rs 48 lakh crore: Hurun report",
@@ -969,6 +977,14 @@
               "source": "business-standard.com",
               "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261017/full-126101700004.jpg",
               "publishedAt": "Sat, 17 Oct 2026 00:01:39 +0530"
+            },
+            {
+              "title": "Crompton Greaves Consumer Electricals Ltd Q2 Results: Profit surges 65% to Rs 124 crore",
+              "description": "Crompton Greaves Consumer Electricals reported a 65 percent increase in consolidated net profit for the September quarter. The company's revenue from operations also jumped by 18.15 percent compared to the previous year.",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q2-results-profit-surges-65-to-rs-124-crore/articleshow/134998426.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-134998426,imgsize-30138.cms",
+              "publishedAt": "Fri, 16 Oct 2026 21:03:01 +0530"
             },
             {
               "title": "Gold FoFs halt fresh investments before Diwali: What investors can do",
@@ -1034,28 +1050,28 @@
           "emoji": "📰",
           "articles": [
             {
-              "title": "HFCL shares jump 277% in 2026 ahead of Reliance Jio IPO; Nuvama says buy rating. Check target price and Jio connection",
-              "description": "Nuvama initiated coverage of HFCL with a Buy rating and a  ₹380 target, citing its shift toward telecom and networking products, strong order book, investment plans and opportunities in data centers and defence.",
-              "url": "https://www.livemint.com/market/stock-market-news/hfcl-shares-jump-277-in-2026-ahead-of-reliance-jio-ipo-nuvama-says-buy-rating-check-target-price-and-jio-connection-11792172068819.html",
-              "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/HFCL_Stock_1792174259090_yJfi_1792174268145_YliM_204dc490-03ac-46e0-8d4d-7a9d552ad4ef_m26d.png",
-              "publishedAt": "Fri, 16 Oct 2026 23:44:55 +0530"
-            },
-            {
-              "title": "₹30 dividend: ICICI Prudential AMC dividend record date ahead! Check yield, payout history, stock performance",
-              "description": "ICICI Prudential AMC has declared an interim dividend of  ₹30 per share for FY27, with October 21, 2026, set as the record date. Investors must own shares by October 20 to qualify. The stock closed 0.90% lower at  ₹2,811",
-              "url": "https://www.livemint.com/market/stock-market-news/rs-30-dividend-icici-prudential-amc-dividend-record-date-ahead-check-yield-payout-history-stock-performance-other-d-11792168215358.html",
-              "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/afg_1792168376361_2778_1792168409703_pvYS_71902a33-2771-480a-9f48-106ffdf6dd32_QoCs.png",
-              "publishedAt": "Fri, 16 Oct 2026 22:04:51 +0530"
-            },
-            {
-              "title": "CoreWeave stock wipeout exposes divide between AI fear and greed",
-              "description": "CoreWeave Inc. is navigating turbulent stock trends due to climbing bond yields and investor trepidation over its debt, raising fears of default. Although a temporary boost followed optimistic comments from Nvidia's CEO,",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed/articleshow/134998742.cms",
+              "title": "US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh",
+              "description": "Wall Street faced a sharp decline on Friday as AI-related technology stocks came under renewed pressure. Concerns regarding debt-laden AI infrastructure companies affected investor sentiment heading into the weekend. Add",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-134998742,imgsize-15294.cms",
-              "publishedAt": "Fri, 16 Oct 2026 21:33:56 +0530"
+              "image": "https://img.etimg.com/photo/msid-135003266,imgsize-134964.cms",
+              "publishedAt": "Sat, 17 Oct 2026 01:38:41 +0530"
+            },
+            {
+              "title": "Arabica coffee touches one-month high as stocks remain critically low",
+              "description": "GLOBAL-SOFTS/ (UPDATE 1):SOFTS-Arabica coffee touches one-month high as stocks remain critically low",
+              "url": "https://www.livemint.com/market/arabica-coffee-touches-one-month-high-as-stocks-remain-critically-low-11792178652490.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+              "publishedAt": "Sat, 17 Oct 2026 00:54:12 +0530"
+            },
+            {
+              "title": "Top 3 stocks to buy: Bajaj Finance, Dr Reddy's Lab, Grasim Industries by Sumeet Bagadia | Target price, stop-loss",
+              "description": "Nifty prediction: Sumeet Bagadia believes the Nifty 50 RSI has improved to 52.81, well above its average of 34.70, indicating strengthening bullish momentum",
+              "url": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bajaj-finance-dr-reddys-lab-grasim-industries-by-sumeet-bagadia-target-price-stoploss-11792172794591.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/Sumeet_Bagadia_Stock_Recommendations_Monday_Today_1792173069053_iQma_1792173069177_2hX7_7cd151e2-9ae7-4dc5-9ba3-120f3e793c45_cQ1G.png",
+              "publishedAt": "Sat, 17 Oct 2026 00:15:17 +0530"
             }
           ]
         }
@@ -1173,6 +1189,14 @@
               "publishedAt": "Thu, 15 Oct 2026 15:00:00 +0000"
             },
             {
+              "title": "Here’s what happened in crypto today",
+              "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+              "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+              "publishedAt": "Fri, 16 Oct 2026 19:17:04 +0000"
+            },
+            {
               "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
               "description": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
               "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1219,14 +1243,6 @@
               "source": "cointelegraph.com",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20FPT8H132TZGKAJWQX1YBC/hi-michael-saylors-bitcoin-obsession-how-it-all-started-1.jpg",
               "publishedAt": "Fri, 16 Oct 2026 14:11:03 +0000"
-            },
-            {
-              "title": "Here’s what happened in crypto today",
-              "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-              "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-              "publishedAt": "Fri, 16 Oct 2026 13:56:15 +0000"
             },
             {
               "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
