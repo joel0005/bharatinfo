@@ -1,0 +1,1140 @@
+{
+  "date": "2026-10-19",
+  "date_nice": "October 19, 2026",
+  "categories": [
+    {
+      "id": "ai",
+      "label": "World AI",
+      "emoji": "🤖",
+      "subs": [
+        {
+          "id": "ai_company",
+          "label": "Company News",
+          "emoji": "🏢",
+          "articles": [
+            {
+              "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+              "description": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+              "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 18:15:00 +0000"
+            },
+            {
+              "title": "My Friend Has No Soul",
+              "description": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+              "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 11:00:00 +0000"
+            },
+            {
+              "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+              "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+              "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 23:44:56 +0000"
+            },
+            {
+              "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+              "description": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+              "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 21:18:15 +0000"
+            },
+            {
+              "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+              "description": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+              "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 21:00:28 +0000"
+            },
+            {
+              "title": "Meta launches an open-weight AI model that runs on Macs",
+              "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+              "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 20:04:53 +0000"
+            },
+            {
+              "title": "Anthropic gives outside AI watchdog “employee-like” access",
+              "description": "The outside watchdog can publish its findings without Anthropic's approval.",
+              "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
+              "publishedAt": "Sun, 18 Oct 2026 16:25:19 +0000"
+            },
+            {
+              "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+              "description": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+              "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 10:30:00 +0000"
+            }
+          ]
+        },
+        {
+          "id": "ai_tools",
+          "label": "Tools & Platforms",
+          "emoji": "🛠️",
+          "articles": [
+            {
+              "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+              "description": "A simple email gives the attackers the ability to remotely inject OS commands.",
+              "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+              "publishedAt": "Wed, 30 Sep 2026 20:44:48 +0000"
+            },
+            {
+              "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+              "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+              "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
+              "publishedAt": "Wed, 14 Oct 2026 21:35:09 +0000"
+            },
+            {
+              "title": "Topgolf saved over $11.3 million after leaving VMware",
+              "description": "Topgolf and VMware \"ran deep\" before the migration.",
+              "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg",
+              "publishedAt": "Tue, 13 Oct 2026 21:33:43 +0000"
+            },
+            {
+              "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+              "description": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+              "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
+              "publishedAt": "Tue, 06 Oct 2026 19:21:14 +0000"
+            },
+            {
+              "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+              "description": "The reports of OpenAI agents harming third-party sites keep coming.",
+              "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
+              "publishedAt": "Tue, 06 Oct 2026 12:21:53 +0000"
+            },
+            {
+              "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+              "description": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+              "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+              "publishedAt": "Tue, 06 Oct 2026 12:00:31 +0000"
+            }
+          ]
+        },
+        {
+          "id": "ai_models",
+          "label": "Models",
+          "emoji": "🧠",
+          "articles": [
+            {
+              "title": "Google Beam expands with new regions, partners, and customers",
+              "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+              "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
+              "publishedAt": "Wed, 23 Sep 2026 18:00:00 +0000"
+            },
+            {
+              "title": "Amp puts AI agents to work beyond code with OpenAI models",
+              "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+              "url": "https://openai.com/index/amp-beyond-coding",
+              "source": "openai.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT"
+            },
+            {
+              "title": "SentinelOne cuts malware analysis from weeks to hours",
+              "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+              "url": "https://openai.com/index/sentinelone",
+              "source": "openai.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT"
+            },
+            {
+              "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+              "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+              "url": "https://openai.com/index/third-moment-research",
+              "source": "openai.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT"
+            },
+            {
+              "title": "How Block is building AI-powered security with OpenAI technology",
+              "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+              "url": "https://openai.com/index/block-ai-powered-security",
+              "source": "openai.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT"
+            },
+            {
+              "title": "The EU’s next chapter in AI is agentic",
+              "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+              "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+              "source": "openai.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 00:00:00 GMT"
+            },
+            {
+              "title": "Introducing Playground: Create and play custom games",
+              "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
+              "publishedAt": "Wed, 07 Oct 2026 12:00:00 +0000"
+            },
+            {
+              "title": "AI for Societal Impact",
+              "description": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+              "publishedAt": "Tue, 15 Sep 2026 16:00:00 +0000"
+            },
+            {
+              "title": "Building AI to accelerate science and improve lives",
+              "description": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
+              "publishedAt": "Tue, 15 Sep 2026 16:00:00 +0000"
+            },
+            {
+              "title": "AI for everyone in every language",
+              "description": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
+              "publishedAt": "Tue, 15 Sep 2026 16:00:00 +0000"
+            }
+          ]
+        },
+        {
+          "id": "ai_research",
+          "label": "Research",
+          "emoji": "🔬",
+          "articles": [
+            {
+              "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+              "description": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+              "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/davinci-heat-test-3-1152x648-1792007515.jpg",
+              "publishedAt": "Wed, 14 Oct 2026 20:48:07 +0000"
+            },
+            {
+              "title": "Researchers use AI to design proteins that cut up other proteins",
+              "description": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+              "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-1152x648.jpg",
+              "publishedAt": "Wed, 14 Oct 2026 17:10:15 +0000"
+            },
+            {
+              "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+              "description": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the da",
+              "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+              "source": "spectrum.ieee.org",
+              "image": "https://assets.rbl.ms/68382308/origin.png",
+              "publishedAt": "Wed, 07 Oct 2026 13:49:48 +0000"
+            },
+            {
+              "title": "How to Stop AI Agents From Secretly Collaborating",
+              "description": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous example is OpenAI’s hack of AI platform Hugging Face",
+              "url": "https://spectrum.ieee.org/ai-agent-security",
+              "source": "spectrum.ieee.org",
+              "image": "https://spectrum.ieee.org/media-library/illustration-of-several-smiling-robot-faces-against-a-geometric-background.jpg?id=67862180&width=980",
+              "publishedAt": "Tue, 29 Sep 2026 12:00:02 +0000"
+            },
+            {
+              "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+              "description": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies",
+              "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+              "source": "spectrum.ieee.org",
+              "image": "https://assets.rbl.ms/67843727/origin.png",
+              "publishedAt": "Tue, 29 Sep 2026 10:00:06 +0000"
+            },
+            {
+              "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
+              "description": "Have you ever read a paper in Science or Nature and thought, “Man, that research was so cool. I wish I could try that method on my own data,” only to spend a week wrestling with someone else’s undocumented repo, broken d",
+              "url": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
+              "source": "spectrum.ieee.org",
+              "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-an-ai-chatbot-observing-abstract-patterns-charts-and-shapes-for-its-deep-learning-algorithms.jpg?id=67806327&width=980",
+              "publishedAt": "Tue, 22 Sep 2026 15:00:05 +0000"
+            },
+            {
+              "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+              "description": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
+              "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-516604291-1024x648.jpg",
+              "publishedAt": "Tue, 13 Oct 2026 15:17:59 +0000"
+            },
+            {
+              "title": "High-speed video reveals how honey bee stingers pump venom",
+              "description": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
+              "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/bee-TOP-1152x648-1791731084.jpg",
+              "publishedAt": "Tue, 13 Oct 2026 13:03:45 +0000"
+            },
+            {
+              "title": "Google DeepMind’s New Resident Philosopher Tackles AI Ethics",
+              "description": "How should humans relate to generative AI? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could s",
+              "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
+              "source": "spectrum.ieee.org",
+              "image": "https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=980",
+              "publishedAt": "Tue, 13 Oct 2026 13:00:03 +0000"
+            },
+            {
+              "title": "What did the Liberty Bell sound like? Science is on the case.",
+              "description": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+              "url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/bell-ALT-1152x648-1778533198.jpg",
+              "publishedAt": "Thu, 15 Oct 2026 19:10:03 +0000"
+            }
+          ]
+        },
+        {
+          "id": "ai_policy",
+          "label": "Policy & Ethics",
+          "emoji": "⚖️",
+          "articles": [
+            {
+              "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+              "description": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+              "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
+              "publishedAt": "Wed, 30 Sep 2026 11:15:14 +0000"
+            },
+            {
+              "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+              "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+              "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+              "publishedAt": "Wed, 14 Oct 2026 12:55:06 +0000"
+            },
+            {
+              "title": "Men Can’t Stop Faking How Much They Know About AI",
+              "description": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+              "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 09:30:00 +0000"
+            },
+            {
+              "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+              "description": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+              "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Tue, 13 Oct 2026 23:17:59 +0000"
+            },
+            {
+              "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+              "description": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+              "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Tue, 13 Oct 2026 19:35:29 +0000"
+            },
+            {
+              "title": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
+              "description": "Elon Musk’s father, Errol Musk, agreed to be interviewed immediately.",
+              "url": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Tue, 13 Oct 2026 10:30:00 +0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "corporate",
+      "label": "Corporate Business",
+      "emoji": "💼",
+      "subs": [
+        {
+          "id": "corp_india",
+          "label": "India Business",
+          "emoji": "🇮🇳",
+          "articles": [
+            {
+              "title": "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
+              "description": "India's trade is changing due to West Asia conflict. Oman is now a major import partner, especially for energy. Russia and the US are also key import sources. Singapore has become India's third-largest export destination",
+              "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/from-oman-to-tanzania-how-the-iran-war-is-redrawing-indias-trade-map/articleshow/131762760.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "",
+              "publishedAt": "Tue, 16 Jun 2026 12:51:54 +0530"
+            },
+            {
+              "title": "Apple faces Indian engineer’s bias lawsuit",
+              "description": "Anita Nariani Schulze is part of the Sindhi minority. Her complaint alleges that her senior and direct managers, both male, consistently excluded her from meetings while inviting her male counterparts, criticised her, mi",
+              "url": "https://economictimes.indiatimes.com/tech/technology/apple-faces-indian-engineers-bias-lawsuit/articleshow/81694292.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "",
+              "publishedAt": "Thu, 25 Mar 2021 23:14:01 +0530"
+            },
+            {
+              "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
+              "description": "The India-UK Comprehensive Economic and Trade Agreement has officially come into force. Zero-duty consignments of Indian jewellery and coffee have now landed in the United Kingdom. This landmark pact is expected to signi",
+              "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-ceta-takes-effect-first-zero-duty-indian-coffee-jewellery-consignments-reach-uk-shores/articleshow/132442764.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "",
+              "publishedAt": "Thu, 16 Jul 2026 20:56:34 +0530"
+            },
+            {
+              "title": "Russia sanctions waiver a 60-day pause: US Secretary of State Marco Rubio",
+              "description": "US Secretary of State Marco Rubio acknowledged that India remained heavily reliant on Russian oil even as it had diversified its energy sources",
+              "url": "https://www.business-standard.com/external-affairs-defence-security/news/russia-sanctions-waiver-a-60-day-pause-us-secretary-of-state-marco-rubio-126101800831_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 23:42:00 +0530"
+            },
+            {
+              "title": "RCom RP files curative petition, challenging February SC spectrum ruling",
+              "description": "Resolution professional Anish Nanvaty seeks recall of the Supreme Court verdict excluding spectrum from IBC proceedings, arguing that the ruling causes irreversible harm to lenders",
+              "url": "https://www.business-standard.com/companies/news/rcom-rp-files-curative-petition-challenging-february-sc-spectrum-ruling-126101800654_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 21:42:09 +0530"
+            },
+            {
+              "title": "Unidentified persons fire at Tiger Shroff in Juhu; no injuries reported",
+              "description": "\"A massive manhunt has been launched to nab those involved, with specialised teams checking CCTV footage of the area for leads\"",
+              "url": "https://www.business-standard.com/india-news/unidentified-persons-fire-at-tiger-shroff-in-mumbai-s-juhu-actor-safe-126101800643_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 20:20:00 +0530"
+            }
+          ]
+        },
+        {
+          "id": "corp_global",
+          "label": "Global Business",
+          "emoji": "🌍",
+          "articles": [
+            {
+              "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+              "description": "As a key corner of the artificial intelligence trade takes a beating on Wednesday, traders are betting it could get even worse.",
+              "url": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 21:19:09 GMT"
+            },
+            {
+              "title": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years",
+              "description": "See an AI-generated hypothetical portfolio derived from my TV talk and this column's archives.",
+              "url": "https://www.cnbc.com/2026/10/06/unsure-how-long-this-ai-bull-has-bonds-now-offer-a-cushion-at-the-best-values-in-years.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Tue, 06 Oct 2026 11:08:28 GMT"
+            },
+            {
+              "title": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
+              "description": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
+              "url": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 19:53:29 GMT"
+            },
+            {
+              "title": "Home sellers cut asking prices on 3,000 properties a day",
+              "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+              "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 23:00:45 GMT"
+            }
+          ]
+        },
+        {
+          "id": "corp_startup",
+          "label": "Startups & Funding",
+          "emoji": "🚀",
+          "articles": [
+            {
+              "title": "5 Kristin Hannah lessons on the complexities of womanhood",
+              "description": "Explore five powerful Kristin Hannah lessons that capture the complexities of womanhood, from love & sacrifice to resilience and the strength of women.",
+              "url": "https://yourstory.com/2026/10/kristin-hannah-lessons",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 16:39:28 GMT"
+            },
+            {
+              "title": "5 Non-fiction books you must read before 2026 ends",
+              "description": "Discover five must-read nonfiction books before 2026 ends, exploring Indian politics, Kashmir, scams, archaeology and wildlife conservation.",
+              "url": "https://yourstory.com/2026/10/non-fiction-books",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 16:29:25 GMT"
+            },
+            {
+              "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+              "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+              "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 21:00:00 +0000"
+            },
+            {
+              "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+              "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+              "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 20:37:40 +0000"
+            },
+            {
+              "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+              "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+              "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 19:03:38 +0000"
+            },
+            {
+              "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+              "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+              "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 16:30:00 +0000"
+            },
+            {
+              "title": "TechCrunch Mobility: Rivian’s next act",
+              "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+              "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 16:05:00 +0000"
+            },
+            {
+              "title": "Cabinet approves Go-Delhi Foundation to help young innovators, startups",
+              "description": "Delhi is home to nearly 21,000 startups recognised by the Department for Promotion of Industry and Internal Trade.",
+              "url": "https://yourstory.com/2026/10/cabinet-approves-go-delhi-foundation-to-help-young-innovators-startups",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 13:17:59 GMT"
+            },
+            {
+              "title": "Vance defends 'indentured servants' remark on H-1B workers, admits 'rhetoric' has been 'imperfect'",
+              "description": "The US Vice President clarified that he meant US companies and the visa system, not H-1B visa holders.",
+              "url": "https://yourstory.com/2026/10/vance-defends-indentured-servants-remark-on-h-1b-workers",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 08:38:28 GMT"
+            },
+            {
+              "title": "FMCG firms grapple with input cost inflation in Q2, brace for margin pressure",
+              "description": "Input-cost pressures intensified in the September quarter, reversing some of the moderation seen in the preceding quarter, which squeezed margins even as companies absorbed part of it to protect consumer demand during th",
+              "url": "https://yourstory.com/2026/10/fmcg-firms-input-cost-inflation-margin-pressure",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 07:51:23 GMT"
+            }
+          ]
+        },
+        {
+          "id": "corp_market",
+          "label": "Markets & Economy",
+          "emoji": "📈",
+          "articles": [
+            {
+              "title": "Flipkart records highest-ever single day sale, grosses $200mn",
+              "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
+              "url": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 14:59:14 +0530"
+            },
+            {
+              "title": "Why you should not be always chasing returns",
+              "description": "Most people focus on returns and chase products that offer the best returns at any point.",
+              "url": "http://www.moneycontrol.com/news/investing/why-you-should-not-be-always-chasing-returns_7576681.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 12:27:10 +0530"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "label": "Indian Politics",
+      "emoji": "🏛️",
+      "subs": [
+        {
+          "id": "pol_central",
+          "label": "Central Govt",
+          "emoji": "🏟️",
+          "articles": [
+            {
+              "title": "Gem Granites Manager Arrested, 7th Child Sexual Abuse Case Filed Against R Veeramani",
+              "description": "The case first came to light when the Anti-Vice Squad of the Greater Chennai Police received video evidence on a pen drive. Following this, Veeramani and his alleged accomplices, Shanthi and Mahendra Simhan, were arreste",
+              "url": "https://www.ndtv.com/india-news/gem-granites-manager-arrested-7th-child-sexual-abuse-case-filed-against-r-veeramani-12203931#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-09/td3hajm8_veeramani_625x300_26_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sun, 18 Oct 2026 23:59:20 +0530"
+            },
+            {
+              "title": "Tiger Shroff In Car, 5 Shots Are Fired, Then A Gun Jams: New Videos Emerge",
+              "description": "Just as Tiger Shroff is being driven in his BMW sedan from a football ground, two men shoot at least four times; one of the shooters, however, fails to fire the gun when he is closest to the window, it appears.",
+              "url": "https://www.ndtv.com/india-news/did-jammed-gun-save-tiger-shroffs-life-new-videos-emerge-from-assassination-bid-by-lawrence-bishnoi-gang-over-salman-khan-connection-12203716#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/btc40hk4_tiger-shroff_650x400_18_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sun, 18 Oct 2026 23:48:45 +0530"
+            },
+            {
+              "title": "Conjoined Twins With 2 Heads, 1 Torso Die Week After Birth At Odisha Hospital",
+              "description": "Dicephalic parapagus is a rare form of conjoined twinning in which two heads share a single body. Such cases occur in approximately one in every 3 lakh births, and the chances of survival are very low.",
+              "url": "https://www.ndtv.com/india-news/conjoined-twin-with-2-heads-1-torso-dies-week-after-birth-at-odisha-hospital-12203903#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/pbjis6g_as_625x300_13_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sun, 18 Oct 2026 23:47:51 +0530"
+            },
+            {
+              "title": "Tiger Shroff Attacked 2 Years After Baba Siddique Murder, Both Over 'Salman Khan Link'",
+              "description": "Kapil Sharma's Canada cafe, Rohit Shetty's Juhu home have also been targets, while Salman Khan's apartment and farmhouse  have been fired at too, all claimed by the gang of Lawrence Bishnoi, who is in jail in Gujarat",
+              "url": "https://www.ndtv.com/india-news/tiger-shroff-attack-2-years-after-baba-siddique-murder-both-by-lawrence-bishnoi-gang-over-salman-khan-connection-12203465#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/v7majj34_tiger-was-attacked-over-working-with-salman-said-bishnoi-gang-that-killed-baba-siddique-in-2024-_625x300_18_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sun, 18 Oct 2026 23:20:54 +0530"
+            },
+            {
+              "title": "\"Shouldn't Have Taken Place\": Omar Abdullah On Attack On Srinagar-Bound Bus",
+              "description": "A Delhi-to-Srinagar luxury sleeper bus, run by the private operator Star World Ventures and carrying a Jammu and Kashmir registration number, had stopped at Divine Star Dhaba. It was allegedly attacked there.",
+              "url": "https://www.ndtv.com/india-news/shouldnt-have-taken-place-omar-abdullah-on-attack-on-srinagar-bound-bus-12203747#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2024-08/a67eor1o_omar-abdullah_625x300_31_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sun, 18 Oct 2026 22:43:52 +0530"
+            },
+            {
+              "title": "\"I Saw Blood Spots\": Actor Karan Veer Mehra To NDTV On Tiger Shroff Shooting",
+              "description": "Mehra, who plays football with Tiger Shroff in Mumbai's Juhu, said he could not see the attackers.",
+              "url": "https://www.ndtv.com/india-news/i-was-standing-right-behind-tiger-shroff-actor-karan-veer-mehra-to-ndtv-on-shooting-12203387#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/7torant_tiger-shroff_650x400_18_October_26.jpg",
+              "publishedAt": "Sun, 18 Oct 2026 21:46:08 +0530"
+            }
+          ]
+        },
+        {
+          "id": "pol_state",
+          "label": "State Politics",
+          "emoji": "🗺️",
+          "articles": [
+            {
+              "title": "Watch | Maratha reservation stir | What are its implications of the OBC backlash?",
+              "description": "In this episode of Talking Politics, we discuss the implications of the OBC backlash over the Maratha reservation stir and its impact on the domestic politics of the state.",
+              "url": "https://www.thehindu.com/videos/watch-maratha-reservation-stir-what-are-its-implications-of-the-obc-backlash/article67576436.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/957hu8/article67576418.ece/alternates/LANDSCAPE_1200/Nistula%20Thumb%202.png",
+              "publishedAt": "Wed, 29 Jul 2026 12:07:39 +0530"
+            },
+            {
+              "title": "APPSC Group 1 notification 2026 out: 163 posts, apply from October 6 to 27; 729 other vacancies notified too",
+              "description": "Applications for Group-I open October 6 to 27; statistical and tribal welfare posts October 13 to November 2; Legislature, Endowments, probation and industrial promotion posts October 16 to November 5",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-group-1-notification-2026-out-163-posts-apply-from-october-6-to-27-729-other-vacancies-notified-too/article71466673.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/qzl197/article71357011.ece/alternates/LANDSCAPE_1200/vjkvg-group_2.JPG",
+              "publishedAt": "Wed, 16 Sep 2026 16:31:53 +0530"
+            },
+            {
+              "title": "Andhra Pradesh raises age limit for government jobs to 44 years till 2027: how APPSC compares with Telangana, Kerala and UPSC",
+              "description": "Relaxation for non-uniform posts runs till September 30, 2027; a separate order extends the two-year concession for uniformed services by a year",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-raises-age-limit-for-government-jobs-to-44-years-till-2027-how-appsc-compares-with-telangana-kerala-and-upsc/article71471544.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/jycjz/article26379917.ece/alternates/LANDSCAPE_1200/21-VZ-ANDHRAUNIV",
+              "publishedAt": "Wed, 16 Sep 2026 15:40:25 +0530"
+            },
+            {
+              "title": "Former Andhra Pradesh Deputy CM Alla Nani dies of cardiac arrest in Visakhapatnam; he was 56",
+              "description": "The Eluru leader was Health Minister through the pandemic in the Y.S. Jagan Mohan Reddy government, lost his seat in 2024, quit the YSRCP that August and joined the TDP in February 2025",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-andhra-pradesh-deputy-chief-minister-alla-nani-dies-of-cardiac-arrest-at-56/article71467339.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/o7hckw/article71467478.ece/alternates/LANDSCAPE_1200/Alla.jpeg",
+              "publishedAt": "Tue, 15 Sep 2026 17:13:11 +0530"
+            },
+            {
+              "title": "Protected on paper: how private schoolteachers fall through the cracks in three Southern States",
+              "description": "Salaries for teachers in mid-tier private schools often range between ₹8,000 and ₹15,000 a month, rarely crossing ₹25,000",
+              "url": "https://www.thehindu.com/education/protected-on-paper-how-private-schoolteachers-fall-through-the-cracks-in-three-southern-states/article71473761.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/bixfxp/article71474134.ece/alternates/LANDSCAPE_1200/iStock-1344985960.jpg",
+              "publishedAt": "Thu, 17 Sep 2026 00:52:37 +0530"
+            },
+            {
+              "title": "Headline numbers mask AGP’s steady slide despite 10 years in power",
+              "description": "BJP’s junior ally in Assam gets the same number of seats to contest as last time, but a granular analysis reveals slipping ground",
+              "url": "https://www.thehindu.com/elections/assam-assembly/headline-numbers-mask-agps-steady-slide-despite-10-years-in-power/article70777121.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/utn8oa/article70777115.ece/alternates/LANDSCAPE_1200/20260323550L.jpg",
+              "publishedAt": "Thu, 16 Apr 2026 15:09:22 +0530"
+            },
+            {
+              "title": "Women Reservation Bill: In 20 States & UTs less than 10% MLAs are female | Data",
+              "description": "Share of women parliamentarians has never exceeded 15% in the past general elections",
+              "url": "https://www.thehindu.com/data/women-reservation-bill-in-20-states-uts-less-than-10-mlas-are-female-data/article67338512.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/15d1co/article67338517.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
+              "publishedAt": "Thu, 16 Apr 2026 14:19:09 +0530"
+            },
+            {
+              "title": "A ‘ballerina’ from Eurosiberia finds a new stage in India",
+              "description": "During winter, in India, Demoiselle Crane sightings largely happen in Gujarat and Rajasthan. On February 28, 2026, the first sighting of a Demoiselle Crane was reported from Chennai Metropolitan Area. The only other reco",
+              "url": "https://www.thehindu.com/news/national/two-youngsters-from-chennai-witness-a-rare-dance-of-migration-by-a-french-ballerina-at-nemmeli-salt-pans/article70700788.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/yzpw8e/article70702560.ece/alternates/LANDSCAPE_1200/08dc%20%20Demoiselle%20Crane%20Naman.jpg",
+              "publishedAt": "Thu, 05 Mar 2026 21:14:46 +0530"
+            },
+            {
+              "title": "Comfort fit for conservancy workers: how three Indian cities are getting the ‘measurements’ right",
+              "description": "What does it take to design gloves, masks and uniform that factor in the various challenges faced by workers on the waste beat? Indore, Bengaluru and Pune have an answer",
+              "url": "https://www.thehindu.com/news/national/comfort-fit-for-conservancy-workers-how-three-indian-cities-are-getting-the-measurements-right/article70705975.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/657p6z/article70705998.ece/alternates/LANDSCAPE_1200/indore1.jpg",
+              "publishedAt": "Thu, 05 Mar 2026 12:00:55 +0530"
+            },
+            {
+              "title": "Hope flows anew with revival of Andhra’s Veligonda project",
+              "description": "Conceived as a long-term response to the nearly four-decade fight of the people against chronic drought, depleted water resources, and fluoride contamination in parts of the region, the project aims to create a large irr",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/hope-flows-anew-with-revival-of-andhras-veligonda-project/article71479450.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/uy5isz/article71481936.ece/alternates/LANDSCAPE_1200/10215_18_9_2026_15_12_50_1_DSC_5155.JPG",
+              "publishedAt": "Sun, 20 Sep 2026 11:58:20 +0530"
+            }
+          ]
+        },
+        {
+          "id": "pol_policy",
+          "label": "Policy & Law",
+          "emoji": "📜",
+          "articles": [
+            {
+              "title": "\"A Mistake\": Jagan Mohan Reddy Regrets Backing 2023 Election Commission Law",
+              "description": "Reddy said that the ruling establishment should not have a decisive advantage in appointing officials responsible for conducting elections.",
+              "url": "https://www.ndtv.com/india-news/jagan-mohan-reddy-regrets-backing-2023-election-commission-law-a-mistake-12203915#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-04/vf18lgns_jagan-mohan-reddy_625x300_01_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sun, 18 Oct 2026 23:54:42 +0530"
+            },
+            {
+              "title": "US-Designated Global Terrorist Muhammad Sarwar Dies In Lahore",
+              "description": "Sarwar's funeral was scheduled to be held at JuD headquarters, Jamia Al-Qadsia, in Lahore's Chuburji area late on Sunday night.",
+              "url": "https://www.ndtv.com/world-news/us-designated-global-terrorist-muhammad-sarwar-dies-in-lahore-12203924#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/6tqi444o_muhammad-sarwar_625x300_18_October_26.jpeg",
+              "publishedAt": "Sun, 18 Oct 2026 23:54:21 +0530"
+            },
+            {
+              "title": "Chennai Braces For Northeast Monsoon, Heavy Rain Predicted",
+              "description": "The Tamil Nadu government has announced the contact numbers of zonal officials in Chennai for residents to report waterlogging complaints. As a precautionary measure, the state government has also established 220 relief",
+              "url": "https://www.ndtv.com/india-news/chennai-braces-for-northeast-monsoon-heavy-rain-predicted-12203843#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2024-12/lnqnj0i_chennai-rain_625x300_12_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sun, 18 Oct 2026 23:25:04 +0530"
+            },
+            {
+              "title": "5 Years On, Indira Gandhi Centre For Arts Still Awaits Permanent Home",
+              "description": "A letter written to the Culture Secretary in the first week of October flagged the delay, NDTV has learnt. The national arts centre was supposed to be allocated land three years ago. The process remains pending.",
+              "url": "https://www.ndtv.com/india-news/5-years-on-indira-gandhi-centre-for-arts-still-awaits-permanent-home-12203788#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://i.ndtvimg.com/i/2016-04/ignca_650x400_81460615146.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sun, 18 Oct 2026 23:00:04 +0530"
+            },
+            {
+              "title": "Assam Police To Challenge High Court Relief To 2 Accused In Zubeen Garg Death Case",
+              "description": "The Gauhati High Court had recently granted bail to Zubeen Garg's cousin Sandipan Garg and co-singer Amritprava Mahanta.",
+              "url": "https://www.ndtv.com/india-news/assam-police-to-challenge-high-court-relief-to-2-accused-in-zubeen-garg-death-case-12203686#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2025-10/a9q5r3n_zubeen-garg_625x300_30_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Sun, 18 Oct 2026 22:18:19 +0530"
+            }
+          ]
+        },
+        {
+          "id": "pol_election",
+          "label": "Elections",
+          "emoji": "🗳️",
+          "articles": [
+            {
+              "title": "Nedumbassery accident: Keralam Home Minister says govt. will ensure maximum punishment for accused",
+              "description": "Ramesh Chennithala dismisses allegations of victims’ family members that attempts have been made to scuttle the probe into the case; he says someone is apparently trying to mislead them",
+              "url": "https://www.thehindu.com/elections/kerala-assembly/nedumbassery-accident-keralam-home-minister-says-govt-will-ensure-maximum-punishment-for-accused/article71580490.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/t1wx6m/article71580542.ece/alternates/LANDSCAPE_1200/Messi-visit-rowGLIGG512S.3.jpg.jpg",
+              "publishedAt": "Tue, 13 Oct 2026 22:39:21 +0530"
+            },
+            {
+              "title": "Tamil Nadu’s claim of Cauvery backlog and the Supreme Court’s response | Explained",
+              "description": "The failure of the southwest monsoon (June-September) this year is the primary reason for the current round of disputes between Karnataka and Tamil Nadu",
+              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadus-claim-of-cauvery-backlog-and-the-supreme-courts-response-explained/article71578288.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/y3od97/article71578307.ece/alternates/LANDSCAPE_1200/IMG_7174.jpeg",
+              "publishedAt": "Tue, 13 Oct 2026 12:39:57 +0530"
+            },
+            {
+              "title": "Comparing SIR 2002-04 and 2025-26",
+              "description": "Unlike previous SIRs, which had elaborate processes for preparing fresh rolls to ensure that no eligible elector would be taken off the rolls, the current SIR exercise adopts a flawed process that has led to the exclusio",
+              "url": "https://www.thehindu.com/news/national/comparing-sir-2002-04-and-2025-26/article71576723.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/fsl9tw/article71576732.ece/alternates/LANDSCAPE_1200/vjkvg-sir%203.JPG",
+              "publishedAt": "Tue, 13 Oct 2026 11:13:01 +0530"
+            },
+            {
+              "title": "At sixes and sevens, the ECI’s growing credibility crisis",
+              "description": "The Election Commission of India’s actions and questions around Forms 6 and 7 deepen doubts about its impartiality and transparency",
+              "url": "https://www.thehindu.com/opinion/lead/at-sixes-and-sevens-the-ecis-growing-credibility-crisis/article71576568.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/rexla1/article71576571.ece/alternates/LANDSCAPE_1200/INDEX_Election_Commission_of_India_12_04_4.jpg",
+              "publishedAt": "Tue, 13 Oct 2026 08:52:55 +0530"
+            },
+            {
+              "title": "Winning, differently: On the by-election results in West Bengal, Tamil Nadu and Puducherry",
+              "description": "Ruling parties sweep by-elections, but defections mar Tamil Nadu results",
+              "url": "https://www.thehindu.com/opinion/editorial/winning-differently-on-the-by-election-results-in-west-bengal-tamil-nadu-and-puducherry/article71575161.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Tue, 13 Oct 2026 07:41:38 +0530"
+            },
+            {
+              "title": "The debate over immunity to CEC, ECs",
+              "description": "The SC has issued a notice to the Centre on a plea challenging Section 16 of the 2023 law, which grants CEC and ECs lifelong immunity for actions taken in discharge of official duties; the provision is more expansive tha",
+              "url": "https://www.thehindu.com/news/national/the-debate-over-immunity-to-cec-ecs/article71589739.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/6dhimk/article71589748.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%20100.JPG",
+              "publishedAt": "Thu, 15 Oct 2026 22:48:24 +0530"
+            },
+            {
+              "title": "Puducherry bypoll 2026: Thattanchavady Assembly constituency profile, candidates, key facts",
+              "description": "In Puducherry’s Thattanchavady, a crowded bypoll battlefield unfolds for October 6, 2026, as the Congress, DMK, AINRC, and CPI vie for the urban seat after Chief Minister N. Rangasamy vacated it to retain Mangalam in Apr",
+              "url": "https://www.thehindu.com/news/cities/puducherry/puducherry-bypoll-2026-thattanchavady-assembly-constituency-profile/article71516158.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/7y2sls/article70816742.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-02%20at%2020.24.12.jpeg",
+              "publishedAt": "Thu, 15 Oct 2026 18:31:18 +0530"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instock",
+      "label": "Indian Stocks",
+      "emoji": "📊",
+      "subs": [
+        {
+          "id": "ins_movers",
+          "label": "Top Movers",
+          "emoji": "📈",
+          "articles": [
+            {
+              "title": "Subramanian Swamy seeks ban on import of cement from Pakistan",
+              "description": "\"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement b",
+              "url": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 14:50:10 +0530"
+            },
+            {
+              "title": "Jhunjhunwala-partnered fund buys stake in TFCI: What's buzzing?",
+              "description": "In an interview with CNBC-TV18, Satpal Arora, MD of Tourism Finance Corporation of India (TFCI), talked about the state of business and the outlook ahead.",
+              "url": "http://www.moneycontrol.com/news/business/jhunjhunwala-partnered-fund-buys-staketfci-whats-buzzing_7576501.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 12:02:15 +0530"
+            }
+          ]
+        },
+        {
+          "id": "ins_ipo",
+          "label": "IPO News",
+          "emoji": "🆕",
+          "articles": [
+            {
+              "title": "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+              "description": "The government has readied plans for a major change in Indiaâs tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods",
+              "url": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 14:42:19 +0530"
+            },
+            {
+              "title": "Bond bull market may pause but is far from over: Expert",
+              "description": "The benchmark 10-year government-security yield remained stuck in 8-7.5 percent range through all of 2015 and half of 2016, moving lower to sub-7 percent only when the RBI promised in April to reduce the system's liquid",
+              "url": "http://www.moneycontrol.com/news/economy/bond-bull-market-may-pauseis-farover-expert_7575741.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 10:54:17 +0530"
+            }
+          ]
+        },
+        {
+          "id": "ins_sectors",
+          "label": "Sector News",
+          "emoji": "🏭",
+          "articles": [
+            {
+              "title": "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+              "description": "Asian Paints, SBI, Tata Motors, HUL and Maruti Suzuki are top gainers while ONGC, Axis Bank, MM, Bajaj Auto and Hero MotoCorp are major losers in the Sensex.",
+              "url": "http://www.moneycontrol.com/news/local-markets/sensex-nifty-wobbly-hind-zinc-sbi-force-motors-most-active_7577801.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 14:00:44 +0530"
+            },
+            {
+              "title": "Scope for meaningful rate cuts going ahead: Neelkanth Mishra",
+              "description": "Credit Suisse' Neelkanth Mishra expects repo rate to fall to a decade low in the coming quarters. He says that beginning December the market may see a robust and widespread pick-up which may boost indices.",
+              "url": "http://www.moneycontrol.com/news/market-outlook/scope-for-meaningful-rate-cuts-going-ahead-neelkanth-mishra_7575461.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 10:33:49 +0530"
+            }
+          ]
+        },
+        {
+          "id": "ins_general",
+          "label": "Market News",
+          "emoji": "📰",
+          "articles": [
+            {
+              "title": "Workload in IT to come down due to AI; jobs to reduce: Genpact",
+              "description": "But along with that the employment growth rates have started to dip, NV 'Tiger' Tyagarajan says. The percentage addition of employees in India will not be same as past. And due to advancements, a workforce with higher s",
+              "url": "http://www.moneycontrol.com/news/business/workloadit-to-come-down-due-to-ai-jobs-to-reduce-genpact_7577361.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 13:39:13 +0530"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worldstock",
+      "label": "World Stocks",
+      "emoji": "🌐",
+      "subs": [
+        {
+          "id": "ws_us",
+          "label": "US Markets",
+          "emoji": "🇺🇸",
+          "articles": [
+            {
+              "title": "Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds",
+              "description": "TIPS are looking attractive but they aren't the only way to get inflation protection.",
+              "url": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 14 Oct 2026 15:20:04 GMT"
+            },
+            {
+              "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+              "description": "Signs of distressed deepened in CoreWeave on Thursday.",
+              "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 21:33:24 GMT"
+            },
+            {
+              "title": "Don't fall for this - how to protect yourself from AI scams",
+              "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+              "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 23:24:59 GMT"
+            },
+            {
+              "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+              "description": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027.",
+              "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 23:00:01 GMT"
+            }
+          ]
+        },
+        {
+          "id": "ws_asia",
+          "label": "Asia Markets",
+          "emoji": "🌏",
+          "articles": [
+            {
+              "title": "I find it quite demoralising in store - why I do all my shopping online",
+              "description": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+              "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Thu, 15 Oct 2026 23:16:12 GMT"
+            },
+            {
+              "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+              "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+              "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 23:28:45 GMT"
+            },
+            {
+              "title": "Global investors against use of judicial anti-avoidance rule by tax officials",
+              "description": "International investors have raised concerns regarding the Indian Income-tax authorities' invocation of the judicial anti-avoidance rule. At a recent meeting, investors communicated their issues with the Central Board of",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-investors-against-use-of-judicial-anti-avoidance-rule-by-tax-officials/articleshow/135037287.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135037287,imgsize-68470.cms",
+              "publishedAt": "Sun, 18 Oct 2026 23:17:00 +0530"
+            },
+            {
+              "title": "Why I am taking the other side of the trade that crushed the market Friday",
+              "description": "How did this happen so quickly? Where were the buyers? I have some answers.",
+              "url": "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 22:23:08 GMT"
+            },
+            {
+              "title": "Microsoft pulls out of UK's largest AI data centre",
+              "description": "Tech firm Nscale says it is still committed to building the site in Essex.",
+              "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 16:46:42 GMT"
+            },
+            {
+              "title": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
+              "description": "A new report finds nearly half of workers are often logging in on Sundays. It is a boon for worker flexibility, or a sign of job-hugging insecurity?",
+              "url": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 14:00:01 GMT"
+            },
+            {
+              "title": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
+              "description": "Parenting coach Reem Raouda shares lessons to help kids feel worthy regardless of achievements and handle disappointment, disagreement and difficult feelings.",
+              "url": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 13:37:01 GMT"
+            }
+          ]
+        },
+        {
+          "id": "ws_commodity",
+          "label": "Commodities",
+          "emoji": "🛢️",
+          "articles": [
+            {
+              "title": "Up over 200% in 1 year, what's buzzing with Borosil Glass?",
+              "description": "Shares of Borosil Glass Works have increased threefold over the past one year as the company has posted strong revenue and EBIDTA growth over the past few quarters.",
+              "url": "http://www.moneycontrol.com/news/buzzing-stocks/up-over-2001-year-whats-buzzingborosil-glass_7576821.html",
+              "source": "moneycontrol.com",
+              "image": "",
+              "publishedAt": "Wed, 05 Oct 2016 12:28:33 +0530"
+            }
+          ]
+        },
+        {
+          "id": "ws_crypto",
+          "label": "Crypto",
+          "emoji": "₿",
+          "articles": [
+            {
+              "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+              "description": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+              "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Sun, 18 Oct 2026 23:28:06 +0000"
+            },
+            {
+              "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+              "description": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
+              "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg",
+              "publishedAt": "Sun, 18 Oct 2026 22:58:17 +0000"
+            },
+            {
+              "title": "The White House's crypto chief departs: State of Crypto",
+              "description": "Patrick Witt announced his departure from the White House last week.",
+              "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d14ee5efae01770bbbc627c6ecb94cb0e826a8d-4027x2265.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Sun, 18 Oct 2026 18:30:00 +0000"
+            },
+            {
+              "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+              "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin markets suggest the same.",
+              "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Sun, 18 Oct 2026 16:33:00 +0000"
+            },
+            {
+              "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+              "description": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
+              "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Sun, 18 Oct 2026 16:00:00 +0000"
+            },
+            {
+              "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+              "description": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
+              "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb1df4637820d42a650a8dcab7641953887ebff1-720x406.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Sun, 18 Oct 2026 14:00:00 +0000"
+            },
+            {
+              "title": "Here’s what happened in crypto today",
+              "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+              "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+              "publishedAt": "Sun, 18 Oct 2026 13:54:00 +0000"
+            },
+            {
+              "title": "Most Americans polled oppose betting on elections: Reuters",
+              "description": "The prediction market industry enables people to bet on US ‌elections and sporting events.",
+              "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M57M1156GPPFQ4JMAMQP3RQS/hi-japan-having-a-hard-time-gambling-a-and-casinos-poker.jpg",
+              "publishedAt": "Sun, 18 Oct 2026 13:48:00 +0000"
+            },
+            {
+              "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+              "description": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+              "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b3e22f79db7d662674f6627620b8e945757ba94-1280x702.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Sun, 18 Oct 2026 13:00:00 +0000"
+            },
+            {
+              "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+              "description": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+              "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Sun, 18 Oct 2026 13:00:00 +0000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
