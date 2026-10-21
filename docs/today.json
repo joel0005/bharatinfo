@@ -13,6 +13,53 @@
           "emoji": "🏢",
           "articles": [
             {
+              "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+              "description": "\"We have had significant constructive engagement with the FAA.\"",
+              "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg",
+              "publishedAt": "Wed, 21 Oct 2026 16:46:19 +0000"
+            },
+            {
+              "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+              "description": "OpenEvidence is booming despite questions about accuracy and ads.",
+              "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg",
+              "publishedAt": "Wed, 21 Oct 2026 15:14:07 +0000"
+            },
+            {
+              "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+              "description": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+              "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 14:00:00 +0000"
+            },
+            {
+              "title": "Review: Carrie is a triumphant remix with one major flaw",
+              "description": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+              "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/carrieTOP-1152x648.jpg",
+              "publishedAt": "Wed, 21 Oct 2026 11:19:12 +0000"
+            },
+            {
+              "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+              "description": "Flipping through the highlights in and around Pinball Expo 2026.",
+              "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261016_184926781-1152x648.jpg",
+              "publishedAt": "Wed, 21 Oct 2026 11:00:04 +0000"
+            }
+          ]
+        },
+        {
+          "id": "ai_tools",
+          "label": "Tools & Platforms",
+          "emoji": "🛠️",
+          "articles": [
+            {
               "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
               "description": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
               "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
@@ -37,45 +84,6 @@
               "publishedAt": "Wed, 21 Oct 2026 12:35:00 +0000"
             },
             {
-              "title": "PHP warns it plans to release 2 emergency patches imminently",
-              "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-              "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-              "publishedAt": "Wed, 21 Oct 2026 02:12:18 +0000"
-            },
-            {
-              "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-              "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-              "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Tue, 20 Oct 2026 23:01:23 +0000"
-            }
-          ]
-        },
-        {
-          "id": "ai_tools",
-          "label": "Tools & Platforms",
-          "emoji": "🛠️",
-          "articles": [
-            {
-              "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-              "description": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-              "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 15:02:15 +0000"
-            },
-            {
-              "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-              "description": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-              "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 14:00:00 +0000"
-            },
-            {
               "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
               "description": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
               "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
@@ -84,12 +92,12 @@
               "publishedAt": "Wed, 21 Oct 2026 10:30:00 +0000"
             },
             {
-              "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-              "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
-              "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+              "title": "PHP warns it plans to release 2 emergency patches imminently",
+              "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+              "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
               "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
-              "publishedAt": "Wed, 14 Oct 2026 21:35:09 +0000"
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+              "publishedAt": "Wed, 21 Oct 2026 02:12:18 +0000"
             }
           ]
         },
@@ -105,6 +113,14 @@
               "source": "blog.google",
               "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
               "publishedAt": "Wed, 23 Sep 2026 18:00:00 +0000"
+            },
+            {
+              "title": "How AT&T is rethinking in-house legal work with OpenAI",
+              "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+              "url": "https://openai.com/index/att-legal",
+              "source": "openai.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 17:00:00 GMT"
             },
             {
               "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
@@ -123,25 +139,17 @@
               "publishedAt": "Wed, 21 Oct 2026 12:00:00 GMT"
             },
             {
-              "title": "We can do impossible things",
-              "description": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my",
-              "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+              "title": "Nuclear-powered spaceships",
+              "description": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft",
+              "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
               "source": "technologyreview.com",
               "image": "",
               "publishedAt": "Wed, 21 Oct 2026 09:00:00 +0000"
             },
             {
-              "title": "Exercise in a pill",
-              "description": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some o",
-              "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-              "source": "technologyreview.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 09:00:00 +0000"
-            },
-            {
-              "title": "Cleaning up PFAS",
-              "description": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS",
-              "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+              "title": "Interspecies communication",
+              "description": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner li",
+              "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
               "source": "technologyreview.com",
               "image": "",
               "publishedAt": "Wed, 21 Oct 2026 09:00:00 +0000"
@@ -178,17 +186,25 @@
               "publishedAt": "Wed, 21 Oct 2026 12:00:02 +0000"
             },
             {
-              "title": "Nuclear-powered spaceships",
-              "description": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft",
-              "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+              "title": "We can do impossible things",
+              "description": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my",
+              "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
               "source": "technologyreview.com",
               "image": "",
               "publishedAt": "Wed, 21 Oct 2026 09:00:00 +0000"
             },
             {
-              "title": "Interspecies communication",
-              "description": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner li",
-              "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+              "title": "Exercise in a pill",
+              "description": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some o",
+              "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+              "source": "technologyreview.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 09:00:00 +0000"
+            },
+            {
+              "title": "Cleaning up PFAS",
+              "description": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS",
+              "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
               "source": "technologyreview.com",
               "image": "",
               "publishedAt": "Wed, 21 Oct 2026 09:00:00 +0000"
@@ -217,6 +233,14 @@
           "emoji": "⚖️",
           "articles": [
             {
+              "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+              "description": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+              "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 15:02:15 +0000"
+            },
+            {
               "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
               "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
               "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
@@ -239,6 +263,14 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Wed, 21 Oct 2026 08:30:00 +0000"
+            },
+            {
+              "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+              "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+              "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
+              "publishedAt": "Wed, 14 Oct 2026 21:35:09 +0000"
             },
             {
               "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
@@ -279,12 +311,20 @@
           "emoji": "🇮🇳",
           "articles": [
             {
-              "title": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer",
-              "description": "Bitcoin delivered nearly 234% returns over three years, outperforming silver, gold and equities. However, precious metals led over one year as cryptocurrencies declined. CoinDCX data also shows Bitcoin topping hypothetic",
-              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/stocks-gold-or-crypto-the-last-3-years-returns-have-a-surprising-answer/articleshow/135096080.cms",
-              "source": "economictimes.indiatimes.com",
+              "title": "Rubio, Mukesh Ambani discuss energy, technology partnerships at Jamnagar",
+              "description": "US Secretary of State Marco Rubio toured Reliance's Jamnagar refinery and discussed energy supplies, technology, data centres and potential commercial partnerships with Mukesh Ambani.",
+              "url": "https://www.business-standard.com/economy/news/rubio-mukesh-ambani-discuss-energy-technology-partnerships-at-jamnagar-126102101510_1.html",
+              "source": "business-standard.com",
               "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 21:35:58 +0530"
+              "publishedAt": "Wed, 21 Oct 2026 23:57:35 +0530"
+            },
+            {
+              "title": "IHCL to have 700 hotels within FY27, says MD & CEO Puneet Chhatwal",
+              "description": "Indian Hotels Company expects to reach 700 hotels in FY27, ahead of its 2030 target, and has raised its FY27 revenue growth guidance to 15-17% from 12-14%",
+              "url": "https://www.business-standard.com/companies/quarterly-results/ihcl-to-have-700-hotels-within-fy27-says-md-ceo-puneet-chhatwal-126102101449_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 23:33:53 +0530"
             },
             {
               "title": "India's crude oil import bill rises 47% to $15.4 billion in September",
@@ -292,15 +332,23 @@
               "url": "https://www.business-standard.com/industry/news/india-s-crude-oil-import-bill-rises-47-to-15-4-billion-in-september-126102101226_1.html",
               "source": "business-standard.com",
               "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 21:21:57 +0530"
+              "publishedAt": "Wed, 21 Oct 2026 23:19:37 +0530"
             },
             {
-              "title": "Mahindra Finance Q2 net profit rises 55% to ₹882 crore on loan growth",
-              "description": "Mahindra Finance reported 22% growth in disbursements to Rs 16,499 crore in Q2FY27, while assets under management rose 15% and credit costs declined to 1.6% from 2.2% a year ago",
-              "url": "https://www.business-standard.com/companies/quarterly-results/mahindra-finance-q2-net-profit-rises-55-to-882-crore-on-loan-growth-126102101373_1.html",
+              "title": "October MPC minutes: Rate cuts off table as members flag rising inflation",
+              "description": "RBI MPC minutes show members concerned about broadening inflation, with two dissenting on the shift to calibrated tightening despite unanimous support for a 25-basis-point rate hike",
+              "url": "https://www.business-standard.com/industry/banking/rate-cuts-off-table-as-rbi-mpc-flags-inflation-risks-two-dissent-on-stance-126102101194_1.html",
               "source": "business-standard.com",
               "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 21:14:11 +0530"
+              "publishedAt": "Wed, 21 Oct 2026 23:09:31 +0530"
+            },
+            {
+              "title": "Flipkart's Big Billion Days draws 9 in 10 shoppers as orders rise 20-22%",
+              "description": "Flipkart's 11-day festive sale saw orders, units and buyers rise 20-22% year-on-year, with nearly half of buyers from Gen Z and about 60% from Tier 2-plus cities",
+              "url": "https://www.business-standard.com/companies/news/flipkart-s-big-billion-days-draws-9-in-10-shoppers-as-orders-rise-20-22-126102101427_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 22:07:03 +0530"
             },
             {
               "title": "Jane Street appeal: SAT reserves order on plea for additional Sebi records",
@@ -311,14 +359,6 @@
               "publishedAt": "Wed, 21 Oct 2026 20:14:44 +0530"
             },
             {
-              "title": "Rate cuts off table as RBI MPC flags inflation risks, two dissent on stance",
-              "description": "RBI MPC minutes show members concerned about broadening inflation, with two dissenting on the shift to calibrated tightening despite unanimous support for a 25-basis-point rate hike",
-              "url": "https://www.business-standard.com/industry/banking/rate-cuts-off-table-as-rbi-mpc-flags-inflation-risks-two-dissent-on-stance-126102101194_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 20:04:48 +0530"
-            },
-            {
               "title": "Not every friction in finance is inefficiency, says RBI DG Swaminathan",
               "description": "RBI Deputy Governor Swaminathan J says checks and balances help reduce fraud and errors, while financial institutions must maintain strong controls as technology reshapes processes",
               "url": "https://www.business-standard.com/industry/banking/not-every-friction-in-finance-is-inefficiency-says-rbi-dg-swaminathan-126102101269_1.html",
@@ -327,36 +367,12 @@
               "publishedAt": "Wed, 21 Oct 2026 20:03:53 +0530"
             },
             {
-              "title": "Prosus-backed Ixigo aims to lead India's budget-to-mid hotel OTA market",
-              "description": "Ixigo aims to become India's largest budget-to-mid-market hotel booking platform in four to five years, with plans to grow the business by over 100% in the next four quarters.",
-              "url": "https://www.business-standard.com/industry/news/prosus-backed-ixigo-aims-to-lead-india-s-budget-to-mid-hotel-ota-market-126102101227_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 19:38:31 +0530"
-            },
-            {
-              "title": "KENT RO invests ₹250 crore in new lithium battery and inverter business",
-              "description": "KENT RO's new energy division has an annual capacity of 3.5 GWh at its Noida plant, with plans to expand to 10 GWh in six months as it enters the energy storage market",
-              "url": "https://www.business-standard.com/companies/news/kent-ro-invests-250-crore-in-new-lithium-battery-and-inverter-business-126102101219_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 19:35:46 +0530"
-            },
-            {
               "title": "HDFC Bank probes alleged leak of confidential information, two under lens",
               "description": "HDFC Bank is conducting an internal review into an alleged leak of confidential information, with two executives potentially identified; action will follow the findings",
               "url": "https://www.business-standard.com/industry/banking/hdfc-bank-probes-alleged-leak-of-confidential-information-two-under-lens-126102101185_1.html",
               "source": "business-standard.com",
               "image": "",
               "publishedAt": "Wed, 21 Oct 2026 19:33:29 +0530"
-            },
-            {
-              "title": "Zomato parent Eternal to swap Adonmo stake for ₹156 crore Mygate shares",
-              "description": "Eternal will exchange its entire Adonmo stake for Mygate shares valued at Rs 156 crore and transfer its going-out India business to a subsidiary for Rs 130.76 crore",
-              "url": "https://www.business-standard.com/companies/news/zomato-parent-eternal-to-swap-adonmo-stake-for-156-crore-mygate-shares-126102101172_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 19:13:34 +0530"
             }
           ]
         },
@@ -371,7 +387,23 @@
               "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 17:34:50 GMT"
+              "publishedAt": "Wed, 21 Oct 2026 19:20:53 GMT"
+            },
+            {
+              "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+              "description": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
+              "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 18:43:56 GMT"
+            },
+            {
+              "title": "GM aims to develop vehicles in as little as two years with AI, software push",
+              "description": "General Motors is targeting a roughly two-year vehicle development cycle as it expands its use of artificial intelligence, simulation and vehicle software.",
+              "url": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 18:03:55 GMT"
             },
             {
               "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
@@ -382,28 +414,12 @@
               "publishedAt": "Wed, 21 Oct 2026 17:27:34 GMT"
             },
             {
-              "title": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
-              "description": "Intel has installed the first major structural truss at its delayed Ohio chip fab, but the company has yet to announce a major outside customer.",
-              "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
-              "source": "cnbc.com",
+              "title": "Burnham proposes plan to cut standing charges from gas bills",
+              "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+              "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 16:55:51 GMT"
-            },
-            {
-              "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-              "description": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-              "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 16:08:50 GMT"
-            },
-            {
-              "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
-              "description": "Elon Musk’s planned SpaceX share gift through Trump Accounts could be the start of a broader philanthropic push, says Altimeter Capital CEO Brad Gerstner.",
-              "url": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 15:58:45 GMT"
+              "publishedAt": "Wed, 21 Oct 2026 17:06:16 GMT"
             }
           ]
         },
@@ -412,6 +428,38 @@
           "label": "Startups & Funding",
           "emoji": "🚀",
           "articles": [
+            {
+              "title": "The internet is having a very bad cybersecurity day",
+              "description": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+              "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 19:03:28 +0000"
+            },
+            {
+              "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+              "description": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+              "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 18:51:56 +0000"
+            },
+            {
+              "title": "GM is giving OnStar an AI makeover",
+              "description": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+              "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 18:00:00 +0000"
+            },
+            {
+              "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+              "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+              "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 17:59:12 +0000"
+            },
             {
               "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
               "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
@@ -443,22 +491,6 @@
               "source": "yourstory.com",
               "image": "",
               "publishedAt": "Wed, 21 Oct 2026 14:24:26 GMT"
-            },
-            {
-              "title": "Eternal to pick 4.4% stake in Mygate following divestment of digital ad business",
-              "description": "Eternal will divest its stake in AdOnMo to acquire stake in Mygate through a share-swap deal, combining community management services with a network of digital advertising screens.",
-              "url": "https://yourstory.com/2026/10/eternal-pick-44-stake-mygate-divestment-digital-ad-business",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 14:18:08 GMT"
-            },
-            {
-              "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
-              "description": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
-              "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 14:03:11 +0000"
             }
           ]
         },
@@ -467,6 +499,14 @@
           "label": "Markets & Economy",
           "emoji": "📈",
           "articles": [
+            {
+              "title": "Dividend, stock split: Last chance to buy today - LTM, IRFC, Modison, TechM and Azad India Mobility shares",
+              "description": "LTM, IRFC, Modison and Tech Mahindra announced FY27 interim dividends, while Tech Mahindra also proposed a 1:1 bonus issue. Azad India Mobility set October 23, 2026, as the record date for its proposed 1:5 stock split. I",
+              "url": "https://www.livemint.com/market/stock-market-news/dividend-stock-split-last-chance-to-buy-today-ltm-irfc-modison-techm-and-azad-india-mobility-shares-11792604084403.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/21/1600x900/logo/Last_chance_1792605437726_rgxR_1792605453520_xymQ_b8acf269-d5e1-4640-91f0-1836f3b7dcdf_dMw9.png",
+              "publishedAt": "Wed, 21 Oct 2026 23:48:02 +0530"
+            },
             {
               "title": "IT mid-caps vs large-caps: TCS, Infosys, Wipro vs Persistent, Coforge, Tata Tech - Who leads the Q2 results 2026 race?",
               "description": "Large-cap IT stocks powered the sector’s rally, outpacing Persistent Systems, Coforge and Mphasis. Though mid-caps led quarterly growth, large-caps beat expectations after a low bar, with resilient margins and improved g",
@@ -498,44 +538,28 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "Thiruvananthapuram Corporation’s dog shelters face opposition from nearby panchayats",
-              "description": "Kuttichal panchayat comes out against a private dog shelter in which around 200 dogs from the Corporation are being housed",
-              "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/thiruvananthapuram-corporations-dog-shelters-face-opposition-from-nearby-panchayats/article71608022.ece",
+              "title": "Burglars decamp with 18.50 sovereigns of gold, cash in Tirupattur",
+              "description": "A case was registered and special teams were formed to nab the suspects",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/burglars-decamp-with-1850-sovereigns-of-gold-cash-in-tirupattur/article71607771.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/pdl4jw/article71490385.ece/alternates/LANDSCAPE_1200/LOCKDOWN",
-              "publishedAt": "Wed, 21 Oct 2026 23:00:01 +0530"
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 23:57:13 +0530"
             },
             {
-              "title": "Kannada film stars add glamour to Dasara procession",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/karnataka/kannada-film-stars-add-glamour-to-dasara-procession/article71608513.ece",
+              "title": "Economist Prabhakar to join Dipke, Prakash Raj, Neha at nationwide anti-SIR protests on October 23",
+              "description": "The People Against SIR alliance has called for marches across the country, demanding the scrapping of the electoral roll revision exercise and the resignation of Chief Election Commissioner Gyanesh Kumar",
+              "url": "https://www.thehindu.com/news/cities/Delhi/economist-prabhakar-to-join-dipke-prakash-raj-neha-at-nationwide-anti-sir-protests-on-october-23/article71608796.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/qlbref/article71608662.ece/alternates/LANDSCAPE_1200/2303_21_10_2026_21_27_25_1_STARPOWERDASARA.JPG",
-              "publishedAt": "Wed, 21 Oct 2026 22:55:01 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/a875wz/article71608851.ece/alternates/LANDSCAPE_1200/DSC9871.jpg",
+              "publishedAt": "Wed, 21 Oct 2026 23:52:58 +0530"
             },
             {
-              "title": "Vajra Mushti Kalaga cancelled at Mysuru Dasara; wrestlers blame police restrictions",
-              "description": "The Vajra Mushti Kalaga is a centuries-old sporting tradition patronised by the Wadiyars of Mysuru.",
-              "url": "https://www.thehindu.com/news/national/karnataka/vajra-mushti-kalaga-cancelled-at-mysuru-dasara-wrestlers-blame-police-restrictions/article71608379.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/grgpj0/article71608651.ece/alternates/LANDSCAPE_1200/5964_21_10_2026_20_43_19_1_VAJRAMUSHTIKALAGAARENA.JPG",
-              "publishedAt": "Wed, 21 Oct 2026 22:54:27 +0530"
-            },
-            {
-              "title": "Mysuru: Tableaux captivate spectators at Jamboo Savari",
-              "description": "The procession featured 53 tableaux and 46 traditional folk art forms and lasted around two to three hours.",
-              "url": "https://www.thehindu.com/news/national/karnataka/mysuru-tableaux-captivate-spectators-at-jamboo-savari/article71608254.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/h2p6ju/article71608786.ece/alternates/LANDSCAPE_1200/manipur%20troup.JPG",
-              "publishedAt": "Wed, 21 Oct 2026 22:54:06 +0530"
-            },
-            {
-              "title": "Vijayawada development top priority if elected Mayor, says A.B. Venkateswara Rao",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-development-top-priority-if-elected-mayor-says-ab-venkateswara-rao/article71608333.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/baywad/article71608787.ece/alternates/LANDSCAPE_1200/DSC_7155.JPG",
-              "publishedAt": "Wed, 21 Oct 2026 22:46:57 +0530"
+              "title": "NDTV Reporter's Nepal Coverage Featured In Bhubaneswar Puja Pandal",
+              "description": "The cutout shows the senior journalist holding a red mic with the NDTV logo and a cameraman recording her, in a display of the impact the Nepal coverage had on viewers.",
+              "url": "https://www.ndtv.com/india-news/ndtv-reporters-nepal-coverage-featured-in-bhubaneswar-puja-pandal-12217113#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/3o4e9mjo_cutout_625x300_21_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 21 Oct 2026 23:12:03 +0530"
             }
           ]
         },
@@ -553,36 +577,28 @@
               "publishedAt": "Wed, 29 Jul 2026 12:07:39 +0530"
             },
             {
+              "title": "Poll Body Disposes Of 1 Lakh Out Of 4.5 Lakh Form 6 Applications In Delhi",
+              "description": "A total of 4,56,913 Form 6 applications were received till October 20, including 2,12,400 by August 30 and another 2,44,513 between August 31 and October 20, officials said.",
+              "url": "https://www.ndtv.com/india-news/poll-body-disposes-of-1-lakh-out-of-4-5-lakh-form-6-applications-in-delhi-12217202#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2023-10/jke5k87g_vote-from-home_625x300_09_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 21 Oct 2026 23:43:01 +0530"
+            },
+            {
+              "title": "No Water For 24 Hours In Several Areas Of Gurugram From Friday",
+              "description": "The Gurugram Metropolitan Development Authority (GMDA) issued a public notice on Wednesday regarding this matter.",
+              "url": "https://www.ndtv.com/india-news/no-water-for-24-hours-in-several-areas-of-gurugram-from-friday-12217083#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2018-11/dj7gb0a_tap-generic_625x300_14_November_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 21 Oct 2026 22:59:46 +0530"
+            },
+            {
               "title": "CLAT 2027 Reservation Rules Changed For MNLU Mumbai; Apply By October 31",
               "description": "MNLU Mumbai revises CLAT 2027 reservation rules, introducing 1 percent seats each for transgender candidates and orphans in UG and PG law courses.",
               "url": "https://www.ndtv.com/education/clat-2027-reservation-rules-changed-for-mnlu-mumbai-apply-by-october-31-12216562#publisher=newsstand",
               "source": "feeds.feedburner.com",
               "image": "https://c.ndtvimg.com/2025-08/4msco9o_top-25-law-colleges-in-india_625x300_03_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
               "publishedAt": "Wed, 21 Oct 2026 21:54:49 +0530"
-            },
-            {
-              "title": "GRAP-1 Rules Explained: Limited Construction, Strict Rules For Cars In Delhi",
-              "description": "The CAQM announced its decision through an order on Wednesday after Delhi's AQI was reported under the 'poor' category at 244 at 2 pm.",
-              "url": "https://www.ndtv.com/india-news/grap-1-rules-explained-limited-construction-strict-rules-for-cars-in-delhi-12214896#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2025-10/145ih64_delhi-aqi_625x300_21_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 21 Oct 2026 21:42:42 +0530"
-            },
-            {
-              "title": "What Jackie Shroff Told Fan Who Was Shot In Chest In Tiger Shroff Firing",
-              "description": "Umesh Chauhan is undergoing treatment at Mumbai's K.E.M. Hospital for the gunshot injury.",
-              "url": "https://www.ndtv.com/india-news/what-jackie-shroff-told-fan-who-was-shot-in-chest-in-tiger-shroff-shooting-12216733#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/34l5f8is_act_625x300_21_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 21 Oct 2026 21:39:48 +0530"
-            },
-            {
-              "title": "CJP's Saurav Das, Ashutosh Ranka Released After 7 Days In Jail",
-              "description": "The CJP spokespersons were in judicial custody since October 14.",
-              "url": "https://www.ndtv.com/india-news/cjps-saurav-das-ashutosh-ranka-to-be-released-after-7-days-in-jail-12215826#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/a936dc5c_cjp_625x300_19_October_26.jpg",
-              "publishedAt": "Wed, 21 Oct 2026 20:48:04 +0530"
             }
           ]
         },
@@ -592,44 +608,44 @@
           "emoji": "📜",
           "articles": [
             {
+              "title": "Forest Department restores Poosi Forest Palace near Arani for public viewing",
+              "description": "The restoration work was carried out at a cost of ₹11.54 crore",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/forest-department-restores-poosi-forest-palace-near-arani-for-public-viewing/article71607757.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/2sd1ek/article71608852.ece/alternates/LANDSCAPE_1200/restore.jpg",
+              "publishedAt": "Wed, 21 Oct 2026 23:55:13 +0530"
+            },
+            {
               "title": "Ladakh administration dissolves hill council in Kargil, announces panchayat elections on November 21",
               "description": "The administration of Ladakh has notified 100 elected constituencies for the eight districts of the region; nominations will close on November 2 while the Model Code of Conduct has come into force with immediate effect",
               "url": "https://www.thehindu.com/news/national/ladakh/ladakh-administration-dissolves-hill-council-in-kargil-announces-panchayat-elections-on-november-21/article71608564.ece",
               "source": "thehindu.com",
               "image": "https://th-i.thgim.com/public/incoming/1b1uq/article71608814.ece/alternates/LANDSCAPE_1200/20261006389L.jpg",
-              "publishedAt": "Wed, 21 Oct 2026 22:59:24 +0530"
+              "publishedAt": "Wed, 21 Oct 2026 23:44:44 +0530"
             },
             {
-              "title": "Jamboo Savari: Journalists protest police restrictions",
-              "description": "The journalists, who arrived in a vehicle belonging to the Department of Information and Public Relations (DIPR), were initially stopped near the Brahmapuri entrance to the palace.",
-              "url": "https://www.thehindu.com/news/national/karnataka/jamboo-savari-journalists-protest-police-restrictions/article71608538.ece",
-              "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 22:54:38 +0530"
+              "title": "Blast At Under-Construction Bengaluru Building, 2 Injured",
+              "description": "Karnataka Home Minister Priyank Kharge said the cause of the explosion was yet to be established and urged people not to speculate before the investigation was completed.",
+              "url": "https://www.ndtv.com/india-news/blast-at-under-construction-bengaluru-building-2-injured-12217077#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2022-11/oot8t25k_police-generic_625x300_07_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 21 Oct 2026 22:58:06 +0530"
             },
             {
-              "title": "Jamboo Savari brings curtains on Mysuru Dasara",
-              "description": "While 54-year-old tusker Prashanth carried the iconic golden howdah, veteran tusker Abhimanyu featured as the Nishane Ane, followed by eight other caparisoned elephants guided by their mahouts in the grand procession",
-              "url": "https://www.thehindu.com/news/national/karnataka/jamboo-savari-brings-curtains-down-on-mysuru-dasara/article71607690.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/tnrs5z/article71607865.ece/alternates/LANDSCAPE_1200/2303_21_10_2026_18_57_11_1_JAMBOOSAVARI2.JPG",
-              "publishedAt": "Wed, 21 Oct 2026 22:54:18 +0530"
+              "title": "Israel Had Planned To Bomb Iran In October, Stopped Because Of Trump: Report",
+              "description": "The plan was ultimately scrapped for the time being, with Trump expressing reservations about starting a war before the key US midterm elections, the report said.",
+              "url": "https://www.ndtv.com/world-news/israel-had-planned-to-bomb-iran-in-october-stopped-because-of-trump-report-12216972#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-05/komk4r6_trump-netanyahu_625x300_20_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 21 Oct 2026 22:29:41 +0530"
             },
             {
-              "title": "25,000 people to attend Ekta Divas parade in Gujarat: Union Home Secretary",
-              "description": "The theme of this year’s cultural events at the Rashtriya Ekta Divas celebrations is Vande Mataram, the Home Secretary says",
-              "url": "https://www.thehindu.com/news/national/gujarat/2000-artists-from-126-naxal-hit-districts-to-be-part-of-ekta-diwas-parade-pm-modi-to-attend-event/article71607857.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/anas2/article71607912.ece/alternates/LANDSCAPE_1200/PC%20HOME%20SECRETARY%2028.JPG",
-              "publishedAt": "Wed, 21 Oct 2026 22:50:37 +0530"
-            },
-            {
-              "title": "Wires, contradictory statements of injured raise red flags in suspected IED blast",
-              "description": "According to a preliminary investigation, suspicious items were found in a bag at the spot and have been sent for forensic examination.",
-              "url": "https://www.thehindu.com/news/cities/bangalore/two-injured-in-suspicious-blast-at-under-construction-building-in-bengaluru/article71606698.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/kez6m8/article71525324.ece/alternates/LANDSCAPE_1200/iStock-1001140222%201.jpg",
-              "publishedAt": "Wed, 21 Oct 2026 22:37:58 +0530"
+              "title": "'Unacceptable, Stupid Comments': Macron Hits Back At Trump Over France Unrest",
+              "description": "The protests in France over soaring living costs have drawn worldwide attention, with US President Donald Trump saying that Muslim migrants were responsible for the unrest. He even suggested to Macron to \"close your bord",
+              "url": "https://www.ndtv.com/world-news/unacceptable-stupid-comments-emmanuel-macron-hits-back-at-donald-trump-over-france-unrest-12216941#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/1f6dfd6_trump-macron-afp_625x300_21_October_26.jpeg",
+              "publishedAt": "Wed, 21 Oct 2026 22:23:23 +0530"
             }
           ]
         },
@@ -638,6 +654,22 @@
           "label": "Elections",
           "emoji": "🗳️",
           "articles": [
+            {
+              "title": "No Money, No Problem? Robbers Make Man Take Loan To Loot Him In Chennai",
+              "description": "After the app-based loan was sanctioned, the robbers withdrew Rs 9,500 from an ATM.",
+              "url": "https://www.ndtv.com/india-news/no-money-no-problem-robbers-make-man-take-loan-to-loot-him-in-chennai-12217231#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/os9eo5ec_1_625x300_21_October_26.jpeg",
+              "publishedAt": "Wed, 21 Oct 2026 23:50:44 +0530"
+            },
+            {
+              "title": "81 Tamil Nadu Prison Inmates Publish 85 Books Of Poems, Short Stories",
+              "description": "For the inmates, the experience has opened up a new world of possibilities. For their families, particularly their wives, it has become a moment of pride, even as they continue to hope for their husbands' return home.",
+              "url": "https://www.ndtv.com/india-news/81-tamil-nadu-prison-inmates-publish-85-books-of-poems-short-stories-12217167#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/pm6vrhjs_prison_625x300_21_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 21 Oct 2026 23:32:53 +0530"
+            },
             {
               "title": "E-Signature Services Not Affected: Government On eMudhra Web Security Certificates Row",
               "description": "\"MeitY has taken serious note of the reported incident. A special team has been constituted to investigate the matter,\" the government said in a statement.",
@@ -655,36 +687,12 @@
               "publishedAt": "Wed, 21 Oct 2026 21:47:19 +0530"
             },
             {
-              "title": "Pollution Curbs Under GRAP-1 Imposed In Delhi, Parking Charges To Be Doubled",
-              "description": "GRAP-1 is imposed when the AQI is between 201 and 300.",
-              "url": "https://www.ndtv.com/india-news/delhi-air-quality-grap-1-pollution-curbs-under-grap-1-in-delhi-ncr-as-air-quality-drops-to-poor-12214729#publisher=newsstand",
+              "title": "GRAP-1 Rules Explained: Limited Construction, Strict Rules For Cars In Delhi",
+              "description": "The CAQM announced its decision through an order on Wednesday after Delhi's AQI was reported under the 'poor' category at 244 at 2 pm.",
+              "url": "https://www.ndtv.com/india-news/grap-1-rules-explained-limited-construction-strict-rules-for-cars-in-delhi-12214896#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2024-11/ajaqgeq8_delhi-air-pollution_625x300_28_November_24.jpeg",
-              "publishedAt": "Wed, 21 Oct 2026 21:41:40 +0530"
-            },
-            {
-              "title": "'No More Jantar Mantar Protest Calls': CJP's Saurav Das, Ashutosh Ranka Give In Writing To Court",
-              "description": "Saurav Das and Ashutosh Ranka had been in judicial custody since October 14, a day after they scaled the locked gates of Jantar Mantar and waved the national flag in protest against its denotification as a designated pro",
-              "url": "https://www.ndtv.com/india-news/no-jantar-mantar-protest-call-cjp-leaders-saurav-das-ashutosh-ranka-give-in-writing-to-court-12216617#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/iiu93rg8_ashutosh-ranka-saurav-das_625x300_19_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 21 Oct 2026 21:28:18 +0530"
-            },
-            {
-              "title": "Opinion: Blog: Away From Kolkata, A Delhi Home Keeps The Spirit Of Durga Puja Alive",
-              "description": "Much is the same for a group of friends, lawyers by profession who got together in Delhi, away from their homes in Kolkata, and began Probash & Co.- a Barir Pujo in the quieter lanes of Chittaranjan Park.",
-              "url": "https://www.ndtv.com/opinion/blog-away-from-kolkata-a-delhi-home-keeps-the-spirit-of-durga-puja-alive-12216555#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/duivgq6c_delhi_625x300_21_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 21 Oct 2026 20:40:48 +0530"
-            },
-            {
-              "title": "At 11,500 Feet, Ladakh High Court Bench Begins Regular Hearings In Leh",
-              "description": "The newly established Ladakh Bench of the high court, located at a breath-taking height of over 11,500 feet above sea level, began regular hearing of the cases from Wednesday, an official said.",
-              "url": "https://www.ndtv.com/india-news/at-11-500-feet-ladakh-high-court-bench-begins-regular-hearings-in-leh-12216170#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/1m58jiic_ladakh-high-court_625x300_21_October_26.jpeg",
-              "publishedAt": "Wed, 21 Oct 2026 20:30:41 +0530"
+              "image": "https://c.ndtvimg.com/2025-10/145ih64_delhi-aqi_625x300_21_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 21 Oct 2026 21:42:42 +0530"
             }
           ]
         }
@@ -700,6 +708,14 @@
           "label": "Top Movers",
           "emoji": "📈",
           "articles": [
+            {
+              "title": "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
+              "description": "Persistent Systems has opened a qualified institutional placement to raise up to USD 450 million, or about Rs 4,265 crore. The IT company has set the QIP floor price at Rs 5,550 per share and may offer investors a discou",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135097602,imgsize-171084.cms",
+              "publishedAt": "Wed, 21 Oct 2026 23:01:22 +0530"
+            },
             {
               "title": "PC Jeweller share price to be in focus as Q2 net profit jumps 58%; can the stock extend its 482% rally in 3 years?",
               "description": "PC Jeweller reported a 58% year-on-year rise in Q2FY27 net profit to  ₹331 crore and 28% revenue growth to  ₹1,054 crore. EBITDA rose 74%, with margins improving to 29.3%. The company also repaid all consortium bank dues",
@@ -717,12 +733,12 @@
               "publishedAt": "Wed, 21 Oct 2026 21:32:16 +0530"
             },
             {
-              "title": "Reliance Jio IPO subscription status day 1: QIB, NII, Retail, Employees, RIL Shareholders; category wise investor detail",
-              "description": "Jio Platforms’ IPO was subscribed 3.16 times on its first day, led by strong institutional demand. QIBs subscribed 9.42 times, while NIIs subscribed 1.68 times, employees 1.36 times, RIL shareholders 1.46 times and retai",
-              "url": "https://www.livemint.com/market/ipo/reliance-jio-ipo-subscription-status-day-1-qib-nii-retail-employees-ril-shareholders-category-wise-investor-detail-11792584622711.html",
+              "title": "Zerodha launches US stock investing: How to invest in Tesla, Amazon, SpaceX, Meta, Micron, Nvidia and AMD — explained",
+              "description": "Zerodha has launched beta access to US stocks and ETFs through its Kite platform, letting eligible Indian residents invest in up to 2,000 companies and around 1,000 funds, with fractional investing from $1. The service s",
+              "url": "https://www.livemint.com/market/stock-market-news/zerodha-launches-us-stock-investing-how-to-invest-in-tesla-amazon-spacex-meta-micron-nvidia-and-amd-explained-11792594591349.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/21/1600x900/logo/Reliance_Jio_IPO_Day_One_Update_1792591392827_T0bN_1792591405025_cwFn_df58ee05-c564-4e43-a56f-f063b73a1953_vg3k.png",
-              "publishedAt": "Wed, 21 Oct 2026 19:34:42 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/10/21/1600x900/logo/Zerodha_1792594831986_8pmY_1792594837267_GKFD_7a3260ab-3a93-4989-b755-a46ebb0778b4_YO9B.png",
+              "publishedAt": "Wed, 21 Oct 2026 21:10:38 +0530"
             }
           ]
         },
@@ -731,6 +747,14 @@
           "label": "IPO News",
           "emoji": "🆕",
           "articles": [
+            {
+              "title": "eMudhra Weak Link Tests India’s Chain Of Digital Trust",
+              "description": "A private key meant to vouch for the security of websites around the world turned out to be the number&#8230;",
+              "url": "https://inc42.com/features/emudhra-weak-link-tests-indias-chain-of-digital-trust/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 16:55:15 +0000"
+            },
             {
               "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
               "description": "San Francisco-based AI code testing startup Blacksmith has raised $66 Mn in a Series C funding round led by Sequoia&#8230;",
@@ -802,14 +826,6 @@
               "source": "inc42.com",
               "image": "",
               "publishedAt": "Wed, 21 Oct 2026 11:30:14 +0000"
-            },
-            {
-              "title": "Eternal Unveils Privacy-Focused AI Platform Dark, Eyes Global Launch In 2026",
-              "description": "Zomato and Blinkit parent Eternal has unveiled Dark, a privacy-focused AI platform that founder Deepinder Goyal hopes to launch globally&#8230;",
-              "url": "https://inc42.com/buzz/eternal-unveils-privacy-focused-ai-platform-dark-eyes-global-launch-in-2026/",
-              "source": "inc42.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 10:18:38 +0000"
             }
           ]
         },
@@ -819,12 +835,12 @@
           "emoji": "🏭",
           "articles": [
             {
-              "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-              "description": "Sensex and Nifty ended above pre-closing auction session levels after extreme volatility, despite an Rs 8 lakh crore market selloff. Elevated crude prices, foreign investor outflows and weak market breadth kept sentiment",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135096044,imgsize-116884.cms",
-              "publishedAt": "Wed, 21 Oct 2026 21:27:41 +0530"
+              "title": "Sundaram MF enters SIF space; Choice MF launches first active equity fund",
+              "description": "Sundaram MF enters the SIF segment, Choice MF launches its first active equity scheme, while Edelweiss Alternative Asset Advisors sets a ₹1,585-1,665 price band for its ₹1,200 crore IPO",
+              "url": "https://www.business-standard.com/markets/news/sundaram-mf-enters-sif-space-choice-mf-launches-first-active-equity-fund-126102101488_1.html",
+              "source": "business-standard.com",
+              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261021/full-126102101488.jpg",
+              "publishedAt": "Wed, 21 Oct 2026 23:08:36 +0530"
             },
             {
               "title": "IT stocks gain ₹77,000 crore in value as banking shares weigh on Nifty",
@@ -832,31 +848,23 @@
               "url": "https://www.business-standard.com/markets/news/it-stocks-gain-77-000-crore-in-value-as-banking-shares-weigh-on-nifty-126102101234_1.html",
               "source": "business-standard.com",
               "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261021/full-126102101234.jpg",
-              "publishedAt": "Wed, 21 Oct 2026 21:18:16 +0530"
+              "publishedAt": "Wed, 21 Oct 2026 21:18:56 +0530"
             },
             {
-              "title": "IHCL Q2 Results: Tata Group-owned hotel chain's net profit jumps 19% to Rs 379 crore",
-              "description": "Indian Hotels Company Ltd, under the Tata Group, has announced a remarkable 19.35% rise in consolidated profit for the September quarter, soaring to Rs 379.85 crore from Rs 318.26 crore last year. Revenue from operations",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q2-results-tata-group-owned-hotel-chains-net-profit-jumps-19-to-rs-379-crore/articleshow/135094055.cms",
+              "title": "PC Jewellers Q2 Results: Net profit shoots up 58% to Rs 331 crore; company says it is now debt-free",
+              "description": "PC Jewellers Ltd has achieved an impressive 58 percent growth in net profit for Q2 of the 2026-27 fiscal year, driven by sales that surged beyond Rs 1,054 crore. The company is now debt-free after early repayment to bank",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135094055,imgsize-36584.cms",
-              "publishedAt": "Wed, 21 Oct 2026 19:27:18 +0530"
+              "image": "https://img.etimg.com/photo/msid-135094111,imgsize-40636.cms",
+              "publishedAt": "Wed, 21 Oct 2026 19:29:06 +0530"
             },
             {
-              "title": "RBI rejects all bids at Treasury bill auction as short-term yields surge",
-              "description": "The RBI rejected all bids at the Rs 23,000 crore Treasury bill auction as short-term yields climbed, while the benchmark 10-year government bond yield rose to 7.44%.",
+              "title": "RBI rejects all bids at govt's T-bill auction as short-term yields surge",
+              "description": "The yield on the benchmark 10-year government bond settled at 7.44 per cent, its highest level since November 4, 2022, against the previous close of 7.39 per cent",
               "url": "https://www.business-standard.com/economy/news/rbi-rejects-all-bids-at-treasury-bill-auction-as-short-term-yields-surge-126102101191_1.html",
               "source": "business-standard.com",
               "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261021/full-126102101191.jpg",
-              "publishedAt": "Wed, 21 Oct 2026 19:25:20 +0530"
-            },
-            {
-              "title": "IGI Q2 Results: Consolidated PAT surges 43% to Rs 185 crore",
-              "description": "The International Gemological Institute recently announced an impressive 43.14 percent growth in profit after tax for the previous quarter. Operational revenue rose by 31 percent compared to last year. Demand for both la",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/igi-q2-results-consolidated-pat-surges-43-to-rs-185-crore/articleshow/135093213.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135093213,imgsize-25710.cms",
-              "publishedAt": "Wed, 21 Oct 2026 18:35:12 +0530"
+              "publishedAt": "Wed, 21 Oct 2026 19:25:37 +0530"
             }
           ]
         },
@@ -866,20 +874,20 @@
           "emoji": "📰",
           "articles": [
             {
+              "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
+              "description": "US Treasury yields slipped as investors weighed the impact of higher borrowing costs on AI stocks, with the 10 year yield heading for a second straight daily decline. The move came ahead of a $13 billion 20 year Treasury",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135097932,imgsize-187772.cms",
+              "publishedAt": "Wed, 21 Oct 2026 23:19:52 +0530"
+            },
+            {
               "title": "Upcoming IPO: Edelweiss unit EAAA India Alternatives'  ₹1,200 cr public issue to open on Oct 26 - Top things to know",
               "description": "Investors can bid for a minimum of nine equity shares and in multiples of nine thereafter",
               "url": "https://www.livemint.com/market/ipo/upcoming-ipo-edelweiss-unit-eaaa-india-alternatives-rs-1-200-cr-public-issue-to-open-on-oct-26-top-things-to-know-11792596892239.html",
               "source": "livemint.com",
               "image": "https://www.livemint.com/lm-img/img/2026/10/21/1600x900/logo/ipos_1792599344001_Z40v_1792599364401_aH4Q_7feb6cb3-f998-443f-b799-845bc375f87e_4mjA.jpg",
               "publishedAt": "Wed, 21 Oct 2026 21:53:50 +0530"
-            },
-            {
-              "title": "Zerodha launches US stock investing: How to invest in Tesla, Amazon, SpaceX, Meta, Micron, Nvidia and AMD — explained",
-              "description": "Zerodha has launched beta access to US stocks and ETFs through its Kite platform, letting eligible Indian residents invest in up to 2,000 companies and around 1,000 funds, with fractional investing from $1. The service s",
-              "url": "https://www.livemint.com/market/stock-market-news/zerodha-launches-us-stock-investing-how-to-invest-in-tesla-amazon-spacex-meta-micron-nvidia-and-amd-explained-11792594591349.html",
-              "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/21/1600x900/logo/Zerodha_1792594831986_8pmY_1792594837267_GKFD_7a3260ab-3a93-4989-b755-a46ebb0778b4_YO9B.png",
-              "publishedAt": "Wed, 21 Oct 2026 21:10:38 +0530"
             }
           ]
         }
@@ -896,44 +904,44 @@
           "emoji": "🇺🇸",
           "articles": [
             {
-              "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-              "description": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
-              "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 17:34:00 GMT"
-            },
-            {
-              "title": "Burnham proposes plan to cut standing charges from gas bills",
-              "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-              "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+              "title": "Meta fined $25bn for 'lies' over user data privacy",
+              "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+              "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 17:06:16 GMT"
+              "publishedAt": "Wed, 21 Oct 2026 19:11:53 GMT"
             },
             {
-              "title": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-              "description": "A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.",
-              "url": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
+              "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+              "description": "Co-CEO Ted Sarandos has said the streamer needs new avenues for growth and to improve execution around its content strategy.",
+              "url": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 16:35:48 GMT"
+              "publishedAt": "Wed, 21 Oct 2026 18:32:12 GMT"
             },
             {
-              "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
-              "description": "A day after Elon Musk's SpaceX reported third-quarter results, Tesla is scheduled to update investors.",
-              "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+              "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+              "description": "Trump-aligned PACs are pouring hundreds of millions into House and Senate races as Republicans defend an expanding midterm election battleground map.",
+              "url": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 16:01:25 GMT"
+              "publishedAt": "Wed, 21 Oct 2026 17:51:21 GMT"
             },
             {
-              "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-              "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-              "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
+              "title": "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
+              "description": "The growing AI trade is infiltrating traditionally safe sectors like utilities, making hedging more difficult.",
+              "url": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
+              "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 15:58:05 GMT"
+              "publishedAt": "Wed, 21 Oct 2026 17:14:14 GMT"
+            },
+            {
+              "title": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
+              "description": "Intel has installed the first major structural truss at its delayed Ohio chip fab, but the company has yet to announce a major outside customer.",
+              "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Wed, 21 Oct 2026 16:55:51 GMT"
             }
           ]
         },
@@ -942,6 +950,14 @@
           "label": "Asia Markets",
           "emoji": "🌏",
           "articles": [
+            {
+              "title": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer",
+              "description": "Bitcoin delivered nearly 234% returns over three years, outperforming silver, gold and equities. However, precious metals led over one year as cryptocurrencies declined. CoinDCX data also shows Bitcoin topping hypothetic",
+              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/stocks-gold-or-crypto-the-last-3-years-returns-have-a-surprising-answer/articleshow/135096080.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135096080,imgsize-161168.cms",
+              "publishedAt": "Wed, 21 Oct 2026 21:35:58 +0530"
+            },
             {
               "title": "Market Trading Guide: Wipro among 5 stock recommendations for Thursday",
               "description": "Technical analysts have recommended Wipro, NHPC, Sagility, LTTS and Hexaware Technologies for potential gains, citing bullish chart patterns, support levels and momentum indicators. The recommendations include specific e",
@@ -965,14 +981,6 @@
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-135094225,imgsize-114816.cms",
               "publishedAt": "Wed, 21 Oct 2026 19:32:53 +0530"
-            },
-            {
-              "title": "US stocks today: US stocks rise as SpaceX, Super Micro revive appetite for AI stocks",
-              "description": "Wall Street opened higher on Wednesday, led by gains in technology and AI stocks after quarterly results from SpaceX and Super Micro Computer improved investor appetite. The Nasdaq gained 0.67%, while the S&amp;P 500 and",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-spacex-super-micro-results-lift-ai-stocks/articleshow/135093777.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135093777,imgsize-180348.cms",
-              "publishedAt": "Wed, 21 Oct 2026 19:07:35 +0530"
             }
           ]
         },
@@ -982,6 +990,14 @@
           "emoji": "🛢️",
           "articles": [
             {
+              "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+              "description": "Sensex and Nifty ended above pre-closing auction session levels after extreme volatility, despite an Rs 8 lakh crore market selloff. Elevated crude prices, foreign investor outflows and weak market breadth kept sentiment",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135096044,imgsize-116884.cms",
+              "publishedAt": "Wed, 21 Oct 2026 21:27:41 +0530"
+            },
+            {
               "title": "Mahindra Finance Q2 net profit surges 55% to Rs 882 crore on volumes, lower credit cost",
               "description": "Business assets under management grew 15% year on year to Rs 1.47 lakh crore. Non-vehicle finance disbursements, including SME loans, personal loans and housing finance, increased 52%.",
               "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q2-net-profit-surges-55-to-rs-882-crore-on-volumes-lower-credit-cost/articleshow/135094556.cms",
@@ -990,12 +1006,12 @@
               "publishedAt": "Wed, 21 Oct 2026 19:58:03 +0530"
             },
             {
-              "title": "PC Jewellers Q2 Results: Net profit shoots up 58% to Rs 331 crore; company says it is now debt-free",
-              "description": "PC Jewellers Ltd has achieved an impressive 58 percent growth in net profit for Q2 of the 2026-27 fiscal year, driven by sales that surged beyond Rs 1,054 crore. The company is now debt-free after early repayment to bank",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms",
+              "title": "IHCL Q2 Results: Tata Group-owned hotel chain's net profit jumps 19% to Rs 379 crore",
+              "description": "Indian Hotels Company Ltd, under the Tata Group, has announced a remarkable 19.35% rise in consolidated profit for the September quarter, soaring to Rs 379.85 crore from Rs 318.26 crore last year. Revenue from operations",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q2-results-tata-group-owned-hotel-chains-net-profit-jumps-19-to-rs-379-crore/articleshow/135094055.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135094111,imgsize-40636.cms",
-              "publishedAt": "Wed, 21 Oct 2026 19:29:06 +0530"
+              "image": "https://img.etimg.com/photo/msid-135094055,imgsize-36584.cms",
+              "publishedAt": "Wed, 21 Oct 2026 19:27:18 +0530"
             },
             {
               "title": "Can Jio IPO unlock hidden value in Reliance Industries shares?",
@@ -1014,12 +1030,12 @@
               "publishedAt": "Wed, 21 Oct 2026 18:50:01 +0530"
             },
             {
-              "title": "Aye Finance Q2 Results: Net profit more than doubles to Rs 87 crore",
-              "description": "Aye Finance Ltd's net profit surged to Rs 87 crore in the second quarter of the financial year, a remarkable increase from Rs 35 crore in the same timeframe last year. Total income also climbed to Rs 527 crore, reflectin",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/aye-finance-q2-results-net-profit-more-than-doubles-to-rs-87-crore/articleshow/135092689.cms",
+              "title": "IGI Q2 Results: Consolidated PAT surges 43% to Rs 185 crore",
+              "description": "The International Gemological Institute recently announced an impressive 43.14 percent growth in profit after tax for the previous quarter. Operational revenue rose by 31 percent compared to last year. Demand for both la",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/igi-q2-results-consolidated-pat-surges-43-to-rs-185-crore/articleshow/135093213.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135092689,imgsize-241420.cms",
-              "publishedAt": "Wed, 21 Oct 2026 18:05:05 +0530"
+              "image": "https://img.etimg.com/photo/msid-135093213,imgsize-25710.cms",
+              "publishedAt": "Wed, 21 Oct 2026 18:35:12 +0530"
             }
           ]
         },
@@ -1028,6 +1044,14 @@
           "label": "Crypto",
           "emoji": "₿",
           "articles": [
+            {
+              "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+              "description": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
+              "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FPM6BCNQXFX9C9NF5W5GF3/hi-heres-what-you-pay-for-using-crypto-mica-eu.png",
+              "publishedAt": "Wed, 21 Oct 2026 17:57:39 +0000"
+            },
             {
               "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
               "description": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.",
@@ -1099,14 +1123,6 @@
               "source": "cointelegraph.com",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F9M5QVFXDEA42YHSF756WB/hi-despite-the-markets-being-down-the-blockchain-industry-is-still-thriving-solana.jpg",
               "publishedAt": "Wed, 21 Oct 2026 13:57:14 +0000"
-            },
-            {
-              "title": "Here’s what happened in crypto today",
-              "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-              "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-              "publishedAt": "Wed, 21 Oct 2026 13:34:54 +0000"
             }
           ]
         }
