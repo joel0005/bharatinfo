@@ -203,14 +203,6 @@
               "publishedAt": "Wed, 21 Oct 2026 07:00:00 GMT"
             },
             {
-              "title": "Using thousands of AI agents to uncover new leads in biological data",
-              "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-              "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-              "source": "openai.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 04:50:00 GMT"
-            },
-            {
               "title": "Southeast Asia’s digital economy to hit $368 billion",
               "description": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
               "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
@@ -219,20 +211,28 @@
               "publishedAt": "Wed, 21 Oct 2026 04:00:00 +0000"
             },
             {
-              "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-              "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-              "url": "https://openai.com/index/cloudflare-cyber",
-              "source": "openai.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 00:00:00 GMT"
-            },
-            {
               "title": "Introducing Playground: Create and play custom games",
               "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
               "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
               "source": "blog.google",
               "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
               "publishedAt": "Wed, 07 Oct 2026 12:00:00 +0000"
+            },
+            {
+              "title": "AI for Societal Impact",
+              "description": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+              "publishedAt": "Tue, 15 Sep 2026 16:00:00 +0000"
+            },
+            {
+              "title": "Building AI to accelerate science and improve lives",
+              "description": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+              "source": "blog.google",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
+              "publishedAt": "Tue, 15 Sep 2026 16:00:00 +0000"
             }
           ]
         },
@@ -485,12 +485,44 @@
               "publishedAt": "Sun, 25 Oct 2026 16:05:00 +0000"
             },
             {
-              "title": "Starlink seems to be working normally again in Ukraine",
-              "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-              "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+              "title": "News Publishers Move SC To Challenge The DPDP Act",
+              "description": "A group of 21 news publishers has reportedly challenged India’s Digital Personal Data Protection (DPDP) Act in the Supreme Court&#8230;",
+              "url": "https://inc42.com/buzz/news-publishers-move-sc-to-challenge-the-dpdp-act/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Mon, 26 Oct 2026 20:14:46 +0000"
+            },
+            {
+              "title": "BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI",
+              "description": "AI-powered healthtech platform BioStack has raised $9.5 Mn (₹90.4 Cr) in its seed funding round led by Peak XV Partners,&#8230;",
+              "url": "https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Mon, 26 Oct 2026 19:47:18 +0000"
+            },
+            {
+              "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+              "description": "A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking.",
+              "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
               "source": "techcrunch.com",
               "image": "",
-              "publishedAt": "Sat, 24 Oct 2026 20:46:34 +0000"
+              "publishedAt": "Mon, 26 Oct 2026 19:22:40 +0000"
+            },
+            {
+              "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+              "description": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+              "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Mon, 26 Oct 2026 18:59:52 +0000"
+            },
+            {
+              "title": "Matiks Bags $10 Mn To Take Its Puzzle Gaming Platform Global",
+              "description": "Social gaming platform Matiks has raised $10 Mn (₹95.1 Cr) in its Pre-Series A funding round led by General Catalyst. &#8230;",
+              "url": "https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Mon, 26 Oct 2026 18:06:06 +0000"
             },
             {
               "title": "This startup’s self-driving excavators help dig up $600M in new funding",
@@ -499,30 +531,6 @@
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Mon, 26 Oct 2026 17:45:00 +0000"
-            },
-            {
-              "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-              "description": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-              "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Mon, 26 Oct 2026 16:49:42 +0000"
-            },
-            {
-              "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-              "description": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it",
-              "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Mon, 26 Oct 2026 16:46:36 +0000"
-            },
-            {
-              "title": "Microsoft offers buyouts to around 60,000 employees",
-              "description": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
-              "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Mon, 26 Oct 2026 15:58:25 +0000"
             }
           ]
         },
@@ -532,12 +540,20 @@
           "emoji": "📈",
           "articles": [
             {
-              "title": "Sembcorp Industries mulls  ₹3,750 cr IPO for India unit in Dec 2026: Firm profile; top details investors should know",
-              "description": "Temasek-backed renewable energy company meets investors; proceeds to be used to repay borrowings",
-              "url": "https://www.livemint.com/market/sembcorp-industries-mulls-rs-3-750-cr-ipo-for-india-unit-in-dec-2026-firm-profile-top-details-investors-should-know-11793036451582.html",
-              "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/26/1600x900/logo/ipos_1793038151119_qBIt_1793038171805_eK1K_190afc5c-4d08-4116-8514-3f33fcbdcae5_qv1M.jpg",
-              "publishedAt": "Mon, 26 Oct 2026 23:58:33 +0530"
+              "title": "US Markets Today: S&amp;P, Nasdaq end higher as Anthropic IPO filing revives AI optimism; Tesla hits 3 month high",
+              "description": "US stocks ended higher as Anthropic's IPO filing rekindled interest in AI related investments and stocks. The S&amp;P 500 gained 0.70% and the Nasdaq rose by 0.83% following this news. Investors are keenly observing Anth",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-higher-as-anthropic-ipo-filing-revives-ai-optimism-tesla-hits-3-month-high/articleshow/135219329.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135219329,imgsize-31720.cms",
+              "publishedAt": "Tue, 27 Oct 2026 01:47:48 +0530"
+            },
+            {
+              "title": "Sunteck Realty H1FY27 net profit rises 20%, pre-sales up 19%",
+              "description": "Sunteck Realty recorded a net profit of Rs 99 crore in the first half of FY27. Revenue increased 16% to Rs 512 crore, reflecting strong business growth during this period. Pre-sales also rose to Rs 1,611 crore, showing c",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-h1fy27-net-profit-rises-20-pre-sales-up-19/articleshow/135217893.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135217893,imgsize-91010.cms",
+              "publishedAt": "Mon, 26 Oct 2026 23:58:06 +0530"
             },
             {
               "title": "Goldman Sachs Kospi target cut: Why South Korea market experts lowered target to 9,000 from 12,000 - Explained",
@@ -570,52 +586,52 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "Kuttiadi eyes river circuit to tap tourism potential",
-              "description": "The proposed projects include a heritage walking trail and a happiness park in Kuttiadi; birdwatching, farm tourism and a walkway at Cherandathur Chira",
-              "url": "https://www.thehindu.com/news/national/kerala/kuttiadi-eyes-river-circuit-to-tap-tourism-potential/article71627484.ece",
+              "title": "Ex-DMK minister Anbil remanded to judicial custody till Nov 6",
+              "description": "Chennai police took Tamil Nadu’s former School Education Minister into custody after his anticipatory bail plea was rejected; allegedly involved in a multi-crore scam to collect money from private school managements",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-mahesh-poyyamozhi-arrested/article71626605.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/bzbmmz/article71628642.ece/alternates/LANDSCAPE_1200/6742_10-9-2018_20-3-38_2_11TVKZKUTTIYADI-RIVER.JPG",
-              "publishedAt": "Mon, 26 Oct 2026 23:42:57 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/wcz7ce/article71627285.ece/alternates/LANDSCAPE_1200/SRI_1384.JPG",
+              "publishedAt": "Tue, 27 Oct 2026 01:30:52 +0530"
             },
             {
-              "title": "Suspected kingpin of drug network held in Malappuram",
-              "description": "Police say Ibrahim Badusha played a key role in the network linked to the seizure of 12.8 kg of MDMA from Coimbatore in August",
-              "url": "https://www.thehindu.com/news/national/kerala/suspected-kingpin-of-drug-network-held-in-malappuram/article71627134.ece",
+              "title": "SHRC calls for checks on private clinics after boy’s death following tonsil surgery in Kannur",
+              "description": "The Commission issued the directive to the Additional Chief Secretary, Health department, asking the authorities to verify the qualifications and registration of doctors and other staff working at such clinics.",
+              "url": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Mon, 26 Oct 2026 23:36:52 +0530"
+              "publishedAt": "Tue, 27 Oct 2026 01:12:55 +0530"
             },
             {
-              "title": "Madras High Court denies anticipatory bail to Anbil Mahesh Poyyamozhi in ₹100-crore private schools fraud case",
-              "description": "Justice V. Lakshminarayanan dismisses his advance bail plea in a case being investigated by the Chennai Central Crime Branch police",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-denies-anticipatory-bail-to-anbil-mahesh-poyyamozhi-in-rs-100-crore-private-schools-fraud-case/article71625866.ece",
+              "title": "BJP holds nationwide protests against Congress president’s 'derogatory' remarks on PM Modi’s late father",
+              "description": "BJP leaders and workers protested near Sena Bhawan Circle and on Rajaji Marg, close to Congress president Mallikarjun Kharge’s residence, in Delhi",
+              "url": "https://www.thehindu.com/news/national/bjp-holds-nationwide-protests-against-congress-presidents-derogatory-remarks-on-pm-modis-late-father/article71628269.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/wgvbz9/article71625947.ece/alternates/LANDSCAPE_1200/9871_29_5_2023_19_30_9_1_ANBILMAHESHPOYYAMOZHI.JPG",
-              "publishedAt": "Mon, 26 Oct 2026 23:31:35 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/pej4sx/article71628688.ece/alternates/LANDSCAPE_1200/20261026567L.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 00:56:04 +0530"
             },
             {
-              "title": "Virtual autopsy at Kozhikode Medical College Hospital: launch likely to take time",
-              "description": "The Forensic Medicine Department has submitted a detailed list of the facilities to be introduced at the hospital, including the staff to be appointed and the equipment to be installed, to the government",
-              "url": "https://www.thehindu.com/news/national/kerala/launch-of-virtual-autopsy-at-kozhikode-medical-college-hospital-likely-to-take-time/article71627140.ece",
+              "title": "After slashing VAT on jet fuel, Tamil Nadu government asks airlines to add more services from Chennai airport",
+              "description": "Sources say that after reduction of VAT from 29% to 16%, the airlines have assured the government that they would increase the number of flights, but haven’t given a time-frame for implementation",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/after-slashing-vat-on-jet-fuel-tamil-nadu-government-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/v7v6s0/article71628336.ece/alternates/LANDSCAPE_1200/80692_26_10_2026_20_2_28_1_27TVKZFORENSIC.JPG",
-              "publishedAt": "Mon, 26 Oct 2026 23:29:11 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/8dhqra/article71627345.ece/alternates/LANDSCAPE_1200/Flights_05.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 00:48:10 +0530"
             },
             {
-              "title": "Water release from Mettur dam for irrigation suspended after about 50 days",
-              "description": "Acknowledging the suspension of the release, an official says the idea is to build a comfortable storage at the dam before deciding to resume the release",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/water-release-from-mettur-dam-for-irrigation-suspended-after-about-50-days/article71627578.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/vnokbh/article71628237.ece/alternates/LANDSCAPE_1200/9868_24_10_2026_13_27_44_1_METTURDAM_1.JPG",
-              "publishedAt": "Mon, 26 Oct 2026 23:24:55 +0530"
-            },
-            {
-              "title": "Hare Krishna Vaikuntham begins month-long Damodara Deepotsavam",
+              "title": "Minister Vanni Arasu inspects rain affected areas in Kallakurichi",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/hare-krishna-vaikuntham-begins-month-long-damodara-deepotsavam/article71628293.ece",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/minister-vanni-arasu-inspects-rain-affected-areas-in-kallakurichi/article71626589.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/ylq1tr/article71628246.ece/alternates/LANDSCAPE_1200/ac20ef11-4363-4281-adec-137f0a8300de.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 00:26:32 +0530"
+            },
+            {
+              "title": "State government relaxes norms for height restriction on non-high rise buildings",
+              "description": "The State government has amended the Tamil Nadu Combined Development and Building Rules, 2019, relaxing height restriction on non-high rise buildings from 18.3 metres to 19.5 metres",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/state-government-relaxes-norms-for-height-restriction-on-non-high-rise-buildings/article71628586.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Mon, 26 Oct 2026 23:20:49 +0530"
+              "publishedAt": "Tue, 27 Oct 2026 00:23:20 +0530"
             }
           ]
         },
@@ -649,6 +665,14 @@
               "publishedAt": "Wed, 16 Sep 2026 15:40:25 +0530"
             },
             {
+              "title": "\"Bail Would Paralyse Probe\": What Madras High Court Said Before DMK Leader's Arrest",
+              "description": "One of the most significant grounds cited by the court for not granting bail was the alleged shielding of on the run co-accused, Muthukumar.",
+              "url": "https://www.ndtv.com/india-news/bail-would-paralyse-probe-what-madras-high-court-said-before-dmk-leaders-arrest-12239862#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2025-06/18454s1g_anbil-mahesh-poyyamozhi_625x300_21_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Tue, 27 Oct 2026 00:12:31 +0530"
+            },
+            {
               "title": "Former Andhra Pradesh Deputy CM Alla Nani dies of cardiac arrest in Visakhapatnam; he was 56",
               "description": "The Eluru leader was Health Minister through the pandemic in the Y.S. Jagan Mohan Reddy government, lost his seat in 2024, quit the YSRCP that August and joined the TDP in February 2025",
               "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-andhra-pradesh-deputy-chief-minister-alla-nani-dies-of-cardiac-arrest-at-56/article71467339.ece",
@@ -663,46 +687,6 @@
               "source": "thehindu.com",
               "image": "https://th-i.thgim.com/public/news/national/bixfxp/article71474134.ece/alternates/LANDSCAPE_1200/iStock-1344985960.jpg",
               "publishedAt": "Thu, 17 Sep 2026 00:52:37 +0530"
-            },
-            {
-              "title": "Headline numbers mask AGP’s steady slide despite 10 years in power",
-              "description": "BJP’s junior ally in Assam gets the same number of seats to contest as last time, but a granular analysis reveals slipping ground",
-              "url": "https://www.thehindu.com/elections/assam-assembly/headline-numbers-mask-agps-steady-slide-despite-10-years-in-power/article70777121.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/utn8oa/article70777115.ece/alternates/LANDSCAPE_1200/20260323550L.jpg",
-              "publishedAt": "Thu, 16 Apr 2026 15:09:22 +0530"
-            },
-            {
-              "title": "Women Reservation Bill: In 20 States & UTs less than 10% MLAs are female | Data",
-              "description": "Share of women parliamentarians has never exceeded 15% in the past general elections",
-              "url": "https://www.thehindu.com/data/women-reservation-bill-in-20-states-uts-less-than-10-mlas-are-female-data/article67338512.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/15d1co/article67338517.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
-              "publishedAt": "Thu, 16 Apr 2026 14:19:09 +0530"
-            },
-            {
-              "title": "A ‘ballerina’ from Eurosiberia finds a new stage in India",
-              "description": "During winter, in India, Demoiselle Crane sightings largely happen in Gujarat and Rajasthan. On February 28, 2026, the first sighting of a Demoiselle Crane was reported from Chennai Metropolitan Area. The only other reco",
-              "url": "https://www.thehindu.com/news/national/two-youngsters-from-chennai-witness-a-rare-dance-of-migration-by-a-french-ballerina-at-nemmeli-salt-pans/article70700788.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/yzpw8e/article70702560.ece/alternates/LANDSCAPE_1200/08dc%20%20Demoiselle%20Crane%20Naman.jpg",
-              "publishedAt": "Thu, 05 Mar 2026 21:14:46 +0530"
-            },
-            {
-              "title": "Comfort fit for conservancy workers: how three Indian cities are getting the ‘measurements’ right",
-              "description": "What does it take to design gloves, masks and uniform that factor in the various challenges faced by workers on the waste beat? Indore, Bengaluru and Pune have an answer",
-              "url": "https://www.thehindu.com/news/national/comfort-fit-for-conservancy-workers-how-three-indian-cities-are-getting-the-measurements-right/article70705975.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/657p6z/article70705998.ece/alternates/LANDSCAPE_1200/indore1.jpg",
-              "publishedAt": "Thu, 05 Mar 2026 12:00:55 +0530"
-            },
-            {
-              "title": "Hope flows anew with revival of Andhra’s Veligonda project",
-              "description": "Conceived as a long-term response to the nearly four-decade fight of the people against chronic drought, depleted water resources, and fluoride contamination in parts of the region, the project aims to create a large irr",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/hope-flows-anew-with-revival-of-andhras-veligonda-project/article71479450.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/uy5isz/article71481936.ece/alternates/LANDSCAPE_1200/10215_18_9_2026_15_12_50_1_DSC_5155.JPG",
-              "publishedAt": "Sun, 20 Sep 2026 11:58:20 +0530"
             }
           ]
         },
@@ -712,44 +696,44 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "VACB holds awareness session for government employees",
-              "description": "The district will host various programmes until November 2 as part of the anti-corruption awareness campaign.",
-              "url": "https://www.thehindu.com/news/national/kerala/vigilance-awareness-programme-held/article71627291.ece",
+              "title": "Media association challenges privacy law in Supreme Court",
+              "description": "A three-judge Bench headed by Chief Justice of India Surya Kant is scheduled to hear a batch of petitions filed by activists on October 27",
+              "url": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/kerala/b0rnlc/article71627299.ece/alternates/LANDSCAPE_1200/Vigil.jpg",
-              "publishedAt": "Mon, 26 Oct 2026 23:38:14 +0530"
+              "image": "https://th-i.thgim.com/public/latest-news/dd9udj/article71628208.ece/alternates/LANDSCAPE_1200/Data-protection-bill.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 01:18:27 +0530"
             },
             {
-              "title": "Kannur panchayat contracts: KSU vice-president challenges allegations, threatens legal action",
-              "description": "The confrontation comes amid a fresh vigilance investigation into alleged irregularities in public works contracts worth more than ₹12 crore awarded to the company.",
-              "url": "https://www.thehindu.com/news/national/kerala/kannur-panchayat-contracts-ksu-vice-president-challenges-allegations-threatens-legal-action/article71626560.ece",
+              "title": "Two Vande Bharat trains partially cancelled for signal work at Kalamassery station on Oct. 27",
+              "description": "Two Vande Bharat services to be partially cancelled, while the Mangala Lakshadweep Superfast Express will be delayed by 90 minutes",
+              "url": "https://www.thehindu.com/news/national/kerala/train-services-to-be-regulated-for-signal-work-at-kalamassery-station-on-oct-27/article71628085.ece",
               "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Mon, 26 Oct 2026 23:33:13 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/s5ffib/article71628304.ece/alternates/LANDSCAPE_1200/10018_13_12_2024_20_20_7_1_RAILWAY_01.JPG",
+              "publishedAt": "Tue, 27 Oct 2026 01:04:19 +0530"
             },
             {
-              "title": "No Change To Form 6, Declaration Is Separate: Poll Body To Top Court",
-              "description": "The Election Commission said in the court document that only the central government can make changes to the format of Form 6.",
-              "url": "https://www.ndtv.com/india-news/form-6-unchanged-declaration-has-different-purpose-poll-body-to-top-court-12239703#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2023-10/2074em5g_rajasthan-assembly-elections-_625x300_11_October_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Mon, 26 Oct 2026 23:31:26 +0530"
-            },
-            {
-              "title": "Six held after alleged drug-trade groups clash at police station",
-              "description": "A search of the vehicles led to the seizure of 9 grams of MDMA and 10.5 grams of ganja, say police.",
-              "url": "https://www.thehindu.com/news/national/kerala/six-arrested-after-clash-at-kuttiadi-police-station/article71627053.ece",
+              "title": "BJP stages protest over Kharge’s comments",
+              "description": "Addressing the gathering, BJP leader and former Telangana Governor Tamilisai Soundararajan criticised Mr. Kharge for his comments",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-stages-protest-over-kharges-comments/article71627161.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Mon, 26 Oct 2026 23:27:30 +0530"
+              "publishedAt": "Tue, 27 Oct 2026 00:50:47 +0530"
             },
             {
-              "title": "Don't Waste Money, Celebs Must Do Anti-Fireworks Campaign For Free: Bombay High Court",
-              "description": "The Bombay High Court questioned why celebrities who attend the annual Mumbai Police event 'Umang' could not spare 15 minutes for a social cause.",
-              "url": "https://www.ndtv.com/india-news/dont-waste-money-celebs-must-do-anti-fireworks-campaign-for-free-bombay-high-court-12239680#publisher=newsstand",
+              "title": "Maharashtra will prioritise its own interest on Telangana barrage project, says Fadnavis",
+              "description": "Joint committee will be formed to do an independent study of the project’s impact",
+              "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-will-prioritise-its-own-interest-on-telangana-barrage-project-says-fadnavis/article71628280.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/het3si/article71628678.ece/alternates/LANDSCAPE_1200/PTI10_22_2026_000244B.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 00:44:12 +0530"
+            },
+            {
+              "title": "Trump's \"A**\" Remark About Nicki Minaj At Rally, Then An Apology",
+              "description": "The singer travelled with Trump to the state aboard Air Force One. She filmed a video with an aide on the president's plane, pretending to interview for the White House press secretary role.",
+              "url": "https://www.ndtv.com/world-news/donald-trump-nicki-minaj-abdul-el-sayed-trumps-crude-remark-about-nicki-minajs-a-at-rally-then-an-apology-12238086#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-08/rnldmrig_bombay-high-court_625x300_08_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Mon, 26 Oct 2026 23:21:33 +0530"
+              "image": "https://c.ndtvimg.com/2026-10/1rltr55c_nicki-minaj-donald-trump_625x300_26_October_26.jpeg",
+              "publishedAt": "Tue, 27 Oct 2026 00:27:09 +0530"
             }
           ]
         },
@@ -758,6 +742,38 @@
           "label": "Elections",
           "emoji": "🗳️",
           "articles": [
+            {
+              "title": "Odisha, Andhra Pradesh On Alert As Severe Cyclonic Storm Arnab Approaches",
+              "description": "Arnab is likely to cross Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam as a very severe cyclonic storm, with maximum sustained winds of 115-125 kmph gusting up to 140 kmph by the forenoon of October 2",
+              "url": "https://www.ndtv.com/india-news/odisha-andhra-pradesh-on-alert-as-severe-cyclonic-storm-arnab-approaches-12239872#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/4l49gfco_cyclone-arnab_625x300_26_October_26.jpeg",
+              "publishedAt": "Tue, 27 Oct 2026 00:14:11 +0530"
+            },
+            {
+              "title": "Rahul Gandhi to Launch Congress' Mission 2027 from Bhagwant Mann's Home Turf",
+              "description": "Punjab Congress chief Pargat Singh announced that Rahul Gandhi will initiate a fresh phase of the party's election preparations from Malwa",
+              "url": "https://www.ndtv.com/india-news/rahul-gandhi-to-launch-congress-mission-2027-from-bhagwant-manns-home-turf-12239827#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/46j5v03c_rahul-gandhi-photo-pti_625x300_26_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 27 Oct 2026 00:13:53 +0530"
+            },
+            {
+              "title": "Gen Z Strike Called Against Arunachal Dam, Forces Airlifted From Mumbai",
+              "description": "The Arunachal Pradesh Police are preparing for the agitation and have called in two Rapid Action Force (RAF) companies from Navi Mumbai to Pasighat as reinforcements.",
+              "url": "https://www.ndtv.com/india-news/gen-z-strike-called-against-arunachal-dam-forces-airlifted-from-mumbai-12239857#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/pdut1luc_arunachal_625x300_24_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 27 Oct 2026 00:13:26 +0530"
+            },
+            {
+              "title": "5 Killed In Shootout At Guwahati Hotel After Dispute Between Owner, Lessee",
+              "description": "The incident occurred at Hotel Bilas Inn in Guwahati's Bora Service area.",
+              "url": "https://www.ndtv.com/india-news/four-shot-dead-two-critically-injured-at-guwahati-hotel-12239778#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/si3s2rho_assam_625x300_26_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 27 Oct 2026 00:12:18 +0530"
+            },
             {
               "title": "Special trains between Thiruvananthapuram North and Mangaluru on October 20th and 21st",
               "description": "South Western Railway will operate one trip each of an express special train in both directions between Thiruvananthapuram North and Mangaluru Junction to clear the extra rush of passengers during the festival season.",
@@ -797,46 +813,6 @@
               "source": "thehindu.com",
               "image": "https://th-i.thgim.com/public/incoming/fsl9tw/article71576732.ece/alternates/LANDSCAPE_1200/vjkvg-sir%203.JPG",
               "publishedAt": "Sun, 18 Oct 2026 22:20:31 +0530"
-            },
-            {
-              "title": "The first vote | Revisiting India’s first general election: 1951–52",
-              "description": "At 8 a.m. on October 25, 1951, the first votes in independent India’s first general election were cast in the remote tehsils of Chini and Pangi in Himachal Pradesh. It was the beginning of an unprecedented democratic exe",
-              "url": "https://www.thehindu.com/infographics/2026-10-24/india-first-general-election-1951-52/index.html",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/vs5hmt/article71620325.ece/alternates/LANDSCAPE_1200/the-first-vote-lead.jpg.jpeg",
-              "publishedAt": "Sat, 24 Oct 2026 19:07:22 +0530"
-            },
-            {
-              "title": "Nedumbassery accident: Keralam Home Minister says govt. will ensure maximum punishment for accused",
-              "description": "Ramesh Chennithala dismisses allegations of victims’ family members that attempts have been made to scuttle the probe into the case; he says someone is apparently trying to mislead them",
-              "url": "https://www.thehindu.com/elections/kerala-assembly/nedumbassery-accident-keralam-home-minister-says-govt-will-ensure-maximum-punishment-for-accused/article71580490.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/t1wx6m/article71580542.ece/alternates/LANDSCAPE_1200/Messi-visit-rowGLIGG512S.3.jpg.jpg",
-              "publishedAt": "Sat, 17 Oct 2026 22:19:11 +0530"
-            },
-            {
-              "title": "Tamil Nadu’s claim of Cauvery backlog and the Supreme Court’s response | Explained",
-              "description": "The failure of the southwest monsoon (June-September) this year is the primary reason for the current round of disputes between Karnataka and Tamil Nadu",
-              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadus-claim-of-cauvery-backlog-and-the-supreme-courts-response-explained/article71578288.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/y3od97/article71578307.ece/alternates/LANDSCAPE_1200/IMG_7174.jpeg",
-              "publishedAt": "Sat, 17 Oct 2026 21:37:18 +0530"
-            },
-            {
-              "title": "At sixes and sevens, the ECI’s growing credibility crisis",
-              "description": "The Election Commission of India’s actions and questions around Forms 6 and 7 deepen doubts about its impartiality and transparency",
-              "url": "https://www.thehindu.com/opinion/lead/at-sixes-and-sevens-the-ecis-growing-credibility-crisis/article71576568.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/rexla1/article71576571.ece/alternates/LANDSCAPE_1200/INDEX_Election_Commission_of_India_12_04_4.jpg",
-              "publishedAt": "Sat, 17 Oct 2026 20:44:22 +0530"
-            },
-            {
-              "title": "The need to preserve the shine of Indian elections",
-              "description": "Elections are by far the best organised expression of “we, the people” and hence cannot be allowed to fail",
-              "url": "https://www.thehindu.com/opinion/op-ed/the-need-to-preserve-the-shine-of-indian-elections/article71572517.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/j0yiyv/article71572767.ece/alternates/LANDSCAPE_1200/India_Cockroach_Protest_59856.jpg",
-              "publishedAt": "Sat, 17 Oct 2026 18:16:19 +0530"
             }
           ]
         }
@@ -853,12 +829,20 @@
           "emoji": "📈",
           "articles": [
             {
-              "title": "Sunteck Realty H1FY27 net profit rises 20%, pre-sales up 19%",
-              "description": "Sunteck Realty recorded a net profit of Rs 99 crore in the first half of FY27. Revenue increased 16% to Rs 512 crore, reflecting strong business growth during this period. Pre-sales also rose to Rs 1,611 crore, showing c",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-h1fy27-net-profit-rises-20-pre-sales-up-19/articleshow/135217893.cms",
+              "title": "Sembcorp Industries mulls  ₹3,750 cr IPO for India unit in Dec 2026: Firm profile; top details investors should know",
+              "description": "Temasek-backed renewable energy company meets investors; proceeds to be used to repay borrowings",
+              "url": "https://www.livemint.com/market/sembcorp-industries-mulls-rs-3-750-cr-ipo-for-india-unit-in-dec-2026-firm-profile-top-details-investors-should-know-11793036451582.html",
+              "source": "livemint.com",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/26/1600x900/logo/ipos_1793038151119_qBIt_1793038171805_eK1K_190afc5c-4d08-4116-8514-3f33fcbdcae5_qv1M.jpg",
+              "publishedAt": "Mon, 26 Oct 2026 23:58:33 +0530"
+            },
+            {
+              "title": "Dalmia Bharat posts Rs 205 crore Q2 loss on exceptional hit",
+              "description": "Dalmia Bharat experienced a consolidated loss of Rs 205 crore in the September quarter of this year. This loss was due to an exceptional hit of Rs 339 crore related to asset impairment and employee separation. Sales volu",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/dalmia-bharat-posts-rs-205-crore-q2-loss-on-exceptional-hit/articleshow/135217688.cms",
               "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135217893,imgsize-91010.cms",
-              "publishedAt": "Mon, 26 Oct 2026 23:58:06 +0530"
+              "image": "https://img.etimg.com/photo/msid-135217688,imgsize-17804.cms",
+              "publishedAt": "Mon, 26 Oct 2026 23:49:52 +0530"
             },
             {
               "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
@@ -875,6 +859,14 @@
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-135214844,imgsize-10364.cms",
               "publishedAt": "Mon, 26 Oct 2026 20:56:51 +0530"
+            },
+            {
+              "title": "Indian Overseas Bank to raise $500 million as Q2 profit jumps 56%",
+              "description": "Indian Overseas Bank plans to raise $500 million through external commercial borrowings in two tranches by December. The lender reported a 56% rise in Q2 net profit to Rs 1,912 crore, alongside stronger credit growth and",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-overseas-bank-to-raise-500-million-as-q2-profit-jumps-56/articleshow/135214567.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135214567,imgsize-66814.cms",
+              "publishedAt": "Mon, 26 Oct 2026 20:44:37 +0530"
             },
             {
               "title": "Brazil’s Ibovespa plunges 17.3% as Lula defeats Bolsonaro in presidential runoff; biggest-ever one-day crash",
@@ -954,22 +946,6 @@
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-135216298,imgsize-488693.cms",
               "publishedAt": "Mon, 26 Oct 2026 22:48:18 +0530"
-            },
-            {
-              "title": "Timeline: Anthropic's path from AI startup to industry-defining IPO",
-              "description": "Anthropic's IPO filing marks a significant step toward becoming the first public listing for a frontier AI lab. The company has raised a total of $3.5 billion in various funding rounds leading up to its IPO. Significant",
-              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/timeline-anthropics-path-from-ai-startup-to-industry-defining-ipo/articleshow/135213109.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135213109,imgsize-45702.cms",
-              "publishedAt": "Mon, 26 Oct 2026 18:59:31 +0530"
-            },
-            {
-              "title": "ET Product of the Year Awards 2026: Recognising Home &amp; Kitchen Appliance of the Year innovation that makes everyday living better",
-              "description": "The ET Product of the Year Awards 2026 honors cutting-edge home and kitchen appliances introduced or revamped in India. This category emphasizes products that improve daily living by focusing on energy efficiency, practi",
-              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-product-of-the-year-awards-2026-recognising-home-kitchen-appliance-of-the-year-innovation-that-makes-everyday-living-better/articleshow/135209327.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135209327,imgsize-74966.cms",
-              "publishedAt": "Mon, 26 Oct 2026 16:39:06 +0530"
             }
           ]
         },
@@ -979,12 +955,20 @@
           "emoji": "🏭",
           "articles": [
             {
-              "title": "Dalmia Bharat posts Rs 205 crore Q2 loss on exceptional hit",
-              "description": "Dalmia Bharat experienced a consolidated loss of Rs 205 crore in the September quarter of this year. This loss was due to an exceptional hit of Rs 339 crore related to asset impairment and employee separation. Sales volu",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/dalmia-bharat-posts-rs-205-crore-q2-loss-on-exceptional-hit/articleshow/135217688.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135217688,imgsize-17804.cms",
-              "publishedAt": "Mon, 26 Oct 2026 23:49:52 +0530"
+              "title": "Tokenisation offers common ledger for real-world assets, says Edul Patel",
+              "description": "Mudrex CEO Edul Patel says tokenisation could improve liquidity, transparency and access to real-world assets through a common digital ledger, but regulatory safeguards remain crucial.",
+              "url": "https://www.business-standard.com/specials/bs-events/tokenisation-offers-common-ledger-for-real-world-assets-says-edul-patel-126102601423_1.html",
+              "source": "business-standard.com",
+              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261026/full-126102601423.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 00:40:04 +0530"
+            },
+            {
+              "title": "Retail participation has been very strong in India, says Vikas Satija",
+              "description": "Shriram Wealth's Vikas Satija says long-term investors should not fear market volatility, while AI will reshape wealth management without replacing relationship managers.",
+              "url": "https://www.business-standard.com/specials/bs-events/retail-participation-has-been-very-strong-in-india-says-vikas-satija-126102601279_1.html",
+              "source": "business-standard.com",
+              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261026/full-126102601279.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 00:32:21 +0530"
             },
             {
               "title": "Stock markets rebound after 4-day slump; Sensex jumps 483 points",
@@ -1001,22 +985,6 @@
               "source": "business-standard.com",
               "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261026/full-126102601649.jpg",
               "publishedAt": "Mon, 26 Oct 2026 23:06:52 +0530"
-            },
-            {
-              "title": "MMT reports net profit of $1.8 million in Q2, revenues at $ 235.2 million",
-              "description": "MakeMyTrip reported a $1.8 million Q2 net profit, reversing a year-earlier loss of $5.7 million. Revenue rose 11.2% to $235.2 million, while gross bookings grew 20.9%, supported by hotels, transport and AI-powered travel",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/mmt-reports-net-profit-of-1-8-million-in-q2-revenues-at-235-2-million/articleshow/135214497.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135214497,imgsize-276933.cms",
-              "publishedAt": "Mon, 26 Oct 2026 20:36:23 +0530"
-            },
-            {
-              "title": "Bank of Maharashtra Q2 profit jumps 41.5% as bad loans decline",
-              "description": "Bank of Maharashtra posted a 41.5% year-on-year rise in Q2 net profit to Rs 2,310 crore, supported by stronger income, deposit and credit growth, improved asset quality and a return on assets of 2.02%.",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-maharashtra-q2-profit-jumps-41-5-as-bad-loans-decline/articleshow/135214440.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135214440,imgsize-298076.cms",
-              "publishedAt": "Mon, 26 Oct 2026 20:34:08 +0530"
             }
           ]
         },
@@ -1025,6 +993,14 @@
           "label": "Market News",
           "emoji": "📰",
           "articles": [
+            {
+              "title": "Anthropic halts AI training for over a month over security concerns as models breach testing systems ahead of IPO",
+              "description": "Anthropic pauses training of its next generation AI model for more than a month over security concerns, while four AI models access live external computer systems during testing. The company discloses the incidents in it",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-halts-ai-training-for-over-a-month-over-security-concerns-as-models-breach-testing-systems/articleshow/135218073.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135218073,imgsize-184158.cms",
+              "publishedAt": "Tue, 27 Oct 2026 00:08:35 +0530"
+            },
             {
               "title": "Nippon Life AMC shares: Last chance to buy for  ₹9.50 interim dividend; record date, dividend yield",
               "description": "Nippon Life India Asset Management set October 28, 2026, as the record date for its  ₹9.50 interim dividend, with October 27 likely the last day to buy shares and qualify. September-quarter profit fell 6% to  ₹324.4 cror",
@@ -1040,14 +1016,6 @@
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-135215446,imgsize-30802.cms",
               "publishedAt": "Mon, 26 Oct 2026 21:57:14 +0530"
-            },
-            {
-              "title": "Indian Overseas Bank to raise $500 million as Q2 profit jumps 56%",
-              "description": "Indian Overseas Bank plans to raise $500 million through external commercial borrowings in two tranches by December. The lender reported a 56% rise in Q2 net profit to Rs 1,912 crore, alongside stronger credit growth and",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-overseas-bank-to-raise-500-million-as-q2-profit-jumps-56/articleshow/135214567.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135214567,imgsize-66814.cms",
-              "publishedAt": "Mon, 26 Oct 2026 20:44:37 +0530"
             }
           ]
         }
@@ -1173,6 +1141,22 @@
           "emoji": "₿",
           "articles": [
             {
+              "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+              "description": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
+              "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WMT5NDYKE425567R7TVKYC/hi-how-to-buy-cryptocurrency-in-canada.jpg",
+              "publishedAt": "Mon, 26 Oct 2026 19:47:40 +0000"
+            },
+            {
+              "title": "AI company Anthropic announces IPO, expected as early as November",
+              "description": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.",
+              "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WP5DJHQX7JZGFDHG6CQJH8/hi-ipo-bid.jpg",
+              "publishedAt": "Mon, 26 Oct 2026 18:42:41 +0000"
+            },
+            {
               "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
               "description": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.",
               "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1235,22 +1219,6 @@
               "source": "cointelegraph.com",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg",
               "publishedAt": "Mon, 26 Oct 2026 14:25:22 +0000"
-            },
-            {
-              "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-              "description": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
-              "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-              "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/c380b97dddcd8138aeaafd733f574fccd63dbd5a-4369x2421.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-              "publishedAt": "Mon, 26 Oct 2026 14:23:41 +0000"
-            },
-            {
-              "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-              "description": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
-              "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W4P12K292NZBRSP8W9DG6M/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price3-1.jpg",
-              "publishedAt": "Mon, 26 Oct 2026 13:27:38 +0000"
             }
           ]
         }
