@@ -13,12 +13,36 @@
           "emoji": "🏢",
           "articles": [
             {
-              "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-              "description": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-              "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-              "source": "wired.com",
+              "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+              "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+              "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+              "source": "techcrunch.com",
               "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 15:10:26 +0000"
+              "publishedAt": "Tue, 27 Oct 2026 17:08:08 +0000"
+            },
+            {
+              "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+              "description": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
+              "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 16:17:58 +0000"
+            },
+            {
+              "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+              "description": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+              "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png",
+              "publishedAt": "Tue, 27 Oct 2026 16:00:22 +0000"
+            },
+            {
+              "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+              "description": "Huge price hikes force loyal users to reconsider their favorite apps.",
+              "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 15:50:19 +0000"
             },
             {
               "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
@@ -35,30 +59,6 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
               "publishedAt": "Tue, 27 Oct 2026 14:00:49 +0000"
-            },
-            {
-              "title": "Japan internet giant GMO says hackers posted stolen customer data",
-              "description": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-              "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 13:32:57 +0000"
-            },
-            {
-              "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
-              "description": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
-              "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg",
-              "publishedAt": "Tue, 27 Oct 2026 13:32:35 +0000"
-            },
-            {
-              "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-              "description": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
-              "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg",
-              "publishedAt": "Tue, 27 Oct 2026 13:22:16 +0000"
             }
           ]
         },
@@ -92,20 +92,20 @@
               "publishedAt": "Wed, 14 Oct 2026 21:35:09 +0000"
             },
             {
+              "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+              "description": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+              "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Tue, 27 Oct 2026 15:10:26 +0000"
+            },
+            {
               "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
               "description": "The new standard, WebAI, is designed to work with a variety of AI models.",
               "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Tue, 27 Oct 2026 13:00:00 +0000"
-            },
-            {
-              "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-              "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-              "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 11:00:00 +0000"
             }
           ]
         },
@@ -123,14 +123,6 @@
               "publishedAt": "Wed, 23 Sep 2026 18:00:00 +0000"
             },
             {
-              "title": "How AT&T is rethinking in-house legal work with OpenAI",
-              "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-              "url": "https://openai.com/index/att-legal",
-              "source": "openai.com",
-              "image": "",
-              "publishedAt": "Wed, 21 Oct 2026 17:00:00 GMT"
-            },
-            {
               "title": "Southeast Asia’s digital economy to hit $368 billion",
               "description": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
               "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
@@ -145,6 +137,22 @@
               "source": "blog.google",
               "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
               "publishedAt": "Wed, 07 Oct 2026 12:00:00 +0000"
+            },
+            {
+              "title": "Japan internet giant GMO says hackers posted stolen customer data",
+              "description": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+              "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Tue, 27 Oct 2026 13:32:57 +0000"
+            },
+            {
+              "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+              "description": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+              "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Tue, 27 Oct 2026 13:00:00 +0000"
             },
             {
               "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
@@ -186,6 +194,22 @@
               "publishedAt": "Wed, 07 Oct 2026 13:49:48 +0000"
             },
             {
+              "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+              "description": "This article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on info",
+              "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+              "source": "spectrum.ieee.org",
+              "image": "https://spectrum.ieee.org/media-library/humanoid-robot-and-robot-dog-meet-a-woman-on-a-sunny-terrace-at-sunset.jpg?id=68002098&width=980",
+              "publishedAt": "Tue, 27 Oct 2026 16:14:39 +0000"
+            },
+            {
+              "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+              "description": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
+              "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 13:32:35 +0000"
+            },
+            {
               "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
               "description": "Science has a spam problem. And the spam filter is getting clogged up.According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI",
               "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
@@ -216,22 +240,6 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/helios-chip_top-1152x648.jpg",
               "publishedAt": "Tue, 20 Oct 2026 18:08:57 +0000"
-            },
-            {
-              "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-              "description": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-              "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg",
-              "publishedAt": "Tue, 20 Oct 2026 05:59:56 +0000"
-            },
-            {
-              "title": "Google DeepMind’s New Resident Philosopher Tackles AI Ethics",
-              "description": "How should humans relate to generative AI? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could s",
-              "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
-              "source": "spectrum.ieee.org",
-              "image": "https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=980",
-              "publishedAt": "Tue, 13 Oct 2026 13:00:03 +0000"
             }
           ]
         },
@@ -263,14 +271,6 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
               "publishedAt": "Wed, 14 Oct 2026 12:55:06 +0000"
-            },
-            {
-              "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-              "description": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-              "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 13:00:00 +0000"
             }
           ]
         }
@@ -286,6 +286,30 @@
           "label": "India Business",
           "emoji": "🇮🇳",
           "articles": [
+            {
+              "title": "Apple launches MacBook Pro and iMac with M6 chip, updates Creator Studio",
+              "description": "Apple has launched the 14-inch MacBook Pro and 24-inch iMac with M6 chips, alongside new AI features for Creator Studio. Both Macs will be available for pre-order in India from October 28",
+              "url": "https://www.business-standard.com/technology/tech-news/apple-macbook-pro-imac-m6-creator-studio-ai-updates-126102701835_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Tue, 27 Oct 2026 22:55:42 +0530"
+            },
+            {
+              "title": "United Breweries Q2 profit jumps nearly 3x to ₹134.81 cr on volume growth",
+              "description": "UBL's revenue from operations increased 23.7 per cent year-on-year to Rs 4,623 crore in the September quarter of FY27, compared to Rs 3,737.31 crore in the corresponding period a year ago",
+              "url": "https://www.business-standard.com/companies/quarterly-results/united-breweries-q2-profit-jumps-nearly-3x-to-134-81-cr-on-volume-growth-126102701745_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Tue, 27 Oct 2026 22:33:17 +0530"
+            },
+            {
+              "title": "LT Foods Q2 net profit up 10% at ₹180 cr; revenue rises 17% to ₹3,253 cr",
+              "description": "Gross profit increased 12 per cent to Rs 1,058 crore during the quarter, compared with Rs 948 crore in the corresponding period last fiscal",
+              "url": "https://www.business-standard.com/companies/quarterly-results/lt-foods-q2-net-profit-up-10-at-180-cr-revenue-rises-17-to-3-253-cr-126102701757_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Tue, 27 Oct 2026 22:30:20 +0530"
+            },
             {
               "title": "Expenditure quality key to states' long-term fiscal health: RBI Governor",
               "description": "RBI Governor Sanjay Malhotra urged states to improve expenditure quality, adopt prudent borrowing and cash management practices, and use ULI and programmable CBDC for direct transfers",
@@ -341,30 +365,6 @@
               "source": "business-standard.com",
               "image": "",
               "publishedAt": "Tue, 27 Oct 2026 18:40:27 +0530"
-            },
-            {
-              "title": "India Game Developer Conference returns to Chennai for its 18th edition",
-              "description": "The four-day event, beginning October 28, will bring together over 10,000 attendees and 90 speakers, with a focus on indie game development, investment and innovation",
-              "url": "https://www.business-standard.com/companies/news/india-game-developer-conference-returns-to-chennai-for-its-18th-edition-126102701245_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 17:56:38 +0530"
-            },
-            {
-              "title": "ACC Q2 profit slumps 91% to ₹93 crore, revenue slips 5.2% to ₹5,656 crore",
-              "description": "Revenue from operations was down 5.24 per cent year-on-year to Rs 5,656 crore in September quarter FY27. Total expenses were up 2.46 per cent at Rs 5,602 crore",
-              "url": "https://www.business-standard.com/companies/quarterly-results/acc-q2-profit-slumps-91-to-rs-93-cr-revenue-slips-5-2-to-rs-5-656-cr-126102701103_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 17:55:36 +0530"
-            },
-            {
-              "title": "Tata Capital Q2 Results: Profit jumps 51% to Rs 1,660 crore; NII up 23%",
-              "description": "Tata Capital’s September-quarter net profit surged 51% year-on-year to Rs 1,660 crore, driven by loan growth, higher interest income and lower provisions. Its loan book crossed Rs 3 lakh crore, while improving margins an",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q2-results-profit-jumps-51-to-rs-1660-crore-nii-up-23/articleshow/135234003.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 17:50:40 +0530"
             }
           ]
         },
@@ -390,28 +390,28 @@
               "publishedAt": "Wed, 14 Oct 2026 21:19:09 GMT"
             },
             {
-              "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-              "description": "Markets overwhelmingly expect no change in benchmark interest rates following September's  increase.",
-              "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+              "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+              "description": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+              "url": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 15:52:26 GMT"
+              "publishedAt": "Tue, 27 Oct 2026 18:03:02 GMT"
             },
             {
-              "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-              "description": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
-              "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+              "title": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
+              "description": "Coverage of GLP-1 drugs for weight loss is being dropped by many employer-sponsored healthcare plans as premiums soar, though workers have some new options.",
+              "url": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 15:48:32 GMT"
+              "publishedAt": "Tue, 27 Oct 2026 17:57:57 GMT"
             },
             {
-              "title": "UPS beats quarterly expectations, raises full-year guidance again",
-              "description": "UPS beat Wall Street expectations for its third-quarter results and raised its full-year guidance for the second quarter in a row.",
-              "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+              "title": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
+              "description": "Two ex-FBI officials were initially accused by the DOJ of lying when they testified to Congress in 2023 about their involvement in Hunter Biden investigations.",
+              "url": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 15:29:49 GMT"
+              "publishedAt": "Tue, 27 Oct 2026 17:39:35 GMT"
             }
           ]
         },
@@ -420,6 +420,14 @@
           "label": "Startups & Funding",
           "emoji": "🚀",
           "articles": [
+            {
+              "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+              "description": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+              "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Tue, 27 Oct 2026 16:30:57 +0000"
+            },
             {
               "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
               "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
@@ -469,28 +477,12 @@
               "publishedAt": "Tue, 27 Oct 2026 13:54:51 +0000"
             },
             {
-              "title": "AI startup Simplismart raises $14M from Dallas Venture Capital, Nvidia, and others",
-              "description": "Simplismart said it will use the funding to develop its tech platform, for market expansion, and partnerships.",
-              "url": "https://yourstory.com/2026/10/ai-startup-simplismart-14-million-dallas-venture-capital-nvidia-others",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 13:05:12 GMT"
-            },
-            {
               "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
               "description": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
               "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Tue, 27 Oct 2026 13:01:00 +0000"
-            },
-            {
-              "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-              "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-              "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 13:00:00 +0000"
             }
           ]
         },
@@ -530,44 +522,36 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "FATHI urges govt. for release of RTF dues",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/telangana/fathi-urges-govt-for-release-of-rtf-dues/article71632383.ece",
+              "title": "A.P. teachers’ body demands implementation of Old Pension Scheme",
+              "description": "The federation leaders allege that the Central and State governments are systematically undermining public education while favouring private institutions",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-teachers-body-demands-implementation-of-old-pension-scheme/article71632448.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 21:22:40 +0530"
+              "publishedAt": "Tue, 27 Oct 2026 23:33:56 +0530"
             },
             {
-              "title": "Aavin increases prices of around 25 milk-based products ahead of Deepavali",
-              "description": "While the price of curd has gone up by ₹10 per kilo, the cost of ghee has been hiked by ₹80 per kilo",
-              "url": "https://www.thehindu.com/news/cities/chennai/aavin-increases-prices-of-around-25-milk-based-products-ahead-of-deepavali/article71632519.ece",
+              "title": "\"Arrest Judge And Son\": Kerala Crash Victim's Family To Move High Court",
+              "description": "The decision to discontinue the protest to pursue legal action comes after close to 72 hours of intense protest that witnessed large public support.",
+              "url": "https://www.ndtv.com/india-news/arrest-judge-and-son-kerala-crash-victims-family-to-move-high-court-12245343#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-10/dtued7p_mercedes_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 27 Oct 2026 23:32:41 +0530"
+            },
+            {
+              "title": "1.89 lakh names deleted in electoral rolls of Shivamogga district after SIR",
+              "description": "The number of names deleted from the electoral roll include the ASSD voters and those who were found ineligible during the enquiry phase of the SIR process",
+              "url": "https://www.thehindu.com/news/national/karnataka/189-lakh-names-deleted-in-electoral-rolls-of-shivamogga-district-after-sir/article71632058.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/ld45bb/article71632751.ece/alternates/LANDSCAPE_1200/IMG_4871_11_10_2021_12_3_2_1_4JA7OCT1.jpg",
-              "publishedAt": "Tue, 27 Oct 2026 21:19:52 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/faeabb/article71632275.ece/alternates/LANDSCAPE_1200/9911_27_10_2026_19_34_14_5_ELECTIONPC10.JPG",
+              "publishedAt": "Tue, 27 Oct 2026 23:30:10 +0530"
             },
             {
-              "title": "HC wants Chief Secretary’s appearance if Bench order not complied by November 4",
+              "title": "Cyclone ‘Arnab’: National SARAS mela in Vijayawada closed to public on October 28",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/telangana/hc-wants-chief-secretarys-appearance-if-bench-order-not-complied-by-november-4/article71632379.ece",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-national-saras-mela-in-vijayawada-closed-to-public-on-october-28/article71632744.ece",
               "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 21:17:05 +0530"
-            },
-            {
-              "title": "Hyderabad Police launch dedicated wing to probe serious crimes",
-              "description": "The decision will allow local police personnel to focus on maintaining law and order and preventing crime",
-              "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-police-launch-dedicated-wing-to-probe-serious-crimes/article71632134.ece",
-              "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 21:13:27 +0530"
-            },
-            {
-              "title": "State’s first tribal university to come up in Chitradurga district",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/karnataka/states-first-tribal-university-to-come-up-in-chitradurga-district/article71632010.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/igzd9/article71632718.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-03%20at%2019.08.03.JPEG",
-              "publishedAt": "Tue, 27 Oct 2026 21:08:48 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/lpnziu/article71633138.ece/alternates/LANDSCAPE_1200/DSC_7869.JPG",
+              "publishedAt": "Tue, 27 Oct 2026 23:27:35 +0530"
             }
           ]
         },
@@ -601,20 +585,12 @@
               "publishedAt": "Wed, 16 Sep 2026 15:40:25 +0530"
             },
             {
-              "title": "School Assembly News Headlines (October 28): Top National, International, Sports News",
-              "description": "School Assembly News: Students can stay informed about cyclone alerts, UN reforms, cyberattacks, and Abhishek Sharma's stunning batting performance.",
-              "url": "https://www.ndtv.com/education/school-assembly-news-headlines-october-28-top-national-international-sports-news-12244304#publisher=newsstand",
+              "title": "Cheetah Cub Dies In Madhya Pradesh, 5 Pellets Recovered From Body",
+              "description": "The cheetah, identified as KNG22, was rescued Sunday night after a monitoring team received information that the animal had been injured in Compartment No. 748 of the Sheopur Territorial Forest Division.",
+              "url": "https://www.ndtv.com/india-news/cheetah-cub-dies-in-madhya-pradesh-5-pellets-recovered-from-body-12245247#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-08/cpfbeoek_class-9_625x300_18_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 27 Oct 2026 20:02:29 +0530"
-            },
-            {
-              "title": "Adani Group's ACC Reports Q2 Cement Sales Volume At 9.7 MT",
-              "description": "Operating EBITDA stood at Rs 401 crore, translating into a margin of 7 per cent, while EBITDA per tonne came in at Rs 414.",
-              "url": "https://www.ndtv.com/india-news/adani-groups-acc-reports-q2-cement-sales-volume-at-9-7-mt-12243954#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/i4knvhpg_acc-q2-results-improved-trade-mix-capacity-expansion-progress-on-one-cement-platform_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 27 Oct 2026 19:21:27 +0530"
+              "image": "https://c.ndtvimg.com/2023-07/hmheps9k_cheetah_625x300_18_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 27 Oct 2026 23:04:18 +0530"
             }
           ]
         },
@@ -624,44 +600,60 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Delhi teenager’s Project Sadak logs 2,927 road complaints across Delhi, Mumbai, Bengaluru; tracks 190 repairs",
-              "description": "Inspired by an accident that left his parents injured, the 16-year-old built an AI-powered platform to report potholes and other road hazards, identify the departments responsible and track repairs.",
-              "url": "https://www.thehindu.com/news/cities/Delhi/delhi-teenagers-project-sadak-logs-2927-road-complaints-across-delhi-mumbai-bengaluru-tracks-190-repairs/article71627417.ece",
+              "title": "Cyclone Arnab: very heavy rainfall batters northern districts of A.P., one dead",
+              "description": "Chief Minister N. Chandrababu Naidu says 290 cyclone shelters set up and 84,396 people evacuated to safer locations; 65-year-old man dies at Mangalapalem after coming in contact with snapped live electrical wires; landfa",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-very-heavy-rainfall-batters-northern-districts-of-ap-one-dead/article71632422.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/4d7aum/article71627373.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-26%20at%206.59.35%20PM.jpeg",
-              "publishedAt": "Tue, 27 Oct 2026 21:20:53 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/a4k2ym/article71632777.ece/alternates/LANDSCAPE_1200/Rainfall.jpeg",
+              "publishedAt": "Tue, 27 Oct 2026 23:31:46 +0530"
             },
             {
-              "title": "HC orders status quo over notice to KTR over move to impound passport",
-              "description": "Additional Solicitor General of India for Telangana B. Narasimha Sharma informed the bench that only show-cause notice was issued to KTR as to why his passport should not be impounded in the backdrop of the case being in",
-              "url": "https://www.thehindu.com/news/national/telangana/hc-orders-status-quo-over-notice-to-ktr-over-move-to-impound-passport/article71632715.ece",
+              "title": "U.P. approves robotics park and AI hub in Greater Noida",
+              "description": "Project estimated to generate more than 1 lakh jobs and add ₹2,000 crore annually to the State’s economy",
+              "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-approves-robotics-park-and-ai-hub-in-greater-noida/article71632226.ece",
               "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 21:18:25 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/jj3r1w/article71633139.ece/alternates/LANDSCAPE_1200/20261026563L.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 23:30:56 +0530"
             },
             {
-              "title": "Bound to be ‘tamasha’ when my book comes out; my turn to tell my story: Sonia Gandhi",
-              "description": "\"There’s bound to be some tamasha when this book comes out. After all, others have spent decades telling my 'story', now it’s my turn,\" says former Congress president",
-              "url": "https://www.thehindu.com/news/national/bound-to-be-tamasha-when-my-book-comes-out-my-turn-to-tell-my-story-sonia-gandhi/article71632387.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/pyqx7p/article71632459.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-27%20202838.png",
-              "publishedAt": "Tue, 27 Oct 2026 21:16:01 +0530"
-            },
-            {
-              "title": "BJP’s Shashil Namoshi wins North-East Teachers Constituency for the fifth time",
-              "description": "He defeats Congress rival Sharanappa Mattur by 3,297 votes, crosses winning quota in first preference vote counting itself",
-              "url": "https://www.thehindu.com/news/national/karnataka/bjps-shashil-namoshi-wins-north-east-teachers-constituency-for-the-fifth-time/article71632467.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/j26suy/article71632712.ece/alternates/LANDSCAPE_1200/10258_27_10_2026_20_29_48_1_SHASHIL_NAMOSHI_1.JPG",
-              "publishedAt": "Tue, 27 Oct 2026 21:12:19 +0530"
-            },
-            {
-              "title": "Don’t spread misinformation on Tummidihatti: Congress tells Harish Rao",
+              "title": "CITU urges voters to support Left party candidates in GVMC polls",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/telangana/dont-spread-misinformation-on-tummidihatti-congress-tells-harish-rao/article71632449.ece",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/citu-urges-voters-to-support-left-party-candidates-in-gvmc-polls/article71632867.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 21:08:00 +0530"
+              "publishedAt": "Tue, 27 Oct 2026 23:27:49 +0530"
+            },
+            {
+              "title": "Cyclone ‘Arnab’: Flights, trains cancelled as rain batters A.P.; 30,000 boats brought ashore; southern Odisha on edge",
+              "description": "Cyclone Arnab set to make landfall around dawn on Wednesday; A.P. cancels several flights, trains, brings 30,000 fishing boats ashore; Odisha shuts ghat roads, imposes transport curbs, and begins massive evacuation",
+              "url": "https://www.thehindu.com/news/national/cyclone-arnab-flights-trains-cancelled-as-rain-batters-ap-30000-boats-brought-ashore-southern-odisha-on-edge/article71632559.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/tuefs3/article71633128.ece/alternates/LANDSCAPE_1200/ENNORE.jpeg",
+              "publishedAt": "Tue, 27 Oct 2026 23:17:51 +0530"
+            },
+            {
+              "title": "Cyclone ‘Arnab’ LIVE updates | Storm 140 km from Kakinada; highest danger signal hoisted at Kakinada port",
+              "description": "Winds in coastal districts could gust to 110 kmph by Tuesday night and 150 kmph as Cyclone Arnab crosses the coast on Wednesday",
+              "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Tue, 27 Oct 2026 23:09:15 +0530"
+            },
+            {
+              "title": "Cyclone Arnab causes high waves in north Chennai, Tiruvallur",
+              "description": "The Regional Meteorological Centre here had warned of rough seas due to the cyclone. The sea is expected to calm down by noon on October 28",
+              "url": "https://www.thehindu.com/news/cities/chennai/cyclone-arnab-causes-high-waves-in-north-chennai-tiruvallur/article71632950.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/m87bmo/article71633104.ece/alternates/LANDSCAPE_1200/ENNORE.jpeg",
+              "publishedAt": "Tue, 27 Oct 2026 23:08:36 +0530"
+            },
+            {
+              "title": "SSB chief to take additional charge of ITBP as D-G retires",
+              "description": "No regular appointment announced ahead of Shatrujeet Singh Kapoor’s retirement on October 31",
+              "url": "https://www.thehindu.com/news/national/ssb-chief-to-take-additional-charge-of-itbp-as-d-g-retires/article71632607.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/anccdk/article71633100.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-28%20at%2022.58.36.jpeg",
+              "publishedAt": "Tue, 27 Oct 2026 23:01:00 +0530"
             }
           ]
         },
@@ -671,68 +663,60 @@
           "emoji": "🗳️",
           "articles": [
             {
-              "title": "Man Who Led Prashant Kishor's Online Campaign For Assembly Polls Found Dead",
-              "description": "The 31-year-old went missing while travelling on the Jan Shatabdi Express on Monday. He was on way to Patna from Ranchi with two friends. His body, was located today.",
-              "url": "https://www.ndtv.com/india-news/man-who-led-prashant-kishors-online-campaign-for-assembly-polls-found-dead-12244364#publisher=newsstand",
+              "title": "Education Has Become 'Marks-Wadi', Rote Learning Needs To Go: Pralhad Joshi",
+              "description": "Pralhad Joshi said rote learning needs to be replaced with experiential learning and anxious parents also need to stop being too focused on their ward scoring marks anyhow.",
+              "url": "https://www.ndtv.com/india-news/education-has-become-marks-wadi-rote-learning-needs-to-go-pralhad-joshi-12245222#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/3h0pd4ek_prashant-kishor-colleague_625x300_27_October_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 27 Oct 2026 20:17:36 +0530"
+              "image": "https://c.ndtvimg.com/2026-10/vv24vbgs_pralhad-joshi_625x300_27_October_26.jpeg",
+              "publishedAt": "Tue, 27 Oct 2026 23:33:49 +0530"
             },
             {
-              "title": "Karnataka Final Voter List Down By Nearly 1 Crore After Special Revision",
-              "description": "The state had 5,54,32,314 voters before the SIR, and now the number stands at 4,55,00,011 after the deletion of 99.32 lakh names following the publication of the final rolls.",
-              "url": "https://www.ndtv.com/india-news/karnataka-final-voter-list-down-by-nearly-1-crore-after-special-revision-12242048#publisher=newsstand",
+              "title": "Indian Firm L&T Wins Major Dhaka Metro Contract",
+              "description": "The Bangladesh government is set to implement three metro rail projects in Dhaka at a total cost of Tk 2.5 trillion (250,000 crore).",
+              "url": "https://www.ndtv.com/india-news/indian-firm-l-t-wins-major-dhaka-metro-contract-12245328#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-09/19df6rqc_election-generic-_625x300_18_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 27 Oct 2026 20:15:28 +0530"
+              "image": "https://c.ndtvimg.com/2026-05/3jggvu4k_larsen-toubro_650x400_05_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 27 Oct 2026 23:29:13 +0530"
             },
             {
-              "title": "Cyclone Arnab Nears Andhra Coast, Red Alert Issued Ahead Of Landfall",
-              "description": "India Meteorological Department (IMD) has issued a red alert for Andhra Pradesh as the cyclone is likely to cross the coast between Bapatla and Visakhapatnam on Wednesday.",
-              "url": "https://www.ndtv.com/india-news/cyclone-arnab-nears-andhra-pradesh-coast-red-alert-issued-ahead-of-landfall-12244242#publisher=newsstand",
+              "title": "30 Paramilitary Companies Deployed In Arunachal's Siang Valley After Anti-Dam Protests",
+              "description": "The companies had been deployed in the Upper Siang, Siang, and East Siang districts.",
+              "url": "https://www.ndtv.com/india-news/30-paramilitary-companies-deployed-in-arunachals-siang-valley-after-anti-dam-protests-12245297#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/jk9g4pd8_cyclone-arnab_625x300_27_October_26.jpeg",
-              "publishedAt": "Tue, 27 Oct 2026 20:12:04 +0530"
+              "image": "https://c.ndtvimg.com/2026-10/pdut1luc_arunachal_625x300_24_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 27 Oct 2026 23:19:36 +0530"
             },
             {
-              "title": "After Teen, Father Forced To Walk Naked, Cops Parade Accused Without Shirt",
-              "description": "The three accused, identified as the girl's father, maternal uncle and elder brother, were taken to Khudiram Palli in the Sarsuna area of Behala, with ropes tied around their waists.",
-              "url": "https://www.ndtv.com/india-news/after-teen-father-forced-to-walk-naked-cops-parade-accused-without-shirt-12244106#publisher=newsstand",
+              "title": "Cyclone Arnab LIVE Updates: Landfall Expected After 2 am, East Coast Sees Heavy Rainfall",
+              "description": "Cyclone Arnab LIVE Updates: According to a Met Department update, the storm will cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam. The crossing is expected between 2 am and 4 am.",
+              "url": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/r024j0go_kolkata-ians-_625x300_27_October_26.jpeg",
-              "publishedAt": "Tue, 27 Oct 2026 19:29:37 +0530"
+              "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
+              "publishedAt": "Tue, 27 Oct 2026 22:55:13 +0530"
             },
             {
-              "title": "Weather Tomorrow: Cyclone Arnab And Western Disturbance To Bring Rain To Delhi-NCR",
-              "description": "Cyclone Arnab and a western disturbance is forecast to bring scattered rain and a temperature drop in northern India from October 28 to November 1.",
-              "url": "https://www.ndtv.com/india-news/weather-tomorrow-cyclone-arnab-and-western-disturbance-to-bring-rain-to-delhi-ncr-12244002#publisher=newsstand",
+              "title": "Army Jawan Among 7 Arrested For Cross-Border Arms Smuggling In Punjab",
+              "description": "During the operation, Punjab police busted four modules engaged in smuggling of arms and narcotics and recovered 14pistols and over 20 kg of heroin.",
+              "url": "https://www.ndtv.com/india-news/army-jawan-among-7-arrested-for-cross-border-arms-smuggling-in-punjab-12244981#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/vqq2jkc4_weather_625x300_13_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 27 Oct 2026 19:10:57 +0530"
+              "image": "https://c.ndtvimg.com/2025-11/2737lhr4_punjab-police_625x300_19_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+              "publishedAt": "Tue, 27 Oct 2026 22:16:35 +0530"
             },
             {
-              "title": "JEE Main 2027: Paper-Wise Exam Structure, Subjects, Question Types Explained",
-              "description": "Paper 1 is conducted for admission to undergraduate engineering programmes (BE/BTech), while Paper 2 is conducted for B Arch and B Planning courses.",
-              "url": "https://www.ndtv.com/education/jee-main-2027-exam-structure-papers-subjects-question-types-explained-12243945#publisher=newsstand",
+              "title": "Bhagwant Mann Renews Demand To Reopen Kartarpur Corridor Ahead of Gurpurab",
+              "description": "\"The spiritual aspirations of the people must be respected. There should be no room for petty politics when it comes to religious devotion,\" Bhagwant Mann said .",
+              "url": "https://www.ndtv.com/india-news/bhagwant-mann-renews-demand-to-reopen-kartarpur-corridor-ahead-of-gurpurab-12245007#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-01/8cn4in4_jee-mains-2026_625x300_21_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 27 Oct 2026 19:02:44 +0530"
+              "image": "https://c.ndtvimg.com/2024-10/k3rgilds_gurdwara-kartarpur-sahib-pakistan-ians_625x300_22_October_24.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 27 Oct 2026 22:10:07 +0530"
             },
             {
-              "title": "'My Turn To Tell My Story': Sonia Gandhi's \"Tamasha\" Prediction For Memoir",
-              "description": "Sonia Gandhi said she was against her husband, Rajiv Gandhi, becoming the Prime Minister after the assassination of Indira Gandhi.",
-              "url": "https://www.ndtv.com/india-news/sonia-gandhi-on-memoir-belonging-a-journey-of-love-bound-to-be-some-tamasha-when-book-comes-out-12243593#publisher=newsstand",
+              "title": "Police Snatched Body: Opposition Targets Bhagwant Mann Over Drug Death In Punjab",
+              "description": "Daljit Singh, 35, died of a suspected drug overdose on Monday.",
+              "url": "https://www.ndtv.com/india-news/police-snatched-body-opposition-targets-bhagwant-mann-over-drug-death-in-punjab-12244801#publisher=newsstand",
               "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/n8q4n6co_sonia-gandhi-book-_625x300_27_October_26.jpeg",
-              "publishedAt": "Tue, 27 Oct 2026 19:00:19 +0530"
-            },
-            {
-              "title": "Delhi's Winter Pollution Curbs Are Back. Do They Actually Work?",
-              "description": "Past episodes show that Delhi's AQI has often fallen after Stage IV of the plan was imposed. On 17 January 2026, the AQI stood at 400. It dropped to 192 within a week. In November 2023, it fell from 454 to 218 over the s",
-              "url": "https://www.ndtv.com/india-news/delhis-winter-pollution-curbs-are-back-do-they-actually-work-12243755#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-10/c4ncskns_pollution_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 27 Oct 2026 18:36:56 +0530"
+              "image": "https://c.ndtvimg.com/2026-10/b081q93c_1_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Tue, 27 Oct 2026 21:34:30 +0530"
             }
           ]
         }
@@ -856,28 +840,28 @@
               "publishedAt": "Wed, 14 Oct 2026 15:20:04 GMT"
             },
             {
-              "title": "Anthropic's IPO is risky business",
-              "description": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
-              "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+              "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+              "description": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+              "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 15:51:41 GMT"
+              "publishedAt": "Tue, 27 Oct 2026 18:00:03 GMT"
             },
             {
-              "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
-              "description": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-              "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+              "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+              "description": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
+              "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 15:45:49 GMT"
+              "publishedAt": "Tue, 27 Oct 2026 17:53:47 GMT"
             },
             {
-              "title": "Ex-FBI official's lawyers slam unusual new criminal charge: 'Outrageous government conduct'",
-              "description": "Two ex-FBI officials were initially accused by the DOJ of lying when they testified to Congress in 2023 about their involvement in Hunter Biden investigations.",
-              "url": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+              "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+              "description": "Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.",
+              "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 15:19:50 GMT"
+              "publishedAt": "Tue, 27 Oct 2026 17:36:46 GMT"
             }
           ]
         },
@@ -886,6 +870,70 @@
           "label": "Asia Markets",
           "emoji": "🌏",
           "articles": [
+            {
+              "title": "Prediction market Kalshi expands safeguards for young traders",
+              "description": "Kalshi is tightening safeguards for traders aged 18 to 20, introducing a $2,500 monthly deposit limit and alerts for users who put a large share of their funds into one trade. The prediction market also announced partner",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-market-kalshi-expands-safeguards-for-young-traders/articleshow/135241699.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135241699,imgsize-58224.cms",
+              "publishedAt": "Tue, 27 Oct 2026 22:49:02 +0530"
+            },
+            {
+              "title": "GM to transfer stock listing to Nasdaq",
+              "description": "General Motors made an announcement on Tuesday that they’re moving their common stock listing from the New York Stock Exchange over to Nasdaq. This change is part of their strategy to better position themselves in the ma",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/gm-to-transfer-stock-listing-to-nasdaq/articleshow/135241585.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135241585,imgsize-105832.cms",
+              "publishedAt": "Tue, 27 Oct 2026 22:44:44 +0530"
+            },
+            {
+              "title": "Trading starts on LME's first contract from Shanghai exchange collaboration",
+              "description": "The London Metal Exchange's new hot-rolled coil steel contract began trading on Tuesday, marking the first product from its collaboration with the Shanghai Futures Exchange. More than 550 lots traded in the first two act",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/trading-starts-on-lmes-first-contract-from-shanghai-exchange-collaboration/articleshow/135241517.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135241517,imgsize-9286.cms",
+              "publishedAt": "Tue, 27 Oct 2026 22:40:33 +0530"
+            },
+            {
+              "title": "Allied Blenders Q2 Results: Profit rises 9.7% to Rs 69 crore, revenue up 6.8%",
+              "description": "Allied Blenders and Distillers reported a net profit increase of 9.7% in the September quarter of FY27. The company's revenue from operations rose by 6.8% compared to the previous fiscal year. Total expenses for the quar",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/allied-blenders-q2-results-profit-rises-9-7-to-rs-69-crore-revenue-up-6-8/articleshow/135240967.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135240967,imgsize-90976.cms",
+              "publishedAt": "Tue, 27 Oct 2026 22:29:10 +0530"
+            },
+            {
+              "title": "Indus Towers Q2 Results: Net profit slips 2.5% to Rs 1,793 crore",
+              "description": "Indus Towers reported a 2.5% decline in consolidated net profit for the second quarter ended September 30. The company experienced a 4% increase in consolidated revenue, while EBITDA saw a slight rise of 0.4%. Tower and",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indus-towers-q2-results-net-profit-slips-2-5-to-rs-1793-crore/articleshow/135240759.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135240759,imgsize-258894.cms",
+              "publishedAt": "Tue, 27 Oct 2026 22:26:07 +0530"
+            },
+            {
+              "title": "SAIL Q2 Results: Net profit surges four-fold to Rs 1750 crore on higher revenue",
+              "description": "Steel Authority of India Ltd announced a significant increase in consolidated net profit for the September quarter. The company reported a profit of Rs 1,750.47 crore, a substantial rise from the previous year. Revenue f",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sail-q2-results-net-profit-surges-four-fold-to-rs-1750-crore-on-higher-revenue/articleshow/135240695.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135240695,imgsize-75540.cms",
+              "publishedAt": "Tue, 27 Oct 2026 22:18:09 +0530"
+            },
+            {
+              "title": "United Breweries Q2 Results: Profit jumps nearly 3 times to Rs 134 crore on volume growth, premiumisation",
+              "description": "United Breweries Ltd experienced a nearly three-fold increase in net profit for the September quarter. The company's revenue from operations rose by 23.7 percent year-on-year, reflecting strong market performance. Premiu",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/united-breweries-q2-results-profit-jumps-nearly-3-times-to-rs-134-crore-on-volume-growth-premiumisation/articleshow/135240644.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135240644,imgsize-32646.cms",
+              "publishedAt": "Tue, 27 Oct 2026 22:09:32 +0530"
+            },
+            {
+              "title": "SBI Life Insurance Q2 Results: Net profit grows 11% YoY to Rs 549 crore",
+              "description": "SBI Life Insurance recorded an 11 percent increase in net profit for the second quarter. The net profit reached Rs 549 crore compared to Rs 495 crore last year. Additionally, the company’s net premium income grew by 8.17",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-life-insurance-q2-results-net-profit-grows-11-yoy-to-rs-549-crore/articleshow/135240500.cms",
+              "source": "economictimes.indiatimes.com",
+              "image": "https://img.etimg.com/photo/msid-135240500,imgsize-23670.cms",
+              "publishedAt": "Tue, 27 Oct 2026 22:01:57 +0530"
+            },
             {
               "title": "Tata Capital Q2 net profit rises 51% on higher income",
               "description": "Tata Capital’s second-quarter net profit rose 51% year-on-year to Rs 1,660 crore, supported by higher interest income and loan growth. Assets under management increased 26% to Rs 3.08 lakh crore, while floating-rate lend",
@@ -901,70 +949,6 @@
               "source": "economictimes.indiatimes.com",
               "image": "https://img.etimg.com/photo/msid-135239298,imgsize-105340.cms",
               "publishedAt": "Tue, 27 Oct 2026 21:07:19 +0530"
-            },
-            {
-              "title": "Waaree Energies Q2 Results: Profit falls 15% YoY to Rs 719 crore, revenue rises 24%",
-              "description": "Waaree Energies reported a 14.7% year-on-year profit decline to Rs 718.68 crore in Q2FY27, despite 23.9% revenue growth. Margin pressure persisted as the company acquired data centre subsidiaries, exploring diversificati",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-energies-q2-results-profit-falls-15-yoy-to-rs-719-crore-revenue-rises-24/articleshow/135239084.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135239084,imgsize-10786.cms",
-              "publishedAt": "Tue, 27 Oct 2026 20:56:33 +0530"
-            },
-            {
-              "title": "US Fed opens two-day meeting with markets expecting rate hold",
-              "description": "Policymakers at the US Federal Reserve opened a two-day meeting Tuesday to set interest rates, with markets expecting them to hold steady days ahead of crucial midterm elections. On Tuesday, markets put the probability o",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-fed-opens-two-day-meeting-with-markets-expecting-rate-hold/articleshow/135238252.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135238252,imgsize-97394.cms",
-              "publishedAt": "Tue, 27 Oct 2026 20:21:31 +0530"
-            },
-            {
-              "title": "RIL to announce Q2 results on October 30, board to also consider fundraising",
-              "description": "Reliance Industries will announce its September-quarter results on October 30, alongside considering fundraising through non-convertible debentures. Investors will track performance across O2C, telecom, retail and energy",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q2-results-on-october-30-board-to-also-consider-fundraising/articleshow/135237289.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135237289,imgsize-165538.cms",
-              "publishedAt": "Tue, 27 Oct 2026 19:44:58 +0530"
-            },
-            {
-              "title": "Global bond issuance set to grow at slowest pace in five years in 2027, S&amp;P Global Ratings says",
-              "description": "In 2027, global bond issuance is expected to rise by a mere 2.7%, marking a stark decline compared to this year's growth. According to S&amp;P Global Ratings, factors like increasing interest rates and geopolitical tensi",
-              "url": "https://economictimes.indiatimes.com/markets/bonds/global-bond-issuance-set-to-grow-at-slowest-pace-in-five-years-in-2027-sp-global-ratings-says/articleshow/135237268.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135237268,imgsize-53500.cms",
-              "publishedAt": "Tue, 27 Oct 2026 19:42:15 +0530"
-            },
-            {
-              "title": "JetBlue shares surge 12% as airline seeks to calm financial concerns",
-              "description": "JetBlue Airways shares surged over 12% after addressing financial concerns despite reporting a larger quarterly loss. The loss was influenced by soaring fuel prices resulting from the ongoing war in Iran. JetBlue ended t",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jetblue-shares-surge-12-as-airline-seeks-to-calm-financial-concerns/articleshow/135237199.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135237199,imgsize-367824.cms",
-              "publishedAt": "Tue, 27 Oct 2026 19:40:58 +0530"
-            },
-            {
-              "title": "US stocks today: S&amp;P 500, Nasdaq advance as oil eases ahead of Fed decision",
-              "description": "US stocks are experiencing an uptick with the S&amp;P 500 and Nasdaq gaining due to easing oil prices. The Federal Reserve is expected to maintain rates steady in its upcoming decision after last month's hike. Investors",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-pulls-back-ahead-of-fed-decision/articleshow/135236366.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135236366,imgsize-215104.cms",
-              "publishedAt": "Tue, 27 Oct 2026 19:07:38 +0530"
-            },
-            {
-              "title": "PVR Inox among stocks that hit 52-week highs and rallied up to 20% in a month",
-              "description": "Six BSE 500 stocks hit fresh 52-week highs despite the Sensex closing nearly flat. International Gemological Institute led monthly gains at 19%, followed by PVR Inox, Acutaas Chemicals, Indian Hotels, Laurus Labs and Son",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/135236374.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135236160,imgsize-5662.cms",
-              "publishedAt": "Tue, 27 Oct 2026 18:58:57 +0530"
-            },
-            {
-              "title": "JSW Infrastructure Q2 Results: Net profit falls 11% to Rs 328 crore",
-              "description": "JSW Infrastructure reported an 11 percent drop in consolidated net profit for the September quarter, with earnings falling to Rs 328.23 crore from Rs 368.81 crore the previous year. The company achieved total income of R",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-infrastructure-q2-results-net-profit-falls-11-to-rs-328-crore/articleshow/135236084.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135236084,imgsize-20136.cms",
-              "publishedAt": "Tue, 27 Oct 2026 18:56:43 +0530"
             }
           ]
         },
@@ -988,6 +972,38 @@
           "label": "Crypto",
           "emoji": "₿",
           "articles": [
+            {
+              "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+              "description": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance’s USDT/BRL market tripled while the global BTC/USDT pair fell.",
+              "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/2c30c6af33132c744e1e3c20341f6962e964273d-3000x1688.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Tue, 27 Oct 2026 16:59:07 +0000"
+            },
+            {
+              "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+              "description": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.",
+              "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z1HSZ4K8KMEHK6XPMYYZ30/hi-crypto-goes-for-nasdaq-solana.png",
+              "publishedAt": "Tue, 27 Oct 2026 16:37:15 +0000"
+            },
+            {
+              "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+              "description": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year.",
+              "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/e967c0a6b3495d0572d5a7ca83e35490a1e10f74-2048x1365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Tue, 27 Oct 2026 16:35:29 +0000"
+            },
+            {
+              "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+              "description": "USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.",
+              "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YYH4W8ZJZR3K8EWNZDKXQ3/coin-crushing-euro.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 15:59:58 +0000"
+            },
             {
               "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
               "description": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
@@ -1035,38 +1051,6 @@
               "source": "cointelegraph.com",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YN0CT8F4HNHWRJS1ST7JTJ/arthur-hayes.jpg",
               "publishedAt": "Tue, 27 Oct 2026 13:01:10 +0000"
-            },
-            {
-              "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
-              "description": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.",
-              "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YDNW5100FXXDD1HKRTGV6P/hi-institutional-trading-and-cryptocurrency-industry-investment.jpg",
-              "publishedAt": "Tue, 27 Oct 2026 13:01:00 +0000"
-            },
-            {
-              "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
-              "description": "A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says.",
-              "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg",
-              "publishedAt": "Tue, 27 Oct 2026 12:18:24 +0000"
-            },
-            {
-              "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-              "description": "Your day-ahead look for Oct. 27, 2026",
-              "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-              "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/caff288a8b43cf1d97d81ebe16d87f4bdde60b22-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-              "publishedAt": "Tue, 27 Oct 2026 12:00:39 +0000"
-            },
-            {
-              "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
-              "description": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure.",
-              "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-              "source": "coindesk.com",
-              "image": "",
-              "publishedAt": "Tue, 27 Oct 2026 11:40:50 +0000"
             }
           ]
         }
