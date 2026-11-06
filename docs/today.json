@@ -29,14 +29,6 @@
               "publishedAt": "Wed, 04 Nov 2026 20:41:29 +0000"
             },
             {
-              "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-              "description": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-              "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Wed, 04 Nov 2026 20:06:21 +0000"
-            },
-            {
               "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
               "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
               "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
@@ -83,6 +75,14 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Thu, 05 Nov 2026 21:37:18 +0000"
+            },
+            {
+              "title": "Meta says US users can now video chat with their Muse AI avatar",
+              "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+              "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Thu, 05 Nov 2026 19:48:28 +0000"
             }
           ]
         },
@@ -130,6 +130,14 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
               "publishedAt": "Tue, 20 Oct 2026 19:47:35 +0000"
+            },
+            {
+              "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+              "description": "Meta is suspending the sharing feature while it investigates its privacy.",
+              "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
+              "publishedAt": "Tue, 20 Oct 2026 12:33:13 +0000"
             }
           ]
         },
@@ -297,6 +305,14 @@
               "publishedAt": "Wed, 04 Nov 2026 21:38:49 +0000"
             },
             {
+              "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+              "description": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+              "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Wed, 04 Nov 2026 20:06:21 +0000"
+            },
+            {
               "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
               "description": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
               "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
@@ -429,14 +445,6 @@
               "publishedAt": "Thu, 05 Nov 2026 22:40:55 +0000"
             },
             {
-              "title": "Serve Robotics launches new business to become the AWS for robots",
-              "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-              "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Thu, 05 Nov 2026 21:15:00 +0000"
-            },
-            {
               "title": "Aina launches Rs 47,000 ring to bring AI agents to your fingertips",
               "description": "Aina AI ring launches at Rs 47,000, with AI agents, voice commands and gesture controls. The Bengaluru startup offers an early-bird price of Rs 37,700.",
               "url": "https://yourstory.com/2026/11/aina-ai-smart-ring-price-features-launch-india",
@@ -451,14 +459,6 @@
               "source": "inc42.com",
               "image": "",
               "publishedAt": "Thu, 05 Nov 2026 20:12:00 +0000"
-            },
-            {
-              "title": "Meta says US users can now video chat with their Muse AI avatar",
-              "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-              "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Thu, 05 Nov 2026 19:48:28 +0000"
             },
             {
               "title": "This Is Not About Money: Deepinder Goyal Defends Temple Amid Credibility Row",
@@ -493,12 +493,28 @@
               "publishedAt": "Thu, 05 Nov 2026 14:46:07 +0000"
             },
             {
-              "title": "Shiprocket turns profitable in Q2 FY27 with Rs 674 Cr revenue",
-              "description": "Shiprocket reported a net profit of Rs 60 lakh in Q2 FY27, compared with a loss of Rs 20.3 crore a year ago, as revenue grew 35% to Rs 673.6 crore.",
-              "url": "https://yourstory.com/2026/11/shiprocket-turns-profitable-in-q2-fy27-with-rs-674-cr-revenue",
+              "title": "Spacetech startup Cosmoserve raises $6M in seed round",
+              "description": "Cosmoserve also opened a facility in Hyderabad which will be utilised for satellite servicing and space debris recovery.",
+              "url": "https://yourstory.com/2026/11/spacetech-startup-cosmoserve-raises-6-million-in-seed-round",
               "source": "yourstory.com",
               "image": "",
-              "publishedAt": "Thu, 05 Nov 2026 13:43:21 GMT"
+              "publishedAt": "Thu, 05 Nov 2026 13:35:19 GMT"
+            },
+            {
+              "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+              "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+              "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000"
+            },
+            {
+              "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+              "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+              "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Fri, 06 Nov 2026 18:44:20 +0000"
             }
           ]
         },
@@ -554,44 +570,44 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "ACB detects 90 suspicious UPI transactions at LB Nagar fire station",
+              "title": "Did all the murders happen in the small house on the terrace?",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/telangana/acb-detects-90-suspicious-upi-transactions-at-lb-nagar-fire-station/article71675894.ece",
+              "url": "https://www.thehindu.com/news/national/karnataka/did-all-the-murders-happen-in-the-small-house-on-the-terrace/article71675859.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/eao93s/article71676069.ece/alternates/LANDSCAPE_1200/_JAI7269.JPG",
+              "publishedAt": "Sat, 07 Nov 2026 01:04:40 +0530"
+            },
+            {
+              "title": "Karnataka CM ridicules BJP leaders for trying to take credit for PM’s visit",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-ridicules-bjp-leaders-for-trying-to-take-credit-for-pms-visit/article71675717.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/y70je0/article71676061.ece/alternates/LANDSCAPE_1200/ALL_9104A.JPG",
+              "publishedAt": "Sat, 07 Nov 2026 00:55:50 +0530"
+            },
+            {
+              "title": "Periyar Arivulagam books row: political leaders raise concern over allegations, call for action",
+              "description": "Kamal Haasan demands the immediate withdrawal of the fake books from all libraries. M.H. Jawahirullah wants the formation of an independent committee to examine all books procured for the public library. Others, includin",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/ueb65i/article71676047.ece/alternates/LANDSCAPE_1200/DSC_1396.JPG",
+              "publishedAt": "Sat, 07 Nov 2026 00:53:54 +0530"
+            },
+            {
+              "title": "T.N. govt. allocates monthly maintenance fund of ₹1,000 to 12,646 VAO offices",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-allocates-monthly-maintenance-fund-of-1000-to-12646-vao-offices/article71674473.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Fri, 06 Nov 2026 23:03:03 +0530"
+              "publishedAt": "Sat, 07 Nov 2026 00:50:26 +0530"
             },
             {
-              "title": "Greater flamingos sighted for the first time at Kere Bhosga",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/karnataka/greater-flamingos-sighted-for-the-first-time-at-kere-bhosga/article71675374.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/qegmla/article71675906.ece/alternates/LANDSCAPE_1200/10258_6_11_2026_20_11_33_2_KLB_BIRD_COUNT_PAINTED_STORKS_2.JPEG",
-              "publishedAt": "Fri, 06 Nov 2026 23:01:26 +0530"
-            },
-            {
-              "title": "Rajasthan police rescue six minors forced into sex work, five arrested",
-              "description": "The police acted after taking cognisance of a ‘Ground Zero’ report in August by The Hindu.",
-              "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-police-rescue-six-minors-forced-into-sex-work-five-arrested/article71675172.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/88ja55/article71675851.ece/alternates/LANDSCAPE_1200/f75aea96-f1fc-45de-9351-9410607a7f33.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 22:58:41 +0530"
-            },
-            {
-              "title": "Kochi doctor booked for sexual assault a day after actors’ arrest on his complaint",
-              "description": "The Infopark police registered the case against the doctor on a complaint filed by a relative of one of the accused; he allegedly abused the woman after giving her intoxicants, say police",
-              "url": "https://www.thehindu.com/news/national/kerala/kochi-doctor-booked-for-sexual-assault-a-day-after-actors-arrest-on-his-complaint/article71675580.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/c85nd9/article71675891.ece/alternates/LANDSCAPE_1200/iStock-1444048947.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 22:56:37 +0530"
-            },
-            {
-              "title": "Anganwadi children hospitalised after suspected food poisoning",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/karnataka/anganwadi-children-hospitalised-after-suspected-food-poisoning/article71675540.ece",
+              "title": "T.N. govt. enhances compensation for various categories of human-wildlife conflict",
+              "description": "The compensation for major injuries or partial disability resulting in 20% to 60% incapacitation for humans, duly certified by the District Medical Officer or a constituted medical board, has been increased from ₹59,100",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-enhances-compensation-for-various-categories-of-human-wildlife-conflict/article71675570.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Fri, 06 Nov 2026 22:52:50 +0530"
+              "publishedAt": "Sat, 07 Nov 2026 00:47:49 +0530"
             }
           ]
         },
@@ -688,44 +704,44 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Cyberabad Police explore one-way traffic system across Biodiversity, HITEC City corridors",
+              "title": "Bamboo shelters, cool roofs to climate-proof Telangana cities",
+              "description": "The State is drawing up a ₹20,000-crore project pipeline and a series of policy measures to prepare its cities for rising temperatures and erratic rainfall. The plan, which also includes waste reclamation, sewage treatme",
+              "url": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/5g1sz0/article71676068.ece/alternates/LANDSCAPE_1200/hy06bamboo_bus_shelter.jpg",
+              "publishedAt": "Sat, 07 Nov 2026 01:01:21 +0530"
+            },
+            {
+              "title": "Governor asks for status report on all public universities in Karnataka",
               "description": "",
-              "url": "https://www.thehindu.com/news/cities/Hyderabad/cyberabad-police-explore-one-way-traffic-system-across-biodiversity-hitec-city-corridors/article71675124.ece",
+              "url": "https://www.thehindu.com/news/national/karnataka/governor-asks-for-status-report-on-all-public-universities-in-karnataka/article71675530.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/uzvukr/article71676065.ece/alternates/LANDSCAPE_1200/Karnataka-gets-GBDGLGBGO.3.jpg.jpg",
+              "publishedAt": "Sat, 07 Nov 2026 00:55:44 +0530"
+            },
+            {
+              "title": "Special Public Prosecutors appointed to conduct trial in POCSO Act cases against Veeramani",
+              "description": "Veeramani and his associates are facing seven cases under the POCSO Act and one case of abetment to suicide of a minor",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/special-public-prosecutors-appointed-to-conduct-trial-in-pocso-act-cases-against-veeramani/article71675111.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/l497zl/article71676062.ece/alternates/LANDSCAPE_1200/Gem-Granites-GAIGNCL16.3.jpg.jpg",
+              "publishedAt": "Sat, 07 Nov 2026 00:52:13 +0530"
+            },
+            {
+              "title": "University of Madras, Sutherland Global Services to collaborate for setting up an AI lab",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/university-of-madras-sutherland-global-services-to-collaborate-for-setting-up-an-ai-lab/article71675403.ece",
               "source": "thehindu.com",
               "image": "",
-              "publishedAt": "Fri, 06 Nov 2026 23:01:59 +0530"
+              "publishedAt": "Sat, 07 Nov 2026 00:49:34 +0530"
             },
             {
-              "title": "Delhi’s Mustafabad election official lodges police complaint seeking FIR over false Form 7s after The Hindu report",
-              "description": "Delhi’s north east District Election Officer (DEO) Ajay Kumar told The Hindu that they have verified the news report independently and found 36 of the 37 Form 7s to be false/fabricated",
-              "url": "https://www.thehindu.com/news/cities/Delhi/delhis-mustafabad-election-official-lodges-police-complaint-seeking-fir-over-false-form-7s-after-the-hindu-report/article71675514.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/q0yhhc/article71675892.ece/alternates/LANDSCAPE_1200/9712_22_11_2025_14_12_40_3__DSC0973.JPG",
-              "publishedAt": "Fri, 06 Nov 2026 23:00:20 +0530"
-            },
-            {
-              "title": "Yadgir bandh evokes good response",
+              "title": "Duraimurugan clarifies on Hindu rituals at granddaughter’s wedding",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/karnataka/yadgir-bandh-evokes-good-response/article71674562.ece",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/duraimurugan-clarifies-on-hindu-rituals-at-granddaughters-wedding/article71675227.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/9cx258/article71675896.ece/alternates/LANDSCAPE_1200/YDRKN_6_11_2026_18_20_50_5_IMG_20261106_WA0019.JPG",
-              "publishedAt": "Fri, 06 Nov 2026 22:58:13 +0530"
-            },
-            {
-              "title": "One killed and six injured in fire at an OIL facility in Assam",
-              "description": "The oil exploration major said that the fire broke out at an indirect bath heater, which had been isolated since November 4 for maintenance",
-              "url": "https://www.thehindu.com/news/national/assam/one-killed-and-six-injured-in-fire-at-an-oil-facility-in-assam/article71674463.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/6lcc8e/article71675563.ece/alternates/LANDSCAPE_1200/PTI11_06_2026_000239B.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 22:55:57 +0530"
-            },
-            {
-              "title": "IISc distinguished alumnus/alumna awards for 2026 announced",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/karnataka/iisc-distinguished-alumnusalumna-awards-for-2026-announced/article71675280.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/bq0tpy/article71675562.ece/alternates/LANDSCAPE_1200/IMG_2046.jpeg",
-              "publishedAt": "Fri, 06 Nov 2026 22:52:21 +0530"
+              "image": "",
+              "publishedAt": "Sat, 07 Nov 2026 00:38:13 +0530"
             }
           ]
         },
@@ -939,6 +955,38 @@
           "emoji": "🏭",
           "articles": [
             {
+              "title": "Samvat 2082: Commodities witness sharp volatility as crude surges",
+              "description": "Brent crude surged 60.4% in Samvat 2082 amid the US-Iran conflict, while gold and silver fell in dollar terms after retreating from record highs, though rupee depreciation supported domestic returns.",
+              "url": "https://www.business-standard.com/markets/news/samvat-2082-commodities-witness-sharp-volatility-as-crude-surges-126110601860_1.html",
+              "source": "business-standard.com",
+              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601860.jpg",
+              "publishedAt": "Fri, 06 Nov 2026 23:34:28 +0530"
+            },
+            {
+              "title": "Best-ever Samvat for IPOs: Record ₹2.23 trillion raised, up 19.6%",
+              "description": "India's primary market raised a record ₹2.23 trillion through 375 IPOs in Samvat 2082, with mainboard issues accounting for ₹2.12 trillion and SME offerings for the rest.",
+              "url": "https://www.business-standard.com/markets/ipo/best-ever-samvat-for-ipos-record-2-23-trillion-raised-up-19-6-126110601904_1.html",
+              "source": "business-standard.com",
+              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601904.jpg",
+              "publishedAt": "Fri, 06 Nov 2026 23:32:09 +0530"
+            },
+            {
+              "title": "Weakest Samvat in 15 years ends on a high for mkts as Sensex, Nifty rally",
+              "description": "The Sensex and Nifty ended Samvat 2082 with losses of 4% and 3.1%, respectively, despite a sharp late rally that delivered their biggest weekly gains in nearly six years.",
+              "url": "https://www.business-standard.com/markets/news/weakest-samvat-in-15-years-ends-on-a-high-for-mkts-as-sensex-nifty-rally-126110601769_1.html",
+              "source": "business-standard.com",
+              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601769.jpg",
+              "publishedAt": "Fri, 06 Nov 2026 23:22:49 +0530"
+            },
+            {
+              "title": "Street basks in Diwali glow: Benchmark indices post best week in 6 years",
+              "description": "Rupee shines across Asia; Brent sinks most in a week since Covid",
+              "url": "https://www.business-standard.com/markets/news/street-basks-in-diwali-glow-benchmark-indices-post-best-week-in-6-years-126110602064_1.html",
+              "source": "business-standard.com",
+              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110602064.jpg",
+              "publishedAt": "Fri, 06 Nov 2026 23:21:19 +0530"
+            },
+            {
               "title": "This Samvat, can large companies learn to think like entrepreneurs?",
               "description": "As the new Samvat begins, large companies must embrace entrepreneurial thinking, foster innovation and build the agility to respond to uncertainty rather than rely solely on budgets and forecasts",
               "url": "https://www.business-standard.com/companies/news/this-samvat-can-large-companies-learn-to-think-like-entrepreneurs-126110601936_1.html",
@@ -955,12 +1003,12 @@
               "publishedAt": "Fri, 06 Nov 2026 20:53:58 +0530"
             },
             {
-              "title": "Record FII selling of ₹4.55 trillion meets record DII buying in Samvat 2082",
+              "title": "Samvat 2082: Record DII buying more than makes up for record FPI outflow",
               "description": "FIIs sold a record ₹4.55 trillion worth of Indian equities in Samvat 2082, while DIIs bought ₹8.55 trillion, cushioning the market against global turmoil and foreign selling",
               "url": "https://www.business-standard.com/markets/news/record-fii-selling-of-4-55-trillion-meets-record-dii-buying-in-samvat-2082-126110601834_1.html",
               "source": "business-standard.com",
               "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601834.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 20:08:32 +0530"
+              "publishedAt": "Fri, 06 Nov 2026 20:08:20 +0530"
             },
             {
               "title": "Pressure on rupee continues in Samvat 2082; 10-year bond yields harden",
@@ -968,7 +1016,7 @@
               "url": "https://www.business-standard.com/markets/news/pressure-on-rupee-continues-in-samvat-2082-10-year-bond-yields-harden-126110601774_1.html",
               "source": "business-standard.com",
               "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601774.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 19:40:40 +0530"
+              "publishedAt": "Fri, 06 Nov 2026 19:40:01 +0530"
             },
             {
               "title": "Angel One overtakes Zerodha to become 2nd-largest broker by active clients",
@@ -985,38 +1033,6 @@
               "source": "business-standard.com",
               "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601724.jpg",
               "publishedAt": "Fri, 06 Nov 2026 19:15:56 +0530"
-            },
-            {
-              "title": "Sagar Defence, Encube Ethicals among 4 firms to secure Sebi's nod for IPOs",
-              "description": "Sagar Defence Engineering, Encube Ethicals, Arjun Jewellers and IFL Finance have received Sebi's approval to launch IPOs, with proposed issues including fresh shares and offers for sale.",
-              "url": "https://www.business-standard.com/markets/ipo/sagar-defence-encube-ethicals-among-4-firms-to-secure-sebi-s-nod-for-ipos-126110601677_1.html",
-              "source": "business-standard.com",
-              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601677.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 18:56:15 +0530"
-            },
-            {
-              "title": "Ecom, qcom companies see consumer spending surge ahead of Diwali",
-              "description": "E-commerce order volumes rose 21% YoY during the festive period, with quick commerce leading at 75% growth as platforms expanded offerings across gifting, fashion and decor",
-              "url": "https://www.business-standard.com/markets/news/ecom-qcom-companies-gear-up-for-diwali-rush-with-expanded-offerings-126110601644_1.html",
-              "source": "business-standard.com",
-              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601644.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 18:35:14 +0530"
-            },
-            {
-              "title": "Rupee hits six-month high of 93.91 against dollar on oil price decline",
-              "description": "The rupee gained 0.60 per cent to close at 93.91 against the dollar on Friday, its highest level since April 22, supported by falling crude oil prices and foreign equity inflows",
-              "url": "https://www.business-standard.com/economy/news/rupee-hits-six-month-high-of-93-91-against-dollar-on-oil-price-decline-126110601558_1.html",
-              "source": "business-standard.com",
-              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601558.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 18:07:53 +0530"
-            },
-            {
-              "title": "Investing in US stocks from India: Check how these 5 platforms stack up",
-              "description": "Fees, structure and tax help differ across INDmoney, Interactive Brokers, Vested Finance, Paasa and ZFunds",
-              "url": "https://www.business-standard.com/markets/news/investing-in-us-stocks-from-india-check-how-these-5-platforms-stack-up-126110601421_1.html",
-              "source": "business-standard.com",
-              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261106/full-126110601421.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 17:43:49 +0530"
             }
           ]
         },
@@ -1133,14 +1149,6 @@
               "source": "feeds.bbci.co.uk",
               "image": "",
               "publishedAt": "Thu, 05 Nov 2026 04:21:35 GMT"
-            },
-            {
-              "title": "Stock Market Live Updates: US stocks rebound as chip stocks recover, Nasdaq gains over 1%",
-              "description": "",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-amd-intel-broadcom-micron-tesla-airbnb-ai-chip-stocks-jobs-report-treasury-yields-iran-war-democrat-midterm-inflation-oil-prices-6th-november-2026/liveblog/135609029.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135609029,imgsize-1861847.cms",
-              "publishedAt": "Fri, 06 Nov 2026 18:39:13 +0530"
             }
           ]
         },
@@ -1179,15 +1187,15 @@
               "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Fri, 06 Nov 2026 17:03:02 GMT"
+              "publishedAt": "Fri, 06 Nov 2026 19:37:10 GMT"
             },
             {
-              "title": "Siemens Q2 Results: Profit grows 5% to Rs 504 crore",
-              "description": "Siemens Limited announced a consolidated net profit of Rs 504 crore for the quarter ending September 30, 2026. This represents a 4.78% increase compared to the previous year's profit of Rs 481 crore. Revenue from operati",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q2-results-profit-grows-5-to-rs-504-crore/articleshow/135605589.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135605589,imgsize-219800.cms",
-              "publishedAt": "Fri, 06 Nov 2026 16:52:53 +0530"
+              "title": "Why the US midterms sparked an AI stock selloff",
+              "description": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+              "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Fri, 06 Nov 2026 18:32:16 GMT"
             }
           ]
         },
@@ -1213,12 +1221,36 @@
               "publishedAt": "Thu, 05 Nov 2026 18:48:40 +0000"
             },
             {
-              "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
-              "description": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts.",
-              "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+              "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+              "description": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.",
+              "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RZKYX3G2AZB93NGGBV65NX/digital-bank-russia.png",
+              "publishedAt": "Fri, 06 Nov 2026 18:47:45 +0000"
+            },
+            {
+              "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+              "description": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
+              "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg",
+              "publishedAt": "Fri, 06 Nov 2026 18:22:42 +0000"
+            },
+            {
+              "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+              "description": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
+              "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp",
+              "publishedAt": "Fri, 06 Nov 2026 17:49:33 +0000"
+            },
+            {
+              "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+              "description": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
+              "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
               "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-              "publishedAt": "Thu, 05 Nov 2026 16:58:21 +0000"
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5758412ecdd24d3e01a7d4d410665462a0f2b43-4031x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Fri, 06 Nov 2026 17:42:28 +0000"
             },
             {
               "title": "The crypto industry has found new ways to grow. Making money from them is another story",
@@ -1251,30 +1283,6 @@
               "source": "cointelegraph.com",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RFZC8EDJXT26642DWHC0EV/hi-the-crypto-act-explained-nigeria-1.jpg",
               "publishedAt": "Fri, 06 Nov 2026 13:57:14 +0000"
-            },
-            {
-              "title": "Here’s what happened in crypto today",
-              "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-              "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 13:33:00 +0000"
-            },
-            {
-              "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-              "description": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important.",
-              "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
-              "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/615db4afe2529073df0df4401c7d8761456dc6b2-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-              "publishedAt": "Fri, 06 Nov 2026 13:31:54 +0000"
-            },
-            {
-              "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-              "description": "Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038.",
-              "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RG4RXBGZ2VPEVAFNJC6VA3/hi-takeaways-5-years-after-the-dao-crisis-and-ethereum-hardfork-1.jpg",
-              "publishedAt": "Fri, 06 Nov 2026 13:23:08 +0000"
             }
           ]
         }
