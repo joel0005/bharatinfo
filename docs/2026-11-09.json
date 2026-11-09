@@ -13,14 +13,6 @@
           "emoji": "🏢",
           "articles": [
             {
-              "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-              "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-              "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Thu, 05 Nov 2026 22:40:55 +0000"
-            },
-            {
               "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
               "description": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
               "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
@@ -45,22 +37,6 @@
               "publishedAt": "Thu, 05 Nov 2026 14:00:00 +0000"
             },
             {
-              "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-              "description": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-              "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 05 Nov 2026 13:00:00 +0000"
-            },
-            {
-              "title": "AI’s Next Trick? Speaking Dolphin",
-              "description": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-              "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
-            },
-            {
               "title": "Physicists listened to electrical noise to crack a superconductor mystery",
               "description": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
               "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
@@ -83,6 +59,30 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Sun, 08 Nov 2026 10:00:00 +0000"
+            },
+            {
+              "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+              "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
+              "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Sat, 07 Nov 2026 22:07:22 +0000"
+            },
+            {
+              "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+              "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+              "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Sat, 07 Nov 2026 21:17:08 +0000"
+            },
+            {
+              "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+              "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+              "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
+              "publishedAt": "Sat, 07 Nov 2026 12:15:55 +0000"
             }
           ]
         },
@@ -211,14 +211,6 @@
               "publishedAt": "Wed, 04 Nov 2026 18:21:40 +0000"
             },
             {
-              "title": "What’s next for US energy policy after the midterm elections?",
-              "description": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of",
-              "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-              "source": "technologyreview.com",
-              "image": "",
-              "publishedAt": "Wed, 04 Nov 2026 17:08:00 +0000"
-            },
-            {
               "title": "OpenAI to acquire Pierre Computer Company, Inc.",
               "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
               "url": "https://openai.com/index/openai-to-acquire-pierre",
@@ -233,6 +225,14 @@
               "source": "openai.com",
               "image": "",
               "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT"
+            },
+            {
+              "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+              "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+              "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+              "source": "openai.com",
+              "image": "",
+              "publishedAt": "Wed, 04 Nov 2026 07:00:00 GMT"
             }
           ]
         },
@@ -241,14 +241,6 @@
           "label": "Research",
           "emoji": "🔬",
           "articles": [
-            {
-              "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-              "description": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
-              "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
-              "publishedAt": "Wed, 28 Oct 2026 22:51:15 +0000"
-            },
             {
               "title": "Systems Thinking Is Vital in the Age of AI",
               "description": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, gen",
@@ -282,6 +274,14 @@
               "publishedAt": "Wed, 04 Nov 2026 21:56:29 +0000"
             },
             {
+              "title": "What’s next for US energy policy after the midterm elections?",
+              "description": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of",
+              "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+              "source": "technologyreview.com",
+              "image": "",
+              "publishedAt": "Wed, 04 Nov 2026 17:08:00 +0000"
+            },
+            {
               "title": "The Download: blended meat, restored sight, and the agentic web",
               "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&",
               "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
@@ -290,12 +290,20 @@
               "publishedAt": "Wed, 04 Nov 2026 13:10:00 +0000"
             },
             {
-              "title": "Securing the agentic enterprise with data lineage",
-              "description": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age",
-              "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-              "source": "technologyreview.com",
-              "image": "",
-              "publishedAt": "Wed, 04 Nov 2026 13:00:00 +0000"
+              "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+              "description": "This article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on info",
+              "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+              "source": "spectrum.ieee.org",
+              "image": "https://spectrum.ieee.org/media-library/humanoid-robot-and-robot-dog-meet-a-woman-on-a-sunny-terrace-at-sunset.jpg?id=68002098&width=980",
+              "publishedAt": "Tue, 27 Oct 2026 16:14:39 +0000"
+            },
+            {
+              "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
+              "description": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI",
+              "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+              "source": "spectrum.ieee.org",
+              "image": "https://spectrum.ieee.org/media-library/man-in-glasses-at-night-his-face-reflected-in-a-window-beside-him.jpg?id=68515605&width=980",
+              "publishedAt": "Tue, 27 Oct 2026 13:00:03 +0000"
             }
           ]
         },
@@ -391,36 +399,52 @@
               "publishedAt": "Thu, 16 Jul 2026 20:56:34 +0530"
             },
             {
-              "title": "Amazon Pay's next customers are in small towns, and they want credit",
-              "description": "Three in four Amazon Pay customers now live outside India's big cities, says chief executive Vikas Bansal",
-              "url": "https://www.business-standard.com/companies/news/amazon-pay-s-next-customers-are-in-small-towns-and-they-want-credit-126110800351_1.html",
-              "source": "business-standard.com",
+              "title": "Twitter's India policy head to step down; will transition in March",
+              "description": "This comes as the San-Francisco based firm is at the receiving end of the Indian government over an issue of blocking and unblocking certain handles tweeting about farmer protests.",
+              "url": "https://economictimes.indiatimes.com/tech/tech-bytes/twitters-india-policy-head-to-step-down-will-transition-in-march/articleshow/80732868.cms",
+              "source": "economictimes.indiatimes.com",
               "image": "",
-              "publishedAt": "Sun, 08 Nov 2026 21:54:33 +0530"
+              "publishedAt": "Sun, 07 Feb 2021 13:01:32 +0530"
             },
             {
-              "title": "Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile",
-              "description": "After a turbulent Samvat 2082, analysts expect geopolitical developments, crude prices and foreign investor flows to shape market direction, with banks and financials remaining preferred bets",
-              "url": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-samvat-2083-outlook-indian-equities-oil-prices-fpi-flows-volatility-126110800259_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Sun, 08 Nov 2026 20:50:19 +0530"
-            },
-            {
-              "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-              "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-              "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+              "title": "He spent $50,000 on Labubus but now the craze is dying",
+              "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+              "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Sun, 08 Nov 2026 15:37:25 GMT"
+              "publishedAt": "Sat, 07 Nov 2026 23:02:35 GMT"
             },
             {
-              "title": "Hindalco flags coal shortage, expects 5% rise in aluminium production costs",
-              "description": "The metals company expects aluminium production costs to rise another 5 per cent sequentially in the December quarter, after a similar increase in the September quarter, MD Satish Pai said",
-              "url": "https://www.business-standard.com/companies/news/hindalco-flags-coal-shortage-expects-5-rise-in-aluminium-production-costs-126110800282_1.html",
+              "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+              "description": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+              "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Sat, 07 Nov 2026 01:41:36 GMT"
+            },
+            {
+              "title": "Tenneco India explores diversifying beyond auto sector, eyes M&A plans",
+              "description": "Tenneco Clean Air India is exploring acquisitions in rail, aerospace and defence, while expanding its automotive portfolio across internal combustion, hybrid and electric vehicles.",
+              "url": "https://www.business-standard.com/companies/news/tenneco-india-explores-diversifying-beyond-auto-sector-eyes-m-a-plans-126110900918_1.html",
               "source": "business-standard.com",
               "image": "",
-              "publishedAt": "Sun, 08 Nov 2026 15:37:03 +0530"
+              "publishedAt": "Mon, 09 Nov 2026 17:46:14 +0530"
+            },
+            {
+              "title": "From Nvidia to Micron: Major China-linked espionage cases under scrutiny",
+              "description": "Nvidia's probe into alleged Chinese intelligence targeting of CEO Jensen Huang puts the spotlight on past cases involving honeytrapping, political influence, trade secret theft and cyber espionage",
+              "url": "https://www.business-standard.com/world-news/from-nvidia-to-micron-major-china-linked-espionage-cases-under-scrutiny-126110900779_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Mon, 09 Nov 2026 17:16:56 +0530"
+            },
+            {
+              "title": "IFSCA proposes model portfolios in GIFT City by research entities",
+              "description": "The proposed framework requires research entities to disclose portfolio risks, investment strategies and rebalancing schedules, while benchmarking performance against relevant indices",
+              "url": "https://www.business-standard.com/markets/news/ifsca-proposes-model-portfolios-in-gift-city-by-research-entities-126110900766_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Mon, 09 Nov 2026 17:08:54 +0530"
             }
           ]
         },
@@ -594,44 +618,44 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "Thick smog blankets Delhi on Deepavali night, AQI at 20 stations ‘severe’",
-              "description": "The Air Quality Early Warning System (EWS) has forecast that Delhi's air quality is likely to slip into the 'severe' category from November 9 and remain there for the subsequent few days",
-              "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-deepavali-cracker-ban-ver-poor/article71681158.ece",
+              "title": "Bandi Sanjay says efforts on to resolve Karimnagar dumping yard issue, accuses BRS regime of failing to address it",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-says-efforts-on-to-resolve-karimnagar-dumping-yard-issue-accuses-brs-regime-of-failing-to-address-it/article71682588.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/6yts88/article71681162.ece/alternates/LANDSCAPE_1200/POLLUTION%20STANDLONE%20DELHI%201.JPG",
-              "publishedAt": "Sun, 08 Nov 2026 23:03:38 +0530"
+              "image": "",
+              "publishedAt": "Mon, 09 Nov 2026 18:33:37 +0530"
             },
             {
-              "title": "P.T. Usha complains to IOA electoral officer over WhatsApp campaign for SOM polls",
-              "description": "The Indian Olympic Association president alleged former archer Dola Banerjee violated the Model Code of Conduct by circulating a WhatsApp message seeking votes for four candidates ahead of Monday’s election",
-              "url": "https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece",
+              "title": "Andhra Pradesh steps up efforts to make MSMEs energy-efficient, says official",
+              "description": "Energy and water audits being conducted in selected units to reduce operational costs and promote sustainable manufacturing; EESL targets completion by March 2027",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-steps-up-efforts-to-make-msmes-energy-efficient-says-official/article71682699.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/97to0e/article71681131.ece/alternates/LANDSCAPE_1200/image%207.jpeg",
-              "publishedAt": "Sun, 08 Nov 2026 22:10:48 +0530"
+              "image": "",
+              "publishedAt": "Mon, 09 Nov 2026 18:32:38 +0530"
             },
             {
-              "title": "Rajajinagar murders: Two more bodies recovered near Chamundi hills in Mysuru",
-              "description": "With this development, five bodies have been traced so far in the case, while the search for the remaining two continues",
-              "url": "https://www.thehindu.com/news/cities/bangalore/rajajinagar-murders-two-more-bodies-recovered-near-chamundi-hills-in-mysuru/article71680991.ece",
+              "title": "Winter Session in Belagavi starting Dec. 2",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/karnataka/winter-session-in-belagavi-starting-dec-2/article71681408.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/ktt2bp/article71681097.ece/alternates/LANDSCAPE_1200/Rajajinagar-murGHBGP7E8U.3.jpg.jpg",
-              "publishedAt": "Sun, 08 Nov 2026 21:25:53 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/n6bt55/article71682715.ece/alternates/LANDSCAPE_1200/Belagavi-WinterGL0GNJ8D6.3.jpg.jpg",
+              "publishedAt": "Mon, 09 Nov 2026 18:32:22 +0530"
             },
             {
-              "title": "School Assembly News Headlines (November 9): Top National, International News",
-              "description": "Globally, headlines focus on rising tensions involving Iran, Israel, and the United States, alongside political developments in the Middle East.",
-              "url": "https://www.ndtv.com/education/school-assembly-news-headlines-november-9-top-national-international-news-12300699#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2025-12/m3f08gio_air-pollution-delhi_625x300_18_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 08 Nov 2026 20:23:16 +0530"
+              "title": "CITU Keralam State conference concludes, re-elects T.P. Ramakrishnan as president",
+              "description": "Ramakrishnan says CITU will launch a series of protests against what he termed the UDF government’s unilateral move to transfer en masse employees of various government departments and State-run PSUs",
+              "url": "https://www.thehindu.com/news/national/kerala/citu-keralam-state-conference-concludes-re-elects-tp-ramakrishnan-as-president/article71682469.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/lj1v7y/article71682761.ece/alternates/LANDSCAPE_1200/80692_2_4_2026_14_6_15_1_03TVKZTPRAMAKRISHNAN.JPG",
+              "publishedAt": "Mon, 09 Nov 2026 18:29:51 +0530"
             },
             {
-              "title": "Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library",
-              "description": "“It is important to stem the rot before it spreads, all the more so if this book was AI-generated,” the economist said in a clarification via e-mail to The Hindu",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
+              "title": "Nellore DLSA Secretary urges public to utilise free government legal aid services",
+              "description": "Addressing a legal awareness seminar, Y.J. Padmashree says the government is mandated to provide free legal aid to the public, particularly to those who are economically or socially disadvantaged, illiterate, or living w",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-dlsa-secretaryurges-public-to-utilise-free-government-legalaid-services/article71682177.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/s7x3n8/article71681032.ece/alternates/LANDSCAPE_1200/India-has-resouG4IFM4P1U.3.jpg.jpg",
-              "publishedAt": "Sun, 08 Nov 2026 20:12:15 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/7gwbw7/article71682717.ece/alternates/LANDSCAPE_1200/9604_9_11_2026_16_24_53_1_IMG_20261109_WA0018.JPG",
+              "publishedAt": "Mon, 09 Nov 2026 18:28:33 +0530"
             }
           ]
         },
@@ -728,52 +752,44 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
+              "title": "Policeman beaten to death in Theni over Deepavali celebration dispute",
+              "description": "Special Police Sub-Inspector Senthilkumar was killed while questioning a gang who were filming reels about bursting firecrackers on the road on November 8 night.",
+              "url": "https://www.thehindu.com/news/cities/Madurai/special-sub-inspector-of-police-beaten-to-death-in-theni/article71681282.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/lj25uu/article71681329.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%203.jpg",
+              "publishedAt": "Mon, 09 Nov 2026 18:33:09 +0530"
+            },
+            {
+              "title": "17 killed, 55 injured in six road accidents across U.P. a day after Diwali",
+              "description": "The deadliest of these accidents occurred in Muzaffarnagar, where six people were burnt alive after their car overturned and caught fire following a collision with a divider and an electric pole",
+              "url": "https://www.thehindu.com/news/national/uttar-pradesh/17-killed-55-injured-in-six-road-accidents-across-up-a-day-after-diwali/article71682682.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/9e0z0/article71682767.ece/alternates/LANDSCAPE_1200/20261109128L.jpg",
+              "publishedAt": "Mon, 09 Nov 2026 18:32:29 +0530"
+            },
+            {
+              "title": "Vijayapura officers violated protocol, say Jigajinagi’s supporters",
               "description": "",
-              "url": "https://www.thehindu.com/news/national/karnataka/habitual-offender-arrested-for-murdering-65-year-old-woman-in-bengaluru/article71678977.ece",
+              "url": "https://www.thehindu.com/news/national/karnataka/vijayapura-officers-violated-protocol-say-jigajinagis-supporters/article71682141.ece",
               "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Sun, 08 Nov 2026 23:03:36 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/a8fiil/article71682780.ece/alternates/LANDSCAPE_1200/Congress-is-sprG1IGM54GF.3.jpg.jpg",
+              "publishedAt": "Mon, 09 Nov 2026 18:31:50 +0530"
             },
             {
-              "title": "Revanth celebrates Deepavali with Indiramma house beneficiary",
-              "description": "Ministers, MLAs asked to spend festival with poor families who received houses; 2.21 lakh houses completed under scheme",
-              "url": "https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece",
+              "title": "AIADMK, AMMK leaders lash out at CM Vijay over Deepavali day murders across Tamil Nadu",
+              "description": "Edappadi Palaniswami and T.T.V. Dhinakaran came down heavily on the TVK-led government.",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-ammk-leaders-lash-out-at-cm-vijay-over-deepavali-day-murders-across-tamil-nadu/article71682025.ece",
               "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/telangana/wmh323/article71681089.ece/alternates/LANDSCAPE_1200/Indiramma%201.jpeg",
-              "publishedAt": "Sun, 08 Nov 2026 21:54:53 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/tl7z6e/article71682145.ece/alternates/LANDSCAPE_1200/_DSC4516.jpg",
+              "publishedAt": "Mon, 09 Nov 2026 18:29:43 +0530"
             },
             {
-              "title": "UK Hindu family takes legal action after school objects to boy wearing tilak",
-              "description": "The parents of a nine-year-old boy have approached the UK High Court, alleging religious discrimination after he was prevented from wearing the sacred Tilak-Chandlo to school",
-              "url": "https://www.thehindu.com/news/international/uk-hindu-family-takes-legal-action-after-school-objects-to-boy-wearing-tilak/article71681073.ece",
+              "title": "Gaps in services at Telangana’s secondary healthcare facilities to be assessed",
+              "description": "Health Minister Damodar Raja Narasimha directs officials to assess specialist services currently available, departments requiring additional doctors and nursing or paramedical staff, and gaps in diagnostic facilities",
+              "url": "https://www.thehindu.com/news/national/telangana/gaps-in-services-at-telanganas-secondary-healthcare-facilities-to-be-assessed/article71682175.ece",
               "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Sun, 08 Nov 2026 21:01:46 +0530"
-            },
-            {
-              "title": "HD Kumaraswamy Claims IAS Officer Paid Bribe To Stop Transfer, Points To Minister",
-              "description": "Earlier today, speaking to reporters in Hassan after visiting the historic Hasanamba temple in Hassan, Kumaraswamy read out excerpts from a written script of what he described as a WhatsApp conversation between an uniden",
-              "url": "https://www.ndtv.com/india-news/hd-kumaraswamy-claims-ias-officer-paid-bribe-to-stop-transfer-points-to-minister-12300676#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2024-04/8924j0d8_hd-kumaraswamy_625x300_05_April_24.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 08 Nov 2026 20:14:13 +0530"
-            },
-            {
-              "title": "\"Bangladeshis Lying In Wait\": Suvendu Adhikari To Security Forces At Bengal Border",
-              "description": "\"I used binoculars to scan the area - and there is nothing on the Bangladesh side. They are lying in wait, watching for the BSF to be momentarily out of sight so they can slip across,\" Suvendu Adhikari said",
-              "url": "https://www.ndtv.com/india-news/bangladeshis-lying-in-wait-suvendu-adhikari-to-security-forces-at-bengal-border-12300665#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/a9ll8rmc_suvendu-adhikari_625x300_08_November_26.jpeg",
-              "publishedAt": "Sun, 08 Nov 2026 20:10:25 +0530"
-            },
-            {
-              "title": "Trump Says US Took 'Giant Step Back In History' After Midterm Election Loss",
-              "description": "Democrats captured both chambers of Congress in last Tuesday's midterms that dealt historic losses for Trump's Republican Party in states they had dominated for decades.",
-              "url": "https://www.ndtv.com/world-news/trump-says-us-took-giant-step-back-in-history-after-midterm-election-loss-12300660#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2024-11/r92i04ro_donald-trump_625x300_07_November_24.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 08 Nov 2026 20:09:13 +0530"
+              "image": "https://th-i.thgim.com/public/incoming/21cy5s/article71682182.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-09%20at%203.33.02%20PM.jpeg",
+              "publishedAt": "Mon, 09 Nov 2026 18:28:32 +0530"
             }
           ]
         },
@@ -837,6 +853,30 @@
               "source": "thehindu.com",
               "image": "https://th-i.thgim.com/public/incoming/hkmq3k/article71669392.ece/alternates/LANDSCAPE_1200/two%20frame.jpg",
               "publishedAt": "Thu, 05 Nov 2026 15:45:28 +0530"
+            },
+            {
+              "title": "Andhra Pradesh civic polls largely peaceful; Jagan demands repoll in Pulivendula after clashes",
+              "description": "Polling across 13 municipal corporations and 79 municipalities and nagar panchayats ends amid sporadic violence. The SEC puts the overall polling percentage at 48.03 by 3 p.m., reports 275 FIRs in connection with 40 inci",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-civic-polls-largely-peaceful-jagan-demands-repoll-in-pulivendula-after-clashes/article71653094.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/ctdvew/article71653329.ece/alternates/LANDSCAPE_1200/vjkvg-election%2029.JPG",
+              "publishedAt": "Sun, 01 Nov 2026 23:37:07 +0530"
+            },
+            {
+              "title": "Should voting be a fundamental right?",
+              "description": "A recent Indian Express report revealed an unprecedented rift within the EC over alleged unilateral changes to rules, voter additions/deletions, and centralised data access, prompting a re-examination of the argument tha",
+              "url": "https://www.thehindu.com/news/national/should-voting-be-a-fundamental-right/article71517159.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/92mv9x/article71517158.ece/alternates/LANDSCAPE_1200/9871_23_4_2026_21_13_32_1_ELECTIONPOLLINGCROWD__03.JPG",
+              "publishedAt": "Sat, 31 Oct 2026 19:29:45 +0530"
+            },
+            {
+              "title": "Jana Sena MPTC woman contestant dies of cardiac arrest hours ahead of votes counting in East Godavari",
+              "description": "A pall of gloom descended on her panchayat as the death left her supporters in shock.",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-mptc-woman-contestant-dies-of-cardiac-arrest-hours-ahead-of-votes-counting-in-east-godavari/article71677212.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/v3icxi/article71677240.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%208.55.10%20AM.jpeg",
+              "publishedAt": "Sat, 07 Nov 2026 09:01:23 +0530"
             }
           ]
         }
@@ -974,6 +1014,14 @@
               "source": "cnbc.com",
               "image": "",
               "publishedAt": "Thu, 29 Oct 2026 13:37:38 GMT"
+            },
+            {
+              "title": "Democratic sweep puts crypto on defensive in Washington",
+              "description": "Democrats in Congress could impose tougher rules on crypto and investigate President Donald Trump, ushering in a tougher era for the industry.",
+              "url": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Thu, 05 Nov 2026 16:48:34 GMT"
             }
           ]
         },
@@ -983,52 +1031,20 @@
           "emoji": "🌏",
           "articles": [
             {
-              "title": "Interest rates hiked to 4% in first increase in over three years",
-              "description": "Most analysts expected the increase from 3.75% to 4%.",
-              "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 05 Nov 2026 17:09:55 GMT"
-            },
-            {
-              "title": "Faisal Islam: How high will interest rates go?",
-              "description": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-              "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 05 Nov 2026 13:17:10 GMT"
-            },
-            {
-              "title": "Three ways the interest rate rise could affect you",
-              "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-              "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 05 Nov 2026 13:08:30 GMT"
-            },
-            {
-              "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-              "description": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
-              "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Sun, 08 Nov 2026 22:53:57 GMT"
-            },
-            {
-              "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
-              "description": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
-              "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Sun, 08 Nov 2026 21:53:02 GMT"
-            },
-            {
               "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
               "description": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
               "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
               "source": "cnbc.com",
               "image": "",
               "publishedAt": "Sun, 08 Nov 2026 18:57:56 GMT"
+            },
+            {
+              "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+              "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+              "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Sun, 08 Nov 2026 15:37:25 GMT"
             },
             {
               "title": "How Democrats will try to end Trump's tariffs",
@@ -1039,20 +1055,52 @@
               "publishedAt": "Sun, 08 Nov 2026 15:36:39 GMT"
             },
             {
-              "title": "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
-              "description": "India's macroeconomic environment is poised for robust growth, projected at over seven percent, bolstering equity markets. With falling crude oil prices, the rupee may strengthen, drawing foreign investors. Retail and do",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/lower-crude-global-stability-to-drive-market-growth-in-new-samvat-anmi-president-kamlesh-shroff/articleshow/135656109.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135656109,imgsize-81366.cms",
-              "publishedAt": "Sun, 08 Nov 2026 15:12:47 +0530"
+              "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+              "description": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
+              "url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 08 Nov 2026 14:00:01 GMT"
             },
             {
-              "title": "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
-              "description": "India's economy is projected to experience faster growth due to strong macroeconomic fundamentals and increased foreign interest. The Managing Director of the National Stock Exchange highlighted that the country is manag",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan/articleshow/135656058.cms",
-              "source": "economictimes.indiatimes.com",
-              "image": "https://img.etimg.com/photo/msid-135656058,imgsize-169882.cms",
-              "publishedAt": "Sun, 08 Nov 2026 15:10:45 +0530"
+              "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+              "description": "Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.",
+              "url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 08 Nov 2026 13:00:01 GMT"
+            },
+            {
+              "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+              "description": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
+              "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 08 Nov 2026 06:00:01 GMT"
+            },
+            {
+              "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+              "description": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+              "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sat, 07 Nov 2026 15:23:46 GMT"
+            },
+            {
+              "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how",
+              "description": "While experts say it's best to use up your FSA money, the tax savings on your contributions could outweigh any amount you forfeit. Here's how to tell.",
+              "url": "https://www.cnbc.com/2026/11/07/fsa-forfeit.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sat, 07 Nov 2026 14:30:01 GMT"
+            },
+            {
+              "title": "Inside the card-grading empire shaping the price of Pokémon cards",
+              "description": "PSA’s resale premium, backlog and grading-market dominance shape what collectors pay — and how much their Pokémon cards may fetch.",
+              "url": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sat, 07 Nov 2026 02:00:01 GMT"
             }
           ]
         },
@@ -1101,28 +1149,12 @@
               "publishedAt": "Sun, 08 Nov 2026 19:16:42 +0000"
             },
             {
-              "title": "Here’s what happened in crypto today",
-              "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-              "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-              "publishedAt": "Sun, 08 Nov 2026 13:33:00 +0000"
-            },
-            {
               "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
               "description": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.",
               "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
               "source": "cointelegraph.com",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg",
               "publishedAt": "Sun, 08 Nov 2026 12:57:51 +0000"
-            },
-            {
-              "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-              "description": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
-              "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-              "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/aee234db418da001bf5ae613c8da62131873c838-1330x998.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-              "publishedAt": "Sun, 08 Nov 2026 12:55:59 +0000"
             },
             {
               "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
@@ -1141,20 +1173,36 @@
               "publishedAt": "Sun, 08 Nov 2026 08:12:56 +0000"
             },
             {
-              "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-              "description": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
-              "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-              "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-              "publishedAt": "Sat, 07 Nov 2026 19:13:16 +0000"
+              "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+              "description": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.",
+              "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6V5PT52GJ6H06ZRY3P4BHFK/arrest-crime-police-hacker-fbi.jpg",
+              "publishedAt": "Sat, 07 Nov 2026 14:16:00 +0000"
             },
             {
-              "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-              "description": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
-              "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+              "title": "Bitcoin holders have received eCash — What can you do with it?",
+              "description": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+              "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png",
+              "publishedAt": "Sat, 07 Nov 2026 13:30:00 +0000"
+            },
+            {
+              "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+              "description": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
+              "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
               "source": "coindesk.com",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/9b6c50614a95b8691bb96a1027e2c050c8f9b64c-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-              "publishedAt": "Sat, 07 Nov 2026 17:36:46 +0000"
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Mon, 09 Nov 2026 12:41:35 +0000"
+            },
+            {
+              "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
+              "description": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
+              "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/13cd4f14be950fbfb70e6dc6ab16bf0fdc1d8647-4533x2550.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Mon, 09 Nov 2026 12:37:13 +0000"
             }
           ]
         }
