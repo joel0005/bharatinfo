@@ -29,14 +29,6 @@
               "publishedAt": "Thu, 12 Nov 2026 22:14:41 +0000"
             },
             {
-              "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
-              "description": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
-              "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Thu, 12 Nov 2026 20:35:11 +0000"
-            },
-            {
               "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
               "description": "This was the first total mission failure in United Launch Alliance's 20-year history.",
               "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
@@ -67,6 +59,14 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Sun, 15 Nov 2026 11:00:00 +0000"
+            },
+            {
+              "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+              "description": "It felt like stepping into the future.",
+              "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+              "publishedAt": "Sun, 15 Nov 2026 00:40:59 +0000"
             }
           ]
         },
@@ -108,20 +108,12 @@
               "publishedAt": "Wed, 04 Nov 2026 16:06:03 +0000"
             },
             {
-              "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-              "description": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-              "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+              "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+              "description": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+              "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
               "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
-              "publishedAt": "Tue, 27 Oct 2026 20:25:55 +0000"
-            },
-            {
-              "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-              "description": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-              "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
-              "publishedAt": "Tue, 03 Nov 2026 16:03:13 +0000"
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+              "publishedAt": "Tue, 10 Nov 2026 21:12:59 +0000"
             },
             {
               "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
@@ -242,14 +234,6 @@
               "publishedAt": "Wed, 28 Oct 2026 18:00:02 +0000"
             },
             {
-              "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
-              "description": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, A",
-              "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-              "source": "spectrum.ieee.org",
-              "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=980",
-              "publishedAt": "Wed, 21 Oct 2026 13:00:02 +0000"
-            },
-            {
               "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
               "description": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
               "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
@@ -296,6 +280,14 @@
               "source": "spectrum.ieee.org",
               "image": "https://spectrum.ieee.org/media-library/man-in-glasses-at-night-his-face-reflected-in-a-window-beside-him.jpg?id=68515605&width=980",
               "publishedAt": "Tue, 27 Oct 2026 13:00:03 +0000"
+            },
+            {
+              "title": "What happens to mathematics when AI becomes an oracle?",
+              "description": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+              "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
+              "publishedAt": "Tue, 10 Nov 2026 20:30:01 +0000"
             }
           ]
         },
@@ -329,20 +321,20 @@
               "publishedAt": "Wed, 11 Nov 2026 15:30:00 +0000"
             },
             {
-              "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
-              "description": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
-              "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Wed, 11 Nov 2026 13:36:15 +0000"
+              "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+              "description": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+              "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+              "publishedAt": "Tue, 27 Oct 2026 20:25:55 +0000"
             },
             {
-              "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-              "description": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-              "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+              "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+              "description": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+              "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
               "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
-              "publishedAt": "Tue, 10 Nov 2026 21:12:59 +0000"
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+              "publishedAt": "Tue, 03 Nov 2026 16:03:13 +0000"
             }
           ]
         }
@@ -383,36 +375,44 @@
               "publishedAt": "Thu, 16 Jul 2026 20:56:34 +0530"
             },
             {
-              "title": "Govt, pvt health insurance spending crosses 20% of total health expenditure",
-              "description": "Government-funded health schemes and private insurance accounted for 21.2 per cent of India's total health expenditure in FY24, with both categories crossing 10 per cent for the first time",
-              "url": "https://www.business-standard.com/finance/personal-finance/govt-private-health-insurance-spending-tops-20-of-total-health-outlay-126111500530_1.html",
-              "source": "business-standard.com",
+              "title": "Beauty advent calendars can cost hundreds but are they value for money?",
+              "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+              "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 22:50:26 +0530"
+              "publishedAt": "Sun, 15 Nov 2026 00:01:07 GMT"
             },
             {
-              "title": "RBI may review microfinance borrowers' income threshold, if needed: Murmu",
-              "description": "Such a review of the ₹3 lakh income limit will hinge on the regulator's assessment of the need for a revision and developments in the industry",
-              "url": "https://www.business-standard.com/finance/news/rbi-may-review-microfinance-borrowers-income-threshold-if-needed-murmu-126111500501_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 20:27:16 +0530"
-            },
-            {
-              "title": "Max Estates gets HARERA nod for ₹4,000 crore luxury project in Gurugram",
-              "description": "The Bungalows, spread across 7.25 acres in Gurugram's Sector 59, will feature 243 luxury residences across two towers, with an estimated gross development value of ₹4,000 crore",
-              "url": "https://www.business-standard.com/companies/news/max-estates-gets-harera-nod-for-4-000-crore-luxury-project-in-gurugram-126111500417_1.html",
-              "source": "business-standard.com",
-              "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 16:27:11 +0530"
-            },
-            {
-              "title": "IPO-bound Muthoot Fincorp doubles Q2 profit to Rs 779 crore, bucks trend of rising bad loans",
-              "description": "Muthoot Fincorp doubled its second-quarter net profit to Rs 779 crore from Rs 388 crore a year earlier, while its gross bad-loan ratio improved to 1.07% despite rising stress across the sector. The gold loan lender, whic",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ipo-bound-muthoot-fincorp-doubles-q2-profit-to-rs-779-crore-bucks-trend-of-rising-bad-loans/articleshow/135869162.cms",
+              "title": "Twitter's India policy head to step down; will transition in March",
+              "description": "This comes as the San-Francisco based firm is at the receiving end of the Indian government over an issue of blocking and unblocking certain handles tweeting about farmer protests.",
+              "url": "https://economictimes.indiatimes.com/tech/tech-bytes/twitters-india-policy-head-to-step-down-will-transition-in-march/articleshow/80732868.cms",
               "source": "economictimes.indiatimes.com",
               "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 14:19:27 +0530"
+              "publishedAt": "Sun, 07 Feb 2021 13:01:32 +0530"
+            },
+            {
+              "title": "Microsoft says services fully restored after day-long global outage",
+              "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Sat, 14 Nov 2026 06:42:27 GMT"
+            },
+            {
+              "title": "Sebi sets up expert panel to review IPO, FPO and capital-raising norms",
+              "description": "The Ashish Chauhan-led panel will review eligibility, disclosure, pricing and lock-in requirements under Sebi's ICDR regulations to simplify fundraising and ease market access",
+              "url": "https://www.business-standard.com/markets/news/sebi-sets-up-expert-panel-to-review-ipo-fpo-and-capital-raising-norms-126111601512_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Mon, 16 Nov 2026 18:04:42 +0530"
+            },
+            {
+              "title": "RBI files review petition in SC over YES Bank's ₹8,415 cr AT-1 bond case",
+              "description": "The central bank has sought a review of the Supreme Court's October 15 ruling that upheld the Bombay High Court's decision to set aside YES Bank's ₹8,415 crore AT-1 bond write-off",
+              "url": "https://www.business-standard.com/industry/banking/rbi-files-review-petition-in-sc-over-yes-bank-s-8-415-cr-at-1-bond-case-126111601511_1.html",
+              "source": "business-standard.com",
+              "image": "",
+              "publishedAt": "Mon, 16 Nov 2026 17:53:35 +0530"
             }
           ]
         },
@@ -430,28 +430,28 @@
               "publishedAt": "Wed, 28 Oct 2026 14:50:02 GMT"
             },
             {
-              "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
-              "description": "Investors seeking a stable income stream can enhance their portfolios with the addition of dividend stocks.",
-              "url": "https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+              "title": "Top Wall Street analysts find these 3 stocks attractive as long-term investments",
+              "description": "Look beyond short-term noise and focus on stocks with strong growth potential in future years.",
+              "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Sun, 27 Sep 2026 11:33:15 GMT"
+              "publishedAt": "Sun, 20 Sep 2026 12:01:35 GMT"
             },
             {
-              "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-              "description": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
-              "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+              "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
+              "description": "Democrats advocated taxing high earners to shore up Social Security in the runup to the midterms. Plus, a senior deduction is slated to expire in two years.",
+              "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Sun, 18 Oct 2026 12:34:51 GMT"
+              "publishedAt": "Sun, 15 Nov 2026 14:30:01 GMT"
             },
             {
-              "title": "What I know and respect about Colette Kress, the person now leading Nvidia",
-              "description": "Colette Kress is the steady hand that Nvidia needs in charge during this turbulent time.",
-              "url": "https://www.cnbc.com/investingclub/2026/11/15/jim-cramer-nvidia-colette-kress-jensen-huang.html",
+              "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+              "description": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+              "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 17:14:17 GMT"
+              "publishedAt": "Sun, 15 Nov 2026 08:34:46 GMT"
             }
           ]
         },
@@ -501,14 +501,6 @@
               "publishedAt": "Sun, 15 Nov 2026 17:05:00 +0000"
             },
             {
-              "title": "(Weekly funding roundup Nov 7-14) VC inflow drops to its lowest level in 2026",
-              "description": "The second week of November saw venture capital funding into Indian startups drop to its lowest level for the year till now due to weak deal activity.",
-              "url": "https://yourstory.com/2026/11/weekly-funding-roundup-nov-7-14-vc-inflow-drops-to-lowest-level-2026",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 14:28:16 GMT"
-            },
-            {
               "title": "India, US have agreed on preferential market access for Indian goods in America: Piyush Goyal",
               "description": "India and the US finalised the framework for the first phase of the bilateral trade agreement in February.",
               "url": "https://yourstory.com/2026/11/india-us-agree-on-preferential-market-access-for-indian-goods-in-america-goyal",
@@ -517,28 +509,36 @@
               "publishedAt": "Sun, 15 Nov 2026 11:11:50 GMT"
             },
             {
-              "title": "Sebi to issue AI usage guidelines for capital markets, focus on investor protection",
-              "description": "The Sebi chief said the proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities, and a 'human-in-the-loop' approach.",
-              "url": "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 09:39:37 GMT"
-            },
-            {
-              "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
-              "description": "Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, said, Natalia Rachelson, Senior Vice President, Applications Development,",
-              "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
-              "source": "yourstory.com",
-              "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 09:31:47 GMT"
-            },
-            {
               "title": "Zomato-parent Eternal reworking 2030 EV delivery target amid fleet expansion, EV adoption",
               "description": "The company is working towards a revised timeline, factoring in the availability of electric vehicles, supporting government policies, and the transportation requirements of its various businesses.",
               "url": "https://yourstory.com/2026/11/zomato-eternal-reworks-ev-delivery-target-fleet-expansion-evolving-adoption",
               "source": "yourstory.com",
               "image": "",
               "publishedAt": "Sun, 15 Nov 2026 09:24:35 GMT"
+            },
+            {
+              "title": "EaseMyTrip Q2: Loss Narrows 98% YoY To ₹57 Lakh, Revenue Up 34%",
+              "description": "Online travel aggregator (OTA) EaseMyTrip managed to narrow its consolidated net loss by 98.4% to ₹56.5 Lakh in the second&#8230;",
+              "url": "https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/",
+              "source": "inc42.com",
+              "image": "",
+              "publishedAt": "Sun, 15 Nov 2026 07:45:37 +0000"
+            },
+            {
+              "title": "5 lessons from book Be Delusional by Harinder Singh Pelia",
+              "description": "Discover five powerful lessons from Be Delusional by Harinder Singh Pelia on self-belief, ambition, confidence and turning big dreams into reality.",
+              "url": "https://yourstory.com/2026/11/lessons-be-delusional",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Sun, 15 Nov 2026 05:00:00 GMT"
+            },
+            {
+              "title": "How the art ecosystem opens up a wide range of opportunities beyond creation of artworks",
+              "description": "In this photo essay, we showcase more highlights from Chennai’s Contemporary Now arts festival, along with director insights.",
+              "url": "https://yourstory.com/2026/11/art-ecosystem-roles-opportunities-creativity-exhibition-photography",
+              "source": "yourstory.com",
+              "image": "",
+              "publishedAt": "Sun, 15 Nov 2026 02:50:00 GMT"
             }
           ]
         },
@@ -578,68 +578,44 @@
           "emoji": "🏟️",
           "articles": [
             {
-              "title": "5 Killed, 11 Injured As Car Collides With Truck In Punjab's Fazilka",
-              "description": "The accident occurred near Theh Kalandar while they were returning from a wedding ceremony.",
-              "url": "https://www.ndtv.com/india-news/5-killed-11-injured-as-car-collides-with-truck-in-punjabs-fazilka-12331045#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/csf0b1vo_punjab_625x300_15_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 23:59:58 +0530"
+              "title": "Orthodox Church faults government over Patriarch’s visit to Manarcad church",
+              "description": "The remarks came as the Patriarch, who returned to Beirut after a fruitfully described apostolic visit, urged open dialogue to resolve the long-standing Malankara church dispute.",
+              "url": "https://www.thehindu.com/news/national/kerala/orthodox-church-faults-government-over-patriarchs-visit-to-manarcad-church/article71707926.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/qyhfz1/article71708069.ece/alternates/LANDSCAPE_1200/Yuhanon%20Mar%20Diascoros.jpg",
+              "publishedAt": "Mon, 16 Nov 2026 18:20:51 +0530"
             },
             {
-              "title": "BJP Sees 'Treason' As Italian Leader Echoes 'Vote Chor' Slogan, Rahul Gandhi Laughs At Hyderabad Event",
-              "description": "Giacomo Filibeck, secretary-general of the Party of European Socialists (PES), raised the Opposition's slogan \"Vote chor, gaddi chhod\", translating it to \"Vote thief, leave your seat\" -- a line that Rahul Gandhi has been",
-              "url": "https://www.ndtv.com/india-news/treason-bjp-on-italian-leader-giacomo-filibecks-vote-chori-dig-rahul-gandhis-laughter-at-bharat-summit-in-hyderabad-12330116#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/3ui74gk_giacomo-filibeck-even-translated-rahul-gandhis-slogan-igniting-laughter-in-the-room-at-hyderabad-on-saturday_625x300_15_November_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 23:53:55 +0530"
+              "title": "Madurai Tanishq showroom gold heist: Prime accused arrested in Dharmapuri",
+              "description": "He was caught after a chase as he jumped through the window of bus in the dead of night",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/madurai-tanishq-showroom-gold-heist-prime-accused-arrested-in-dharmapuri/article71707013.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/tqt4tf/article71707077.ece/alternates/LANDSCAPE_1200/Tanishq%20jewellery%20showroom%201.JPG",
+              "publishedAt": "Mon, 16 Nov 2026 18:17:44 +0530"
             },
             {
-              "title": "3 Girls Of A Family Among 26 Killed In Assam Truck-Bus Collision",
-              "description": "According to their father, his two younger daughters, aged 20 and 16, left home with their cousin. His eldest daughter is married and lives in Burapahar.",
-              "url": "https://www.ndtv.com/india-news/2-sisters-cousin-among-26-killed-in-kaziranga-crash-12331023#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/gecr38so_sisters_625x300_15_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 23:46:34 +0530"
+              "title": "Telangana ACB books Moinabad Town Planning Officer in DA case",
+              "description": "Gundu Vani was earlier arrested by Telangana ACB on September 30 in a trap case for allegedly demanding and accepting a bribe of ₹75,000 through a panchayat secretary",
+              "url": "https://www.thehindu.com/news/national/telangana/town-planning-officer-booked-in-da-case/article71707846.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/wp4m5v/article71707849.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%205.14.22%20PM%201.jpeg",
+              "publishedAt": "Mon, 16 Nov 2026 18:07:25 +0530"
             },
             {
-              "title": "Akhilesh Yadav's Dalit Pitch, Ayodhya Plan Stir UP Vote Bank Cauldron",
-              "description": "While Samajwadi Party (SP) chief Akhilesh Yadav has announced his intention to visit the Ayodhya Ram temple, much of the action is also focussed on the Dalit vote",
-              "url": "https://www.ndtv.com/india-news/akhilesh-yadavs-dalit-pitch-ayodhya-plan-stir-up-vote-bank-cauldron-12330991#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/k4371k4k_akhilesh-yadav_625x300_15_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 23:43:28 +0530"
+              "title": "No proof from ECI to show SIR was a ‘unanimous’ decision, Rahul Gandhi to Supreme Court",
+              "description": "The ECI’s October 26 affidavit, in response to a petition filed by INDIA bloc leaders led by Mr. Gandhi, denied any differences of opinion between the CEC and the Election Commissioners over the SIR process",
+              "url": "https://www.thehindu.com/news/national/no-proof-from-eci-to-show-sir-was-a-unanimous-decision-rahul-gandhi-to-sc/article71707772.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/llyhze/article71707990.ece/alternates/LANDSCAPE_1200/20261114544L.jpg",
+              "publishedAt": "Mon, 16 Nov 2026 18:00:52 +0530"
             },
             {
-              "title": "Massive Anti-Terrorist Operation Launched In Kashmir Over Kulgam Attack",
-              "description": "The Jammu and Kashmir police, the Army and the CRPF have jointly launched the operation. Top police officers, including J&K DGP Nalin Parvati and the Inspector General of Kashmir Zone, Sujit Kumar, are personally supervi",
-              "url": "https://www.ndtv.com/india-news/massive-anti-terrorist-operation-launched-in-kashmir-over-crpf-attack-12330874#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2024-11/r8563eno_jammu-and-kashmir-encounter_625x300_13_November_24.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 22:53:38 +0530"
-            },
-            {
-              "title": "Love, Drugs, Pak Link: How Punjab Woman Got Involved In Rajasthan Blast Plot",
-              "description": "Police allege that Mahakdeep, a resident of Dostpur village, acted on the instructions of a Pakistan-based handler identified as 'Shah'. She had direct communication with him and subsequently involved Devinder Singh, a r",
-              "url": "https://www.ndtv.com/india-news/love-drugs-pak-link-how-punjab-woman-got-involved-in-rajasthan-blast-plot-12330755#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/vnsgrpcs_track-blast-ndtv_625x300_15_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 22:48:42 +0530"
-            },
-            {
-              "title": "Raghav Chadha, Other MPs Who Came From AAP Get Key BJP Committee Roles For Punjab Polls",
-              "description": "Avinash Rai Khanna to head manifesto committee for elections due early next year, Sunil Jakhar to lead the party's chargesheet committee that'll list issues against the ruling AAP",
-              "url": "https://www.ndtv.com/india-news/raghav-chadha-5-others-who-came-from-aap-get-key-roles-as-punjab-bjp-panels-for-polls-12330553#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/gej6gf4o_raghav-chadha_625x300_15_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 21:15:29 +0530"
-            },
-            {
-              "title": "IndiGo Employee Found Dead After Outing With Friend, Cops Probe Murder Angle",
-              "description": "Varsha, who worked at the IndiGo ticket counter at Pune Airport, had travelled to her maternal home in Madhya Pradesh's Balaghat district to celebrate Diwali with her two-and-a-half-year-old daughter.",
-              "url": "https://www.ndtv.com/india-news/indigo-employee-varsha-turkar-found-dead-after-outing-with-friend-in-maharashtra-cops-probe-murder-angle-12331525#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/bhuosmug_indigo-staff_625x300_16_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Mon, 16 Nov 2026 07:33:40 +0530"
+              "title": "VHP threatens stir if anti-conversion, anti-cow slaughter laws repealed in Karnataka in Belagavi session",
+              "description": "VHP leader K. R. Sunil condemned the statement by KPCC President B. K. Hariprasad regarding the potential withdrawal of the anti-conversion law during the Belagavi session, which is set to begin on December 2",
+              "url": "https://www.thehindu.com/news/cities/Mangalore/vhp-threatens-stir-if-anti-conversion-anti-cow-slaughter-laws-repealed-in-karnataka-in-belagavi-session/article71707659.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/y276lk/article71707825.ece/alternates/LANDSCAPE_1200/IMG-20261116-WA0354.jpg",
+              "publishedAt": "Mon, 16 Nov 2026 17:58:20 +0530"
             }
           ]
         },
@@ -705,28 +681,28 @@
               "publishedAt": "Thu, 16 Apr 2026 15:09:22 +0530"
             },
             {
-              "title": "Women Reservation Bill: In 20 States & UTs less than 10% MLAs are female | Data",
-              "description": "Share of women parliamentarians has never exceeded 15% in the past general elections",
-              "url": "https://www.thehindu.com/data/women-reservation-bill-in-20-states-uts-less-than-10-mlas-are-female-data/article67338512.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/news/national/15d1co/article67338517.ece/alternates/LANDSCAPE_1200/women%20reservation%20bill.jpeg",
-              "publishedAt": "Thu, 16 Apr 2026 14:19:09 +0530"
-            },
-            {
-              "title": "A ‘ballerina’ from Eurosiberia finds a new stage in India",
-              "description": "During winter, in India, Demoiselle Crane sightings largely happen in Gujarat and Rajasthan. On February 28, 2026, the first sighting of a Demoiselle Crane was reported from Chennai Metropolitan Area. The only other reco",
-              "url": "https://www.thehindu.com/news/national/two-youngsters-from-chennai-witness-a-rare-dance-of-migration-by-a-french-ballerina-at-nemmeli-salt-pans/article70700788.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/yzpw8e/article70702560.ece/alternates/LANDSCAPE_1200/08dc%20%20Demoiselle%20Crane%20Naman.jpg",
-              "publishedAt": "Thu, 05 Mar 2026 21:14:46 +0530"
-            },
-            {
               "title": "Hope flows anew with revival of Andhra’s Veligonda project",
               "description": "Conceived as a long-term response to the nearly four-decade fight of the people against chronic drought, depleted water resources, and fluoride contamination in parts of the region, the project aims to create a large irr",
               "url": "https://www.thehindu.com/news/national/andhra-pradesh/hope-flows-anew-with-revival-of-andhras-veligonda-project/article71479450.ece",
               "source": "thehindu.com",
               "image": "https://th-i.thgim.com/public/incoming/uy5isz/article71481936.ece/alternates/LANDSCAPE_1200/10215_18_9_2026_15_12_50_1_DSC_5155.JPG",
               "publishedAt": "Sun, 20 Sep 2026 11:58:20 +0530"
+            },
+            {
+              "title": "What stopped Andhra Pradesh’s 34% BC quota in local bodies? | Explained",
+              "description": "The courts have held that Andhra Pradesh’s 34% BC quota in local bodies breaches the 50% ceiling without the empirical data the law requires",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/what-stopped-andhra-pradeshs-34-bc-quota-in-local-bodies-explained/article71589073.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/pex9pe/article71589108.ece/alternates/LANDSCAPE_1200/HC.jpeg",
+              "publishedAt": "Sun, 18 Oct 2026 02:37:43 +0530"
+            },
+            {
+              "title": "How a network of volunteers from Tamil Nadu are enabling underserved communities to access healthcare services with ease and dignity",
+              "description": "Co-founded by Coimbatore-based Aravindan R. and Abirami D., DoctorNet India bridges the information and empathy gaps in healthcare",
+              "url": "https://www.thehindu.com/news/cities/chennai/how-a-network-of-volunteers-from-tamil-nadu-are-enabling-underserved-communities-to-access-healthcare-services-with-ease-and-dignity/article71650348.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/rqtrdb/article71650387.ece/alternates/LANDSCAPE_1200/01dc_Doctornet.jpg",
+              "publishedAt": "Sat, 31 Oct 2026 21:43:03 +0530"
             }
           ]
         },
@@ -736,52 +712,44 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Man Accused Of Shooting Cop Killed In Bengal. 5th Encounter In 6 Months",
-              "description": "Ratan Sheikh was killed after he opened fire at a police team while trying to evade arrest at a brick kiln in Nanoor in the same district.",
-              "url": "https://www.ndtv.com/india-news/man-accused-of-shooting-cop-killed-in-bengal-5th-encounter-in-6-months-12331041#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2023-04/h680v34g_bengal-police-generic-ani_625x300_08_April_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 23:55:49 +0530"
+              "title": "Paramedics on 72-hour strike in J&K over service rules, stop Minister’s cavalcade in Kathua",
+              "description": "Paramedical staff in five government medical colleges are demanding framing and implementation of their recruitment rules, a demand they say has been pending for seven years",
+              "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/paramedics-on-72-hour-strike-in-jk-over-service-rules-stop-ministers-cavalcade-in-kathua/article71707755.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Mon, 16 Nov 2026 18:17:48 +0530"
             },
             {
-              "title": "Trump's Last-Minute Judge Appointment Blitz Faces Republican Roadblocks",
-              "description": "As the White House and Senate Republican leaders press ahead with judicial nominees during the lame-duck session, a handful of Republicans have blocked or cast doubt on three nominees selected for their home states.",
-              "url": "https://www.ndtv.com/world-news/trumps-last-minute-judge-appointment-blitz-faces-republican-roadblocks-12331038#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-02/9cg0nn2s_us-supreme-court-declare-trump-tariffs-illegal_625x300_20_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 23:53:29 +0530"
+              "title": "Mass death of Indian carp raises pollution concerns at Ooty lake",
+              "description": "According to officials at the Ooty Lake and Boat House, around 250 Indian carp were found dead along the periphery of the Ooty Lake on Monday morning",
+              "url": "https://www.thehindu.com/news/cities/Coimbatore/mass-death-of-indian-carp-raises-pollution-concerns-at-ooty-lake/article71707402.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Mon, 16 Nov 2026 18:08:15 +0530"
             },
             {
-              "title": "Iran Claims Tanker With 2 Million Barrels Of Oil Sank In Strait Of Hormuz",
-              "description": "The ship was one of two that hit mines while transiting the vital trade corridor, Iran's Revolutionary Guards said, but there was no independent confirmation of the incidents.",
-              "url": "https://www.ndtv.com/world-news/iran-claims-tanker-with-2-million-barrels-of-oil-sank-in-strait-of-hormuz-12331036#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-03/12lmtpdk_strait-of-hormuz_625x300_03_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 23:52:47 +0530"
+              "title": "Pollution in Yamuna increased despite huge expenditure on cleaning: Supreme Court",
+              "description": "“This court is of the opinion that everything that is wrong with the civic administration in towns, cities and villages situated along the banks of the river is reflected in the poor health of the river and in the 520 dr",
+              "url": "https://www.thehindu.com/news/cities/Delhi/pollution-in-yamuna-increased-despite-huge-expenditure-on-cleaning-supreme-court/article71707841.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/1v78hc/article71707892.ece/alternates/LANDSCAPE_1200/CHHATH%20PUJA%20DELHI%20%2012.JPG",
+              "publishedAt": "Mon, 16 Nov 2026 18:05:59 +0530"
             },
             {
-              "title": "Analysis: AAP Insiders Turn BJP's Punjab Warriors, To Draw Up Its 2027 Battle Plan",
-              "description": "BJP brings Rajya Sabha MPs Raghav Chadha and Sandeep Pathak, once key strategists of the AAP in Punjab, along with others formerly with the AAP and Congress, into key election committees",
-              "url": "https://www.ndtv.com/india-news/analysis-from-aap-insiders-to-bjps-poll-warriors-turncoats-draft-punjabs-2027-battle-plan-as-raghav-chadha-sandeep-pathak-get-key-roles-12330992#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-04/s0ro3gtg_sandeep-pathak_625x300_25_April_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 23:27:43 +0530"
+              "title": "Annamalai, Nainar Nagenthran condemn use of ‘Arohara’ chant to praise Tamil Nadu CM Vijay, Minister",
+              "description": "In a social media post, Mr. Annamalai said a member of the HR&CE Department committee had raised ‘Arohara’ chants for the Chief Minister during the Soorasamharam festival",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/annamalai-condemns-use-of-arohara-chant-to-praise-tamil-nadu-cm-vijay-minister/article71707097.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/s459rk/article71707123.ece/alternates/LANDSCAPE_1200/2085_13_7_2026_13_18_0_2_DSC_8245.JPG",
+              "publishedAt": "Mon, 16 Nov 2026 18:00:22 +0530"
             },
             {
-              "title": "Trump Administration Says Airline Disruptions May Continue For Another Day",
-              "description": "Hundreds more flights were cancelled and questions remained over how such chaos could unfold in the world's largest economy, a country that prides itself on its technological prowess.",
-              "url": "https://www.ndtv.com/world-news/trump-administration-says-airline-disruptions-may-continue-for-another-day-12330963#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/doaiqg5s_image_160x120_14_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Sun, 15 Nov 2026 23:12:28 +0530"
-            },
-            {
-              "title": "Jensen Huang Eyes Comeback As Nvidia CEO, Allies Form 'War Room': Report",
-              "description": "The report comes days after the FT reported that Nvidia's board had approached British chipmaker Arm Holdings CEO Rene Haas to find new CEO.",
-              "url": "https://www.ndtv.com/world-news/jensen-huang-eyes-comeback-as-nvidia-ceo-allies-form-war-room-report-12331461#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/s0l519uk_jensen-huang-reuters_625x300_16_November_26.jpeg",
-              "publishedAt": "Mon, 16 Nov 2026 06:57:34 +0530"
+              "title": "BJP seeks action against Italian political leader over remarks at Bharat Summit",
+              "description": "BJP Telangana president Ramchander Rao claimed that Giacomo Filibeck, associated with the Party of European Socialists (PES), echoed slogans and criticisms directed at Prime Minister Narendra Modi from the summit platfor",
+              "url": "https://www.thehindu.com/news/national/telangana/bjp-seeks-action-against-italian-political-leader-over-remarks-at-bharat-summit/article71707843.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/1irgki/article71707920.ece/alternates/LANDSCAPE_1200/Screenshot%202428.png",
+              "publishedAt": "Mon, 16 Nov 2026 17:48:45 +0530"
             }
           ]
         },
@@ -845,6 +813,30 @@
               "source": "thehindu.com",
               "image": "https://th-i.thgim.com/public/incoming/hkmq3k/article71669392.ece/alternates/LANDSCAPE_1200/two%20frame.jpg",
               "publishedAt": "Thu, 05 Nov 2026 15:45:28 +0530"
+            },
+            {
+              "title": "Minorities have been underrepresented in Bengal Assembly",
+              "description": "Despite its reputation as a progressive State, women and Muslims have sparsely held power in West Bengal",
+              "url": "https://www.thehindu.com/data/minorities-have-been-underrepresented-in-bengal-assembly/article70886066.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/h07ekm/article70888519.ece/alternates/LANDSCAPE_1200/Singur_Polling31.jpg",
+              "publishedAt": "Sun, 15 Nov 2026 15:07:14 +0530"
+            },
+            {
+              "title": "Andhra Pradesh MPTC, ZPTC election results highlights: NDA continues its winning streak",
+              "description": "The victory of NDA candidates across Andhra Pradesh is a testament to the aspirations of the people, says Roads and Buildings Minister B. C. Janardhan Reddy",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Sat, 07 Nov 2026 21:49:19 +0530"
+            },
+            {
+              "title": "Jana Sena MPTC woman contestant dies of cardiac arrest hours ahead of votes counting in East Godavari",
+              "description": "A pall of gloom descended on her panchayat as the death left her supporters in shock.",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-mptc-woman-contestant-dies-of-cardiac-arrest-hours-ahead-of-votes-counting-in-east-godavari/article71677212.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/v3icxi/article71677240.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%208.55.10%20AM.jpeg",
+              "publishedAt": "Sat, 07 Nov 2026 09:01:23 +0530"
             }
           ]
         }
@@ -960,28 +952,28 @@
           "emoji": "🇺🇸",
           "articles": [
             {
-              "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-              "description": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-              "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Thu, 12 Nov 2026 15:10:32 GMT"
-            },
-            {
-              "title": "Top Wall Street analysts find these 3 stocks attractive as long-term investments",
-              "description": "Look beyond short-term noise and focus on stocks with strong growth potential in future years.",
-              "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
+              "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+              "description": "Investors seeking a stable income stream can enhance their portfolios with the addition of dividend stocks.",
+              "url": "https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Sun, 20 Sep 2026 12:01:35 GMT"
+              "publishedAt": "Sun, 27 Sep 2026 11:33:15 GMT"
             },
             {
-              "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-              "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-              "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+              "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+              "description": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
+              "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Sun, 18 Oct 2026 12:34:51 GMT"
+            },
+            {
+              "title": "Minister backs legal right to job support for young people",
+              "description": "The work and pensions secretary said the level of support currently on offer was too vague.",
+              "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 22:00:24 GMT"
+              "publishedAt": "Sun, 15 Nov 2026 13:06:15 GMT"
             }
           ]
         },
@@ -991,60 +983,44 @@
           "emoji": "🌏",
           "articles": [
             {
-              "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
-              "description": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-              "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 22:33:26 GMT"
-            },
-            {
-              "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
-              "description": "The report being launched this week will suggest gradually reducing employment costs over five years.",
-              "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+              "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+              "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+              "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
               "source": "feeds.bbci.co.uk",
               "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 22:30:03 GMT"
+              "publishedAt": "Sun, 15 Nov 2026 22:00:24 GMT"
             },
             {
-              "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-              "description": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-              "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+              "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+              "description": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
+              "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 19:58:21 GMT"
+              "publishedAt": "Sun, 15 Nov 2026 18:10:18 GMT"
             },
             {
-              "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
-              "description": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
-              "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+              "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+              "description": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+              "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 16:56:40 GMT"
+              "publishedAt": "Sun, 15 Nov 2026 12:00:01 GMT"
             },
             {
-              "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-              "description": "Democrats advocated taxing high earners to shore up Social Security in the runup to the midterms. Plus, a senior deduction is slated to expire in two years.",
-              "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
+              "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+              "description": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
+              "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 14:30:01 GMT"
+              "publishedAt": "Sat, 14 Nov 2026 14:54:22 GMT"
             },
             {
-              "title": "Minister backs legal right to job support for young people",
-              "description": "The work and pensions secretary said the level of support currently on offer was too vague.",
-              "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 13:06:15 GMT"
-            },
-            {
-              "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-              "description": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
-              "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+              "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+              "description": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+              "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Sun, 15 Nov 2026 13:00:02 GMT"
+              "publishedAt": "Sat, 14 Nov 2026 12:00:01 GMT"
             }
           ]
         },
@@ -1117,15 +1093,7 @@
               "publishedAt": "Sun, 15 Nov 2026 14:00:00 +0000"
             },
             {
-              "title": "Here’s what happened in crypto today",
-              "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-              "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-              "publishedAt": "Sun, 15 Nov 2026 11:18:48 +0000"
-            },
-            {
-              "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+              "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
               "description": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
               "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
               "source": "cointelegraph.com",
@@ -1141,7 +1109,15 @@
               "publishedAt": "Sun, 15 Nov 2026 08:07:58 +0000"
             },
             {
-              "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+              "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+              "description": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
+              "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
+              "source": "coindesk.com",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+              "publishedAt": "Sun, 15 Nov 2026 07:00:00 +0000"
+            },
+            {
+              "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
               "description": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
               "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
               "source": "cointelegraph.com",
@@ -1152,7 +1128,7 @@
               "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
               "description": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
               "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-              "source": "coindesk.com",
+              "source": "feeds.feedburner.com",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5ebb4afb940e3439b9bd9944fc26aaedb49540b-2213x1011.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
               "publishedAt": "Sun, 15 Nov 2026 02:50:57 +0000"
             }
