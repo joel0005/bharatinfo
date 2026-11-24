@@ -13,20 +13,28 @@
           "emoji": "🏢",
           "articles": [
             {
+              "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+              "description": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+              "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+              "source": "wired.com",
+              "image": "",
+              "publishedAt": "Tue, 24 Nov 2026 23:39:04 +0000"
+            },
+            {
+              "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+              "description": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+              "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+              "source": "feeds.arstechnica.com",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
+              "publishedAt": "Tue, 24 Nov 2026 22:50:11 +0000"
+            },
+            {
               "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
               "description": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
               "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg",
               "publishedAt": "Tue, 24 Nov 2026 22:36:28 +0000"
-            },
-            {
-              "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-              "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-              "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 21:48:27 +0000"
             },
             {
               "title": "What's going on with the Riemann hypothesis?",
@@ -51,14 +59,6 @@
               "source": "feeds.arstechnica.com",
               "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg",
               "publishedAt": "Tue, 24 Nov 2026 18:47:57 +0000"
-            },
-            {
-              "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-              "description": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-              "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-              "source": "feeds.arstechnica.com",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/HSH9kiAbUAAzHdZ-1152x648.jpg",
-              "publishedAt": "Tue, 24 Nov 2026 18:30:36 +0000"
             }
           ]
         },
@@ -84,28 +84,20 @@
               "publishedAt": "Wed, 04 Nov 2026 16:06:03 +0000"
             },
             {
+              "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+              "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+              "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Tue, 24 Nov 2026 21:19:52 +0000"
+            },
+            {
               "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
               "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
               "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
               "source": "techcrunch.com",
               "image": "",
               "publishedAt": "Tue, 24 Nov 2026 18:30:42 +0000"
-            },
-            {
-              "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-              "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-              "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-              "source": "techcrunch.com",
-              "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 18:02:59 +0000"
-            },
-            {
-              "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-              "description": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
-              "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-              "source": "wired.com",
-              "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 17:44:53 +0000"
             }
           ]
         },
@@ -224,14 +216,6 @@
               "source": "technologyreview.com",
               "image": "",
               "publishedAt": "Tue, 24 Nov 2026 13:10:00 +0000"
-            },
-            {
-              "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
-              "description": "When people read prepared text aloud, AI can transcribe Swahili with remarkably few errors, and Swahili speech recognition looks close to solved. A March 2026 preprint by a team including a Harvard University researcher",
-              "url": "https://spectrum.ieee.org/swahili-speech-recognition",
-              "source": "spectrum.ieee.org",
-              "image": "https://spectrum.ieee.org/media-library/three-college-students-posing-together-in-front-of-a-whiteboard-covered-in-writing-from-various-sheng-dialects.jpg?id=68751313&width=980",
-              "publishedAt": "Tue, 24 Nov 2026 12:00:03 +0000"
             }
           ]
         },
@@ -249,12 +233,12 @@
               "publishedAt": "Wed, 04 Nov 2026 21:38:49 +0000"
             },
             {
-              "title": "Even the best AI agents struggle with everyday life",
-              "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-              "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+              "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+              "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+              "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
               "source": "techcrunch.com",
               "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 21:33:29 +0000"
+              "publishedAt": "Tue, 24 Nov 2026 21:48:27 +0000"
             },
             {
               "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
@@ -263,6 +247,14 @@
               "source": "wired.com",
               "image": "",
               "publishedAt": "Tue, 24 Nov 2026 19:33:23 +0000"
+            },
+            {
+              "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+              "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+              "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+              "source": "techcrunch.com",
+              "image": "",
+              "publishedAt": "Tue, 24 Nov 2026 18:02:59 +0000"
             }
           ]
         }
@@ -350,28 +342,28 @@
           "emoji": "🌍",
           "articles": [
             {
-              "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-              "description": "The verdict follows a months-long trial in New York.",
-              "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-              "source": "feeds.bbci.co.uk",
-              "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 22:24:23 GMT"
-            },
-            {
-              "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-              "description": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
-              "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+              "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+              "description": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+              "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 22:03:01 GMT"
+              "publishedAt": "Tue, 24 Nov 2026 23:13:49 GMT"
             },
             {
-              "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-              "description": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
-              "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+              "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+              "description": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+              "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 21:07:19 GMT"
+              "publishedAt": "Tue, 24 Nov 2026 22:18:47 GMT"
+            },
+            {
+              "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
+              "description": "Fears about some companies' AI debt ramped higher Tuesday, a day after Jensen Huang's return as Nvidia CEO.",
+              "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Tue, 24 Nov 2026 21:52:05 GMT"
             }
           ]
         },
@@ -389,12 +381,12 @@
               "publishedAt": "Tue, 24 Nov 2026 22:27:52 +0000"
             },
             {
-              "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-              "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-              "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+              "title": "Even the best AI agents struggle with everyday life",
+              "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+              "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
               "source": "techcrunch.com",
               "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 21:19:52 +0000"
+              "publishedAt": "Tue, 24 Nov 2026 21:33:29 +0000"
             },
             {
               "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
@@ -428,28 +420,28 @@
           "emoji": "📈",
           "articles": [
             {
-              "title": "TSX ends lower as tech and mining shares fall",
-              "description": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX ends lower as tech and mining shares fall",
-              "url": "https://www.livemint.com/market/tsx-ends-lower-as-tech-and-mining-shares-fall-11795556702667.html",
+              "title": "US stocks slide as Nvidia rally fizzles out, dollar falls",
+              "description": "GLOBAL-MARKETS:US stocks slide as Nvidia rally fizzles out, dollar falls",
+              "url": "https://www.livemint.com/market/us-stocks-slide-as-nvidia-rally-fizzles-out-dollar-falls-11795561223195.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-              "publishedAt": "Wed, 25 Nov 2026 03:15:02 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+              "publishedAt": "Wed, 25 Nov 2026 04:30:22 +0530"
             },
             {
-              "title": "Nvidia shares tumble 9% after biggest rally in over two decades as AI-related concerns return",
-              "description": "Nvidia shares fell 9% on Tuesday, surrendering some of their record rally after investors reassessed AI investment returns, regulatory risks and the prospect of higher interest rates.&amp;nbsp;",
-              "url": "https://www.livemint.com/market/stock-market-news/nvidia-shares-tumble-9-after-biggest-rally-in-over-two-decades-as-ai-related-concerns-return-11795537721863.html",
+              "title": "Hewlett Packard Enterprise shares crash 16%, set for biggest 1-day fall in 18 months; what went wrong?",
+              "description": "Hewlett Packard Enterprise shares fell 16% Tuesday, erasing much of the prior day’s rally, despite beating quarterly estimates and issuing stronger-than-expected fiscal 2027 guidance.&amp;nbsp;",
+              "url": "https://www.livemint.com/market/stock-market-news/hewlett-packard-enterprise-shares-crash-16-set-for-biggest-1-day-fall-in-18-months-what-went-wrong-11795542211868.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/NVIDIA_Stock_23_1795539906405_Fd7X_1795539913238_kt1v_37dfde18-f514-4af1-a708-1f592b81b8fe_8484.png",
-              "publishedAt": "Tue, 24 Nov 2026 22:36:21 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/JUNIPER-NETWORKS-M-A-HPE-0_1751529664573_1751529677463_1795542229867_oJ1D_e8cb4351-d1b1-4ef5-92ae-f84d63496081_9c0L.JPG",
+              "publishedAt": "Tue, 24 Nov 2026 23:42:39 +0530"
             },
             {
-              "title": "Who is Lori Huang? How Jensen Huang’s wife holds the keys to Nvidia founder’s $109 billion fortune through family trusts",
-              "description": "Jensen Huang and his wife, Lori, jointly control about 870 million Nvidia shares worth more than $109 billion, with much of the family's stake held through trusts and LLCs. Lori is a co-trustee of several trusts and lead",
-              "url": "https://www.livemint.com/market/stock-market-news/who-is-lori-huang-how-jensen-huang-s-wife-holds-the-keys-to-nvidia-founder-s-109-billion-fortune-through-family-trusts-11795533775799.html",
+              "title": "Anthropic shares crash below IPO price of $83 after record Nasdaq debut, down 31% from peak. What is spooking investors?",
+              "description": "Anthropic shares fell below their $83 IPO price, dropping to $79.42 after an early post-listing rally faded. The reversal has renewed concerns about AI valuations, infrastructure costs, competition and investment risks.&",
+              "url": "https://www.livemint.com/market/stock-market-news/anthropic-shares-crash-below-ipo-price-of-83-after-record-nasdaq-debut-down-31-from-peak-what-is-spooking-investors-11795533362689.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/USA-CHINA--117_1794740582432_2gOC_1794740594986_xx_1795534088280_3ma6_1795534088477_gz3b_0a162002-a503-45d3-9648-82811b6f5aa1_Kd1Q.JPG",
-              "publishedAt": "Tue, 24 Nov 2026 21:03:54 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/Anthropic_Stock_1795535985068_4Cer_1795535990653_lnFS_aeeedcc3-2fdc-4e4f-a3d4-331988a6cb60_p5YK.png",
+              "publishedAt": "Tue, 24 Nov 2026 21:32:54 +0530"
             }
           ]
         }
@@ -465,6 +457,38 @@
           "label": "Central Govt",
           "emoji": "🏟️",
           "articles": [
+            {
+              "title": "Kerala Student Carrying Gun To 'Show Off' Accidentally Shoots Classmate",
+              "description": "The injured student was shot in the bicep and is undergoing surgery to remove the bullet.",
+              "url": "https://www.ndtv.com/india-news/kerala-student-carrying-gun-to-show-off-accidentally-shoots-classmate-12372885#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-05/f4r9vfp4_as_625x300_09_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 25 Nov 2026 04:04:31 +0530"
+            },
+            {
+              "title": "Assam CM downplays ‘fight’ between two IPS officers",
+              "description": "The confrontation occurred at an Assam Police battalion headquarters in the western part of the State on November 22, 2026",
+              "url": "https://www.thehindu.com/news/national/assam/assam-cm-downplays-fight-between-two-ips-officers/article71740197.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/wcyry9/article71740196.ece/alternates/LANDSCAPE_1200/PTI11_23_2026_000222B.jpg",
+              "publishedAt": "Wed, 25 Nov 2026 03:57:25 +0530"
+            },
+            {
+              "title": "Juvenile Justice Board Hears Bail Plea of Child in Conflict with Law After High Court Rejection",
+              "description": "The High Court held that the CCL performed maneuvers with vehicles, posted videos on a page on Instagram, and operated vehicles without prioritizing safety, and that the parents knew of these acts but did not intervene",
+              "url": "https://www.thehindu.com/news/national/maharashtra/juvenile-justice-board-hears-bail-plea-of-child-in-conflict-with-law-after-high-court-rejection/article71737833.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Wed, 25 Nov 2026 03:36:27 +0530"
+            },
+            {
+              "title": "Human Metabolic Chamber inaugurated at CMC in Vellore",
+              "description": "The Human Metabolic Chamber is a room-sized calorimeter that measures oxygen consumption and carbon dioxide production while a volunteer lives, eats, and sleeps inside for 24 hours or longer",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/human-metabolic-chamber-inaugurated-at-cmc-in-vellore/article71738645.ece",
+              "source": "thehindu.com",
+              "image": "https://th-i.thgim.com/public/incoming/ywyybe/article71738873.ece/alternates/LANDSCAPE_1200/CMC-32.jpg",
+              "publishedAt": "Wed, 25 Nov 2026 03:21:25 +0530"
+            },
             {
               "title": "Under Nishant’s leadership, the future of the party remains bright for next 30 years, says Sanjay Jha",
               "description": "Mr. Jha also said that former Chief Minister Nitish Kumar has transformed Bihar’s image and identity over the past two decades.",
@@ -498,28 +522,20 @@
               "publishedAt": "Wed, 25 Nov 2026 02:19:51 +0530"
             },
             {
+              "title": "Coast Guard in Keralam’s Kochi rescues Filipino national who suffered stroke at sea",
+              "description": "",
+              "url": "https://www.thehindu.com/news/national/kerala/coast-guard-rescues-filipino-national-who-suffered-stroke-at-sea/article71738690.ece",
+              "source": "thehindu.com",
+              "image": "",
+              "publishedAt": "Wed, 25 Nov 2026 02:11:57 +0530"
+            },
+            {
               "title": "Man ends life at court premises following conviction for murder",
               "description": "The court pronounced the sentence at 3 p.m. and informed the accused of the right to approach the court of appeal in Bombay High Court to challenge the judgment",
               "url": "https://www.thehindu.com/news/national/maharashtra/man-ends-life-at-court-premises-following-conviction-for-murder/article71739346.ece",
               "source": "thehindu.com",
               "image": "",
               "publishedAt": "Wed, 25 Nov 2026 02:05:32 +0530"
-            },
-            {
-              "title": "Mumbai Police announce traffic curbs for VBA’s Samvidhan Samman Mahasabha at Shivaji Park",
-              "description": "The annual public rally, held ahead of Constitution Day on November 26, is being organised under the leadership of VBA national president Prakash Ambedkar",
-              "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-announce-traffic-curbs-for-vbas-samvidhan-samman-mahasabha-at-shivaji-park/article71739824.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/44y5v1/article71740052.ece/alternates/LANDSCAPE_1200/20240331056L.jpg",
-              "publishedAt": "Wed, 25 Nov 2026 01:46:15 +0530"
-            },
-            {
-              "title": "Mohan B. Mate assumes charge as Kochi Refinery CGM",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/kerala/mohan-b-mate-assumes-charge-as-kochi-refinery-cgm/article71739453.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/4ebx9a/article71739833.ece/alternates/LANDSCAPE_1200/MOHAN.jpg",
-              "publishedAt": "Wed, 25 Nov 2026 01:31:33 +0530"
             }
           ]
         },
@@ -584,20 +600,36 @@
           "emoji": "📜",
           "articles": [
             {
-              "title": "Kerala Student Carrying Gun To 'Show Off' Accidentally Shoots Classmate",
-              "description": "The injured student was shot in the bicep and is undergoing surgery to remove the bullet.",
-              "url": "https://www.ndtv.com/india-news/kerala-student-carrying-gun-to-show-off-accidentally-shoots-classmate-12372885#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-05/f4r9vfp4_as_625x300_09_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 25 Nov 2026 04:04:31 +0530"
-            },
-            {
               "title": "Unclassified CIA System Breached In Cyberattack: Report",
               "description": "The breach involved a system that handles open source intelligence, a discipline involving the collection and analysis of publicly available data from sources including the internet and commercial databases.",
               "url": "https://www.ndtv.com/world-news/unclassified-cia-system-breached-in-cyberattack-report-12372775#publisher=newsstand",
               "source": "feeds.feedburner.com",
               "image": "https://c.ndtvimg.com/2026-11/8h3pj60k_cia-generic_625x300_03_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Wed, 25 Nov 2026 03:55:03 +0530"
+              "publishedAt": "Wed, 25 Nov 2026 04:38:14 +0530"
+            },
+            {
+              "title": "5 Killed In Turkish Military Helicopter Crash",
+              "description": "Earlier it had mentioned an accident \"in the context of a training mission\" involving \"an AS-532 type helicopter belonging to our air force.\"",
+              "url": "https://www.ndtv.com/world-news/5-killed-in-turkish-military-helicopter-crash-12372913#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2023-03/hjs849g8_helicopter-generic_625x300_16_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 25 Nov 2026 04:36:02 +0530"
+            },
+            {
+              "title": "Gunmen Take 25 Hostage At Colombia Supermarket",
+              "description": "Images broadcast by Colombian media and shared widely on social media showed masked gunmen armed with rifles standing beside hostages who appeared to be kneeling on the floor inside the store.",
+              "url": "https://www.ndtv.com/world-news/gunmen-take-25-hostage-at-colombia-supermarket-12372907#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-11/d4o0ubp4_colombia-supermarket-hostages_625x300_25_November_26.jpeg",
+              "publishedAt": "Wed, 25 Nov 2026 04:29:47 +0530"
+            },
+            {
+              "title": "\"I Made Some Terrible Mistakes\": Jensen Huang Apologises To Nvidia Staff",
+              "description": "Jensen Huang told staff it was \"not acceptable\" that he had broken a code of conduct he had helped write, and dismissed suggestions that he was back because US President Donald Trump had pressured the board.",
+              "url": "https://www.ndtv.com/world-news/jensen-huang-apologises-to-nvidia-staff-12372895#publisher=newsstand",
+              "source": "feeds.feedburner.com",
+              "image": "https://c.ndtvimg.com/2026-11/cf0lhpf8_jensen-huang-nvidia_625x300_18_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+              "publishedAt": "Wed, 25 Nov 2026 04:14:29 +0530"
             },
             {
               "title": "US Court Finds China's Huawei Guilty Of Conspiracy To Steal Trade Secrets",
@@ -606,22 +638,6 @@
               "source": "feeds.feedburner.com",
               "image": "https://c.ndtvimg.com/2019-08/l3rgcgr_huawei-logo-afp_625x300_23_August_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
               "publishedAt": "Wed, 25 Nov 2026 03:00:03 +0530"
-            },
-            {
-              "title": "Coast Guard in Keralam’s Kochi rescues Filipino national who suffered stroke at sea",
-              "description": "",
-              "url": "https://www.thehindu.com/news/national/kerala/coast-guard-rescues-filipino-national-who-suffered-stroke-at-sea/article71738690.ece",
-              "source": "thehindu.com",
-              "image": "",
-              "publishedAt": "Wed, 25 Nov 2026 02:11:57 +0530"
-            },
-            {
-              "title": "Maharashtra FDA cancels Inducare’s manufacturing licences again over nine unauthorised drugs, two found spurious",
-              "description": "Firm manufactured and sold nine drugs without mandatory product permission; drugs worth ₹1.72 crore seized from YCM Hospital in Pimpri-Chinchwad",
-              "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-cancels-inducares-manufacturing-licences-again-over-nine-unauthorised-drugs-two-found-spurious/article71739469.ece",
-              "source": "thehindu.com",
-              "image": "https://th-i.thgim.com/public/incoming/lzb010/article71740056.ece/alternates/LANDSCAPE_1200/iStock-2261177990.jpg",
-              "publishedAt": "Wed, 25 Nov 2026 01:54:14 +0530"
             }
           ]
         },
@@ -677,14 +693,6 @@
               "source": "feeds.feedburner.com",
               "image": "https://c.ndtvimg.com/2026-11/vtsr5qu_delhi-saltanate-cafe_625x300_24_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
               "publishedAt": "Tue, 24 Nov 2026 23:35:29 +0530"
-            },
-            {
-              "title": "340 Kilograms Of Beef, Buffalo Meat Seized In Ahmedabad, 3 Arrested",
-              "description": "Police placed the total value of the seized meat and equipment at Rs 1,71,000, including 340 kg of mixed meat valued at Rs 60,000, a scooter, and three mobile phones.",
-              "url": "https://www.ndtv.com/india-news/340-kilograms-of-beef-buffalo-meat-seized-in-ahmedabad-3-arrested-12372467#publisher=newsstand",
-              "source": "feeds.feedburner.com",
-              "image": "https://c.ndtvimg.com/2026-11/f62olifs_gujarat_625x300_24_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-              "publishedAt": "Tue, 24 Nov 2026 23:23:22 +0530"
             }
           ]
         }
@@ -701,28 +709,28 @@
           "emoji": "📈",
           "articles": [
             {
-              "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
-              "description": "Reddit user Outrageous-Voice1459 made a lot of money on Monday.",
-              "url": "https://www.livemint.com/market/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return-11795556330313.html",
+              "title": "TSX ends lower as tech and mining shares fall",
+              "description": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX ends lower as tech and mining shares fall",
+              "url": "https://www.livemint.com/market/tsx-ends-lower-as-tech-and-mining-shares-fall-11795556702667.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-              "publishedAt": "Wed, 25 Nov 2026 03:08:49 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+              "publishedAt": "Wed, 25 Nov 2026 03:15:02 +0530"
             },
             {
-              "title": "Beware! Fraudsters impersonating as Sebi-registered intermediaries: How can investors avoid traps - Experts explain",
-              "description": "Fraudsters impersonating Sebi-registered intermediaries are luring investors into unauthorised trading platforms and siphoning off money; regulator advises investors to verify intermediaries, avoid assured-return schemes",
-              "url": "https://www.livemint.com/market/stock-market-news/beware-fraudsters-impersonating-as-sebi-registered-intermediaries-how-can-investors-avoid-traps-experts-explain-11795535116795.html",
+              "title": "Nvidia shares tumble 9% after biggest rally in over two decades as AI-related concerns return",
+              "description": "Nvidia shares fell 9% on Tuesday, surrendering some of their record rally after investors reassessed AI investment returns, regulatory risks and the prospect of higher interest rates.&amp;nbsp;",
+              "url": "https://www.livemint.com/market/stock-market-news/nvidia-shares-tumble-9-after-biggest-rally-in-over-two-decades-as-ai-related-concerns-return-11795537721863.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/scam_1795537908859_I0fU_1795537932778_hGRN_8622039b-fa13-4559-900b-67e4e08e0d16_C6x6.jpg",
-              "publishedAt": "Tue, 24 Nov 2026 22:09:36 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/NVIDIA_Stock_23_1795539906405_Fd7X_1795539913238_kt1v_37dfde18-f514-4af1-a708-1f592b81b8fe_8484.png",
+              "publishedAt": "Tue, 24 Nov 2026 22:36:21 +0530"
             },
             {
-              "title": "South Indian Bank shares in focus as RBI approves SBI Mutual Fund to acquire up to 9.99% stake; stock up 612% in 5 years",
-              "description": "The RBI approved SBI Mutual Fund’s proposal to acquire up to a 9.99% stake in South Indian Bank, subject to regulatory conditions. The approval comes as the bank’s shares hit record highs; it also reported higher second-",
-              "url": "https://www.livemint.com/market/stock-market-news/south-indian-bank-shares-in-focus-as-rbi-approves-sbi-mutual-fund-to-acquire-up-to-9-99-stake-stock-up-612-in-5-years-11795526894476.html",
+              "title": "Who is Lori Huang? How Jensen Huang’s wife holds the keys to Nvidia founder’s $109 billion fortune through family trusts",
+              "description": "Jensen Huang and his wife, Lori, jointly control about 870 million Nvidia shares worth more than $109 billion, with much of the family's stake held through trusts and LLCs. Lori is a co-trustee of several trusts and lead",
+              "url": "https://www.livemint.com/market/stock-market-news/who-is-lori-huang-how-jensen-huang-s-wife-holds-the-keys-to-nvidia-founder-s-109-billion-fortune-through-family-trusts-11795533775799.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/South_Indian_Bank_1792560145664_eU8i_1792560150072_1795527200478_IzEB_1795527201150_oWP1_8e6280dd-e9ef-455d-9279-6bf0faffff9d_pg55.png",
-              "publishedAt": "Tue, 24 Nov 2026 19:21:37 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/USA-CHINA--117_1794740582432_2gOC_1794740594986_xx_1795534088280_3ma6_1795534088477_gz3b_0a162002-a503-45d3-9648-82811b6f5aa1_Kd1Q.JPG",
+              "publishedAt": "Tue, 24 Nov 2026 21:03:54 +0530"
             }
           ]
         },
@@ -890,20 +898,20 @@
           "emoji": "📰",
           "articles": [
             {
-              "title": "Hewlett Packard Enterprise shares crash 16%, set for biggest 1-day fall in 18 months; what went wrong?",
-              "description": "Hewlett Packard Enterprise shares fell 16% Tuesday, erasing much of the prior day’s rally, despite beating quarterly estimates and issuing stronger-than-expected fiscal 2027 guidance.&amp;nbsp;",
-              "url": "https://www.livemint.com/market/stock-market-news/hewlett-packard-enterprise-shares-crash-16-set-for-biggest-1-day-fall-in-18-months-what-went-wrong-11795542211868.html",
+              "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
+              "description": "Reddit user Outrageous-Voice1459 made a lot of money on Monday.",
+              "url": "https://www.livemint.com/market/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return-11795556330313.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/JUNIPER-NETWORKS-M-A-HPE-0_1751529664573_1751529677463_1795542229867_oJ1D_e8cb4351-d1b1-4ef5-92ae-f84d63496081_9c0L.JPG",
-              "publishedAt": "Tue, 24 Nov 2026 23:42:39 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+              "publishedAt": "Wed, 25 Nov 2026 03:08:49 +0530"
             },
             {
-              "title": "Anthropic shares crash below IPO price of $83 after record Nasdaq debut, down 31% from peak. What is spooking investors?",
-              "description": "Anthropic shares fell below their $83 IPO price, dropping to $79.42 after an early post-listing rally faded. The reversal has renewed concerns about AI valuations, infrastructure costs, competition and investment risks.&",
-              "url": "https://www.livemint.com/market/stock-market-news/anthropic-shares-crash-below-ipo-price-of-83-after-record-nasdaq-debut-down-31-from-peak-what-is-spooking-investors-11795533362689.html",
+              "title": "Beware! Fraudsters impersonating as Sebi-registered intermediaries: How can investors avoid traps - Experts explain",
+              "description": "Fraudsters impersonating Sebi-registered intermediaries are luring investors into unauthorised trading platforms and siphoning off money; regulator advises investors to verify intermediaries, avoid assured-return schemes",
+              "url": "https://www.livemint.com/market/stock-market-news/beware-fraudsters-impersonating-as-sebi-registered-intermediaries-how-can-investors-avoid-traps-experts-explain-11795535116795.html",
               "source": "livemint.com",
-              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/Anthropic_Stock_1795535985068_4Cer_1795535990653_lnFS_aeeedcc3-2fdc-4e4f-a3d4-331988a6cb60_p5YK.png",
-              "publishedAt": "Tue, 24 Nov 2026 21:32:54 +0530"
+              "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/scam_1795537908859_I0fU_1795537932778_hGRN_8622039b-fa13-4559-900b-67e4e08e0d16_C6x6.jpg",
+              "publishedAt": "Tue, 24 Nov 2026 22:09:36 +0530"
             }
           ]
         }
@@ -920,36 +928,13 @@
           "emoji": "🇺🇸",
           "articles": [
             {
-              "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-              "description": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
-              "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+              "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+              "description": "The product, the first one beyond event contracts, was introduced in May.",
+              "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 22:18:47 GMT"
+              "publishedAt": "Tue, 24 Nov 2026 23:03:24 GMT"
             },
-            {
-              "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
-              "description": "Fears about some companies' AI debt ramped higher Tuesday, a day after Jensen Huang's return as Nvidia CEO.",
-              "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 21:52:05 GMT"
-            },
-            {
-              "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
-              "description": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
-              "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-              "source": "cnbc.com",
-              "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 21:04:03 GMT"
-            }
-          ]
-        },
-        {
-          "id": "ws_asia",
-          "label": "Asia Markets",
-          "emoji": "🌏",
-          "articles": [
             {
               "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
               "description": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
@@ -965,14 +950,45 @@
               "source": "cnbc.com",
               "image": "",
               "publishedAt": "Tue, 24 Nov 2026 21:13:39 GMT"
+            }
+          ]
+        },
+        {
+          "id": "ws_asia",
+          "label": "Asia Markets",
+          "emoji": "🌏",
+          "articles": [
+            {
+              "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+              "description": "The verdict follows a months-long trial in New York.",
+              "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+              "source": "feeds.bbci.co.uk",
+              "image": "",
+              "publishedAt": "Tue, 24 Nov 2026 22:24:23 GMT"
             },
             {
-              "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-              "description": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-              "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+              "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+              "description": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+              "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
               "source": "cnbc.com",
               "image": "",
-              "publishedAt": "Tue, 24 Nov 2026 20:42:07 GMT"
+              "publishedAt": "Tue, 24 Nov 2026 22:03:01 GMT"
+            },
+            {
+              "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+              "description": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+              "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Tue, 24 Nov 2026 21:07:19 GMT"
+            },
+            {
+              "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+              "description": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+              "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+              "source": "cnbc.com",
+              "image": "",
+              "publishedAt": "Tue, 24 Nov 2026 21:04:03 GMT"
             }
           ]
         },
@@ -1036,6 +1052,14 @@
           "label": "Crypto",
           "emoji": "₿",
           "articles": [
+            {
+              "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+              "description": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture.",
+              "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "source": "cointelegraph.com",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87XQMEWNSBKEFPD9X7V49QK/hacker-stealing-spying.jpg",
+              "publishedAt": "Tue, 24 Nov 2026 23:48:16 +0000"
+            },
             {
               "title": "Here’s what happened in crypto today",
               "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1107,14 +1131,6 @@
               "source": "cointelegraph.com",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875FNTK5A5N7SWKXH8E8RC9/article-covers-143614-the-bitcoin-bottom-is-not-in-btc-traders-set-price-targets-in-low-40k-range-1280x853.webp",
               "publishedAt": "Tue, 24 Nov 2026 17:09:11 +0000"
-            },
-            {
-              "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
-              "description": "Naver Financial agreed to buy every share in Upbit’s operator, but a proposed ownership cap could strip away its voting rights on four-fifths of them.",
-              "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-              "source": "cointelegraph.com",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
-              "publishedAt": "Tue, 24 Nov 2026 16:33:26 +0000"
             }
           ]
         }
